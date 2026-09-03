@@ -63,35 +63,6 @@
         ]
     },
     {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-03 22:00:00",
-        "team1Title": "Palermo",
-        "team2Title": "Mantova",
-        "team1Logo": "https://cdn.img4every1.org/team/palermo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/mantova/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Palermo_vs_Mantova/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Palermo_vs_Mantova/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Palermo_vs_Mantova/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Palermo_vs_Mantova/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/palermo-vs-mantova",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/palermo-vs-mantova/1603"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/palermo-vs-mantova/1620"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/palermo-vs-mantova/1621"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/palermo-vs-mantova/1622"
-            }
-        ]
-    },
-    {
         "eventTitle": "Saudi Pro League",
         "matchTime": "2026-09-04 00:00:00",
         "team1Title": "Al Diriyah",

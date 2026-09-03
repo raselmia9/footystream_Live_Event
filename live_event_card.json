@@ -63,27 +63,6 @@
         ]
     },
     {
-        "eventTitle": "Saudi Pro League",
-        "matchTime": "2026-09-04 00:00:00",
-        "team1Title": "Al Diriyah",
-        "team2Title": "Al Qadsiah",
-        "team1Logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/al-qadsiah/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al%20Diriyah_vs_Al%20Qadsiah/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al%20Diriyah_vs_Al%20Qadsiah/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/diriyah-vs-al-qadisiyah",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/diriyah-vs-al-qadisiyah/1625"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/diriyah-vs-al-qadisiyah/1626"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-09-04 00:45:00",
         "team1Title": "Lille",

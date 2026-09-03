@@ -4,77 +4,71 @@
 🟡 Waiting for event cards to load...
 🟢 Successfully found 33 live event cards on homepage.
 🟢 Total unique detail links to process in parallel: 33
+🟡 Visiting detail page [3/33]: https://footystream.pk/events/fremantle-vs-hawthorn
 🟡 Visiting detail page [2/33]: https://footystream.pk/events/british-open
-🟡 Visiting detail page [4/33]: https://footystream.pk/events/omega-european-masters
 🟡 Visiting detail page [1/33]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [5/33]: https://footystream.pk/events/palermo-vs-mantova
-🟡 Visiting detail page [3/33]: https://footystream.pk/events/fremantle-vs-hawthorn
+🟡 Visiting detail page [4/33]: https://footystream.pk/events/omega-european-masters
 🟢 Successfully scraped: PGA Tour [4/33]
-🟢 Successfully scraped: Snooker [2/33]
 🟢 Successfully scraped: ATP Tour [1/33]
-🟢 Successfully scraped: Coppa Italia [5/33]
 🟡 Visiting detail page [6/33]: https://footystream.pk/events/hellas-verona-vs-cagliari
-🟡 Visiting detail page [8/33]: https://footystream.pk/events/lyonn-vs-auxerre
-🟢 Successfully scraped: AFL [3/33]
 🟡 Visiting detail page [7/33]: https://footystream.pk/events/lille-vs-toulouse
+🟢 Successfully scraped: AFL [3/33]
+🟢 Successfully scraped: Snooker [2/33]
+🟢 Successfully scraped: Coppa Italia [5/33]
+🟡 Visiting detail page [8/33]: https://footystream.pk/events/lyonn-vs-auxerre
 🟡 Visiting detail page [9/33]: https://footystream.pk/events/psg-vs-monaco
 🟡 Visiting detail page [10/33]: https://footystream.pk/events/celta-vigo-vs-real-sociedad
-🟢 Successfully scraped: French Ligue 1 [8/33]
-🟡 Visiting detail page [11/33]: https://footystream.pk/events/real-madrid-vs-real-betis
-🟢 Successfully scraped: LaLiga [10/33]
-🟢 Successfully scraped: French Ligue 1 [9/33]
-🟡 Visiting detail page [12/33]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
 🟢 Successfully scraped: Coppa Italia [6/33]
 🟢 Successfully scraped: French Ligue 1 [7/33]
+🟡 Visiting detail page [11/33]: https://footystream.pk/events/real-madrid-vs-real-betis
+🟡 Visiting detail page [12/33]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
+🟢 Successfully scraped: French Ligue 1 [8/33]
 🟡 Visiting detail page [13/33]: https://footystream.pk/events/rayo-vallecano-vs-racing
+🟢 Successfully scraped: LaLiga [10/33]
 🟡 Visiting detail page [14/33]: https://footystream.pk/events/villarreal-vs-la-coruna
+🟢 Successfully scraped: French Ligue 1 [9/33]
 🟡 Visiting detail page [15/33]: https://footystream.pk/events/barcelona-vs-valencia
+🟢 Successfully scraped: LaLiga [11/33]
 🟢 Successfully scraped: LaLiga [12/33]
 🟡 Visiting detail page [16/33]: https://footystream.pk/events/italian-gp
-🟢 Successfully scraped: LaLiga [13/33]
-🟢 Successfully scraped: LaLiga [14/33]
 🟡 Visiting detail page [17/33]: https://footystream.pk/events/geelong-cats-vs-carlton
+🟢 Successfully scraped: LaLiga [14/33]
 🟡 Visiting detail page [18/33]: https://footystream.pk/events/rabbitohs-vs-roosters
-🟢 Successfully scraped: Formula 1 [16/33]
+🟢 Successfully scraped: LaLiga [13/33]
 🟡 Visiting detail page [19/33]: https://footystream.pk/events/koln-vs-stuttgart
-🟢 Successfully scraped: NRL [18/33]
-🟢 Successfully scraped: AFL [17/33]
-🟡 Visiting detail page [20/33]: https://footystream.pk/events/bayer-leverkusen-vs-union-berlin
-🟡 Visiting detail page [21/33]: https://footystream.pk/events/bayern-munchen-vs-schalke-04
-🟢 Successfully scraped: Bundesliga [19/33]
-🟢 Successfully scraped: Bundesliga [21/33]
-🟡 Visiting detail page [22/33]: https://footystream.pk/events/como-vs-genoa
-🟡 Visiting detail page [23/33]: https://footystream.pk/events/torino-vs-fiorentina
-🟢 Successfully scraped: Bundesliga [20/33]
-🟡 Visiting detail page [24/33]: https://footystream.pk/events/inter-milan-vs-napoli
-🟢 Successfully scraped: LaLiga [11/33]
-🟡 Visiting detail page [25/33]: https://footystream.pk/events/roma-vs-atalanta
 🟢 Successfully scraped: LaLiga [15/33]
-🟡 Visiting detail page [26/33]: https://footystream.pk/events/milan-vs-juventus
+🟡 Visiting detail page [20/33]: https://footystream.pk/events/bayer-leverkusen-vs-union-berlin
+🟢 Successfully scraped: AFL [17/33]
+🟢 Successfully scraped: Formula 1 [16/33]
+🟡 Visiting detail page [21/33]: https://footystream.pk/events/bayern-munchen-vs-schalke-04
+🟡 Visiting detail page [22/33]: https://footystream.pk/events/como-vs-genoa
+🟢 Successfully scraped: NRL [18/33]
+🟡 Visiting detail page [23/33]: https://footystream.pk/events/torino-vs-fiorentina
+🟢 Successfully scraped: Bundesliga [19/33]
+🟡 Visiting detail page [24/33]: https://footystream.pk/events/inter-milan-vs-napoli
+🟢 Successfully scraped: Bundesliga [21/33]
+🟡 Visiting detail page [25/33]: https://footystream.pk/events/roma-vs-atalanta
 🟢 Successfully scraped: Serie A [22/33]
-🟡 Visiting detail page [27/33]: https://footystream.pk/events/liverpool-vs-ipswich-town
+🟡 Visiting detail page [26/33]: https://footystream.pk/events/milan-vs-juventus
 🟢 Successfully scraped: Serie A [23/33]
-🟡 Visiting detail page [28/33]: https://footystream.pk/events/newcastle-vs-bournemouth
+🟡 Visiting detail page [27/33]: https://footystream.pk/events/liverpool-vs-ipswich-town
 🟢 Successfully scraped: Serie A [24/33]
+🟡 Visiting detail page [28/33]: https://footystream.pk/events/newcastle-vs-bournemouth
+🟢 Successfully scraped: Bundesliga [20/33]
 🟡 Visiting detail page [29/33]: https://footystream.pk/events/fulham-vs-crystal-palace
-🟢 Successfully scraped: Premier League [28/33]
+🟢 Successfully scraped: Serie A [25/33]
 🟡 Visiting detail page [30/33]: https://footystream.pk/events/brighton-vs-leeds-united
-🟢 Successfully scraped: Premier League [27/33]
+🟢 Successfully scraped: Serie A [26/33]
 🟡 Visiting detail page [31/33]: https://footystream.pk/events/sunderland-vs-brentford
-🟢 Successfully scraped: Premier League [29/33]
+🟢 Successfully scraped: Premier League [27/33]
 🟡 Visiting detail page [32/33]: https://footystream.pk/events/manchester-city-vs-coventry-city
-🟢 Successfully scraped: Premier League [30/33]
+🟢 Successfully scraped: Premier League [28/33]
 🟡 Visiting detail page [33/33]: https://footystream.pk/events/porto-vs-moreirense
+🟢 Successfully scraped: Premier League [29/33]
+🟢 Successfully scraped: Premier League [30/33]
 🟢 Successfully scraped: Premier League [31/33]
 🟢 Successfully scraped: Premier League [32/33]
 🟢 Successfully scraped: Liga Portugal [33/33]
-🔴 ERROR on detail page https://footystream.pk/events/roma-vs-atalanta: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystream.pk/events/roma-vs-atalanta", waiting until "load"
-
-🔴 ERROR on detail page https://footystream.pk/events/milan-vs-juventus: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystream.pk/events/milan-vs-juventus", waiting until "load"
-
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 31
+🟢 Process completed successfully. Total collected events: 33

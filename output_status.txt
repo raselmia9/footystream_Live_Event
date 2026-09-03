@@ -3,43 +3,43 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 35
-🟡 Visiting detail page [1/35]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/35]: https://footystream.pk/events/british-open
 🟡 Visiting detail page [3/35]: https://footystream.pk/events/omega-european-masters
-🟢 Successfully processed: Snooker [2/35]
-🟡 Visiting detail page [4/35]: https://footystream.pk/events/diriyah-vs-al-qadisiyah
+🟡 Visiting detail page [1/35]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: PGA Tour [3/35]
-🟡 Visiting detail page [5/35]: https://footystream.pk/events/lille-vs-toulouse
+🟡 Visiting detail page [4/35]: https://footystream.pk/events/diriyah-vs-al-qadisiyah
 🟢 Successfully processed: ATP Tour [1/35]
-🟡 Visiting detail page [6/35]: https://footystream.pk/events/lyonn-vs-auxerre
-🟢 Successfully processed: French Ligue 1 [6/35]
-🟡 Visiting detail page [7/35]: https://footystream.pk/events/psg-vs-monaco
-🟢 Successfully processed: French Ligue 1 [7/35]
-🟡 Visiting detail page [8/35]: https://footystream.pk/events/hellas-verona-vs-cagliari
-🟢 Successfully processed: French Ligue 1 [5/35]
-🟡 Visiting detail page [9/35]: https://footystream.pk/events/celta-vigo-vs-real-sociedad
+🟡 Visiting detail page [5/35]: https://footystream.pk/events/lille-vs-toulouse
+🟢 Successfully processed: Snooker [2/35]
+🟡 Visiting detail page [6/35]: https://footystream.pk/events/hellas-verona-vs-cagliari
 🟢 Successfully processed: Saudi Pro League [4/35]
-🟡 Visiting detail page [10/35]: https://footystream.pk/events/real-madrid-vs-real-betis
-🟢 Successfully processed: LaLiga [10/35]
-🟡 Visiting detail page [11/35]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
-🟢 Successfully processed: Coppa Italia [8/35]
-🟡 Visiting detail page [12/35]: https://footystream.pk/events/rayo-vallecano-vs-racing
-🟢 Successfully processed: LaLiga [11/35]
-🟡 Visiting detail page [13/35]: https://footystream.pk/events/villarreal-vs-la-coruna
+🟡 Visiting detail page [7/35]: https://footystream.pk/events/celta-vigo-vs-real-sociedad
+🟢 Successfully processed: French Ligue 1 [5/35]
+🟡 Visiting detail page [8/35]: https://footystream.pk/events/real-madrid-vs-real-betis
+🟢 Successfully processed: Coppa Italia [6/35]
+🟡 Visiting detail page [9/35]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
 🟢 Successfully processed: LaLiga [9/35]
-🟡 Visiting detail page [14/35]: https://footystream.pk/events/barcelona-vs-valencia
+🟡 Visiting detail page [10/35]: https://footystream.pk/events/rayo-vallecano-vs-racing
+🟢 Successfully processed: LaLiga [10/35]
+🟡 Visiting detail page [11/35]: https://footystream.pk/events/villarreal-vs-la-coruna
+🟢 Successfully processed: LaLiga [8/35]
+🟡 Visiting detail page [12/35]: https://footystream.pk/events/barcelona-vs-valencia
+🟢 Successfully processed: LaLiga [7/35]
+🟡 Visiting detail page [13/35]: https://footystream.pk/events/italian-gp
+🟢 Successfully processed: LaLiga [11/35]
+🟡 Visiting detail page [14/35]: https://footystream.pk/events/geelong-cats-vs-carlton
 🟢 Successfully processed: LaLiga [12/35]
-🟡 Visiting detail page [15/35]: https://footystream.pk/events/italian-gp
-🟢 Successfully processed: LaLiga [13/35]
-🟡 Visiting detail page [16/35]: https://footystream.pk/events/geelong-cats-vs-carlton
-🟢 Successfully processed: LaLiga [14/35]
-🟡 Visiting detail page [17/35]: https://footystream.pk/events/rabbitohs-vs-roosters
-🟢 Successfully processed: Formula 1 [15/35]
+🟡 Visiting detail page [15/35]: https://footystream.pk/events/rabbitohs-vs-roosters
+🟢 Successfully processed: AFL [14/35]
+🟡 Visiting detail page [16/35]: https://footystream.pk/events/lyonn-vs-auxerre
+🟢 Successfully processed: Formula 1 [13/35]
+🟡 Visiting detail page [17/35]: https://footystream.pk/events/psg-vs-monaco
+🟢 Successfully processed: NRL [15/35]
 🟡 Visiting detail page [18/35]: https://footystream.pk/events/al-ahli-saudi-vs-al-riyadh
-🟢 Successfully processed: NRL [17/35]
-🟢 Successfully processed: AFL [16/35]
-🟡 Visiting detail page [20/35]: https://footystream.pk/events/al-nassr-vs-al-ittihad
+🟢 Successfully processed: French Ligue 1 [16/35]
 🟡 Visiting detail page [19/35]: https://footystream.pk/events/al-shabab-vs-al-hilal
+🟢 Successfully processed: French Ligue 1 [17/35]
+🟡 Visiting detail page [20/35]: https://footystream.pk/events/al-nassr-vs-al-ittihad
 🟢 Successfully processed: Saudi Pro League [20/35]
 🟡 Visiting detail page [21/35]: https://footystream.pk/events/koln-vs-stuttgart
 🟢 Successfully processed: Bundesliga [21/35]
@@ -50,17 +50,17 @@
 🟡 Visiting detail page [24/35]: https://footystream.pk/events/como-vs-genoa
 🟢 Successfully processed: Serie A [24/35]
 🟡 Visiting detail page [25/35]: https://footystream.pk/events/torino-vs-fiorentina
-🟢 Successfully processed: Serie A [25/35]
-🟡 Visiting detail page [26/35]: https://footystream.pk/events/inter-milan-vs-napoli
 🟢 Successfully processed: Saudi Pro League [18/35]
-🟡 Visiting detail page [27/35]: https://footystream.pk/events/roma-vs-atalanta
+🟡 Visiting detail page [26/35]: https://footystream.pk/events/inter-milan-vs-napoli
 🟢 Successfully processed: Saudi Pro League [19/35]
+🟡 Visiting detail page [27/35]: https://footystream.pk/events/roma-vs-atalanta
+🟢 Successfully processed: Serie A [25/35]
 🟡 Visiting detail page [28/35]: https://footystream.pk/events/milan-vs-juventus
-🟢 Successfully processed: Serie A [28/35]
+🟢 Successfully processed: Serie A [26/35]
 🟡 Visiting detail page [29/35]: https://footystream.pk/events/liverpool-vs-ipswich-town
 🟢 Successfully processed: Serie A [27/35]
 🟡 Visiting detail page [30/35]: https://footystream.pk/events/newcastle-vs-bournemouth
-🟢 Successfully processed: Serie A [26/35]
+🟢 Successfully processed: Serie A [28/35]
 🟡 Visiting detail page [31/35]: https://footystream.pk/events/fulham-vs-crystal-palace
 🟢 Successfully processed: Premier League [29/35]
 🟡 Visiting detail page [32/35]: https://footystream.pk/events/brighton-vs-leeds-united

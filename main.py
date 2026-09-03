@@ -1,5 +1,6 @@
 import asyncio
 import json
+from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 
 def update_status(status_message, dot_type="green"):
@@ -13,7 +14,6 @@ def update_status(status_message, dot_type="green"):
     formatted_msg = f"{dot} {status_message}\n"
     print(formatted_msg.strip(), flush=True)
     
-    # প্রথমবার লেখার সময় 'w' বা পরবর্তীতে অ্যাপেন্ড করার জন্য 'a' মোড হ্যান্ডেল করা
     mode = "w" if "Process Started" in status_message else "a"
     with open("output_status.txt", mode, encoding="utf-8") as f:
         f.write(formatted_msg)
@@ -33,54 +33,58 @@ async def scrape_footystream():
             update_status(f"Opening website: {url}", "green")
             await page.goto(url, timeout=60000)
 
-            update_status("Waiting for dynamic elements/cards to load...", "yellow")
-            try:
-                # পেজ সম্পূর্ণ লোড বা নেটওয়ার্ক শান্ত হওয়ার জন্য অপেক্ষা করা
-                await page.wait_for_load_state("networkidle", timeout=10000)
-            except:
-                await page.wait_for_timeout(5000)
+            update_status("Waiting for dynamic elements to load...", "yellow")
+            # পেজ পুরোপুরি রেন্ডার হওয়ার জন্য পর্যাপ্ত সময় দেওয়া
+            await page.wait_for_timeout(7000)
 
-            # হোমপেজের কার্ড বা লিংকগুলো খুঁজে বের করার লজিক
-            cards = []
-            all_links = await page.locator("a").all()
-            
-            for link in all_links:
-                href = await link.get_attribute("href")
-                # স্ক্রিনশট অনুযায়ী ডিটেলস পেজের লিংকগুলোতে '/e/' থাকে
-                if href and "/e/" in href:
-                    cards.append(link)
+            # পেজের রেন্ডার হওয়া পুরো HTML কোড সংগ্রহ করা
+            html_content = await page.content()
+            await browser.close()
+            update_status("Browser closed successfully.", "green")
 
+            # BeautifulSoup দিয়ে HTML পার্স করা (খুব নমনীয় এবং শক্তিশালী পদ্ধতি)
+            soup = BeautifulSoup(html_content, 'html.parser')
+
+            # যেসব লিংকের ভেতরে '/e/' আছে, সেগুলো খুঁজে বের করা
+            cards = soup.find_all('a', href=lambda href: href and '/e/' in href)
             total_cards = len(cards)
+
             if total_cards > 0:
-                update_status(f"Successfully found {total_cards} live event cards.", "green")
+                update_status(f"Successfully found {total_cards} live event cards using BeautifulSoup.", "green")
             else:
-                update_status("HOMEPAGE_ERROR: Found 0 live event cards using default pattern.", "red")
+                update_status("HOMEPAGE_ERROR: Found 0 live event cards. Checking alternative tags...", "yellow")
+                # বিকল্প হিসেবে অন্য কোনো ট্যাগ বা ডিভ চেক করা যেতে পারে
+                cards = soup.find_all('div', class_=lambda c: c and 'card' in c)
+                total_cards = len(cards)
+                update_status(f"Alternative search found {total_cards} cards.", "green" if total_cards > 0 else "red")
 
             for index, card in enumerate(cards, start=1):
                 try:
-                    href = await card.get_attribute("href")
+                    # যদি কার্ডটি সরাসরি 'a' ট্যাগ না হয়ে ভেতরের কোনো এলিমেন্ট হয়
+                    href = card.get('href') if card.name == 'a' else ''
                     if not href:
-                        continue
-                    details_page = href if href.startswith("http") else f"https://footystream.pk{href}"
+                        a_tag = card.find('a', href=True)
+                        if a_tag:
+                            href = a_tag.get('href', '')
+                    
+                    details_page = href if href.startswith("http") else f"https://footystream.pk{href}" if href else url
 
-                    full_text = await card.inner_text()
+                    full_text = card.get_text(separator="\n", strip=True)
                     lines = [line.strip() for line in full_text.split('\n') if line.strip()]
 
                     # টিম বা ইভেন্ট টাইটেল বের করা
-                    team1 = lines[1] if len(lines) > 1 else (lines[0] if len(lines) > 0 else "Team 1")
-                    team2 = lines[2] if len(lines) > 2 else (lines[1] if len(lines) > 1 else "Team 2")
-                    event_title = f"{team1} vs {team2}" if len(lines) > 2 else (lines[0] if len(lines) > 0 else "Live Event")
+                    team1 = lines[0] if len(lines) > 0 else "Team 1"
+                    team2 = lines[1] if len(lines) > 1 else "Team 2"
+                    event_title = f"{team1} vs {team2}" if len(lines) > 1 else team1
 
                     # লোগো সংগ্রহ করা
                     logo1, logo2 = "", ""
-                    imgs = card.locator("img")
-                    img_count = await imgs.count()
-                    if img_count >= 1:
-                        logo1 = await imgs.nth(0).get_attribute("src") or ""
-                    if img_count >= 2:
-                        logo2 = await imgs.nth(1).get_attribute("src") or ""
+                    imgs = card.find_all('img')
+                    if len(imgs) >= 1:
+                        logo1 = imgs[0].get('src', '')
+                    if len(imgs) >= 2:
+                        logo2 = imgs[1].get('src', '')
 
-                    # লাইভ স্ট্যাটাস চেক
                     is_hot = "Live Now!" in full_text
 
                     event_item = {
@@ -90,32 +94,21 @@ async def scrape_footystream():
                         "team2Logo": logo2,
                         "team1Title": team1,
                         "team2Title": team2,
-                        "detailsPage": details_page,  # দ্বিতীয় পেজে যাওয়ার লিংক
+                        "detailsPage": details_page,
                         "streamLink": "", 
                         "isHot": is_hot
                     }
 
-                    events_data.append(event_item)
+                    if details_page and details_page != url:
+                        events_data.append(event_item)
+
                 except Exception as card_err:
                     update_status(f"PARSING_ERROR on card {index}: {card_err}", "red")
 
-            await browser.close()
-            update_status("Browser closed successfully.", "green")
-
-        # ১. live_event_card.json ফাইলে ডেটা সেভ করা
+        # ১. live_event_card.json ফাইলে ডেটা সেভ করা (M3U ফাইল বাদ দেওয়া হয়েছে)
         with open("live_event_card.json", "w", encoding="utf-8") as f:
             json.dump(events_data, f, ensure_ascii=False, indent=4)
         update_status("Data successfully saved to live_event_card.json", "green")
-
-        # ২. playlist.m3u ফাইল তৈরি করা
-        m3u_lines = ["#EXTM3U"]
-        for ev in events_data:
-            m3u_lines.append(f"#EXTINF:-1,{ev['eventTitle']}")
-            m3u_lines.append(ev['detailsPage'])
-
-        with open("playlist.m3u", "w", encoding="utf-8") as f:
-            f.write("\n".join(m3u_lines))
-        update_status("Playlist successfully saved to playlist.m3u", "green")
 
         update_status(f"Process completed successfully. Total collected events: {len(events_data)}", "green")
 

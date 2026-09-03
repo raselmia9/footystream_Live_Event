@@ -152,13 +152,14 @@ async def scrape_single_detail(browser, card_info, index, total_links):
 
         json_stream_parts = []
         
-        # গিটহাব রেপোজিটরি ইনফো সংগ্রহ (GitHub Actions থেকে স্বয়ংক্রিয়ভাবে নিবে, লোকাল টেস্টের জন্য ডিফল্ট রাখা হয়েছে)
+        # গিটহাব রেপোজিটরি ইনফো সংগ্রহ
         github_repo = os.environ.get("GITHUB_REPOSITORY", "raselmia9/footystream_Live_Event")
         github_branch = os.environ.get("GITHUB_REF_NAME", "main")
 
         if stream_link_parts:
-            t1 = sanitize_filename(card_info["team1Title"])
-            t2 = sanitize_filename(card_info["team2Title"])
+            # ফোল্ডারের নামের স্পেসগুলো রিমুভ করে আন্ডারস্কোর (_) বসানো হয়েছে
+            t1 = sanitize_filename(card_info["team1Title"]).replace(" ", "_")
+            t2 = sanitize_filename(card_info["team2Title"]).replace(" ", "_")
             folder_name = f"{t1}_vs_{t2}"
             event_dir = os.path.join("all_event", folder_name)
             os.makedirs(event_dir, exist_ok=True)
@@ -179,7 +180,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                     # ফোল্ডারের ভেতরের .m3u8 ফাইলের কন্টেন্ট
                     m3u8_content = "#EXTM3U\n"
                     m3u8_content += "#EXT-X-VERSION:3\n"
-                    m3u8_content += f"#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
+                    m3u8_content += "#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
                     if referer_val:
                         m3u8_content += f"{stream_url}|Referer={referer_val}\n"
                     else:
@@ -190,7 +191,12 @@ async def scrape_single_detail(browser, card_info, index, total_links):
 
                     # জেসন ফাইলের জন্য গিটহাব র-লিংক তৈরি
                     raw_link = f"https://raw.githubusercontent.com/{github_repo}/{github_branch}/all_event/{folder_name}/{ch_name}.m3u8"
-                    json_stream_parts.append(f"{parts_split[0]},,{raw_link}")
+                    
+                    # রেফারার থাকলে লিংকের সাথে যুক্ত করা, না থাকলে শুধু র-লিংক বসানো
+                    if referer_val:
+                        json_stream_parts.append(f"{parts_split[0]},,{raw_link}|Referer={referer_val}")
+                    else:
+                        json_stream_parts.append(f"{parts_split[0]},,{raw_link}")
 
         final_stream_link = ",)".join(json_stream_parts) if json_stream_parts else ""
 

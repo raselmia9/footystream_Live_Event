@@ -51,14 +51,32 @@ async def scrape_footystream():
                     details_page = href if href.startswith("http") else f"https://footystream.pk{href}" if href else url
 
                     full_text = card.get_text(separator="\n", strip=True)
-                    lines = [line.strip() for line in full_text.split('\n') if line.strip()]
+                    
+                    # সুনির্দিষ্টভাবে টিম বা ইভেন্টের নামগুলো বের করার জন্য ভেতরের কন্টেইনার খোঁজা
+                    titles = []
+                    # HTML স্ট্রাকচার অনুযায়ী টেক্সট কন্টেইনার ফিল্টার করা
+                    title_container = card.find('div', class_=lambda c: c and 'flex-col' in c)
+                    if title_container:
+                        t_divs = title_container.find_all('div', class_=lambda c: c and 'items-center' in c)
+                        for t in t_divs:
+                            t_text = t.get_text(strip=True)
+                            if t_text:
+                                titles.append(t_text)
 
-                    # টিম বা ইভেন্ট টাইটেল বের করা
-                    team1 = lines[0] if len(lines) > 0 else "Team 1"
-                    team2 = lines[1] if len(lines) > 1 else "Team 2"
-                    event_title = f"{team1} vs {team2}" if len(lines) > 1 else team1
+                    # যদি কন্টেইনার থেকে না পাওয়া যায়, তবে লাইন বাই লাইন ফিল্টার করা (স্ট্যাটাস বাদ দিয়ে)
+                    if not titles:
+                        lines = [line.strip() for line in full_text.split('\n') if line.strip()]
+                        titles = [l for l in lines if not ("Live Now!" in l or "Starts in" in l)]
 
-                    # লোগো নিরাপদভাবে সংগ্রহ করা (find ব্যবহার করে)
+                    team1 = titles[0] if len(titles) > 0 else "Team 1"
+                    team2 = titles[1] if len(titles) > 1 else ""
+                    
+                    if team2:
+                        event_title = f"{team1} vs {team2}"
+                    else:
+                        event_title = team1
+
+                    # লোগো নিরাপদভাবে সংগ্রহ করা
                     logo1, logo2 = "", ""
                     imgs = card.find_all('img')
                     if len(imgs) > 0:

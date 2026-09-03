@@ -31,11 +31,14 @@ async def capture_stream_link(browser, watch_url, channel_name):
     page = await browser.new_page()
     captured_stream = ""
     
-    # নেটওয়ার্ক রিকোয়েস্ট ইন্টারসেপ্ট করে m3u8 লিংক ও রেফারার খুঁজে বের করা
-    async def handle_request(route, request):
+    # সব নেটওয়ার্ক রিকোয়েস্ট ট্র্যাক করার জন্য ইভেন্ট লিসেনার
+    def handle_request(request):
         nonlocal captured_stream
+        if captured_stream:
+            return
         url = request.url
-        if ".m3u8" in url or "playlist.m3u8" in url:
+        # m3u8 বা স্ট্রিম সম্পর্কিত যেকোনো লিংক শনাক্ত করা
+        if ".m3u8" in url or "playlist.m3u8" in url or "manifest" in url:
             headers = request.headers
             referer = headers.get("referer", "")
             
@@ -43,14 +46,22 @@ async def capture_stream_link(browser, watch_url, channel_name):
                 captured_stream = f"{channel_name},,{url}|Referer={referer}"
             else:
                 captured_stream = f"{channel_name},,{url}"
-        await route.continue_()
+
+    page.on("request", handle_request)
 
     try:
-        await page.route("**/*", handle_request)
-        await page.goto(watch_url, timeout=25000)
+        await page.goto(watch_url, timeout=30000)
         
-        # লিংকের ভেতরে ভিডিও বা স্ট্রিম লোড হওয়ার জন্য একটু সময় দেওয়া
-        for _ in range(10):
+        # ভিডিও প্লে করার জন্য পেজে বা প্লেয়ারে ক্লিক সিমুলেট করা (যদি প্লে বাটন থাকে)
+        try:
+            await page.wait_for_timeout(2000)
+            # পেজের যেকোনো জায়গায় বা ভিডিও এলিমেন্টে ক্লিক করা যাতে স্ট্রিম রিকোয়েস্ট ফায়ার হয়
+            await page.click("body", timeout=3000)
+        except:
+            pass
+
+        # স্ট্রিম লিংক ক্যাপচার হওয়ার জন্য সর্বোচ্চ ১২ সেকেন্ড অপেক্ষা করা
+        for _ in range(12):
             if captured_stream:
                 break
             await page.wait_for_timeout(1000)
@@ -130,7 +141,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                             "url": full_url
                         })
 
-        # ৪. তৃতীয় ধাপ: প্যারালাল ট্যাবের মাধ্যমে স্ট্রিম পেজ থেকে m3u8 ও রেফারার ক্যাপচার করা
+        # ৪. প্যারালাল ট্যাবের মাধ্যমে স্ট্রিম পেজ থেকে m3u8 ও রেফারার ক্যাপচার করা
         stream_link_parts = []
         if multi_watch_links:
             stream_tasks = [capture_stream_link(browser, mw["url"], mw["channel"]) for mw in multi_watch_links]
@@ -236,7 +247,7 @@ async def scrape_footystream():
             total_links = len(cards_info_list)
             update_status(f"Total unique detail links to process in parallel: {total_links}", "green")
 
-            semaphore = asyncio.Semaphore(3) # প্যারালাল ট্যাবের সংখ্যা নিয়ন্ত্রণে রাখা হয়েছে
+            semaphore = asyncio.Semaphore(3)
 
             async def bounded_scrape(card_info, idx):
                 async with semaphore:

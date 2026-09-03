@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
+https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=wNdNlQM_NpOjx-40O2P3xg&expires=1788460058&ch=spch2&s=29c160be32598f8efce4ec86d4ec58df|Referer=https://bhalocast.pro/

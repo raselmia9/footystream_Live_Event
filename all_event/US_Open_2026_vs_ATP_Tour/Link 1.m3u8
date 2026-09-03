@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
+https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=uIWJUFBj-j-UfVzrpEhdLg&expires=1788460048&ch=dadoskyten&s=9fe09c4dc0719d059bf6a19a2c76c4be|Referer=https://bhalocast.pro/

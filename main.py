@@ -24,7 +24,6 @@ async def debug_footystream():
             await page.goto(url, timeout=60000)
 
             update_status("Waiting for page to fully render...", "yellow")
-            # একটু বেশি সময় দেওয়া যাতে জাভাস্ক্রিপ্ট পুরোপুরি লোড হতে পারে
             await page.wait_for_timeout(8000)
 
             # পেজের সমস্ত এংকর ট্যাগ (<a>) এবং তাদের href ও টেক্সট সংগ্রহ করা
@@ -37,13 +36,13 @@ async def debug_footystream():
                 if href or text.strip():
                     link_details.append(f"Link {idx+1}: Href='{href}' | Text='{text.strip().replace(chr(10), ' | ')}'")
 
-            # একটি ডিবাগ ফাইলে সমস্ত লিংক ও স্ট্রাকচার সেভ করা
+            # ফাইলে লিংকগুলো সেভ করা
             with open("debug_links.txt", "w", encoding="utf-8") as f:
                 f.write("\n".join(link_details))
             
             update_status(f"Found {len(link_details)} links/elements. Saved to debug_links.txt", "green")
 
-            # পুরো পেজের আউটার এইচটিএমএল ও সেভ করে নেওয়া যাতে ট্যাগগুলো দেখা যায়
+            # পুরো পেজের HTML সেভ করা
             content = await page.content()
             with open("debug_page.html", "w", encoding="utf-8") as f:
                 f.write(content)
@@ -53,7 +52,7 @@ async def debug_footystream():
             update_status("Debug process completed successfully.", "green")
 
     except Exception as e:
-    update_status(f"CRITICAL_ERROR: {e}", "red")
+        update_status(f"CRITICAL_ERROR: {e}", "red")
 
 if __name__ == "__main__":
     asyncio.run(debug_footystream())

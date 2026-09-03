@@ -32,19 +32,20 @@ async def scrape_single_detail(browser, link, index, total_links):
     try:
         update_status(f"Visiting detail page [{index}/{total_links}]: {link}", "yellow")
         await page.goto(link, timeout=30000)
-        await page.wait_for_timeout(1500) # স্পিড বাড়ানোর জন্য ছোট অপেক্ষা
+        await page.wait_for_timeout(1500)
 
         detail_html = await page.content()
         await page.close()
         
         d_soup = BeautifulSoup(detail_html, 'html.parser')
 
-        # ১. ইভেন্ট টাইটেল (যেমন: ATP Tour)
+        # ১. সঠিক ইভেন্ট টাইটেল (যেমন: ATP Tour)
         event_title = "Live Event"
-        header_div = d_soup.find('div', class_=lambda c: c and 'text-' in c)
-        if header_div:
-            t = header_div.get_text(strip=True)
-            if t:
+        # পেজের ওপরের হেডিং বা নির্দিষ্ট সেকশন থেকে ইভেন্ট টাইটেল খোঁজা
+        h1_tag = d_soup.find('h1') or d_soup.find('div', class_=lambda c: c and 'text-xl' in c)
+        if h1_tag:
+            t = h1_tag.get_text(strip=True)
+            if t and 'Live Streaming' not in t:
                 event_title = t
 
         # ২. টিম টাইটেল ও লোগো সংগ্রহ
@@ -66,24 +67,27 @@ async def scrape_single_detail(browser, link, index, total_links):
                 match_time = convert_utc_to_bst(text)
                 break
 
-        # ৪. মাল্টি স্ট্রিমিং পেজ লিঙ্ক
-        stream_links = []
+        # ৪. মাল্টি ওয়াচ পেজ লিংক (multiWatchPageLink) - শুধুমাত্র টেবিলের ভেতরের লিঙ্কগুলো ফিল্টার করা
+        multi_watch_links = []
+        
+        # স্ট্রিমার বা টেবিল রো গুলোর ভেতর থেকে সঠিক লিঙ্ক বের করা
+        # footystream.pk এর স্ট্রিম টেবিল সাধারণত 'Link 1', 'Link 2' এবং 'Watch' বাটন ধারণ করে
+        rows = d_soup.find_all('div', class_=lambda c: c and ('grid' in c or 'flex' in c))
+        
+        # বিকল্প ও নিখুঁত পদ্ধতি: টেবিল বা নির্দিষ্ট সেকশন যেখানে 'Watch' বাটনগুলো থাকে
         for a_tag in d_soup.find_all('a', href=True):
-            href_val = a_tag['href']
             link_text = a_tag.get_text(strip=True)
-            if 'stream' in href_val or 'watch' in href_val or 'embed' in href_val or 'link' in link_text.lower():
-                stream_links.append({
-                    "channel": link_text if link_text else "Watch Link",
-                    "url": href_val if href_val.startswith("http") else f"https://footystream.pk{href_val}"
-                })
-
-        if not stream_links:
-            for a in d_soup.find_all('a', href=True):
-                if 'Watch' in a.get_text():
-                    h = a.get('href', '')
-                    stream_links.append({
-                        "channel": "Watch",
-                        "url": h if h.startswith("http") else f"https://footystream.pk{h}"
+            href_val = a_tag['href']
+            
+            # শুধুমাত্র সেই লিঙ্কগুলো নেওয়া হবে যেগুলোতে 'Watch' লেখা আছে অথবা চ্যানেল নেম (Link 1, Link 2...) আছে
+            if 'Watch' in link_text or 'Link ' in link_text:
+                full_url = href_val if href_val.startswith("http") else f"https://footystream.pk{href_val}"
+                
+                # ডুপ্লিকেট এড়াতে এবং হোম বা ফুটার লিঙ্ক বাদ দিতে চেক করা
+                if full_url not in [item['url'] for item in multi_watch_links] and 'footystream.pk/' in full_url and len(href_val) > 1:
+                    multi_watch_links.append({
+                        "channel": link_text if link_text else "Watch",
+                        "url": full_url
                     })
 
         event_item = {
@@ -94,7 +98,7 @@ async def scrape_single_detail(browser, link, index, total_links):
             "team1Logo": logo1,
             "team2Logo": logo2,
             "detailsPage": link,
-            "streamLinks": stream_links
+            "multiWatchPageLink": multi_watch_links
         }
 
         update_status(f"Successfully scraped: {event_title} [{index}/{total_links}]", "green")
@@ -151,18 +155,15 @@ async def scrape_footystream():
             total_links = len(detail_links)
             update_status(f"Total unique detail links to process in parallel: {total_links}", "green")
 
-            # প্যারালাল ট্যাপ হ্যান্ডেল করার জন্য কনকারেন্সি লিমিট (এক সাথে ৫টি পেজ ভিজিট করবে যাতে ক্র্যাশ না করে)
             semaphore = asyncio.Semaphore(5)
 
             async def bounded_scrape(link, idx):
                 async with semaphore:
                     return await scrape_single_detail(browser, link, idx, total_links)
 
-            # সব লিঙ্ক প্যারালালি একসাথে ফেচ করা
             tasks = [bounded_scrape(link, i) for i, link in enumerate(detail_links, start=1)]
             results = await asyncio.gather(*tasks)
 
-            # সফল ডেটাগুলো ফিল্টার করে লিস্টে যোগ করা
             for res in results:
                 if res:
                     events_data.append(res)
@@ -170,7 +171,6 @@ async def scrape_footystream():
             await browser.close()
             update_status("Browser closed successfully.", "green")
 
-        # JSON ফাইলে সব ডেটা সেভ করা
         with open("live_event_card.json", "w", encoding="utf-8") as f:
             json.dump(events_data, f, ensure_ascii=False, indent=4)
         

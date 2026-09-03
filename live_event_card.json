@@ -63,52 +63,6 @@
         ]
     },
     {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-04 01:00:00",
-        "team1Title": "Hellas Verona",
-        "team2Title": "Cagliari",
-        "team1Logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Hellas%20Verona_vs_Cagliari/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Hellas%20Verona_vs_Cagliari/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/hellas-verona-vs-cagliari",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/hellas-verona-vs-cagliari/1623"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/hellas-verona-vs-cagliari/1624"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-04 01:00:00",
-        "team1Title": "Celta de Vigo",
-        "team2Title": "Real Sociedad",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Celta%20de%20Vigo_vs_Real%20Sociedad/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Celta%20de%20Vigo_vs_Real%20Sociedad/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Celta%20de%20Vigo_vs_Real%20Sociedad/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/celta-vigo-vs-real-sociedad",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/celta-vigo-vs-real-sociedad/1617"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/celta-vigo-vs-real-sociedad/1618"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/celta-vigo-vs-real-sociedad/1619"
-            }
-        ]
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-09-04 12:30:00",
         "team1Title": "F1 Italian Grand Prix",

@@ -158,7 +158,6 @@ async def scrape_single_detail(browser, card_info, index, total_links):
         github_branch = os.environ.get("GITHUB_REF_NAME", "main")
 
         if stream_link_parts:
-            # ফোল্ডার তৈরির সময় সাধারণ স্পেস রাখা হবে যাতে লোকাল ফোল্ডারে সমস্যা না হয়
             t1 = sanitize_filename(card_info["team1Title"])
             t2 = sanitize_filename(card_info["team2Title"])
             folder_name = f"{t1}_vs_{t2}"
@@ -178,25 +177,21 @@ async def scrape_single_detail(browser, card_info, index, total_links):
 
                     file_path = os.path.join(event_dir, f"{ch_name}.m3u8")
                     
-                    # ফোল্ডারের ভেতরের .m3u8 ফাইলের কন্টেন্ট
+                    # ফোল্ডারের ভেতরের .m3u8 ফাইলের কন্টেন্টে এখন শুধুমাত্র ক্লিন স্ট্রিম ইউআরএল বসবে (রেফারার ছাড়া)
                     m3u8_content = "#EXTM3U\n"
                     m3u8_content += "#EXT-X-VERSION:3\n"
                     m3u8_content += f"#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
-                    if referer_val:
-                        m3u8_content += f"{stream_url}|Referer={referer_val}\n"
-                    else:
-                        m3u8_content += f"{stream_url}\n"
+                    m3u8_content += f"{stream_url}\n"
 
                     with open(file_path, "w", encoding="utf-8") as f:
                         f.write(m3u8_content)
 
-                    # জেসন ফাইলের জন্য ফোল্ডার ও ফাইলের নাম এনকোড করা যাতে স্পেসের জায়গায় %20 বসে
+                    # জেসন ফাইলের জন্য লিংক এবং রেফারার আগের মতোই সুরক্ষিত থাকবে
                     encoded_folder_name = quote(folder_name)
                     encoded_ch_name = quote(f"{ch_name}.m3u8")
                     
                     raw_link = f"https://raw.githubusercontent.com/{github_repo}/{github_branch}/all_event/{encoded_folder_name}/{encoded_ch_name}"
                     
-                    # রেফারার যেভাবে আগে যুক্ত হতো ঠিক সেভাবেই থাকবে
                     if referer_val:
                         json_stream_parts.append(f"{parts_split[0]},,{raw_link}|Referer={referer_val}")
                     else:

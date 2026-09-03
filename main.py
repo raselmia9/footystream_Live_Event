@@ -27,6 +27,44 @@ def convert_utc_to_bst(utc_text):
     except Exception:
         return utc_text
 
+async def capture_stream_link(browser, watch_url, channel_name):
+    page = await browser.new_page()
+    captured_stream = ""
+    
+    # নেটওয়ার্ক রিকোয়েস্ট ইন্টারসেপ্ট করে m3u8 লিংক ও রেফারার খুঁজে বের করা
+    async def handle_request(route, request):
+        nonlocal captured_stream
+        url = request.url
+        if ".m3u8" in url or "playlist.m3u8" in url:
+            headers = request.headers
+            referer = headers.get("referer", "")
+            
+            if referer:
+                captured_stream = f"{channel_name},,{url}|Referer={referer}"
+            else:
+                captured_stream = f"{channel_name},,{url}"
+        await route.continue_()
+
+    try:
+        await page.route("**/*", handle_request)
+        await page.goto(watch_url, timeout=25000)
+        
+        # লিংকের ভেতরে ভিডিও বা স্ট্রিম লোড হওয়ার জন্য একটু সময় দেওয়া
+        for _ in range(10):
+            if captured_stream:
+                break
+            await page.wait_for_timeout(1000)
+            
+    except Exception as e:
+        pass
+    finally:
+        try:
+            await page.close()
+        except:
+            pass
+            
+    return captured_stream
+
 async def scrape_single_detail(browser, card_info, index, total_links):
     page = await browser.new_page()
     link = card_info["detailsPage"]
@@ -40,7 +78,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
         
         d_soup = BeautifulSoup(detail_html, 'html.parser')
 
-        # ১. ইভেন্ট টাইটেল (যেমন: AFL) - এইচটিএমএল স্ট্রাকচার অনুযায়ী সুনির্দিষ্ট ট্যাগ থেকে
+        # ১. ইভেন্ট টাইটেল
         event_title = "Live Event"
         event_div = d_soup.find('div', class_=lambda c: c and 'text-white font-semibold text-sm' in c)
         if event_div:
@@ -48,16 +86,14 @@ async def scrape_single_detail(browser, card_info, index, total_links):
             if t:
                 event_title = t
 
-        # ২. ম্যাচ টাইম কনভার্শন (আপনার ফরম্যাট: YYYY-MM-DD HH:MM:SS)
+        # ২. ম্যাচ টাইম কনভার্শন
         match_time = ""
-        # এইচটিএমএল কোডের টাইম সেকশন থেকে সরাসরি সংগ্রহ
         time_container = d_soup.find('div', class_=lambda c: c and 'text-xs' in c)
         if time_container:
             time_text = time_container.get_text(strip=True)
             if 'UTC' in time_text:
                 match_time = convert_utc_to_bst(time_text)
 
-        # যদি ওপরের উপায়ে না পাওয়া যায়, তবে বিকল্প উপায়ে খোঁজা
         if not match_time:
             for div in d_soup.find_all('div'):
                 text = div.get_text(strip=True)
@@ -65,7 +101,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                     match_time = convert_utc_to_bst(text)
                     break
 
-        # ৩. মাল্টি ওয়াচ পেজ লিংক (multiWatchPageLink) - টেবিল থেকে চ্যানেল নাম ও আসল লিঙ্ক সংগ্রহ (Watch লেখা ব্যবহার করা হয়নি)
+        # ৩. মাল্টি ওয়াচ পেজ লিংক সংগ্রহ
         multi_watch_links = []
         table = d_soup.find('table')
         if table:
@@ -73,20 +109,16 @@ async def scrape_single_detail(browser, card_info, index, total_links):
             for row in rows:
                 cols = row.find_all('td')
                 if len(cols) >= 2:
-                    # দ্বিতীয় কলামে চ্যানেলের নাম থাকে (যেমন: Link 1)
                     channel_name = cols[1].get_text(strip=True)
-                    # শেষের কলাম বা লিঙ্কের ট্যাগ থেকে ইউআরএল নেওয়া
                     a_tag = row.find('a', href=True)
                     if a_tag and channel_name:
                         href_val = a_tag['href']
                         full_url = href_val if href_val.startswith("http") else f"https://footystream.pk{href_val}"
-                        
                         multi_watch_links.append({
                             "channel": channel_name,
                             "url": full_url
                         })
 
-        # যদি টেবিল থেকে সরাসরি না আসে, তবে সার্বিকভাবে টেবিল রো ট্যাগগুলো স্ক্যান করা
         if not multi_watch_links:
             for a_tag in d_soup.find_all('a', href=True):
                 href_val = a_tag['href']
@@ -98,7 +130,20 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                             "url": full_url
                         })
 
-        # চূড়ান্ত ডাটা অবজেক্ট (লোগো ও টিম নাম প্রথম ধাপ থেকে অপরিবর্তিত রাখা হয়েছে)
+        # ৪. তৃতীয় ধাপ: প্যারালাল ট্যাবের মাধ্যমে স্ট্রিম পেজ থেকে m3u8 ও রেফারার ক্যাপচার করা
+        stream_link_parts = []
+        if multi_watch_links:
+            stream_tasks = [capture_stream_link(browser, mw["url"], mw["channel"]) for mw in multi_watch_links]
+            stream_results = await asyncio.gather(*stream_tasks)
+            
+            for res in stream_results:
+                if res:
+                    stream_link_parts.append(res)
+
+        # আপনার দেওয়া ফরম্যাট অনুযায়ী স্ট্রিম লিংক সাজানো (মাঝে `, )` এবং কোনো অতিরিক্ত স্পেস ছাড়া)
+        final_stream_link = ",)".join(stream_link_parts) if stream_link_parts else ""
+
+        # ফাইনাল ডাটা অবজেক্ট তৈরি
         event_item = {
             "eventTitle": event_title,
             "matchTime": match_time,
@@ -106,11 +151,13 @@ async def scrape_single_detail(browser, card_info, index, total_links):
             "team2Title": card_info["team2Title"],
             "team1Logo": card_info["team1Logo"],
             "team2Logo": card_info["team2Logo"],
+            "isHot": True,
+            "streamLink": final_stream_link,
             "detailsPage": link,
             "multiWatchPageLink": multi_watch_links
         }
 
-        update_status(f"Successfully scraped: {event_title} [{index}/{total_links}]", "green")
+        update_status(f"Successfully scraped & extracted stream: {event_title} [{index}/{total_links}]", "green")
         return event_item
 
     except Exception as detail_err:
@@ -189,7 +236,7 @@ async def scrape_footystream():
             total_links = len(cards_info_list)
             update_status(f"Total unique detail links to process in parallel: {total_links}", "green")
 
-            semaphore = asyncio.Semaphore(5)
+            semaphore = asyncio.Semaphore(3) # প্যারালাল ট্যাবের সংখ্যা নিয়ন্ত্রণে রাখা হয়েছে
 
             async def bounded_scrape(card_info, idx):
                 async with semaphore:

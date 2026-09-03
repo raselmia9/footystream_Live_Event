@@ -1,10 +1,9 @@
-[2026-09-03 11:03:52] Process Started...
-[2026-09-03 11:03:52] Launching browser in headless mode...
-[2026-09-03 11:03:53] Opening website: https://footystream.pk/
-[2026-09-03 11:03:55] Waiting for dynamic elements/cards to load...
-[2026-09-03 11:04:02] HOMEPAGE_ERROR: Found 0 live event cards using all default selectors. Page structure might have changed.
-[2026-09-03 11:04:02] DEBUG_INFO: Current Page Title was: 'FootyStream - Live Football Streams Online'
-[2026-09-03 11:04:02] Browser closed successfully.
-[2026-09-03 11:04:02] Data successfully saved to live_event_card.json
-[2026-09-03 11:04:02] Playlist successfully saved to playlist.m3u
-[2026-09-03 11:04:02] Process completed successfully. Total collected events: 0
+🟢 Process Started...
+🟢 Launching browser in headless mode...
+🟢 Opening website: https://footystream.pk/
+🟡 Waiting for dynamic elements/cards to load...
+🔴 HOMEPAGE_ERROR: Found 0 live event cards using default pattern.
+🟢 Browser closed successfully.
+🟢 Data successfully saved to live_event_card.json
+🟢 Playlist successfully saved to playlist.m3u
+🟢 Process completed successfully. Total collected events: 0

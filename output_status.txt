@@ -1,8 +1,75 @@
 🟢 Process Started...
 🟢 Launching browser in headless mode...
-🟢 Opening website: https://footystream.pk/
-🟡 Waiting for dynamic elements to load...
+🟢 Opening homepage: https://footystream.pk/
+🟡 Waiting for homepage elements to load...
+🟢 Total unique detail links collected from homepage: 34
+🟡 Visiting detail page [1/34]: https://footystream.pk/events/us-open-2026
+🟢 Successfully scraped: ATP Tour vs Aug 24, 2026 at 02:00 PM UTC
+🟡 Visiting detail page [2/34]: https://footystream.pk/events/british-open
+🟢 Successfully scraped: Snooker vs Aug 31, 2026 at 12:00 PM UTC
+🟡 Visiting detail page [3/34]: https://footystream.pk/events/canterbury-bulldogs-vs-brisbane-broncos
+🟢 Successfully scraped: NRL vs Sep 03, 2026 at 09:45 AM UTC
+🟡 Visiting detail page [4/34]: https://footystream.pk/events/fremantle-vs-hawthorn
+🟢 Successfully scraped: AFL vs Sep 03, 2026 at 10:00 AM UTC
+🟡 Visiting detail page [5/34]: https://footystream.pk/events/omega-european-masters
+🟢 Successfully scraped: PGA Tour vs Sep 03, 2026 at 11:00 AM UTC
+🟡 Visiting detail page [6/34]: https://footystream.pk/events/palermo-vs-mantova
+🟢 Successfully scraped: Coppa Italia vs Sep 03, 2026 at 04:00 PM UTC
+🟡 Visiting detail page [7/34]: https://footystream.pk/events/hellas-verona-vs-cagliari
+🟢 Successfully scraped: Coppa Italia vs Sep 03, 2026 at 07:00 PM UTC
+🟡 Visiting detail page [8/34]: https://footystream.pk/events/lille-vs-toulouse
+🟢 Successfully scraped: French Ligue 1 vs Sep 03, 2026 at 06:45 PM UTC
+🟡 Visiting detail page [9/34]: https://footystream.pk/events/lyonn-vs-auxerre
+🟢 Successfully scraped: French Ligue 1 vs Sep 04, 2026 at 05:00 PM UTC
+🟡 Visiting detail page [10/34]: https://footystream.pk/events/psg-vs-monaco
+🟢 Successfully scraped: French Ligue 1 vs Sep 04, 2026 at 06:45 PM UTC
+🟡 Visiting detail page [11/34]: https://footystream.pk/events/celta-vigo-vs-real-sociedad
+🟢 Successfully scraped: LaLiga vs Sep 03, 2026 at 07:00 PM UTC
+🟡 Visiting detail page [12/34]: https://footystream.pk/events/real-madrid-vs-real-betis
+🟢 Successfully scraped: LaLiga vs Sep 04, 2026 at 07:00 PM UTC
+🟡 Visiting detail page [13/34]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
+🟢 Successfully scraped: LaLiga vs Sep 05, 2026 at 02:15 PM UTC
+🟡 Visiting detail page [14/34]: https://footystream.pk/events/rayo-vallecano-vs-racing
+🟢 Successfully scraped: LaLiga vs Sep 05, 2026 at 04:30 PM UTC
+🟡 Visiting detail page [15/34]: https://footystream.pk/events/villarreal-vs-la-coruna
+🟢 Successfully scraped: LaLiga vs Sep 05, 2026 at 07:00 PM UTC
+🟡 Visiting detail page [16/34]: https://footystream.pk/events/barcelona-vs-valencia
+🟢 Successfully scraped: LaLiga vs Sep 06, 2026 at 02:15 PM UTC
+🟡 Visiting detail page [17/34]: https://footystream.pk/events/italian-gp
+🟢 Successfully scraped: Formula 1 vs Sep 04, 2026 at 06:30 AM UTC
+🟡 Visiting detail page [18/34]: https://footystream.pk/events/geelong-cats-vs-carlton
+🟢 Successfully scraped: AFL vs Sep 04, 2026 at 09:30 AM UTC
+🟡 Visiting detail page [19/34]: https://footystream.pk/events/rabbitohs-vs-roosters
+🟢 Successfully scraped: NRL vs Sep 04, 2026 at 10:00 AM UTC
+🟡 Visiting detail page [20/34]: https://footystream.pk/events/koln-vs-stuttgart
+🟢 Successfully scraped: Bundesliga vs Sep 04, 2026 at 06:30 PM UTC
+🟡 Visiting detail page [21/34]: https://footystream.pk/events/bayer-leverkusen-vs-union-berlin
+🟢 Successfully scraped: Bundesliga vs Sep 05, 2026 at 01:30 PM UTC
+🟡 Visiting detail page [22/34]: https://footystream.pk/events/bayern-munchen-vs-schalke-04
+🟢 Successfully scraped: Bundesliga vs Sep 05, 2026 at 04:30 PM UTC
+🟡 Visiting detail page [23/34]: https://footystream.pk/events/como-vs-genoa
+🟢 Successfully scraped: Serie A vs Sep 04, 2026 at 06:45 PM UTC
+🟡 Visiting detail page [24/34]: https://footystream.pk/events/torino-vs-fiorentina
+🟢 Successfully scraped: Serie A vs Sep 05, 2026 at 01:00 PM UTC
+🟡 Visiting detail page [25/34]: https://footystream.pk/events/inter-milan-vs-napoli
+🟢 Successfully scraped: Serie A vs Sep 05, 2026 at 04:00 PM UTC
+🟡 Visiting detail page [26/34]: https://footystream.pk/events/roma-vs-atalanta
+🟢 Successfully scraped: Serie A vs Sep 05, 2026 at 06:45 PM UTC
+🟡 Visiting detail page [27/34]: https://footystream.pk/events/milan-vs-juventus
+🟢 Successfully scraped: Serie A vs Sep 06, 2026 at 06:45 PM UTC
+🟡 Visiting detail page [28/34]: https://footystream.pk/events/liverpool-vs-ipswich-town
+🟢 Successfully scraped: Premier League vs Sep 04, 2026 at 07:00 PM UTC
+🟡 Visiting detail page [29/34]: https://footystream.pk/events/newcastle-vs-bournemouth
+🟢 Successfully scraped: Premier League vs Sep 05, 2026 at 11:30 AM UTC
+🟡 Visiting detail page [30/34]: https://footystream.pk/events/fulham-vs-crystal-palace
+🟢 Successfully scraped: Premier League vs Sep 05, 2026 at 02:00 PM UTC
+🟡 Visiting detail page [31/34]: https://footystream.pk/events/brighton-vs-leeds-united
+🟢 Successfully scraped: Premier League vs Sep 05, 2026 at 02:00 PM UTC
+🟡 Visiting detail page [32/34]: https://footystream.pk/events/sunderland-vs-brentford
+🟢 Successfully scraped: Premier League vs Sep 05, 2026 at 02:00 PM UTC
+🟡 Visiting detail page [33/34]: https://footystream.pk/events/manchester-city-vs-coventry-city
+🟢 Successfully scraped: Premier League vs Sep 05, 2026 at 02:00 PM UTC
+🟡 Visiting detail page [34/34]: https://footystream.pk/events/porto-vs-moreirense
+🟢 Successfully scraped: Liga Portugal vs Sep 04, 2026 at 07:15 PM UTC
 🟢 Browser closed successfully.
-🟢 Successfully found 34 live event cards.
-🟢 Data successfully saved to live_event_card.json. Total collected: 34
-🟢 Process completed successfully.
+🟢 Process completed successfully. Total saved events: 34

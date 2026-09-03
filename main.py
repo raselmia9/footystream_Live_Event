@@ -1,4 +1,6 @@
 import asyncio
+import os
+import re
 import json
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
@@ -27,17 +29,19 @@ def convert_utc_to_bst(utc_text):
     except Exception:
         return utc_text
 
+def sanitize_filename(name):
+    # ফোল্ডার বা ফাইলের নামের অবৈধ ক্যারেক্টার রিমুভ করার জন্য
+    return re.sub(r'[\\/*?:"<>|]', "", name).strip()
+
 async def capture_stream_link(browser, watch_url, channel_name):
     page = await browser.new_page()
     captured_stream = ""
     
-    # সব নেটওয়ার্ক রিকোয়েস্ট ট্র্যাক করার জন্য ইভেন্ট লিসেনার
     def handle_request(request):
         nonlocal captured_stream
         if captured_stream:
             return
         url = request.url
-        # m3u8 বা স্ট্রিম সম্পর্কিত যেকোনো লিংক শনাক্ত করা
         if ".m3u8" in url or "playlist.m3u8" in url or "manifest" in url:
             headers = request.headers
             referer = headers.get("referer", "")
@@ -51,16 +55,12 @@ async def capture_stream_link(browser, watch_url, channel_name):
 
     try:
         await page.goto(watch_url, timeout=30000)
-        
-        # ভিডিও প্লে করার জন্য পেজে বা প্লেয়ারে ক্লিক সিমুলেট করা (যদি প্লে বাটন থাকে)
         try:
             await page.wait_for_timeout(2000)
-            # পেজের যেকোনো জায়গায় বা ভিডিও এলিমেন্টে ক্লিক করা যাতে স্ট্রিম রিকোয়েস্ট ফায়ার হয়
             await page.click("body", timeout=3000)
         except:
             pass
 
-        # স্ট্রিম লিংক ক্যাপচার হওয়ার জন্য সর্বোচ্চ ১২ সেকেন্ড অপেক্ষা করা
         for _ in range(12):
             if captured_stream:
                 break
@@ -89,7 +89,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
         
         d_soup = BeautifulSoup(detail_html, 'html.parser')
 
-        # ১. ইভেন্ট টাইটেল
+        # ইভেন্ট টাইটেল
         event_title = "Live Event"
         event_div = d_soup.find('div', class_=lambda c: c and 'text-white font-semibold text-sm' in c)
         if event_div:
@@ -97,7 +97,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
             if t:
                 event_title = t
 
-        # ২. ম্যাচ টাইম কনভার্শন
+        # ম্যাচ টাইম কনভার্শন
         match_time = ""
         time_container = d_soup.find('div', class_=lambda c: c and 'text-xs' in c)
         if time_container:
@@ -112,7 +112,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                     match_time = convert_utc_to_bst(text)
                     break
 
-        # ৩. মাল্টি ওয়াচ পেজ লিংক সংগ্রহ
+        # মাল্টি ওয়াচ পেজ লিংক সংগ্রহ
         multi_watch_links = []
         table = d_soup.find('table')
         if table:
@@ -141,7 +141,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                             "url": full_url
                         })
 
-        # ৪. প্যারালাল ট্যাবের মাধ্যমে স্ট্রিম পেজ থেকে m3u8 ও রেফারার ক্যাপচার করা
+        # স্ট্রিম লিংক ও রেফারার ক্যাপচার করা
         stream_link_parts = []
         if multi_watch_links:
             stream_tasks = [capture_stream_link(browser, mw["url"], mw["channel"]) for mw in multi_watch_links]
@@ -151,10 +151,8 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                 if res:
                     stream_link_parts.append(res)
 
-        # আপনার দেওয়া ফরম্যাট অনুযায়ী স্ট্রিম লিংক সাজানো (মাঝে `, )` এবং কোনো অতিরিক্ত স্পেস ছাড়া)
         final_stream_link = ",)".join(stream_link_parts) if stream_link_parts else ""
 
-        # ফাইনাল ডাটা অবজেক্ট তৈরি
         event_item = {
             "eventTitle": event_title,
             "matchTime": match_time,
@@ -168,7 +166,44 @@ async def scrape_single_detail(browser, card_info, index, total_links):
             "multiWatchPageLink": multi_watch_links
         }
 
-        update_status(f"Successfully scraped & extracted stream: {event_title} [{index}/{total_links}]", "green")
+        # --- নতুন সংযোজন: all_event ফোল্ডার এবং টিম ফোল্ডারের ভেতরে .m3u8 ফাইল তৈরি ---
+        if stream_link_parts:
+            t1 = sanitize_filename(card_info["team1Title"])
+            t2 = sanitize_filename(card_info["team2Title"])
+            folder_name = f"{t1}_vs_{t2}"
+            event_dir = os.path.join("all_event", folder_name)
+            os.makedirs(event_dir, exist_ok=True)
+
+            for part in stream_link_parts:
+                # যেমন: "T Sports,,http://.../playlist.m3u8|Referer=..."
+                parts_split = part.split(",,", 1)
+                if len(parts_split) == 2:
+                    ch_name = sanitize_filename(parts_split[0])
+                    raw_stream_info = parts_split[1] # লিংক বা লিংক|Referer=...
+                    
+                    # যদি রেফারার থাকে আলাদা করা
+                    stream_url = raw_stream_info
+                    referer_val = ""
+                    if "|Referer=" in raw_stream_info:
+                        stream_url, referer_val = raw_stream_info.split("|Referer=", 1)
+
+                    file_path = os.path.join(event_dir, f"{ch_name}.m3u8")
+                    
+                    # আপনার দেওয়া ফরম্যাট অনুযায়ী m3u8 ফাইল কন্টেন্ট তৈরি
+                    m3u8_content = "#EXTM3U\n"
+                    m3u8_content += "#EXT-X-VERSION:3\n"
+                    if referer_val:
+                        # যদি রেফারার থাকে তবে অপ্টিমাইজড হ্যাডার বা সরাসরি লিংক বসানো
+                        m3u8_content += f"#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
+                        m3u8_content += f"{stream_url}\n"
+                    else:
+                        m3u8_content += f"#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
+                        m3u8_content += f"{stream_url}\n"
+
+                    with open(file_path, "w", encoding="utf-8") as f:
+                        f.write(m3u8_content)
+
+        update_status(f"Successfully scraped & created m3u8 files: {event_title} [{index}/{total_links}]", "green")
         return event_item
 
     except Exception as detail_err:
@@ -205,11 +240,6 @@ async def scrape_footystream():
             soup = BeautifulSoup(homepage_html, 'html.parser')
             cards = soup.find_all('a', href=lambda href: href and '/events/' in href)
             total_cards = len(cards)
-
-            if total_cards > 0:
-                update_status(f"Successfully found {total_cards} live event cards on homepage.", "green")
-            else:
-                update_status("HOMEPAGE_ERROR: Found 0 live event cards.", "red")
 
             cards_info_list = []
             seen_links = set()

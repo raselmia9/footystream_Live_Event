@@ -30,7 +30,6 @@ def convert_utc_to_bst(utc_text):
         return utc_text
 
 def sanitize_filename(name):
-    # ফোল্ডার বা ফাইলের নামের অবৈধ ক্যারেক্টার রিমুভ করার জন্য
     return re.sub(r'[\\/*?:"<>|]', "", name).strip()
 
 async def capture_stream_link(browser, watch_url, channel_name):
@@ -141,7 +140,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                             "url": full_url
                         })
 
-        # স্ট্রিম লিংক ও রেফারার ক্যাপচার করা
+        # স্ট্রিম লিংক ক্যাপচার করা
         stream_link_parts = []
         if multi_watch_links:
             stream_tasks = [capture_stream_link(browser, mw["url"], mw["channel"]) for mw in multi_watch_links]
@@ -151,7 +150,49 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                 if res:
                     stream_link_parts.append(res)
 
-        final_stream_link = ",)".join(stream_link_parts) if stream_link_parts else ""
+        json_stream_parts = []
+        
+        # গিটহাব রেপোজিটরি ইনফো সংগ্রহ (GitHub Actions থেকে স্বয়ংক্রিয়ভাবে নিবে, লোকাল টেস্টের জন্য ডিফল্ট রাখা হয়েছে)
+        github_repo = os.environ.get("GITHUB_REPOSITORY", "raselmia9/footystream_Live_Event")
+        github_branch = os.environ.get("GITHUB_REF_NAME", "main")
+
+        if stream_link_parts:
+            t1 = sanitize_filename(card_info["team1Title"])
+            t2 = sanitize_filename(card_info["team2Title"])
+            folder_name = f"{t1}_vs_{t2}"
+            event_dir = os.path.join("all_event", folder_name)
+            os.makedirs(event_dir, exist_ok=True)
+
+            for part in stream_link_parts:
+                parts_split = part.split(",,", 1)
+                if len(parts_split) == 2:
+                    ch_name = sanitize_filename(parts_split[0])
+                    raw_stream_info = parts_split[1]
+                    
+                    stream_url = raw_stream_info
+                    referer_val = ""
+                    if "|Referer=" in raw_stream_info:
+                        stream_url, referer_val = raw_stream_info.split("|Referer=", 1)
+
+                    file_path = os.path.join(event_dir, f"{ch_name}.m3u8")
+                    
+                    # ফোল্ডারের ভেতরের .m3u8 ফাইলের কন্টেন্ট
+                    m3u8_content = "#EXTM3U\n"
+                    m3u8_content += "#EXT-X-VERSION:3\n"
+                    m3u8_content += f"#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
+                    if referer_val:
+                        m3u8_content += f"{stream_url}|Referer={referer_val}\n"
+                    else:
+                        m3u8_content += f"{stream_url}\n"
+
+                    with open(file_path, "w", encoding="utf-8") as f:
+                        f.write(m3u8_content)
+
+                    # জেসন ফাইলের জন্য গিটহাব র-লিংক তৈরি
+                    raw_link = f"https://raw.githubusercontent.com/{github_repo}/{github_branch}/all_event/{folder_name}/{ch_name}.m3u8"
+                    json_stream_parts.append(f"{parts_split[0]},,{raw_link}")
+
+        final_stream_link = ",)".join(json_stream_parts) if json_stream_parts else ""
 
         event_item = {
             "eventTitle": event_title,
@@ -166,44 +207,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
             "multiWatchPageLink": multi_watch_links
         }
 
-        # --- নতুন সংযোজন: all_event ফোল্ডার এবং টিম ফোল্ডারের ভেতরে .m3u8 ফাইল তৈরি ---
-        if stream_link_parts:
-            t1 = sanitize_filename(card_info["team1Title"])
-            t2 = sanitize_filename(card_info["team2Title"])
-            folder_name = f"{t1}_vs_{t2}"
-            event_dir = os.path.join("all_event", folder_name)
-            os.makedirs(event_dir, exist_ok=True)
-
-            for part in stream_link_parts:
-                # যেমন: "T Sports,,http://.../playlist.m3u8|Referer=..."
-                parts_split = part.split(",,", 1)
-                if len(parts_split) == 2:
-                    ch_name = sanitize_filename(parts_split[0])
-                    raw_stream_info = parts_split[1] # লিংক বা লিংক|Referer=...
-                    
-                    # যদি রেফারার থাকে আলাদা করা
-                    stream_url = raw_stream_info
-                    referer_val = ""
-                    if "|Referer=" in raw_stream_info:
-                        stream_url, referer_val = raw_stream_info.split("|Referer=", 1)
-
-                    file_path = os.path.join(event_dir, f"{ch_name}.m3u8")
-                    
-                    # আপনার দেওয়া ফরম্যাট অনুযায়ী m3u8 ফাইল কন্টেন্ট তৈরি
-                    m3u8_content = "#EXTM3U\n"
-                    m3u8_content += "#EXT-X-VERSION:3\n"
-                    if referer_val:
-                        # যদি রেফারার থাকে তবে অপ্টিমাইজড হ্যাডার বা সরাসরি লিংক বসানো
-                        m3u8_content += f"#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
-                        m3u8_content += f"{stream_url}\n"
-                    else:
-                        m3u8_content += f"#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
-                        m3u8_content += f"{stream_url}\n"
-
-                    with open(file_path, "w", encoding="utf-8") as f:
-                        f.write(m3u8_content)
-
-        update_status(f"Successfully scraped & created m3u8 files: {event_title} [{index}/{total_links}]", "green")
+        update_status(f"Successfully processed: {event_title} [{index}/{total_links}]", "green")
         return event_item
 
     except Exception as detail_err:

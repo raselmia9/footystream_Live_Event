@@ -6,6 +6,8 @@
         "team2Title": "ATP Tour",
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/us-open-2026",
         "multiWatchPageLink": [
             {
@@ -33,6 +35,8 @@
         "team2Title": "Snooker",
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/british-open",
         "multiWatchPageLink": [
             {
@@ -48,6 +52,8 @@
         "team2Title": "Hawthorn Hawks",
         "team1Logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hawthorn-hawks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/fremantle-vs-hawthorn",
         "multiWatchPageLink": [
             {
@@ -63,6 +69,8 @@
         "team2Title": "PGA Tour",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/omega-european-masters",
         "multiWatchPageLink": [
             {
@@ -78,6 +86,8 @@
         "team2Title": "Mantova",
         "team1Logo": "https://cdn.img4every1.org/team/palermo/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/mantova/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/palermo-vs-mantova",
         "multiWatchPageLink": [
             {
@@ -93,6 +103,8 @@
         "team2Title": "Cagliari",
         "team1Logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/hellas-verona-vs-cagliari",
         "multiWatchPageLink": []
     },
@@ -103,6 +115,8 @@
         "team2Title": "Toulouse",
         "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lille-vs-toulouse",
         "multiWatchPageLink": [
             {
@@ -122,6 +136,8 @@
         "team2Title": "Auxerre",
         "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lyonn-vs-auxerre",
         "multiWatchPageLink": []
     },
@@ -132,6 +148,8 @@
         "team2Title": "AS Monaco",
         "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/psg-vs-monaco",
         "multiWatchPageLink": []
     },
@@ -142,6 +160,8 @@
         "team2Title": "Real Sociedad",
         "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/celta-vigo-vs-real-sociedad",
         "multiWatchPageLink": []
     },
@@ -152,6 +172,8 @@
         "team2Title": "Real Betis",
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/real-madrid-vs-real-betis",
         "multiWatchPageLink": []
     },
@@ -162,6 +184,8 @@
         "team2Title": "Athletic Club",
         "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/atletico-madrid-vs-athletic-club",
         "multiWatchPageLink": []
     },
@@ -172,6 +196,8 @@
         "team2Title": "Racing Santander",
         "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-racing",
         "multiWatchPageLink": []
     },
@@ -182,6 +208,8 @@
         "team2Title": "Deportivo La Coruña",
         "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/villarreal-vs-la-coruna",
         "multiWatchPageLink": []
     },
@@ -192,6 +220,8 @@
         "team2Title": "Valencia",
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-valencia",
         "multiWatchPageLink": []
     },
@@ -202,6 +232,8 @@
         "team2Title": "Formula 1",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/italian-gp",
         "multiWatchPageLink": [
             {
@@ -225,6 +257,8 @@
         "team2Title": "Carlton",
         "team1Logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/carlton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/geelong-cats-vs-carlton",
         "multiWatchPageLink": [
             {
@@ -240,6 +274,8 @@
         "team2Title": "Sydney Roosters",
         "team1Logo": "https://cdn.img4every1.org/team/south-sydney-rabbitohs/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/rabbitohs-vs-roosters",
         "multiWatchPageLink": [
             {
@@ -263,6 +299,8 @@
         "team2Title": "Stuttgart",
         "team1Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/koln-vs-stuttgart",
         "multiWatchPageLink": []
     },
@@ -273,6 +311,8 @@
         "team2Title": "Union Berlin",
         "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-union-berlin",
         "multiWatchPageLink": []
     },
@@ -283,6 +323,8 @@
         "team2Title": "Schalke 04",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-schalke-04",
         "multiWatchPageLink": []
     },
@@ -293,6 +335,8 @@
         "team2Title": "Genoa",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/como-vs-genoa",
         "multiWatchPageLink": []
     },
@@ -303,6 +347,8 @@
         "team2Title": "Fiorentina",
         "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/torino-vs-fiorentina",
         "multiWatchPageLink": []
     },
@@ -313,6 +359,8 @@
         "team2Title": "Napoli",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/inter-milan-vs-napoli",
         "multiWatchPageLink": []
     },
@@ -323,6 +371,8 @@
         "team2Title": "Atalanta",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/roma-vs-atalanta",
         "multiWatchPageLink": []
     },
@@ -333,6 +383,8 @@
         "team2Title": "Juventus",
         "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
         "multiWatchPageLink": []
     },
@@ -343,6 +395,8 @@
         "team2Title": "Ipswich Town",
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-ipswich-town",
         "multiWatchPageLink": []
     },
@@ -353,6 +407,8 @@
         "team2Title": "AFC Bournemouth",
         "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/newcastle-vs-bournemouth",
         "multiWatchPageLink": []
     },
@@ -363,6 +419,8 @@
         "team2Title": "Crystal Palace",
         "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/fulham-vs-crystal-palace",
         "multiWatchPageLink": []
     },
@@ -373,6 +431,8 @@
         "team2Title": "Leeds United",
         "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/brighton-vs-leeds-united",
         "multiWatchPageLink": []
     },
@@ -383,6 +443,8 @@
         "team2Title": "Brentford",
         "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/sunderland-vs-brentford",
         "multiWatchPageLink": []
     },
@@ -393,6 +455,8 @@
         "team2Title": "Coventry City",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/manchester-city-vs-coventry-city",
         "multiWatchPageLink": []
     },
@@ -403,6 +467,8 @@
         "team2Title": "Moreirense",
         "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
+        "isHot": true,
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/porto-vs-moreirense",
         "multiWatchPageLink": []
     }

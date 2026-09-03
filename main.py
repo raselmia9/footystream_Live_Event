@@ -27,8 +27,9 @@ def convert_utc_to_bst(utc_text):
     except Exception:
         return utc_text
 
-async def scrape_single_detail(browser, link, index, total_links):
+async def scrape_single_detail(browser, card_info, index, total_links):
     page = await browser.new_page()
+    link = card_info["detailsPage"]
     try:
         update_status(f"Visiting detail page [{index}/{total_links}]: {link}", "yellow")
         await page.goto(link, timeout=30000)
@@ -39,27 +40,17 @@ async def scrape_single_detail(browser, link, index, total_links):
         
         d_soup = BeautifulSoup(detail_html, 'html.parser')
 
-        # ১. সঠিক ইভেন্ট টাইটেল (যেমন: ATP Tour)
+        # ১. সঠিক ইভেন্ট টাইটেল (যেমন: ATP Tour) - পেজের ওপরের হেডিং থেকে
         event_title = "Live Event"
-        # পেজের ওপরের হেডিং বা নির্দিষ্ট সেকশন থেকে ইভেন্ট টাইটেল খোঁজা
-        h1_tag = d_soup.find('h1') or d_soup.find('div', class_=lambda c: c and 'text-xl' in c)
-        if h1_tag:
-            t = h1_tag.get_text(strip=True)
-            if t and 'Live Streaming' not in t:
+        # ফুটিস্ট্রিমে সাধারণত টুর্নামেন্ট বা ইভেন্ট ক্যাটাগরি উপরে থাকে
+        header_divs = d_soup.find_all('div', class_=lambda c: c and 'text-' in c)
+        for div in header_divs:
+            t = div.get_text(strip=True)
+            if t and len(t) < 40 and 'UTC' not in t and 'Live' not in t and 'Stream' not in t:
                 event_title = t
+                break
 
-        # ২. টিম টাইটেল ও লোগো সংগ্রহ
-        team1_title, team2_title = "Team 1", "Team 2"
-        logo1, logo2 = "", ""
-        
-        imgs = d_soup.find_all('img')
-        valid_imgs = [img.get('src') for img in imgs if img.get('src') and 'logo.webp' in img.get('src')]
-        if len(valid_imgs) > 0:
-            logo1 = valid_imgs[0]
-        if len(valid_imgs) > 1:
-            logo2 = valid_imgs[1]
-
-        # ৩. ম্যাচ টাইম কনভার্শন (YYYY-MM-DD HH:MM:SS)
+        # ২. সঠিক ম্যাচ টাইম এবং ডেট আলাদা করা ও কনভার্ট করা
         match_time = ""
         for div in d_soup.find_all('div'):
             text = div.get_text(strip=True)
@@ -67,36 +58,30 @@ async def scrape_single_detail(browser, link, index, total_links):
                 match_time = convert_utc_to_bst(text)
                 break
 
-        # ৪. মাল্টি ওয়াচ পেজ লিংক (multiWatchPageLink) - শুধুমাত্র টেবিলের ভেতরের লিঙ্কগুলো ফিল্টার করা
+        # ৩. মাল্টি ওয়াচ পেজ লিংক (multiWatchPageLink) - টেবিল থেকে শুধু Watch বাটনগুলো নেওয়া
         multi_watch_links = []
-        
-        # স্ট্রিমার বা টেবিল রো গুলোর ভেতর থেকে সঠিক লিঙ্ক বের করা
-        # footystream.pk এর স্ট্রিম টেবিল সাধারণত 'Link 1', 'Link 2' এবং 'Watch' বাটন ধারণ করে
-        rows = d_soup.find_all('div', class_=lambda c: c and ('grid' in c or 'flex' in c))
-        
-        # বিকল্প ও নিখুঁত পদ্ধতি: টেবিল বা নির্দিষ্ট সেকশন যেখানে 'Watch' বাটনগুলো থাকে
         for a_tag in d_soup.find_all('a', href=True):
             link_text = a_tag.get_text(strip=True)
             href_val = a_tag['href']
             
-            # শুধুমাত্র সেই লিঙ্কগুলো নেওয়া হবে যেগুলোতে 'Watch' লেখা আছে অথবা চ্যানেল নেম (Link 1, Link 2...) আছে
-            if 'Watch' in link_text or 'Link ' in link_text:
+            # টেবিলের ভেতরের স্ট্রিম লিঙ্ক বা Watch বাটন ফিল্টার করা
+            if 'Watch' in link_text or 'Link ' in link_text or '/alpha/' in href_val or '/embed/' in href_val:
                 full_url = href_val if href_val.startswith("http") else f"https://footystream.pk{href_val}"
                 
-                # ডুপ্লিকেট এড়াতে এবং হোম বা ফুটার লিঙ্ক বাদ দিতে চেক করা
-                if full_url not in [item['url'] for item in multi_watch_links] and 'footystream.pk/' in full_url and len(href_val) > 1:
+                if full_url not in [item['url'] for item in multi_watch_links] and 'footystream.pk/' in full_url:
                     multi_watch_links.append({
                         "channel": link_text if link_text else "Watch",
                         "url": full_url
                     })
 
+        # প্রথম ধাপ থেকে পাওয়া তথ্যগুলো ঠিক রেখে বাকিগুলো আপডেট করা হলো
         event_item = {
             "eventTitle": event_title,
             "matchTime": match_time,
-            "team1Title": team1_title,
-            "team2Title": team2_title,
-            "team1Logo": logo1,
-            "team2Logo": logo2,
+            "team1Title": card_info["team1Title"],
+            "team2Title": card_info["team2Title"],
+            "team1Logo": card_info["team1Logo"],
+            "team2Logo": card_info["team2Logo"],
             "detailsPage": link,
             "multiWatchPageLink": multi_watch_links
         }
@@ -144,24 +129,50 @@ async def scrape_footystream():
             else:
                 update_status("HOMEPAGE_ERROR: Found 0 live event cards.", "red")
 
-            detail_links = []
+            # প্রথম ধাপের মতো কার্ড থেকে সরাসরি টিম নাম ও লোগো সংগ্রহ করে রাখা
+            cards_info_list = []
+            seen_links = set()
+
             for card in cards:
                 href = card.get('href', '')
                 if href:
-                    full_link = href if href.startswith("http") else f"https://footystream.pk{href}"
-                    if full_link not in detail_links:
-                        detail_links.append(full_link)
+                    details_page = href if href.startswith("http") else f"https://footystream.pk{href}"
+                    
+                    if details_page not in seen_links:
+                        seen_links.add(details_page)
+                        
+                        full_text = card.get_text(separator="\n", strip=True)
+                        lines = [line.strip() for line in full_text.split('\n') if line.strip()]
+                        clean_titles = [l for l in lines if not ("Live Now!" in l or "Starts in" in l or "UTC" in l or "Aug" in l or "Sep" in l or "Oct" in l or "Nov" in l or "Dec" in l or "Jan" in l or "Feb" in l or "Mar" in l or "Apr" in l or "May" in l or "Jun" in l or "Jul" in l)]
 
-            total_links = len(detail_links)
+                        team1 = clean_titles[0] if len(clean_titles) > 0 else "Team 1"
+                        team2 = clean_titles[1] if len(clean_titles) > 1 else "Team 2"
+
+                        logo1, logo2 = "", ""
+                        imgs = card.find_all('img')
+                        if len(imgs) > 0:
+                            logo1 = imgs[0].get('src', '')
+                        if len(imgs) > 1:
+                            logo2 = imgs[1].get('src', '')
+
+                        cards_info_list.append({
+                            "team1Title": team1,
+                            "team2Title": team2,
+                            "team1Logo": logo1,
+                            "team2Logo": logo2,
+                            "detailsPage": details_page
+                        })
+
+            total_links = len(cards_info_list)
             update_status(f"Total unique detail links to process in parallel: {total_links}", "green")
 
             semaphore = asyncio.Semaphore(5)
 
-            async def bounded_scrape(link, idx):
+            async def bounded_scrape(card_info, idx):
                 async with semaphore:
-                    return await scrape_single_detail(browser, link, idx, total_links)
+                    return await scrape_single_detail(browser, card_info, idx, total_links)
 
-            tasks = [bounded_scrape(link, i) for i, link in enumerate(detail_links, start=1)]
+            tasks = [bounded_scrape(card_info, i) for i, card_info in enumerate(cards_info_list, start=1)]
             results = await asyncio.gather(*tasks)
 
             for res in results:

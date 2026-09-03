@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
+https://dz5.bhalocast.pro:7059/hls/spch89.m3u8?md5=hQDDhJXyWih8QVfd7Qrvwg&expires=1788459047&ch=spch89&s=2f51f6af02ac3948eaa88f01818de96b|Referer=https://bhalocast.pro/

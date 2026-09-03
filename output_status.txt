@@ -1,0 +1,9 @@
+[2026-09-03 10:59:10unlike] Process Started...
+[2026-09-03 10:59:11] Launching browser in headless mode...
+[2026-09-03 10:59:11] Opening website: https://footystream.pk/
+[2026-09-03 10:59:12] Waiting for elements to load...
+[2026-09-03 10:59:17] Found 0 live event cards.
+[2026-09-03 10:59:17] Browser closed successfully.
+[2026-09-03 10:59:17] Data successfully saved to live_event_card.json
+[2026-09-03 10:59:17] Playlist successfully saved to playlist.m3u
+[2026-09-03 10:59:17] Process completed successfully. Total collected events: 0

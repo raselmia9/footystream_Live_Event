@@ -1,41 +1,7 @@
 🟢 Process Started...
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
-🟡 Waiting for dynamic elements to load...
+🟡 Waiting for event cards to load...
 🟢 Browser closed successfully.
-🟢 Successfully found 34 live event cards on homepage.
-🟢 Card 1 parsed successfully: US Open 2026 vs ATP Tour
-🟢 Card 2 parsed successfully: British Open vs Snooker
-🟢 Card 3 parsed successfully: Canterbury Bulldogs vs Brisbane Broncos
-🟢 Card 4 parsed successfully: Fremantle vs Hawthorn Hawks
-🟢 Card 5 parsed successfully: Omega European Masters vs PGA Tour
-🟢 Card 6 parsed successfully: Palermo vs Mantova
-🟢 Card 7 parsed successfully: Hellas Verona vs Cagliari
-🟢 Card 8 parsed successfully: Lille vs Toulouse
-🟢 Card 9 parsed successfully: Olympique Lyonnais vs Auxerre
-🟢 Card 10 parsed successfully: PSG vs AS Monaco
-🟢 Card 11 parsed successfully: Celta de Vigo vs Real Sociedad
-🟢 Card 12 parsed successfully: Real Madrid vs Real Betis
-🟢 Card 13 parsed successfully: Atlético Madrid vs Athletic Club
-🟢 Card 14 parsed successfully: Rayo Vallecano vs Racing Santander
-🟢 Card 15 parsed successfully: Villarreal vs Deportivo La Coruña
-🟢 Card 16 parsed successfully: FC Barcelona vs Valencia
-🟢 Card 17 parsed successfully: F1 Italian Grand Prix vs Formula 1
-🟢 Card 18 parsed successfully: Geelong Cats vs Carlton
-🟢 Card 19 parsed successfully: South Sydney Rabbitohs vs Sydney Roosters
-🟢 Card 20 parsed successfully: Köln vs Stuttgart
-🟢 Card 21 parsed successfully: Bayer Leverkusen vs Union Berlin
-🟢 Card 22 parsed successfully: Bayern München vs Schalke 04
-🟢 Card 23 parsed successfully: Como vs Genoa
-🟢 Card 24 parsed successfully: Torino vs Fiorentina
-🟢 Card 25 parsed successfully: Inter Milan vs Napoli
-🟢 Card 26 parsed successfully: AS Roma vs Atalanta
-🟢 Card 27 parsed successfully: AC Milan vs Juventus
-🟢 Card 28 parsed successfully: Liverpool vs Ipswich Town
-🟢 Card 29 parsed successfully: Newcastle United vs AFC Bournemouth
-🟢 Card 30 parsed successfully: Fulham vs Crystal Palace
-🟢 Card 31 parsed successfully: Brighton & Hove Albion vs Leeds United
-🟢 Card 32 parsed successfully: Sunderland vs Brentford
-🟢 Card 33 parsed successfully: Manchester City vs Coventry City
-🟢 Card 34 parsed successfully: Porto vs Moreirense
+🟢 Successfully found 34 live event cards.
 🟢 Process completed successfully. Total collected events: 34

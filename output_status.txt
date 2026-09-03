@@ -4,39 +4,5 @@
 🟡 Waiting for dynamic elements to load...
 🟢 Browser closed successfully.
 🟢 Successfully found 34 live event cards.
-🔴 PARSING_ERROR on card 1: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 2: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 3: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 4: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 5: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 6: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 7: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 8: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 9: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 10: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 11: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 12: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 13: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 14: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 15: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 16: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 17: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 18: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 19: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 20: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 21: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 22: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 23: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 24: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 25: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 26: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 27: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 28: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 29: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 30: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 31: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 32: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 33: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🔴 PARSING_ERROR on card 34: ResultSet object has no attribute "get". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
-🟢 Data successfully saved to live_event_card.json
-🟢 Process completed successfully. Total collected events: 0
+🟢 Data successfully saved to live_event_card.json. Total collected: 34
+🟢 Process completed successfully.

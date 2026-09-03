@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=zpq-cfngy1AqLSTPPJuOiA&expires=1788446175&ch=dadoskyten&s=9bb94ec14303991217250278f107518d|Referer=https://bhalocast.pro/,)Link 2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=iuBhlCczTRfACUV5GOpy1g&expires=1788446175&ch=spch11&s=058c65dd401469b1dcead7b58c0c87f3|Referer=https://bhalocast.pro/,)Link 3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=36a45mIEX1gcONhdS1eDfw&expires=1788446177&ch=dadoskymoxo&s=f3b9d3bfc6d68ee7425ee5c9939c7617|Referer=https://bhalocast.pro/,)Link 4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=IdVD-3zhJp1A4Op-MvETZA&expires=1788446176&ch=dadosky1&s=2ef1a1d59029cf5eb092df6133be7d17|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://dz5.bhalocast.pro:7059/hls/dadoskyten.m3u8?md5=hjdk-OhPAkptyr2EQ6BTRQ&expires=1788447099&ch=dadoskyten&s=4b26b5b322450a1a29f4fab27d958f25|Referer=https://bhalocast.pro/,)Link 2,,https://dz5.bhalocast.pro:7059/hls/spch11.m3u8?md5=r1FMO2dK39Jp-NuJqDezGw&expires=1788447100&ch=spch11&s=60748fdfe579ff9e59247aac470ce83c|Referer=https://bhalocast.pro/,)Link 3,,https://dz5.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=CpZOSYxz_jYN9ZlkbahSWw&expires=1788447099&ch=dadoskymoxo&s=2af9a724f563cf89e43e812026e71032|Referer=https://bhalocast.pro/,)Link 4,,https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=zs4a0JiWbXTD7Te2SnXGqg&expires=1788447098&ch=dadosky1&s=d634f2d7cf90d79d30f699064bda2d8a|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/us-open-2026",
         "multiWatchPageLink": [
             {
@@ -36,7 +36,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=TNVwcSs8aFKy7ezKHH2vKQ&expires=1788446177&ch=spch6&s=604db6605f5cc2c86c55544745ad1f6f|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://dz5.bhalocast.pro:7059/hls/spch6.m3u8?md5=1a6ezYfj6tw0DqbJB22DXQ&expires=1788447107&ch=spch6&s=a1c204c99bbe68e03bb7912b2c73273c|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/british-open",
         "multiWatchPageLink": [
             {
@@ -53,7 +53,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=LQq_-N7zmQI4ya491iCGNg&expires=1788446176&ch=dadoskygo&s=7ba357afb0cf4f5d67ee4fb702508bb4|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://dz5.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=77t1STtMoAVY_M3lYyPq_g&expires=1788447096&ch=dadoskygo&s=5d761be7db97e4dff86906776817d679|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/omega-european-masters",
         "multiWatchPageLink": [
             {
@@ -111,6 +111,77 @@
                 "url": "https://footystream.pk/alpha/hellas-verona-vs-cagliari/1624"
             }
         ]
+    },
+    {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-09-04 00:00:00",
+        "team1Title": "Al Diriyah",
+        "team2Title": "Al Qadsiah",
+        "team1Logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/al-qadsiah/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/diriyah-vs-al-qadisiyah",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/diriyah-vs-al-qadisiyah/1625"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/diriyah-vs-al-qadisiyah/1626"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-09-05 00:00:00",
+        "team1Title": "Al Ahli",
+        "team2Title": "Al Riyadh",
+        "team1Logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/al-riyadh/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/al-ahli-saudi-vs-al-riyadh",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/al-ahli-saudi-vs-al-riyadh/1629"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-09-05 00:15:00",
+        "team1Title": "Al Shabab",
+        "team2Title": "Al Hilal",
+        "team1Logo": "https://cdn.img4every1.org/team/al-shabab/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/al-hilal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/al-shabab-vs-al-hilal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/al-shabab-vs-al-hilal/1627"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/al-shabab-vs-al-hilal/1628"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-09-06 00:00:00",
+        "team1Title": "Al-Nassr",
+        "team2Title": "Al Ittihad",
+        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/al-ittihad/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/al-nassr-vs-al-ittihad",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "French Ligue 1",

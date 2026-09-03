@@ -40,41 +40,65 @@ async def scrape_single_detail(browser, card_info, index, total_links):
         
         d_soup = BeautifulSoup(detail_html, 'html.parser')
 
-        # ১. সঠিক ইভেন্ট টাইটেল (যেমন: ATP Tour) - পেজের ওপরের হেডিং থেকে
+        # ১. ইভেন্ট টাইটেল (যেমন: AFL) - এইচটিএমএল স্ট্রাকচার অনুযায়ী সুনির্দিষ্ট ট্যাগ থেকে
         event_title = "Live Event"
-        # ফুটিস্ট্রিমে সাধারণত টুর্নামেন্ট বা ইভেন্ট ক্যাটাগরি উপরে থাকে
-        header_divs = d_soup.find_all('div', class_=lambda c: c and 'text-' in c)
-        for div in header_divs:
-            t = div.get_text(strip=True)
-            if t and len(t) < 40 and 'UTC' not in t and 'Live' not in t and 'Stream' not in t:
+        event_div = d_soup.find('div', class_=lambda c: c and 'text-white font-semibold text-sm' in c)
+        if event_div:
+            t = event_div.get_text(strip=True)
+            if t:
                 event_title = t
-                break
 
-        # ২. সঠিক ম্যাচ টাইম এবং ডেট আলাদা করা ও কনভার্ট করা
+        # ২. ম্যাচ টাইম কনভার্শন (আপনার ফরম্যাট: YYYY-MM-DD HH:MM:SS)
         match_time = ""
-        for div in d_soup.find_all('div'):
-            text = div.get_text(strip=True)
-            if 'UTC' in text and ('at' in text or ',' in text):
-                match_time = convert_utc_to_bst(text)
-                break
+        # এইচটিএমএল কোডের টাইম সেকশন থেকে সরাসরি সংগ্রহ
+        time_container = d_soup.find('div', class_=lambda c: c and 'text-xs' in c)
+        if time_container:
+            time_text = time_container.get_text(strip=True)
+            if 'UTC' in time_text:
+                match_time = convert_utc_to_bst(time_text)
 
-        # ৩. মাল্টি ওয়াচ পেজ লিংক (multiWatchPageLink) - টেবিল থেকে শুধু Watch বাটনগুলো নেওয়া
+        # যদি ওপরের উপায়ে না পাওয়া যায়, তবে বিকল্প উপায়ে খোঁজা
+        if not match_time:
+            for div in d_soup.find_all('div'):
+                text = div.get_text(strip=True)
+                if 'UTC' in text and ('at' in text or ',' in text):
+                    match_time = convert_utc_to_bst(text)
+                    break
+
+        # ৩. মাল্টি ওয়াচ পেজ লিংক (multiWatchPageLink) - টেবিল থেকে চ্যানেল নাম ও আসল লিঙ্ক সংগ্রহ (Watch লেখা ব্যবহার করা হয়নি)
         multi_watch_links = []
-        for a_tag in d_soup.find_all('a', href=True):
-            link_text = a_tag.get_text(strip=True)
-            href_val = a_tag['href']
-            
-            # টেবিলের ভেতরের স্ট্রিম লিঙ্ক বা Watch বাটন ফিল্টার করা
-            if 'Watch' in link_text or 'Link ' in link_text or '/alpha/' in href_val or '/embed/' in href_val:
-                full_url = href_val if href_val.startswith("http") else f"https://footystream.pk{href_val}"
-                
-                if full_url not in [item['url'] for item in multi_watch_links] and 'footystream.pk/' in full_url:
-                    multi_watch_links.append({
-                        "channel": link_text if link_text else "Watch",
-                        "url": full_url
-                    })
+        table = d_soup.find('table')
+        if table:
+            rows = table.find_all('tr')
+            for row in rows:
+                cols = row.find_all('td')
+                if len(cols) >= 2:
+                    # দ্বিতীয় কলামে চ্যানেলের নাম থাকে (যেমন: Link 1)
+                    channel_name = cols[1].get_text(strip=True)
+                    # শেষের কলাম বা লিঙ্কের ট্যাগ থেকে ইউআরএল নেওয়া
+                    a_tag = row.find('a', href=True)
+                    if a_tag and channel_name:
+                        href_val = a_tag['href']
+                        full_url = href_val if href_val.startswith("http") else f"https://footystream.pk{href_val}"
+                        
+                        multi_watch_links.append({
+                            "channel": channel_name,
+                            "url": full_url
+                        })
 
-        # প্রথম ধাপ থেকে পাওয়া তথ্যগুলো ঠিক রেখে বাকিগুলো আপডেট করা হলো
+        # যদি টেবিল থেকে সরাসরি না আসে, তবে সার্বিকভাবে টেবিল রো ট্যাগগুলো স্ক্যান করা
+        if not multi_watch_links:
+            for a_tag in d_soup.find_all('a', href=True):
+                href_val = a_tag['href']
+                if '/alpha/' in href_val or '/embed/' in href_val:
+                    full_url = href_val if href_val.startswith("http") else f"https://footystream.pk{href_val}"
+                    if full_url not in [item['url'] for item in multi_watch_links]:
+                        multi_watch_links.append({
+                            "channel": "Link 1",
+                            "url": full_url
+                        })
+
+        # চূড়ান্ত ডাটা অবজেক্ট (লোগো ও টিম নাম প্রথম ধাপ থেকে অপরিবর্তিত রাখা হয়েছে)
         event_item = {
             "eventTitle": event_title,
             "matchTime": match_time,
@@ -129,7 +153,6 @@ async def scrape_footystream():
             else:
                 update_status("HOMEPAGE_ERROR: Found 0 live event cards.", "red")
 
-            # প্রথম ধাপের মতো কার্ড থেকে সরাসরি টিম নাম ও লোগো সংগ্রহ করে রাখা
             cards_info_list = []
             seen_links = set()
 

@@ -4,44 +4,44 @@
 🟡 Waiting for event cards to load...
 🟢 Successfully found 33 live event cards on homepage.
 🟢 Total unique detail links to process in parallel: 33
-🟡 Visiting detail page [2/33]: https://footystream.pk/events/british-open
-🟡 Visiting detail page [3/33]: https://footystream.pk/events/fremantle-vs-hawthorn
 🟡 Visiting detail page [1/33]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [3/33]: https://footystream.pk/events/fremantle-vs-hawthorn
+🟡 Visiting detail page [2/33]: https://footystream.pk/events/british-open
+🟢 Successfully scraped & extracted stream: Snooker [2/33]
+🟢 Successfully scraped & extracted stream: ATP Tour [1/33]
 🟢 Successfully scraped & extracted stream: AFL [3/33]
 🟡 Visiting detail page [4/33]: https://footystream.pk/events/omega-european-masters
-🟢 Successfully scraped & extracted stream: Snooker [2/33]
 🟡 Visiting detail page [5/33]: https://footystream.pk/events/palermo-vs-mantova
-🟢 Successfully scraped & extracted stream: ATP Tour [1/33]
 🟡 Visiting detail page [6/33]: https://footystream.pk/events/hellas-verona-vs-cagliari
 🟢 Successfully scraped & extracted stream: Coppa Italia [6/33]
 🟡 Visiting detail page [7/33]: https://footystream.pk/events/lille-vs-toulouse
-🟢 Successfully scraped & extracted stream: Coppa Italia [5/33]
-🟡 Visiting detail page [8/33]: https://footystream.pk/events/lyonn-vs-auxerre
 🟢 Successfully scraped & extracted stream: PGA Tour [4/33]
-🟡 Visiting detail page [9/33]: https://footystream.pk/events/psg-vs-monaco
+🟡 Visiting detail page [8/33]: https://footystream.pk/events/lyonn-vs-auxerre
 🟢 Successfully scraped & extracted stream: French Ligue 1 [8/33]
-🟡 Visiting detail page [10/33]: https://footystream.pk/events/celta-vigo-vs-real-sociedad
-🟢 Successfully scraped & extracted stream: French Ligue 1 [7/33]
-🟡 Visiting detail page [11/33]: https://footystream.pk/events/real-madrid-vs-real-betis
+🟡 Visiting detail page [9/33]: https://footystream.pk/events/psg-vs-monaco
 🟢 Successfully scraped & extracted stream: French Ligue 1 [9/33]
-🟡 Visiting detail page [12/33]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
+🟡 Visiting detail page [10/33]: https://footystream.pk/events/celta-vigo-vs-real-sociedad
 🟢 Successfully scraped & extracted stream: LaLiga [10/33]
-🟡 Visiting detail page [13/33]: https://footystream.pk/events/rayo-vallecano-vs-racing
+🟡 Visiting detail page [11/33]: https://footystream.pk/events/real-madrid-vs-real-betis
 🟢 Successfully scraped & extracted stream: LaLiga [11/33]
-🟡 Visiting detail page [14/33]: https://footystream.pk/events/villarreal-vs-la-coruna
+🟡 Visiting detail page [12/33]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
+🟢 Successfully scraped & extracted stream: Coppa Italia [5/33]
+🟡 Visiting detail page [13/33]: https://footystream.pk/events/rayo-vallecano-vs-racing
 🟢 Successfully scraped & extracted stream: LaLiga [12/33]
+🟡 Visiting detail page [14/33]: https://footystream.pk/events/villarreal-vs-la-coruna
+🟢 Successfully scraped & extracted stream: French Ligue 1 [7/33]
 🟡 Visiting detail page [15/33]: https://footystream.pk/events/barcelona-vs-valencia
-🟢 Successfully scraped & extracted stream: LaLiga [13/33]
-🟡 Visiting detail page [16/33]: https://footystream.pk/events/italian-gp
 🟢 Successfully scraped & extracted stream: LaLiga [14/33]
+🟡 Visiting detail page [16/33]: https://footystream.pk/events/italian-gp
+🟢 Successfully scraped & extracted stream: LaLiga [13/33]
 🟡 Visiting detail page [17/33]: https://footystream.pk/events/geelong-cats-vs-carlton
 🟢 Successfully scraped & extracted stream: LaLiga [15/33]
 🟡 Visiting detail page [18/33]: https://footystream.pk/events/rabbitohs-vs-roosters
-🟢 Successfully scraped & extracted stream: AFL [17/33]
-🟡 Visiting detail page [19/33]: https://footystream.pk/events/koln-vs-stuttgart
-🟢 Successfully scraped & extracted stream: NRL [18/33]
-🟡 Visiting detail page [20/33]: https://footystream.pk/events/bayer-leverkusen-vs-union-berlin
 🟢 Successfully scraped & extracted stream: Formula 1 [16/33]
+🟡 Visiting detail page [19/33]: https://footystream.pk/events/koln-vs-stuttgart
+🟢 Successfully scraped & extracted stream: AFL [17/33]
+🟡 Visiting detail page [20/33]: https://footystream.pk/events/bayer-leverkusen-vs-union-berlin
+🟢 Successfully scraped & extracted stream: NRL [18/33]
 🟡 Visiting detail page [21/33]: https://footystream.pk/events/bayern-munchen-vs-schalke-04
 🟢 Successfully scraped & extracted stream: Bundesliga [19/33]
 🟡 Visiting detail page [22/33]: https://footystream.pk/events/como-vs-genoa

@@ -3,6 +3,7 @@ import os
 import re
 import json
 from datetime import datetime, timedelta, timezone
+from urllib.parse import quote
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 
@@ -157,9 +158,9 @@ async def scrape_single_detail(browser, card_info, index, total_links):
         github_branch = os.environ.get("GITHUB_REF_NAME", "main")
 
         if stream_link_parts:
-            # ফোল্ডারের নামের স্পেসগুলো রিমুভ করে আন্ডারস্কোর (_) বসানো হয়েছে
-            t1 = sanitize_filename(card_info["team1Title"]).replace(" ", "_")
-            t2 = sanitize_filename(card_info["team2Title"]).replace(" ", "_")
+            # ফোল্ডার তৈরির সময় সাধারণ স্পেস রাখা হবে যাতে লোকাল ফোল্ডারে সমস্যা না হয়
+            t1 = sanitize_filename(card_info["team1Title"])
+            t2 = sanitize_filename(card_info["team2Title"])
             folder_name = f"{t1}_vs_{t2}"
             event_dir = os.path.join("all_event", folder_name)
             os.makedirs(event_dir, exist_ok=True)
@@ -180,7 +181,7 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                     # ফোল্ডারের ভেতরের .m3u8 ফাইলের কন্টেন্ট
                     m3u8_content = "#EXTM3U\n"
                     m3u8_content += "#EXT-X-VERSION:3\n"
-                    m3u8_content += "#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
+                    m3u8_content += f"#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\n"
                     if referer_val:
                         m3u8_content += f"{stream_url}|Referer={referer_val}\n"
                     else:
@@ -189,10 +190,13 @@ async def scrape_single_detail(browser, card_info, index, total_links):
                     with open(file_path, "w", encoding="utf-8") as f:
                         f.write(m3u8_content)
 
-                    # জেসন ফাইলের জন্য গিটহাব র-লিংক তৈরি
-                    raw_link = f"https://raw.githubusercontent.com/{github_repo}/{github_branch}/all_event/{folder_name}/{ch_name}.m3u8"
+                    # জেসন ফাইলের জন্য ফোল্ডার ও ফাইলের নাম এনকোড করা যাতে স্পেসের জায়গায় %20 বসে
+                    encoded_folder_name = quote(folder_name)
+                    encoded_ch_name = quote(f"{ch_name}.m3u8")
                     
-                    # রেফারার থাকলে লিংকের সাথে যুক্ত করা, না থাকলে শুধু র-লিংক বসানো
+                    raw_link = f"https://raw.githubusercontent.com/{github_repo}/{github_branch}/all_event/{encoded_folder_name}/{encoded_ch_name}"
+                    
+                    # রেফারার যেভাবে আগে যুক্ত হতো ঠিক সেভাবেই থাকবে
                     if referer_val:
                         json_stream_parts.append(f"{parts_split[0]},,{raw_link}|Referer={referer_val}")
                     else:

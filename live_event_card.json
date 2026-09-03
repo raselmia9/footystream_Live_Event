@@ -63,27 +63,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-04 00:45:00",
-        "team1Title": "Lille",
-        "team2Title": "Toulouse",
-        "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lille_vs_Toulouse/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lille_vs_Toulouse/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/lille-vs-toulouse",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/lille-vs-toulouse/1601"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/lille-vs-toulouse/1602"
-            }
-        ]
-    },
-    {
         "eventTitle": "Coppa Italia",
         "matchTime": "2026-09-04 01:00:00",
         "team1Title": "Hellas Verona",

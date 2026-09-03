@@ -34,17 +34,16 @@ async def scrape_footystream():
             await browser.close()
             update_status("Browser closed successfully.", "green")
 
-            # BeautifulSoup দিয়ে পার্স করা
             soup = BeautifulSoup(html_content, 'html.parser')
 
-            # ওয়েবসাইট স্ট্রাকচার অনুযায়ী '/events/' যুক্ত ট্যাগ বা লিঙ্কগুলো খুঁজে বের করা
+            # সঠিক পাথ অনুযায়ী কার্ডগুলো খোঁজা
             cards = soup.find_all('a', href=lambda href: href and '/events/' in href)
             total_cards = len(cards)
 
             if total_cards > 0:
                 update_status(f"Successfully found {total_cards} live event cards.", "green")
             else:
-                update_status("HOMEPAGE_ERROR: Found 0 live event cards using default pattern.", "red")
+                update_status("HOMEPAGE_ERROR: Found 0 live event cards.", "red")
 
             for index, card in enumerate(cards, start=1):
                 try:
@@ -54,20 +53,18 @@ async def scrape_footystream():
                     full_text = card.get_text(separator="\n", strip=True)
                     lines = [line.strip() for line in full_text.split('\n') if line.strip()]
 
-                    # এইচটিএমএল স্ট্রাকচার অনুযায়ী টেক্সট ফিল্টার করা
-                    # সাধারণত এখানে প্রথম লাইন টুর্নামেন্ট/ইভেন্ট টাইটেল হয়
-                    event_title = lines[1] if len(lines) > 1 else (lines[0] if lines else "Live Event")
-                    
-                    team1 = lines[1] if len(lines) > 1 else "Event"
-                    team2 = lines[2] if len(lines) > 2 else ""
+                    # টিম বা ইভেন্ট টাইটেল বের করা
+                    team1 = lines[0] if len(lines) > 0 else "Team 1"
+                    team2 = lines[1] if len(lines) > 1 else "Team 2"
+                    event_title = f"{team1} vs {team2}" if len(lines) > 1 else team1
 
-                    # লোগো সংগ্রহ করা
+                    # লোগো নিরাপদভাবে সংগ্রহ করা (find ব্যবহার করে)
                     logo1, logo2 = "", ""
                     imgs = card.find_all('img')
-                    if len(imgs) >= 1:
-                        logo1 = imgs.get('src', '') if hasattr(imgs, 'get') else imgs.get('src', '')
-                    if len(imgs) >= 2:
-                        logo2 = imgs.get('src', '')
+                    if len(imgs) > 0:
+                        logo1 = imgs[0].get('src', '')
+                    if len(imgs) > 1:
+                        logo2 = imgs[1].get('src', '')
 
                     is_hot = "Live Now!" in full_text
 
@@ -89,12 +86,12 @@ async def scrape_footystream():
                 except Exception as card_err:
                     update_status(f"PARSING_ERROR on card {index}: {card_err}", "red")
 
-        # JSON ফাইলে ডেটা সেভ করা (M3U ফাইল বাদ দিয়ে)
+        # JSON ফাইলে ডেটা সেভ করা
         with open("live_event_card.json", "w", encoding="utf-8") as f:
             json.dump(events_data, f, ensure_ascii=False, indent=4)
-        update_status("Data successfully saved to live_event_card.json", "green")
+        update_status(f"Data successfully saved to live_event_card.json. Total collected: {len(events_data)}", "green")
 
-        update_status(f"Process completed successfully. Total collected events: {len(events_data)}", "green")
+        update_status(f"Process completed successfully.", "green")
 
     except Exception as e:
         update_status(f"CRITICAL_ERROR: {e}", "red")

@@ -5,73 +5,70 @@
 🟢 Successfully found 33 live event cards on homepage.
 🟢 Total unique detail links to process in parallel: 33
 🟡 Visiting detail page [2/33]: https://footystream.pk/events/british-open
-🟡 Visiting detail page [5/33]: https://footystream.pk/events/palermo-vs-mantova
-🟡 Visiting detail page [3/33]: https://footystream.pk/events/fremantle-vs-hawthorn
 🟡 Visiting detail page [1/33]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [4/33]: https://footystream.pk/events/omega-european-masters
-🟢 Successfully scraped: SnookerAug 31, 2026 at 12:00 PM UTCBritish OpenLive Now!SnookerStreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchBritish Open Live Streaming Online - FootyStreamWatch British Open Live at 2026-08-31T12:00:00.000ZWatch British Open live stream online. The best live streaming links will be available closer to the start of the coverage. [2/33]
+🟡 Visiting detail page [3/33]: https://footystream.pk/events/fremantle-vs-hawthorn
+🟡 Visiting detail page [5/33]: https://footystream.pk/events/palermo-vs-mantova
+🟢 Successfully scraped: Live Event [1/33]
+🟢 Successfully scraped: Live Event [2/33]
+🟢 Successfully scraped: Live Event [5/33]
 🟡 Visiting detail page [6/33]: https://footystream.pk/events/hellas-verona-vs-cagliari
-🟢 Successfully scraped: AFLSep 03, 2026 at 10:00 AM UTCFremantleLive Now!Hawthorn HawksStreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchFremantle vs Hawthorn Live Streaming Online - FootyStreamWatch Fremantle vs Hawthorn Live at 2026-09-03T10:00:00.000ZWatch Fremantle vs Hawthorn live stream online. The best live streaming links will be available closer to the start of the coverage. [3/33]
+🟢 Successfully scraped: Live Event [3/33]
 🟡 Visiting detail page [7/33]: https://footystream.pk/events/lille-vs-toulouse
-🟢 Successfully scraped: PGA TourSep 03, 2026 at 11:00 AM UTCOmega European MastersLive Now!PGA TourStreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchOmega European Masters Live Streaming Online - FootyStreamWatch Omega European Masters Live at 2026-09-03T11:00:00.000ZWatch Omega European Masters live stream online. The best live streaming links will be available closer to the start of the coverage. [4/33]
-🟢 Successfully scraped: ATP TourAug 24, 2026 at 02:00 PM UTCUS Open 2026Live Now!ATP TourStreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchLink 2Yes720p2EnglishWatchLink 3Yes720p2EnglishWatchLink 4Yes720p2EnglishWatchUS Open 2026 Live Streaming Online - FootyStreamWatch US Open 2026 Live at 2026-08-24T14:00:00.000ZWatch US Open 2026 live stream online. The best live streaming links will be available closer to the start of the coverage. [1/33]
-🟡 Visiting detail page [9/33]: https://footystream.pk/events/psg-vs-monaco
+🟢 Successfully scraped: Live Event [4/33]
 🟡 Visiting detail page [8/33]: https://footystream.pk/events/lyonn-vs-auxerre
-🟢 Successfully scraped: Coppa ItaliaSep 03, 2026 at 04:00 PM UTCPalermoStarts in: 03:50:16MantovaStreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchPalermo vs Mantova Live Streaming Online - FootyStreamWatch Palermo vs Mantova Live at 2026-09-03T16:00:00.000ZWatch Palermo vs Mantova live stream online. The best live streaming links will be available closer to the start of the coverage. [5/33]
+🟡 Visiting detail page [9/33]: https://footystream.pk/events/psg-vs-monaco
 🟡 Visiting detail page [10/33]: https://footystream.pk/events/celta-vigo-vs-real-sociedad
-🟢 Successfully scraped: Coppa ItaliaSep 03, 2026 at 07:00 PM UTCHellas VeronaStarts in: 06:50:12CagliariStream links will be activated before 1 hr of starting time.Hellas Verona vs Cagliari Live Streaming Online - FootyStreamWatch Hellas Verona vs Cagliari Live at 2026-09-03T19:00:00.000ZWatch Hellas Verona vs Cagliari live stream online. The best live streaming links will be available closer to the start of the coverage. [6/33]
+🟢 Successfully scraped: Live Event [7/33]
 🟡 Visiting detail page [11/33]: https://footystream.pk/events/real-madrid-vs-real-betis
-🟢 Successfully scraped: French Ligue 1Sep 04, 2026 at 06:45 PM UTCPSGStarts in: 30:35:12AS MonacoStream links will be activated before 1 hr of starting time.PSG vs Monaco Live Streaming Online - FootyStreamWatch PSG vs Monaco Live at 2026-09-04T18:45:00.000ZWatch PSG vs Monaco live stream online. The best live streaming links will be available closer to the start of the coverage. [9/33]
+🟢 Successfully scraped: Live Event [8/33]
 🟡 Visiting detail page [12/33]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
-🟢 Successfully scraped: French Ligue 1Sep 03, 2026 at 06:45 PM UTCLilleStarts in: 06:35:11ToulouseStreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchLink 2Yes720p2SpanishWatchLille vs Toulouse Live Streaming Online - FootyStreamWatch Lille vs Toulouse Live at 2026-09-03T18:45:00.000ZWatch Lille vs Toulouse live stream online. The best live streaming links will be available closer to the start of the coverage. [7/33]
-🟢 Successfully scraped: LaLigaSep 03, 2026 at 07:00 PM UTCCelta de VigoStarts in: 06:50:11Real SociedadStream links will be activated before 1 hr of starting time.Celta Vigo vs Real Sociedad Live Streaming Online - FootyStreamWatch Celta Vigo vs Real Sociedad Live at 2026-09-03T19:00:00.000ZWatch Celta Vigo vs Real Sociedad live stream online. The best live streaming links will be available closer to the start of the coverage. [10/33]
+🟢 Successfully scraped: Live Event [10/33]
+🟢 Successfully scraped: Live Event [6/33]
 🟡 Visiting detail page [13/33]: https://footystream.pk/events/rayo-vallecano-vs-racing
+🟢 Successfully scraped: Live Event [9/33]
 🟡 Visiting detail page [14/33]: https://footystream.pk/events/villarreal-vs-la-coruna
-🟢 Successfully scraped: French Ligue 1Sep 04, 2026 at 05:00 PM UTCOlympique LyonnaisStarts in: 28:50:10AuxerreStream links will be activated before 1 hr of starting time.Lyonn vs Auxerre Live Streaming Online - FootyStreamWatch Lyonn vs Auxerre Live at 2026-09-04T17:00:00.000ZWatch Lyonn vs Auxerre live stream online. The best live streaming links will be available closer to the start of the coverage. [8/33]
 🟡 Visiting detail page [15/33]: https://footystream.pk/events/barcelona-vs-valencia
-🟢 Successfully scraped: LaLigaSep 04, 2026 at 07:00 PM UTCReal MadridStarts in: 30:50:07Real BetisStream links will be activated before 1 hr of starting time.Real Madrid vs Real Betis Live Streaming Online - FootyStreamWatch Real Madrid vs Real Betis Live at 2026-09-04T19:00:00.000ZWatch Real Madrid vs Real Betis live stream online. The best live streaming links will be available closer to the start of the coverage. [11/33]
+🟢 Successfully scraped: Live Event [11/33]
 🟡 Visiting detail page [16/33]: https://footystream.pk/events/italian-gp
-🟢 Successfully scraped: LaLigaSep 06, 2026 at 02:15 PM UTCFC BarcelonaStarts in: 74:05:07ValenciaStream links will be activated before 1 hr of starting time.Barcelona vs Valencia Live Streaming Online - FootyStreamWatch Barcelona vs Valencia Live at 2026-09-06T14:15:00.000ZWatch Barcelona vs Valencia live stream online. The best live streaming links will be available closer to the start of the coverage. [15/33]
+🟢 Successfully scraped: Live Event [12/33]
+🟢 Successfully scraped: Live Event [13/33]
 🟡 Visiting detail page [17/33]: https://footystream.pk/events/geelong-cats-vs-carlton
-🟢 Successfully scraped: LaLigaSep 05, 2026 at 04:30 PM UTCRayo VallecanoStarts in: 52:20:06Racing SantanderStream links will be activated before 1 hr of starting time.Rayo Vallecano vs Racing Live Streaming Online - FootyStreamWatch Rayo Vallecano vs Racing Live at 2026-09-05T16:30:00.000ZWatch Rayo Vallecano vs Racing live stream online. The best live streaming links will be available closer to the start of the coverage. [13/33]
 🟡 Visiting detail page [18/33]: https://footystream.pk/events/rabbitohs-vs-roosters
-🟢 Successfully scraped: LaLigaSep 05, 2026 at 02:15 PM UTCAtlético MadridStarts in: 50:05:06Athletic ClubStream links will be activated before 1 hr of starting time.Atlético Madrid vs Athletic Club Live Streaming Online - FootyStreamWatch Atlético Madrid vs Athletic Club Live at 2026-09-05T14:15:00.000ZWatch Atlético Madrid vs Athletic Club live stream online. The best live streaming links will be available closer to the start of the coverage. [12/33]
+🟢 Successfully scraped: Live Event [15/33]
 🟡 Visiting detail page [19/33]: https://footystream.pk/events/koln-vs-stuttgart
-🟢 Successfully scraped: Formula 1Sep 04, 2026 at 06:30 AM UTCF1 Italian Grand PrixStarts in: 18:20:03Formula 1StreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchLink 2Yes720p2EnglishWatchLink 3Yes720p2EspañolWatchF1 Italian Grand Prix Live Streaming Online - FootyStreamWatch F1 Italian Grand Prix Live at 2026-09-04T06:30:00.000ZWatch F1 Italian Grand Prix live stream online. The best live streaming links will be available closer to the start of the coverage. [16/33]
+🟢 Successfully scraped: Live Event [14/33]
 🟡 Visiting detail page [20/33]: https://footystream.pk/events/bayer-leverkusen-vs-union-berlin
-🟢 Successfully scraped: AFLSep 04, 2026 at 09:30 AM UTCGeelong CatsStarts in: 21:20:02CarltonStreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchGeelong Cats vs Carlton Live Streaming Online - FootyStreamWatch Geelong Cats vs Carlton Live at 2026-09-04T09:30:00.000ZWatch Geelong Cats vs Carlton live stream online. The best live streaming links will be available closer to the start of the coverage. [17/33]
+🟢 Successfully scraped: Live Event [18/33]
+🟢 Successfully scraped: Live Event [16/33]
 🟡 Visiting detail page [21/33]: https://footystream.pk/events/bayern-munchen-vs-schalke-04
-🟢 Successfully scraped: NRLSep 04, 2026 at 10:00 AM UTCSouth Sydney RabbitohsStarts in: 21:50:02Sydney RoostersStreamerChannelMobileQualityAdsLanguageLinkLink 1Yes720p2EnglishWatchLink 2Yes720p2EnglishWatchLink 3Yes720p2EnglishWatchRabbitohs vs Roosters Live Streaming Online - FootyStreamWatch Rabbitohs vs Roosters Live at 2026-09-04T10:00:00.000ZWatch Rabbitohs vs Roosters live stream online. The best live streaming links will be available closer to the start of the coverage. [18/33]
+🟢 Successfully scraped: Live Event [17/33]
+🟢 Successfully scraped: Live Event [19/33]
 🟡 Visiting detail page [22/33]: https://footystream.pk/events/como-vs-genoa
-🟢 Successfully scraped: BundesligaSep 04, 2026 at 06:30 PM UTCKölnStarts in: 30:20:01StuttgartStream links will be activated before 1 hr of starting time.Köln vs Stuttgart Live Streaming Online - FootyStreamWatch Köln vs Stuttgart Live at 2026-09-04T18:30:00.000ZWatch Köln vs Stuttgart live stream online. The best live streaming links will be available closer to the start of the coverage. [19/33]
-🟡 Visiting detail page [23/33]: https://footystream.pk/events/torino-vs-fiorentina
-🟢 Successfully scraped: BundesligaSep 05, 2026 at 01:30 PM UTCBayer LeverkusenStarts in: 49:19:58Union BerlinStream links will be activated before 1 hr of starting time.Bayer Leverkusen vs Union Berlin Live Streaming Online - FootyStreamWatch Bayer Leverkusen vs Union Berlin Live at 2026-09-05T13:30:00.000ZWatch Bayer Leverkusen vs Union Berlin live stream online. The best live streaming links will be available closer to the start of the coverage. [20/33]
 🟡 Visiting detail page [24/33]: https://footystream.pk/events/inter-milan-vs-napoli
-🟢 Successfully scraped: BundesligaSep 05, 2026 at 04:30 PM UTCBayern MünchenStarts in: 52:19:57Schalke 04Stream links will be activated before 1 hr of starting time.Bayern München vs Schalke 04 Live Streaming Online - FootyStreamWatch Bayern München vs Schalke 04 Live at 2026-09-05T16:30:00.000ZWatch Bayern München vs Schalke 04 live stream online. The best live streaming links will be available closer to the start of the coverage. [21/33]
+🟡 Visiting detail page [23/33]: https://footystream.pk/events/torino-vs-fiorentina
+🟢 Successfully scraped: Live Event [20/33]
 🟡 Visiting detail page [25/33]: https://footystream.pk/events/roma-vs-atalanta
-🟢 Successfully scraped: Serie ASep 04, 2026 at 06:45 PM UTCComoStarts in: 30:34:57GenoaStream links will be activated before 1 hr of starting time.Como vs Genoa Live Streaming Online - FootyStreamWatch Como vs Genoa Live at 2026-09-04T18:45:00.000ZWatch Como vs Genoa live stream online. The best live streaming links will be available closer to the start of the coverage. [22/33]
+🟢 Successfully scraped: Live Event [22/33]
+🟢 Successfully scraped: Live Event [21/33]
+🟢 Successfully scraped: Live Event [24/33]
 🟡 Visiting detail page [26/33]: https://footystream.pk/events/milan-vs-juventus
-🟢 Successfully scraped: Serie ASep 05, 2026 at 01:00 PM UTCTorinoStarts in: 48:49:56FiorentinaStream links will be activated before 1 hr of starting time.Torino vs Fiorentina Live Streaming Online - FootyStreamWatch Torino vs Fiorentina Live at 2026-09-05T13:00:00.000ZWatch Torino vs Fiorentina live stream online. The best live streaming links will be available closer to the start of the coverage. [23/33]
 🟡 Visiting detail page [27/33]: https://footystream.pk/events/liverpool-vs-ipswich-town
-🟢 Successfully scraped: Serie ASep 06, 2026 at 06:45 PM UTCAC MilanStarts in: 78:34:54JuventusStream links will be activated before 1 hr of starting time.Milan vs Juventus Live Streaming Online - FootyStreamWatch Milan vs Juventus Live at 2026-09-06T18:45:00.000ZWatch Milan vs Juventus live stream online. The best live streaming links will be available closer to the start of the coverage. [26/33]
 🟡 Visiting detail page [28/33]: https://footystream.pk/events/newcastle-vs-bournemouth
-🟢 Successfully scraped: Serie ASep 05, 2026 at 06:45 PM UTCAS RomaStarts in: 54:34:53AtalantaStream links will be activated before 1 hr of starting time.Roma vs Atalanta Live Streaming Online - FootyStreamWatch Roma vs Atalanta Live at 2026-09-05T18:45:00.000ZWatch Roma vs Atalanta live stream online. The best live streaming links will be available closer to the start of the coverage. [25/33]
+🟢 Successfully scraped: Live Event [25/33]
+🟢 Successfully scraped: Live Event [23/33]
 🟡 Visiting detail page [29/33]: https://footystream.pk/events/fulham-vs-crystal-palace
-🟢 Successfully scraped: Premier LeagueSep 04, 2026 at 07:00 PM UTCLiverpoolStarts in: 30:49:51Ipswich TownStream links will be activated before 1 hr of starting time.Liverpool vs Ipswich Town Live Streaming Online - FootyStreamWatch Liverpool vs Ipswich Town Live at 2026-09-04T19:00:00.000ZWatch Liverpool vs Ipswich Town live stream online. The best live streaming links will be available closer to the start of the coverage. [27/33]
 🟡 Visiting detail page [30/33]: https://footystream.pk/events/brighton-vs-leeds-united
-🟢 Successfully scraped: Serie ASep 05, 2026 at 04:00 PM UTCInter MilanStarts in: 51:49:50NapoliStream links will be activated before 1 hr of starting time.Inter Milan vs Napoli Live Streaming Online - FootyStreamWatch Inter Milan vs Napoli Live at 2026-09-05T16:00:00.000ZWatch Inter Milan vs Napoli live stream online. The best live streaming links will be available closer to the start of the coverage. [24/33]
+🟢 Successfully scraped: Live Event [26/33]
+🟢 Successfully scraped: Live Event [28/33]
+🟢 Successfully scraped: Live Event [27/33]
 🟡 Visiting detail page [31/33]: https://footystream.pk/events/sunderland-vs-brentford
-🟢 Successfully scraped: Premier LeagueSep 05, 2026 at 02:00 PM UTCBrighton & Hove AlbionStarts in: 49:49:47Leeds UnitedStream links will be activated before 1 hr of starting time.Brighton vs Leeds United Live Streaming Online - FootyStreamWatch Brighton vs Leeds United Live at 2026-09-05T14:00:00.000ZWatch Brighton vs Leeds United live stream online. The best live streaming links will be available closer to the start of the coverage. [30/33]
 🟡 Visiting detail page [32/33]: https://footystream.pk/events/manchester-city-vs-coventry-city
-🟢 Successfully scraped: Premier LeagueSep 05, 2026 at 02:00 PM UTCFulhamStarts in: 49:49:44Crystal PalaceStream links will be activated before 1 hr of starting time.Fulham vs Crystal Palace Live Streaming Online - FootyStreamWatch Fulham vs Crystal Palace Live at 2026-09-05T14:00:00.000ZWatch Fulham vs Crystal Palace live stream online. The best live streaming links will be available closer to the start of the coverage. [29/33]
 🟡 Visiting detail page [33/33]: https://footystream.pk/events/porto-vs-moreirense
-🟢 Successfully scraped: Premier LeagueSep 05, 2026 at 02:00 PM UTCSunderlandStarts in: 49:49:44BrentfordStream links will be activated before 1 hr of starting time.Sunderland vs Brentford Live Streaming Online - FootyStreamWatch Sunderland vs Brentford Live at 2026-09-05T14:00:00.000ZWatch Sunderland vs Brentford live stream online. The best live streaming links will be available closer to the start of the coverage. [31/33]
-🟢 Successfully scraped: Premier LeagueSep 05, 2026 at 02:00 PM UTCManchester CityStarts in: 49:49:41Coventry CityStream links will be activated before 1 hr of starting time.Manchester City vs Coventry City Live Streaming Online - FootyStreamWatch Manchester City vs Coventry City Live at 2026-09-05T14:00:00.000ZWatch Manchester City vs Coventry City live stream online. The best live streaming links will be available closer to the start of the coverage. [32/33]
-🔴 ERROR on detail page https://footystream.pk/events/villarreal-vs-la-coruna: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystream.pk/events/villarreal-vs-la-coruna", waiting until "load"
-
-🟢 Successfully scraped: Premier LeagueSep 05, 2026 at 11:30 AM UTCNewcastle UnitedStarts in: 47:19:40AFC BournemouthStream links will be activated before 1 hr of starting time.Newcastle vs Bournemouth Live Streaming Online - FootyStreamWatch Newcastle vs Bournemouth Live at 2026-09-05T11:30:00.000ZWatch Newcastle vs Bournemouth live stream online. The best live streaming links will be available closer to the start of the coverage. [28/33]
-🟢 Successfully scraped: Liga PortugalSep 04, 2026 at 07:15 PM UTCPortoStarts in: 31:04:40MoreirenseStream links will be activated before 1 hr of starting time.Porto vs Moreirense Live Streaming Online - FootyStreamWatch Porto vs Moreirense Live at 2026-09-04T19:15:00.000ZWatch Porto vs Moreirense live stream online. The best live streaming links will be available closer to the start of the coverage. [33/33]
+🟢 Successfully scraped: Live Event [30/33]
+🟢 Successfully scraped: Live Event [29/33]
+🟢 Successfully scraped: Live Event [31/33]
+🟢 Successfully scraped: Live Event [32/33]
+🟢 Successfully scraped: Live Event [33/33]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 32
+🟢 Process completed successfully. Total collected events: 33

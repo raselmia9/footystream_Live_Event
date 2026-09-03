@@ -193,31 +193,6 @@
         ]
     },
     {
-        "eventTitle": "NRL",
-        "matchTime": "2026-09-04 16:00:00",
-        "team1Title": "South Sydney Rabbitohs",
-        "team2Title": "Sydney Roosters",
-        "team1Logo": "https://cdn.img4every1.org/team/south-sydney-rabbitohs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/rabbitohs-vs-roosters",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/rabbitohs-vs-roosters/1614"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/rabbitohs-vs-roosters/1615"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/rabbitohs-vs-roosters/1616"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-09-04 23:00:00",
         "team1Title": "Olympique Lyonnais",

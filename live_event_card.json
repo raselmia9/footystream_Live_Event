@@ -88,23 +88,6 @@
         ]
     },
     {
-        "eventTitle": "AFL",
-        "matchTime": "2026-09-04 15:30:00",
-        "team1Title": "Geelong Cats",
-        "team2Title": "Carlton",
-        "team1Logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/carlton/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Geelong%20Cats_vs_Carlton/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/geelong-cats-vs-carlton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/geelong-cats-vs-carlton/1613"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-09-04 23:00:00",
         "team1Title": "Olympique Lyonnais",

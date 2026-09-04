@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 32
-🟡 Visiting detail page [1/32]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/32]: https://footystream.pk/events/british-open
 🟡 Visiting detail page [3/32]: https://footystream.pk/events/omega-european-masters
-🟢 Successfully processed: PGA Tour [3/32]
-🟡 Visiting detail page [4/32]: https://footystream.pk/events/italian-gp
+🟡 Visiting detail page [1/32]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: Snooker [2/32]
-🟡 Visiting detail page [5/32]: https://footystream.pk/events/geelong-cats-vs-carlton
 🟢 Successfully processed: ATP Tour [1/32]
+🟡 Visiting detail page [4/32]: https://footystream.pk/events/italian-gp
+🟡 Visiting detail page [5/32]: https://footystream.pk/events/geelong-cats-vs-carlton
+🟢 Successfully processed: PGA Tour [3/32]
 🟡 Visiting detail page [6/32]: https://footystream.pk/events/rabbitohs-vs-roosters
 🟢 Successfully processed: Formula 1 [4/32]
 🟡 Visiting detail page [7/32]: https://footystream.pk/events/lyonn-vs-auxerre
@@ -32,19 +32,19 @@
 🟡 Visiting detail page [15/32]: https://footystream.pk/events/como-vs-genoa
 🟢 Successfully processed: Serie A [15/32]
 🟡 Visiting detail page [16/32]: https://footystream.pk/events/torino-vs-fiorentina
-🟢 Successfully processed: Saudi Pro League [9/32]
-🟡 Visiting detail page [17/32]: https://footystream.pk/events/inter-milan-vs-napoli
 🟢 Successfully processed: Serie A [16/32]
+🟡 Visiting detail page [17/32]: https://footystream.pk/events/inter-milan-vs-napoli
+🟢 Successfully processed: Saudi Pro League [9/32]
 🟡 Visiting detail page [18/32]: https://footystream.pk/events/roma-vs-atalanta
 🟢 Successfully processed: Serie A [17/32]
-🟢 Successfully processed: Saudi Pro League [10/32]
 🟡 Visiting detail page [19/32]: https://footystream.pk/events/milan-vs-juventus
-🟡 Visiting detail page [20/32]: https://footystream.pk/events/real-madrid-vs-real-betis
 🟢 Successfully processed: Serie A [18/32]
+🟡 Visiting detail page [20/32]: https://footystream.pk/events/real-madrid-vs-real-betis
+🟢 Successfully processed: Saudi Pro League [10/32]
 🟡 Visiting detail page [21/32]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
 🟢 Successfully processed: Serie A [19/32]
-🟢 Successfully processed: LaLiga [20/32]
 🟡 Visiting detail page [22/32]: https://footystream.pk/events/rayo-vallecano-vs-racing
+🟢 Successfully processed: LaLiga [20/32]
 🟡 Visiting detail page [23/32]: https://footystream.pk/events/villarreal-vs-la-coruna
 🟢 Successfully processed: LaLiga [21/32]
 🟡 Visiting detail page [24/32]: https://footystream.pk/events/barcelona-vs-valencia

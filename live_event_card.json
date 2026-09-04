@@ -1,75 +1,5 @@
 [
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-05 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Real%20Madrid/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Real%20Madrid/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Real%20Madrid/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Real%20Madrid/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Real%20Madrid/Link%205.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-real-betis",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1641"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1642"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1643"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1644"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1645"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-05 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Liverpool",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%206.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-ipswich-town",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1635"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1636"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1637"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1638"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1639"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1640"
-            }
-        ]
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-08-24 20:00:00",
         "team1Title": "US Open 2026",
@@ -154,23 +84,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/italian-gp/1610"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-05 01:15:00",
-        "team1Title": "Porto",
-        "team2Title": "Moreirense",
-        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Porto_vs_Moreirense/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/porto-vs-moreirense",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/porto-vs-moreirense/1648"
             }
         ]
     },

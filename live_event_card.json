@@ -1,5 +1,34 @@
 [
     {
+        "eventTitle": "ATP Tour",
+        "matchTime": "2026-08-24 20:00:00",
+        "team1Title": "US Open 2026",
+        "team2Title": "ATP Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/US%20Open%202026_vs_ATP%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/US%20Open%202026_vs_ATP%20Tour/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/US%20Open%202026_vs_ATP%20Tour/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/US%20Open%202026_vs_ATP%20Tour/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/us-open-2026",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/us-open-2026/1437"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/us-open-2026/1438"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/us-open-2026/1439"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/us-open-2026/1440"
+            }
+        ]
+    },
+    {
         "eventTitle": "Snooker",
         "matchTime": "2026-08-31 18:00:00",
         "team1Title": "British Open",

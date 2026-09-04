@@ -36,7 +36,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/British%20Open_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/british-open",
         "multiWatchPageLink": [
             {
@@ -70,7 +70,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Italian%20Grand%20Prix_vs_Formula%201/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Italian%20Grand%20Prix_vs_Formula%201/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Italian%20Grand%20Prix_vs_Formula%201/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Italian%20Grand%20Prix_vs_Formula%201/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Italian%20Grand%20Prix_vs_Formula%201/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/italian-gp",
         "multiWatchPageLink": [
             {

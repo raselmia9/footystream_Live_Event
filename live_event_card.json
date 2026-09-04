@@ -70,6 +70,27 @@
         ]
     },
     {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-05 01:05:00",
+        "team1Title": "PSG",
+        "team2Title": "AS Monaco",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/psg-vs-monaco",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/psg-vs-monaco/1649"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/psg-vs-monaco/1650"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-08-24 20:00:00",
         "team1Title": "US Open 2026",
@@ -175,27 +196,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://footystream.pk/alpha/lyonn-vs-auxerre/1632"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-05 01:05:00",
-        "team1Title": "PSG",
-        "team2Title": "AS Monaco",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/psg-vs-monaco",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/psg-vs-monaco/1649"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/psg-vs-monaco/1650"
             }
         ]
     },

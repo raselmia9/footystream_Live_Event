@@ -183,40 +183,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-05 00:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Köln",
-        "team1Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_K%C3%B6ln/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/koln-vs-stuttgart",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/koln-vs-stuttgart/1647"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-05 00:45:00",
-        "team1Title": "Como",
-        "team2Title": "Genoa",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Como_vs_Genoa/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/como-vs-genoa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/como-vs-genoa/1646"
-            }
-        ]
-    },
-    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-09-05 01:15:00",
         "team1Title": "Porto",

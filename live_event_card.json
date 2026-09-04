@@ -97,7 +97,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lyonn-vs-auxerre",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lyonn-vs-auxerre/1631"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/lyonn-vs-auxerre/1632"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -109,7 +118,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/psg-vs-monaco",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/psg-vs-monaco/1633"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/psg-vs-monaco/1634"
+            }
+        ]
     },
     {
         "eventTitle": "Saudi Pro League",

@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 32
-🟡 Visiting detail page [1/32]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/32]: https://footystream.pk/events/british-open
+🟡 Visiting detail page [1/32]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/32]: https://footystream.pk/events/omega-european-masters
-🟢 Successfully processed: PGA Tour [3/32]
-🟡 Visiting detail page [4/32]: https://footystream.pk/events/italian-gp
-🟢 Successfully processed: ATP Tour [1/32]
 🟢 Successfully processed: Snooker [2/32]
+🟢 Successfully processed: PGA Tour [3/32]
+🟢 Successfully processed: ATP Tour [1/32]
+🟡 Visiting detail page [4/32]: https://footystream.pk/events/italian-gp
 🟡 Visiting detail page [5/32]: https://footystream.pk/events/geelong-cats-vs-carlton
 🟡 Visiting detail page [6/32]: https://footystream.pk/events/rabbitohs-vs-roosters
-🟢 Successfully processed: Formula 1 [4/32]
-🟡 Visiting detail page [7/32]: https://footystream.pk/events/lyonn-vs-auxerre
 🟢 Successfully processed: AFL [5/32]
-🟡 Visiting detail page [8/32]: https://footystream.pk/events/psg-vs-monaco
+🟡 Visiting detail page [7/32]: https://footystream.pk/events/lyonn-vs-auxerre
 🟢 Successfully processed: NRL [6/32]
+🟢 Successfully processed: Formula 1 [4/32]
+🟡 Visiting detail page [8/32]: https://footystream.pk/events/psg-vs-monaco
 🟡 Visiting detail page [9/32]: https://footystream.pk/events/al-ahli-saudi-vs-al-riyadh
 🟢 Successfully processed: French Ligue 1 [7/32]
 🟡 Visiting detail page [10/32]: https://footystream.pk/events/al-shabab-vs-al-hilal

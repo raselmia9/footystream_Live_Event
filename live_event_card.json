@@ -285,7 +285,28 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/real-madrid-vs-real-betis",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1641"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1642"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1643"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1644"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-real-betis/1645"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -357,7 +378,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-ipswich-town",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1635"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1636"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1637"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1638"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1639"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/liverpool-vs-ipswich-town/1640"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

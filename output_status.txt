@@ -6,24 +6,24 @@
 🟡 Visiting detail page [2/24]: https://footystream.pk/events/british-open
 🟡 Visiting detail page [3/24]: https://footystream.pk/events/omega-european-masters
 🟡 Visiting detail page [1/24]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: PGA Tour [3/24]
-🟢 Successfully processed: Snooker [2/24]
 🟢 Successfully processed: ATP Tour [1/24]
 🟡 Visiting detail page [4/24]: https://footystream.pk/events/italian-gp
-🟡 Visiting detail page [6/24]: https://footystream.pk/events/fulham-vs-crystal-palace
+🟢 Successfully processed: PGA Tour [3/24]
 🟡 Visiting detail page [5/24]: https://footystream.pk/events/newcastle-vs-bournemouth
+🟢 Successfully processed: Snooker [2/24]
+🟡 Visiting detail page [6/24]: https://footystream.pk/events/fulham-vs-crystal-palace
 🟢 Successfully processed: Formula 1 [4/24]
 🟡 Visiting detail page [7/24]: https://footystream.pk/events/brighton-vs-leeds-united
-🟢 Successfully processed: Premier League [6/24]
 🟢 Successfully processed: Premier League [5/24]
 🟡 Visiting detail page [8/24]: https://footystream.pk/events/sunderland-vs-brentford
+🟢 Successfully processed: Premier League [6/24]
 🟡 Visiting detail page [9/24]: https://footystream.pk/events/manchester-city-vs-coventry-city
 🟢 Successfully processed: Premier League [7/24]
 🟡 Visiting detail page [10/24]: https://footystream.pk/events/spurs-vs-nottingham-forest
 🟢 Successfully processed: Premier League [9/24]
 🟢 Successfully processed: Premier League [8/24]
-🟡 Visiting detail page [11/24]: https://footystream.pk/events/torino-vs-fiorentina
 🟡 Visiting detail page [12/24]: https://footystream.pk/events/inter-milan-vs-napoli
+🟡 Visiting detail page [11/24]: https://footystream.pk/events/torino-vs-fiorentina
 🟢 Successfully processed: Serie A [12/24]
 🟡 Visiting detail page [13/24]: https://footystream.pk/events/roma-vs-atalanta
 🟢 Successfully processed: Serie A [13/24]
@@ -49,7 +49,7 @@
 🟢 Successfully processed: LaLiga [22/24]
 🟡 Visiting detail page [24/24]: https://footystream.pk/events/al-nassr-vs-al-ittihad
 🟢 Successfully processed: LaLiga [23/24]
-🟢 Successfully processed: Bundesliga [17/24]
 🟢 Successfully processed: Saudi Pro League [24/24]
+🟢 Successfully processed: Bundesliga [17/24]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 24

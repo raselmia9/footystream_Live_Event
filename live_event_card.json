@@ -36,7 +36,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/British%20Open_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/british-open",
         "multiWatchPageLink": [
             {
@@ -264,75 +264,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-05 22:30:00",
-        "team1Title": "Rayo Vallecano",
-        "team2Title": "Racing Santander",
-        "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-racing",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-racing/1678"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-racing/1679"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-06 01:00:00",
-        "team1Title": "Villarreal",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/villarreal-vs-la-coruna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-06 20:15:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barcelona-vs-valencia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-06 22:30:00",
-        "team1Title": "Deportivo Alavés",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/alaves-vs-osasuna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-06 22:30:00",
-        "team1Title": "Málaga",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/malaga-vs-levante",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-05 22:00:00",
         "team1Title": "Inter Milan",
@@ -424,6 +355,87 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-arsenal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-05 22:30:00",
+        "team1Title": "Rayo Vallecano",
+        "team2Title": "Racing Santander",
+        "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-racing",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-racing/1678"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-racing/1679"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-06 01:00:00",
+        "team1Title": "Villarreal",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/villarreal-vs-la-coruna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-06 20:15:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barcelona-vs-valencia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-06 22:30:00",
+        "team1Title": "Deportivo Alavés",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/alaves-vs-osasuna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-06 22:30:00",
+        "team1Title": "Málaga",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/malaga-vs-levante",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-07 01:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Espanyol",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sevilla-vs-espanyol",
         "multiWatchPageLink": []
     },
     {

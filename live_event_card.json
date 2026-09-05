@@ -242,9 +242,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AS%20Roma_vs_Atalanta/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AS%20Roma_vs_Atalanta/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/roma-vs-atalanta",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/roma-vs-atalanta/1689"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/roma-vs-atalanta/1692"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -259,6 +268,27 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-06 01:00:00",
+        "team1Title": "Swansea City",
+        "team2Title": "Wrexham",
+        "team1Logo": "https://cdn.img4every1.org/team/swansea-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/swansea-city-vs-wrexham",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/swansea-city-vs-wrexham/1690"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/swansea-city-vs-wrexham/1691"
+            }
+        ]
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-06 01:00:00",
         "team1Title": "Villarreal",
@@ -268,7 +298,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/villarreal-vs-la-coruna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/villarreal-vs-la-coruna/1687"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/villarreal-vs-la-coruna/1688"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

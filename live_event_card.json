@@ -53,7 +53,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Omega%20European%20Masters_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/omega-european-masters",
         "multiWatchPageLink": [
             {
@@ -128,12 +128,12 @@
     {
         "eventTitle": "Saudi Pro League",
         "matchTime": "2026-09-06 00:00:00",
-        "team1Title": "Al-Nassr",
-        "team2Title": "Al Ittihad",
+        "team1Title": "Event Ended",
+        "team2Title": "Al-Nassr",
         "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/al-ittihad/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Al%20Ittihad/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Al-Nassr/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/al-nassr-vs-al-ittihad",
         "multiWatchPageLink": [
             {

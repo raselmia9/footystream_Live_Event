@@ -126,48 +126,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-06 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Swansea City",
-        "team1Logo": "https://cdn.img4every1.org/team/swansea-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Swansea%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Swansea%20City/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/swansea-city-vs-wrexham",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/swansea-city-vs-wrexham/1690"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/swansea-city-vs-wrexham/1691"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-06 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Villarreal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Villarreal/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/villarreal-vs-la-coruna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/villarreal-vs-la-coruna/1687"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/villarreal-vs-la-coruna/1688"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-09-06 03:00:00",
         "team1Title": "Australia",

@@ -109,23 +109,6 @@
         ]
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-09-05 23:00:00",
-        "team1Title": "Dan Hooker",
-        "team2Title": "Salahdine Parnasse",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Dan%20Hooker_vs_Salahdine%20Parnasse/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/dan-hooker-vs-salahdine-parnasse",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/dan-hooker-vs-salahdine-parnasse/1684"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-09-06 03:00:00",
         "team1Title": "Australia",

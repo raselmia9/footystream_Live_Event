@@ -6,29 +6,29 @@
 🟡 Visiting detail page [1/27]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/27]: https://footystream.pk/events/omega-european-masters
 🟡 Visiting detail page [2/27]: https://footystream.pk/events/british-open
-🟢 Successfully processed: Snooker [2/27]
-🟡 Visiting detail page [4/27]: https://footystream.pk/events/italian-gp
 🟢 Successfully processed: PGA Tour [3/27]
+🟡 Visiting detail page [4/27]: https://footystream.pk/events/italian-gp
+🟢 Successfully processed: Snooker [2/27]
 🟡 Visiting detail page [5/27]: https://footystream.pk/events/inter-milan-vs-napoli
 🟢 Successfully processed: ATP Tour [1/27]
 🟡 Visiting detail page [6/27]: https://footystream.pk/events/aston-villa-vs-hull-city
 🟢 Successfully processed: Serie A [5/27]
 🟡 Visiting detail page [7/27]: https://footystream.pk/events/rayo-vallecano-vs-racing
-🟢 Successfully processed: Formula 1 [4/27]
 🟢 Successfully processed: Premier League [6/27]
 🟡 Visiting detail page [8/27]: https://footystream.pk/events/bayern-munchen-vs-schalke-04
+🟢 Successfully processed: Formula 1 [4/27]
 🟡 Visiting detail page [9/27]: https://footystream.pk/events/indycar-monterey-grand-prix
-🟢 Successfully processed: LaLiga [7/27]
-🟡 Visiting detail page [10/27]: https://footystream.pk/events/dan-hooker-vs-salahdine-parnasse
-🟢 Successfully processed: MotorSports [9/27]
 🟢 Successfully processed: Bundesliga [8/27]
+🟡 Visiting detail page [10/27]: https://footystream.pk/events/dan-hooker-vs-salahdine-parnasse
+🟢 Successfully processed: LaLiga [7/27]
 🟡 Visiting detail page [11/27]: https://footystream.pk/events/al-nassr-vs-al-ittihad
+🟢 Successfully processed: MotorSports [9/27]
 🟡 Visiting detail page [12/27]: https://footystream.pk/events/roma-vs-atalanta
 🟢 Successfully processed: Serie A [12/27]
 🟡 Visiting detail page [13/27]: https://footystream.pk/events/milan-vs-juventus
-🟢 Successfully processed: Serie A [13/27]
-🟡 Visiting detail page [14/27]: https://footystream.pk/events/villarreal-vs-la-coruna
 🟢 Successfully processed: UFC [10/27]
+🟡 Visiting detail page [14/27]: https://footystream.pk/events/villarreal-vs-la-coruna
+🟢 Successfully processed: Serie A [13/27]
 🟡 Visiting detail page [15/27]: https://footystream.pk/events/barcelona-vs-valencia
 🟢 Successfully processed: Saudi Pro League [11/27]
 🟡 Visiting detail page [16/27]: https://footystream.pk/events/alaves-vs-osasuna

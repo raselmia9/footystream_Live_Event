@@ -348,9 +348,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atl%C3%A9tico%20Madrid_vs_Athletic%20Club/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atl%C3%A9tico%20Madrid_vs_Athletic%20Club/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/atletico-madrid-vs-athletic-club",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/atletico-madrid-vs-athletic-club/1671"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/atletico-madrid-vs-athletic-club/1672"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

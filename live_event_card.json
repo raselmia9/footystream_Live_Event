@@ -90,12 +90,12 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-05 22:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Napoli",
+        "team1Title": "Event Ended",
+        "team2Title": "Inter Milan",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Inter%20Milan_vs_Napoli/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Inter%20Milan_vs_Napoli/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Inter%20Milan/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Inter%20Milan/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/inter-milan-vs-napoli",
         "multiWatchPageLink": [
             {

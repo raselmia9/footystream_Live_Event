@@ -126,23 +126,6 @@
         ]
     },
     {
-        "eventTitle": "Saudi Pro League",
-        "matchTime": "2026-09-06 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Al-Nassr",
-        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/al-ittihad/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Al-Nassr/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/al-nassr-vs-al-ittihad",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/al-nassr-vs-al-ittihad/1680"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-06 00:45:00",
         "team1Title": "AS Roma",

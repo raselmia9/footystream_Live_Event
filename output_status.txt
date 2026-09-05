@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
-🟡 Visiting detail page [1/19]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/19]: https://footystream.pk/events/british-open
 🟡 Visiting detail page [3/19]: https://footystream.pk/events/omega-european-masters
-🟢 Successfully processed: PGA Tour [3/19]
-🟡 Visiting detail page [4/19]: https://footystream.pk/events/italian-gp
+🟡 Visiting detail page [1/19]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: Snooker [2/19]
+🟡 Visiting detail page [4/19]: https://footystream.pk/events/italian-gp
+🟢 Successfully processed: PGA Tour [3/19]
 🟡 Visiting detail page [5/19]: https://footystream.pk/events/indycar-monterey-grand-prix
 🟢 Successfully processed: ATP Tour [1/19]
 🟡 Visiting detail page [6/19]: https://footystream.pk/events/australia-vs-argentina
-🟢 Successfully processed: MotorSports [5/19]
 🟢 Successfully processed: Formula 1 [4/19]
 🟡 Visiting detail page [7/19]: https://footystream.pk/events/manchester-united-vs-everton
+🟢 Successfully processed: MotorSports [5/19]
 🟡 Visiting detail page [8/19]: https://footystream.pk/events/chelsea-vs-arsenal
-🟢 Successfully processed: Rugby Union [6/19]
-🟡 Visiting detail page [9/19]: https://footystream.pk/events/barcelona-vs-valencia
 🟢 Successfully processed: Premier League [7/19]
+🟡 Visiting detail page [9/19]: https://footystream.pk/events/barcelona-vs-valencia
+🟢 Successfully processed: Rugby Union [6/19]
 🟡 Visiting detail page [10/19]: https://footystream.pk/events/alaves-vs-osasuna
 🟢 Successfully processed: Premier League [8/19]
 🟡 Visiting detail page [11/19]: https://footystream.pk/events/malaga-vs-levante

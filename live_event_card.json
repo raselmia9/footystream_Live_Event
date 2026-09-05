@@ -134,42 +134,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-05 22:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Napoli",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/inter-milan-vs-napoli",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-06 00:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Atalanta",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/roma-vs-atalanta",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-07 00:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-05 19:30:00",
         "team1Title": "Bayer Leverkusen",
@@ -338,7 +302,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/aston-villa-vs-hull-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1675"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1676"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1677"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -419,6 +396,51 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/malaga-vs-levante",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-05 22:00:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Napoli",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/inter-milan-vs-napoli",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/inter-milan-vs-napoli/1673"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/inter-milan-vs-napoli/1674"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-06 00:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Atalanta",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/roma-vs-atalanta",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-07 00:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
         "multiWatchPageLink": []
     },
     {

@@ -97,7 +97,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/newcastle-vs-bournemouth",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/newcastle-vs-bournemouth/1652"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/newcastle-vs-bournemouth/1653"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/newcastle-vs-bournemouth/1654"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/newcastle-vs-bournemouth/1657"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -109,7 +126,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/fulham-vs-crystal-palace",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/fulham-vs-crystal-palace/1662"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/fulham-vs-crystal-palace/1663"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -121,7 +147,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/brighton-vs-leeds-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/brighton-vs-leeds-united/1660"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/brighton-vs-leeds-united/1661"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -133,7 +168,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/sunderland-vs-brentford",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/sunderland-vs-brentford/1658"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/sunderland-vs-brentford/1659"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -145,7 +189,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/manchester-city-vs-coventry-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/manchester-city-vs-coventry-city/1664"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -229,7 +278,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-schalke-04",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1655"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1656"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

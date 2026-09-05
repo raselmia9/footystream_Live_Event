@@ -206,6 +206,51 @@
         ]
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-09-06 03:00:00",
+        "team1Title": "Australia",
+        "team2Title": "Argentina",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/australia-vs-argentina",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/australia-vs-argentina/1685"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/australia-vs-argentina/1686"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-06 19:00:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/manchester-united-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-06 21:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Arsenal",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-arsenal",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-06 20:15:00",
         "team1Title": "FC Barcelona",
@@ -251,51 +296,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/sevilla-vs-espanyol",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-09-06 03:00:00",
-        "team1Title": "Australia",
-        "team2Title": "Argentina",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/australia-vs-argentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/australia-vs-argentina/1685"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/australia-vs-argentina/1686"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-06 19:00:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Everton",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/manchester-united-vs-everton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-06 21:30:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Arsenal",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/chelsea-vs-arsenal",
         "multiWatchPageLink": []
     },
     {

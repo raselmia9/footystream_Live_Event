@@ -3,11 +3,11 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
-🟡 Visiting detail page [2/23]: https://footystream.pk/events/british-open
 🟡 Visiting detail page [3/23]: https://footystream.pk/events/omega-european-masters
 🟡 Visiting detail page [1/23]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: PGA Tour [3/23]
+🟡 Visiting detail page [2/23]: https://footystream.pk/events/british-open
 🟢 Successfully processed: Snooker [2/23]
+🟢 Successfully processed: PGA Tour [3/23]
 🟡 Visiting detail page [4/23]: https://footystream.pk/events/italian-gp
 🟡 Visiting detail page [5/23]: https://footystream.pk/events/newcastle-vs-bournemouth
 🟢 Successfully processed: ATP Tour [1/23]
@@ -16,38 +16,38 @@
 🟡 Visiting detail page [7/23]: https://footystream.pk/events/brighton-vs-leeds-united
 🟢 Successfully processed: Premier League [5/23]
 🟡 Visiting detail page [8/23]: https://footystream.pk/events/sunderland-vs-brentford
-🟢 Successfully processed: Premier League [7/23]
-🟡 Visiting detail page [9/23]: https://footystream.pk/events/manchester-city-vs-coventry-city
 🟢 Successfully processed: Premier League [8/23]
+🟡 Visiting detail page [9/23]: https://footystream.pk/events/manchester-city-vs-coventry-city
+🟢 Successfully processed: Premier League [7/23]
 🟡 Visiting detail page [10/23]: https://footystream.pk/events/spurs-vs-nottingham-forest
-🟢 Successfully processed: Formula 1 [4/23]
-🟡 Visiting detail page [11/23]: https://footystream.pk/events/torino-vs-fiorentina
-🟢 Successfully processed: Premier League [9/23]
-🟡 Visiting detail page [12/23]: https://footystream.pk/events/inter-milan-vs-napoli
 🟢 Successfully processed: Premier League [10/23]
+🟡 Visiting detail page [11/23]: https://footystream.pk/events/torino-vs-fiorentina
+🟢 Successfully processed: Formula 1 [4/23]
+🟡 Visiting detail page [12/23]: https://footystream.pk/events/inter-milan-vs-napoli
+🟢 Successfully processed: Premier League [9/23]
 🟡 Visiting detail page [13/23]: https://footystream.pk/events/roma-vs-atalanta
 🟢 Successfully processed: Serie A [11/23]
 🟡 Visiting detail page [14/23]: https://footystream.pk/events/milan-vs-juventus
-🟢 Successfully processed: Serie A [12/23]
-🟡 Visiting detail page [15/23]: https://footystream.pk/events/bayer-leverkusen-vs-union-berlin
-🟢 Successfully processed: Serie A [13/23]
-🟡 Visiting detail page [16/23]: https://footystream.pk/events/bayern-munchen-vs-schalke-04
 🟢 Successfully processed: Serie A [14/23]
+🟡 Visiting detail page [15/23]: https://footystream.pk/events/bayer-leverkusen-vs-union-berlin
+🟢 Successfully processed: Serie A [12/23]
+🟡 Visiting detail page [16/23]: https://footystream.pk/events/bayern-munchen-vs-schalke-04
+🟢 Successfully processed: Serie A [13/23]
 🟡 Visiting detail page [17/23]: https://footystream.pk/events/atletico-madrid-vs-athletic-club
 🟢 Successfully processed: Bundesliga [15/23]
 🟡 Visiting detail page [18/23]: https://footystream.pk/events/rayo-vallecano-vs-racing
 🟢 Successfully processed: LaLiga [17/23]
 🟡 Visiting detail page [19/23]: https://footystream.pk/events/villarreal-vs-la-coruna
-🟢 Successfully processed: Bundesliga [16/23]
-🟡 Visiting detail page [20/23]: https://footystream.pk/events/barcelona-vs-valencia
-🟢 Successfully processed: LaLiga [18/23]
-🟡 Visiting detail page [21/23]: https://footystream.pk/events/alaves-vs-osasuna
 🟢 Successfully processed: LaLiga [19/23]
-🟡 Visiting detail page [22/23]: https://footystream.pk/events/malaga-vs-levante
+🟡 Visiting detail page [20/23]: https://footystream.pk/events/barcelona-vs-valencia
 🟢 Successfully processed: LaLiga [20/23]
-🟡 Visiting detail page [23/23]: https://footystream.pk/events/al-nassr-vs-al-ittihad
+🟡 Visiting detail page [21/23]: https://footystream.pk/events/alaves-vs-osasuna
 🟢 Successfully processed: LaLiga [21/23]
+🟡 Visiting detail page [22/23]: https://footystream.pk/events/malaga-vs-levante
+🟢 Successfully processed: Bundesliga [16/23]
 🟢 Successfully processed: LaLiga [22/23]
+🟡 Visiting detail page [23/23]: https://footystream.pk/events/al-nassr-vs-al-ittihad
+🟢 Successfully processed: LaLiga [18/23]
 🟢 Successfully processed: Saudi Pro League [23/23]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 23

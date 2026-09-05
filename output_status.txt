@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 24
+🟡 Visiting detail page [1/24]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/24]: https://footystream.pk/events/british-open
 🟡 Visiting detail page [3/24]: https://footystream.pk/events/omega-european-masters
-🟡 Visiting detail page [1/24]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: PGA Tour [3/24]
 🟡 Visiting detail page [4/24]: https://footystream.pk/events/italian-gp
 🟢 Successfully processed: Snooker [2/24]
 🟡 Visiting detail page [5/24]: https://footystream.pk/events/newcastle-vs-bournemouth
 🟢 Successfully processed: ATP Tour [1/24]
 🟡 Visiting detail page [6/24]: https://footystream.pk/events/fulham-vs-crystal-palace
-🟢 Successfully processed: Formula 1 [4/24]
-🟡 Visiting detail page [7/24]: https://footystream.pk/events/brighton-vs-leeds-united
 🟢 Successfully processed: Premier League [5/24]
+🟡 Visiting detail page [7/24]: https://footystream.pk/events/brighton-vs-leeds-united
+🟢 Successfully processed: Formula 1 [4/24]
 🟡 Visiting detail page [8/24]: https://footystream.pk/events/sunderland-vs-brentford
 🟢 Successfully processed: Premier League [6/24]
 🟡 Visiting detail page [9/24]: https://footystream.pk/events/manchester-city-vs-coventry-city
@@ -44,12 +44,12 @@
 🟡 Visiting detail page [21/24]: https://footystream.pk/events/barcelona-vs-valencia
 🟢 Successfully processed: LaLiga [21/24]
 🟡 Visiting detail page [22/24]: https://footystream.pk/events/alaves-vs-osasuna
-🟢 Successfully processed: Bundesliga [16/24]
-🟡 Visiting detail page [23/24]: https://footystream.pk/events/malaga-vs-levante
-🟢 Successfully processed: Bundesliga [17/24]
-🟡 Visiting detail page [24/24]: https://footystream.pk/events/al-nassr-vs-al-ittihad
 🟢 Successfully processed: LaLiga [22/24]
+🟡 Visiting detail page [23/24]: https://footystream.pk/events/malaga-vs-levante
 🟢 Successfully processed: LaLiga [23/24]
+🟡 Visiting detail page [24/24]: https://footystream.pk/events/al-nassr-vs-al-ittihad
 🟢 Successfully processed: Saudi Pro League [24/24]
+🟢 Successfully processed: Bundesliga [16/24]
+🟢 Successfully processed: Bundesliga [17/24]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 24

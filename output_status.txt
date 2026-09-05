@@ -12,9 +12,9 @@
 🟡 Visiting detail page [5/23]: https://footystream.pk/events/newcastle-vs-bournemouth
 🟢 Successfully processed: ATP Tour [1/23]
 🟡 Visiting detail page [6/23]: https://footystream.pk/events/fulham-vs-crystal-palace
-🟢 Successfully processed: Premier League [5/23]
-🟡 Visiting detail page [7/23]: https://footystream.pk/events/brighton-vs-leeds-united
 🟢 Successfully processed: Premier League [6/23]
+🟡 Visiting detail page [7/23]: https://footystream.pk/events/brighton-vs-leeds-united
+🟢 Successfully processed: Premier League [5/23]
 🟡 Visiting detail page [8/23]: https://footystream.pk/events/sunderland-vs-brentford
 🟢 Successfully processed: Premier League [7/23]
 🟡 Visiting detail page [9/23]: https://footystream.pk/events/manchester-city-vs-coventry-city

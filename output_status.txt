@@ -4,17 +4,17 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
 🟡 Visiting detail page [2/23]: https://footystream.pk/events/british-open
-🟡 Visiting detail page [1/23]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/23]: https://footystream.pk/events/omega-european-masters
+🟡 Visiting detail page [1/23]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: PGA Tour [3/23]
-🟢 Successfully processed: ATP Tour [1/23]
-🟢 Successfully processed: Snooker [2/23]
 🟡 Visiting detail page [4/23]: https://footystream.pk/events/italian-gp
+🟢 Successfully processed: Snooker [2/23]
+🟢 Successfully processed: ATP Tour [1/23]
 🟡 Visiting detail page [5/23]: https://footystream.pk/events/newcastle-vs-bournemouth
 🟡 Visiting detail page [6/23]: https://footystream.pk/events/fulham-vs-crystal-palace
 🟢 Successfully processed: Premier League [5/23]
-🟢 Successfully processed: Premier League [6/23]
 🟡 Visiting detail page [7/23]: https://footystream.pk/events/brighton-vs-leeds-united
+🟢 Successfully processed: Premier League [6/23]
 🟡 Visiting detail page [8/23]: https://footystream.pk/events/sunderland-vs-brentford
 🟢 Successfully processed: Premier League [7/23]
 🟡 Visiting detail page [9/23]: https://footystream.pk/events/manchester-city-vs-coventry-city

@@ -88,35 +88,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-05 19:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayer Leverkusen",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-union-berlin",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-05 19:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Borussia Dortmund",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Borussia%20Dortmund/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-hoffenheim",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-hoffenheim/1670"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-05 20:00:00",
         "team1Title": "Fulham",
@@ -266,30 +237,6 @@
                 "url": "https://footystream.pk/alpha/inter-milan-vs-napoli/1674"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-06 00:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Atalanta",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/roma-vs-atalanta",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-07 00:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",
@@ -475,7 +422,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Dan%20Hooker_vs_Salahdine%20Parnasse/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/dan-hooker-vs-salahdine-parnasse",
         "multiWatchPageLink": [
             {
@@ -500,6 +447,30 @@
                 "url": "https://footystream.pk/alpha/al-nassr-vs-al-ittihad/1680"
             }
         ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-06 00:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Atalanta",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/roma-vs-atalanta",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-07 00:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Rugby Union",

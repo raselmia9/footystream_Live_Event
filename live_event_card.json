@@ -243,31 +243,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-05 22:30:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Hull City",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/aston-villa-vs-hull-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1675"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1676"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1677"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-05 20:15:00",
         "team1Title": "Atlético Madrid",
@@ -400,6 +375,55 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-05 22:30:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Hull City",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/aston-villa-vs-hull-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1675"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1676"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1677"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-06 19:00:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/manchester-united-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-06 21:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Arsenal",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-arsenal",
         "multiWatchPageLink": []
     },
     {

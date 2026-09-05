@@ -193,6 +193,14 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/manchester-city-vs-coventry-city/1664"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/manchester-city-vs-coventry-city/1665"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/manchester-city-vs-coventry-city/1666"
             }
         ]
     },
@@ -206,7 +214,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/spurs-vs-nottingham-forest",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/spurs-vs-nottingham-forest/1667"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/spurs-vs-nottingham-forest/1668"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -218,7 +235,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/torino-vs-fiorentina",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/torino-vs-fiorentina/1669"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -267,6 +289,23 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-union-berlin",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-05 19:30:00",
+        "team1Title": "Borussia Dortmund",
+        "team2Title": "Hoffenheim",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-hoffenheim",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-hoffenheim/1670"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",

@@ -163,27 +163,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-05 22:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-schalke-04",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1655"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1656"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-05 20:00:00",
         "team1Title": "Fulham",
@@ -348,7 +327,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-racing",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-racing/1678"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-racing/1679"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -444,6 +432,31 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-05 22:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-schalke-04",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1655"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1656"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1681"
+            }
+        ]
+    },
+    {
         "eventTitle": "Saudi Pro League",
         "matchTime": "2026-09-06 00:00:00",
         "team1Title": "Al-Nassr",
@@ -453,6 +466,11 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/al-nassr-vs-al-ittihad",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/al-nassr-vs-al-ittihad/1680"
+            }
+        ]
     }
 ]

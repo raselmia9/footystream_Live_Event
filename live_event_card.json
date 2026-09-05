@@ -88,23 +88,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-05 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Torino",
-        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Torino/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/torino-vs-fiorentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/torino-vs-fiorentina/1669"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-05 19:30:00",
         "team1Title": "Bayer Leverkusen",

@@ -90,12 +90,12 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-05 19:00:00",
-        "team1Title": "Torino",
-        "team2Title": "Fiorentina",
+        "team1Title": "Event Ended",
+        "team2Title": "Torino",
         "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Torino_vs_Fiorentina/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Torino/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/torino-vs-fiorentina",
         "multiWatchPageLink": [
             {
@@ -316,7 +316,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Hull%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Hull%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Hull%20City/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/aston-villa-vs-hull-city",
         "multiWatchPageLink": [
             {
@@ -365,7 +365,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rayo%20Vallecano_vs_Racing%20Santander/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rayo%20Vallecano_vs_Racing%20Santander/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-racing",
         "multiWatchPageLink": [
             {
@@ -446,7 +446,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayern%20M%C3%BCnchen_vs_Schalke%2004/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayern%20M%C3%BCnchen_vs_Schalke%2004/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayern%20M%C3%BCnchen_vs_Schalke%2004/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-schalke-04",
         "multiWatchPageLink": [
             {

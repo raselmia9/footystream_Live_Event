@@ -88,77 +88,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-05 22:30:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Hull City",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Hull%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Hull%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Hull%20City/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/aston-villa-vs-hull-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1675"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1676"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-hull-city/1677"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-05 22:30:00",
-        "team1Title": "Rayo Vallecano",
-        "team2Title": "Racing Santander",
-        "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rayo%20Vallecano_vs_Racing%20Santander/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rayo%20Vallecano_vs_Racing%20Santander/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-racing",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-racing/1678"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-racing/1679"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-05 22:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayern%20M%C3%BCnchen_vs_Schalke%2004/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayern%20M%C3%BCnchen_vs_Schalke%2004/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayern%20M%C3%BCnchen_vs_Schalke%2004/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-schalke-04",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1655"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1656"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/bayern-munchen-vs-schalke-04/1681"
-            }
-        ]
-    },
-    {
         "eventTitle": "MotorSports",
         "matchTime": "2026-09-05 23:00:00",
         "team1Title": "IndyCar Monterey Grand Prix",
@@ -233,18 +162,6 @@
                 "url": "https://footystream.pk/alpha/roma-vs-atalanta/1692"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-07 00:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "EFL",
@@ -379,6 +296,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-arsenal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-07 00:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
         "multiWatchPageLink": []
     },
     {

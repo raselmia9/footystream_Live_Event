@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
-🟡 Visiting detail page [1/23]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/23]: https://footystream.pk/events/british-open
+🟡 Visiting detail page [1/23]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/23]: https://footystream.pk/events/omega-european-masters
 🟢 Successfully processed: Snooker [2/23]
-🟡 Visiting detail page [4/23]: https://footystream.pk/events/italian-gp
 🟢 Successfully processed: PGA Tour [3/23]
+🟡 Visiting detail page [4/23]: https://footystream.pk/events/italian-gp
 🟡 Visiting detail page [5/23]: https://footystream.pk/events/indycar-monterey-grand-prix
 🟢 Successfully processed: ATP Tour [1/23]
 🟡 Visiting detail page [6/23]: https://footystream.pk/events/dan-hooker-vs-salahdine-parnasse
-🟢 Successfully processed: Formula 1 [4/23]
-🟡 Visiting detail page [7/23]: https://footystream.pk/events/roma-vs-atalanta
 🟢 Successfully processed: UFC [6/23]
-🟡 Visiting detail page [8/23]: https://footystream.pk/events/swansea-city-vs-wrexham
+🟡 Visiting detail page [7/23]: https://footystream.pk/events/roma-vs-atalanta
+🟢 Successfully processed: Formula 1 [4/23]
 🟢 Successfully processed: MotorSports [5/23]
+🟡 Visiting detail page [8/23]: https://footystream.pk/events/swansea-city-vs-wrexham
 🟡 Visiting detail page [9/23]: https://footystream.pk/events/villarreal-vs-la-coruna
 🟢 Successfully processed: Serie A [7/23]
 🟡 Visiting detail page [10/23]: https://footystream.pk/events/australia-vs-argentina
@@ -35,8 +35,8 @@
 🟢 Successfully processed: Rugby Union [10/23]
 🟡 Visiting detail page [17/23]: https://footystream.pk/events/milan-vs-juventus
 🟢 Successfully processed: LaLiga [15/23]
-🟢 Successfully processed: LaLiga [16/23]
 🟡 Visiting detail page [18/23]: https://footystream.pk/events/aston-villa-vs-club-brugge
+🟢 Successfully processed: LaLiga [16/23]
 🟡 Visiting detail page [19/23]: https://footystream.pk/events/athens-vs-lask
 🟢 Successfully processed: Serie A [17/23]
 🟡 Visiting detail page [20/23]: https://footystream.pk/events/borussia-dortmund-vs-villarreal

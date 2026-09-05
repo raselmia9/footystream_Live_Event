@@ -7,8 +7,8 @@
 🟡 Visiting detail page [3/23]: https://footystream.pk/events/omega-european-masters
 🟡 Visiting detail page [2/23]: https://footystream.pk/events/british-open
 🟢 Successfully processed: ATP Tour [1/23]
-🟢 Successfully processed: Snooker [2/23]
 🟡 Visiting detail page [4/23]: https://footystream.pk/events/italian-gp
+🟢 Successfully processed: Snooker [2/23]
 🟡 Visiting detail page [5/23]: https://footystream.pk/events/newcastle-vs-bournemouth
 🟢 Successfully processed: PGA Tour [3/23]
 🟡 Visiting detail page [6/23]: https://footystream.pk/events/fulham-vs-crystal-palace
@@ -38,9 +38,9 @@
 🟡 Visiting detail page [18/23]: https://footystream.pk/events/rayo-vallecano-vs-racing
 🟢 Successfully processed: Bundesliga [16/23]
 🟡 Visiting detail page [19/23]: https://footystream.pk/events/villarreal-vs-la-coruna
-🟢 Successfully processed: LaLiga [18/23]
-🟡 Visiting detail page [20/23]: https://footystream.pk/events/barcelona-vs-valencia
 🟢 Successfully processed: LaLiga [17/23]
+🟡 Visiting detail page [20/23]: https://footystream.pk/events/barcelona-vs-valencia
+🟢 Successfully processed: LaLiga [18/23]
 🟡 Visiting detail page [21/23]: https://footystream.pk/events/alaves-vs-osasuna
 🟢 Successfully processed: LaLiga [19/23]
 🟡 Visiting detail page [22/23]: https://footystream.pk/events/malaga-vs-levante

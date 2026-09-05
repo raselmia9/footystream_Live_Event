@@ -271,7 +271,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Inter%20Milan_vs_Napoli/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Inter%20Milan_vs_Napoli/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/inter-milan-vs-napoli",
         "multiWatchPageLink": [
             {
@@ -464,6 +464,44 @@
         ]
     },
     {
+        "eventTitle": "MotorSports",
+        "matchTime": "2026-09-05 23:00:00",
+        "team1Title": "IndyCar Monterey Grand Prix",
+        "team2Title": "MotorSports",
+        "team1Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/indycar-monterey-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/indycar-monterey-grand-prix/1682"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/indycar-monterey-grand-prix/1683"
+            }
+        ]
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-09-05 23:00:00",
+        "team1Title": "Dan Hooker",
+        "team2Title": "Salahdine Parnasse",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/dan-hooker-vs-salahdine-parnasse",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/dan-hooker-vs-salahdine-parnasse/1684"
+            }
+        ]
+    },
+    {
         "eventTitle": "Saudi Pro League",
         "matchTime": "2026-09-06 00:00:00",
         "team1Title": "Al-Nassr",
@@ -477,6 +515,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/al-nassr-vs-al-ittihad/1680"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-09-06 03:00:00",
+        "team1Title": "Australia",
+        "team2Title": "Argentina",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/australia-vs-argentina",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/australia-vs-argentina/1685"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/australia-vs-argentina/1686"
             }
         ]
     },

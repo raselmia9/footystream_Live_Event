@@ -3,13 +3,13 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 21
-🟡 Visiting detail page [2/21]: https://footystream.pk/events/chelsea-vs-arsenal
 🟡 Visiting detail page [3/21]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [1/21]: https://footystream.pk/events/barcelona-vs-valencia
+🟡 Visiting detail page [2/21]: https://footystream.pk/events/chelsea-vs-arsenal
 🟢 Successfully processed: ATP Tour [3/21]
-🟢 Successfully processed: Premier League [2/21]
 🟡 Visiting detail page [4/21]: https://footystream.pk/events/british-open
 🟢 Successfully processed: LaLiga [1/21]
+🟢 Successfully processed: Premier League [2/21]
 🟡 Visiting detail page [5/21]: https://footystream.pk/events/indycar-monterey-grand-prix
 🟡 Visiting detail page [6/21]: https://footystream.pk/events/eintracht-frankfurt-vs-augsburg
 🟢 Successfully processed: Snooker [4/21]
@@ -40,9 +40,9 @@
 🟡 Visiting detail page [19/21]: https://footystream.pk/events/manchester-city-vs-porto
 🟢 Successfully processed: Champions League [18/21]
 🟡 Visiting detail page [20/21]: https://footystream.pk/events/real-madrid-vs-inter-milan
-🟢 Successfully processed: Champions League [19/21]
-🟡 Visiting detail page [21/21]: https://footystream.pk/events/barcelona-vs-feyenoord
 🟢 Successfully processed: EFL [15/21]
+🟡 Visiting detail page [21/21]: https://footystream.pk/events/barcelona-vs-feyenoord
+🟢 Successfully processed: Champions League [19/21]
 🟢 Successfully processed: Champions League [20/21]
 🟢 Successfully processed: Champions League [21/21]
 🟢 Browser closed successfully.

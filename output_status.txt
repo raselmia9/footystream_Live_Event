@@ -2,36 +2,34 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 15
-🟡 Visiting detail page [1/15]: https://footystream.pk/events/us-open-2026
-🟡 Visiting detail page [2/15]: https://footystream.pk/events/british-open
-🟡 Visiting detail page [3/15]: https://footystream.pk/events/indycar-monterey-grand-prix
-🟢 Successfully processed: Snooker [2/15]
-🟡 Visiting detail page [4/15]: https://footystream.pk/events/milan-vs-juventus
-🟢 Successfully processed: MotorSports [3/15]
-🟢 Successfully processed: ATP Tour [1/15]
-🟡 Visiting detail page [6/15]: https://footystream.pk/events/celta-de-vigo-vs-getafe
-🟡 Visiting detail page [5/15]: https://footystream.pk/events/sevilla-vs-espanyol
-🟢 Successfully processed: LaLiga [6/15]
-🟡 Visiting detail page [7/15]: https://footystream.pk/events/elche-vs-real-sociedad
-🟢 Successfully processed: LaLiga [7/15]
-🟡 Visiting detail page [8/15]: https://footystream.pk/events/lazio-vs-udinese
-🟢 Successfully processed: Serie A [4/15]
-🟡 Visiting detail page [9/15]: https://footystream.pk/events/afc-wimbledon-vs-bromley
-🟢 Successfully processed: LaLiga [5/15]
-🟡 Visiting detail page [10/15]: https://footystream.pk/events/aston-villa-vs-club-brugge
-🟢 Successfully processed: Serie A [8/15]
-🟡 Visiting detail page [11/15]: https://footystream.pk/events/athens-vs-lask
-🟢 Successfully processed: Champions League [10/15]
-🟡 Visiting detail page [12/15]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
-🟢 Successfully processed: Champions League [11/15]
-🟡 Visiting detail page [13/15]: https://footystream.pk/events/manchester-city-vs-porto
-🟢 Successfully processed: Champions League [12/15]
-🟡 Visiting detail page [14/15]: https://footystream.pk/events/real-madrid-vs-inter-milan
-🟢 Successfully processed: Champions League [13/15]
-🟡 Visiting detail page [15/15]: https://footystream.pk/events/barcelona-vs-feyenoord
-🟢 Successfully processed: Champions League [14/15]
-🟢 Successfully processed: Champions League [15/15]
-🟢 Successfully processed: EFL [9/15]
+🟢 Total unique detail links to process in parallel: 14
+🟡 Visiting detail page [2/14]: https://footystream.pk/events/british-open
+🟡 Visiting detail page [3/14]: https://footystream.pk/events/indycar-monterey-grand-prix
+🟡 Visiting detail page [1/14]: https://footystream.pk/events/us-open-2026
+🟢 Successfully processed: MotorSports [3/14]
+🟢 Successfully processed: ATP Tour [1/14]
+🟢 Successfully processed: Snooker [2/14]
+🟡 Visiting detail page [4/14]: https://footystream.pk/events/sevilla-vs-espanyol
+🟡 Visiting detail page [5/14]: https://footystream.pk/events/celta-de-vigo-vs-getafe
+🟡 Visiting detail page [6/14]: https://footystream.pk/events/elche-vs-real-sociedad
+🟢 Successfully processed: LaLiga [5/14]
+🟡 Visiting detail page [7/14]: https://footystream.pk/events/lazio-vs-udinese
+🟢 Successfully processed: LaLiga [6/14]
+🟡 Visiting detail page [8/14]: https://footystream.pk/events/afc-wimbledon-vs-bromley
+🟢 Successfully processed: Serie A [7/14]
+🟡 Visiting detail page [9/14]: https://footystream.pk/events/aston-villa-vs-club-brugge
+🟢 Successfully processed: LaLiga [4/14]
+🟡 Visiting detail page [10/14]: https://footystream.pk/events/athens-vs-lask
+🟢 Successfully processed: Champions League [9/14]
+🟡 Visiting detail page [11/14]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
+🟢 Successfully processed: Champions League [10/14]
+🟡 Visiting detail page [12/14]: https://footystream.pk/events/manchester-city-vs-porto
+🟢 Successfully processed: Champions League [11/14]
+🟡 Visiting detail page [13/14]: https://footystream.pk/events/real-madrid-vs-inter-milan
+🟢 Successfully processed: Champions League [12/14]
+🟡 Visiting detail page [14/14]: https://footystream.pk/events/barcelona-vs-feyenoord
+🟢 Successfully processed: Champions League [13/14]
+🟢 Successfully processed: Champions League [14/14]
+🟢 Successfully processed: EFL [8/14]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 15
+🟢 Process completed successfully. Total collected events: 14

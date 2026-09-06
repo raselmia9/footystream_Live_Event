@@ -67,27 +67,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-07 00:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Juventus/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Juventus/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/milan-vs-juventus/1708"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/milan-vs-juventus/1709"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-07 01:00:00",
         "team1Title": "Sevilla",

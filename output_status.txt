@@ -6,15 +6,15 @@
 🟡 Visiting detail page [2/24]: https://footystream.pk/events/barcelona-vs-valencia
 🟡 Visiting detail page [1/24]: https://footystream.pk/events/manchester-united-vs-everton
 🟡 Visiting detail page [3/24]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: Premier League [1/24]
-🟡 Visiting detail page [4/24]: https://footystream.pk/events/british-open
 🟢 Successfully processed: ATP Tour [3/24]
+🟡 Visiting detail page [4/24]: https://footystream.pk/events/british-open
+🟢 Successfully processed: Premier League [1/24]
 🟡 Visiting detail page [5/24]: https://footystream.pk/events/omega-european-masters
 🟢 Successfully processed: LaLiga [2/24]
 🟡 Visiting detail page [6/24]: https://footystream.pk/events/italian-gp
-🟢 Successfully processed: PGA Tour [5/24]
-🟡 Visiting detail page [7/24]: https://footystream.pk/events/indycar-monterey-grand-prix
 🟢 Successfully processed: Snooker [4/24]
+🟡 Visiting detail page [7/24]: https://footystream.pk/events/indycar-monterey-grand-prix
+🟢 Successfully processed: PGA Tour [5/24]
 🟡 Visiting detail page [8/24]: https://footystream.pk/events/arsenal-vs-brighton
 🟢 Successfully processed: Formula 1 [6/24]
 🟡 Visiting detail page [9/24]: https://footystream.pk/events/birmingham-city-vs-wolves
@@ -26,11 +26,11 @@
 🟡 Visiting detail page [12/24]: https://footystream.pk/events/milan-vs-juventus
 🟢 Successfully processed: Serie A [10/24]
 🟡 Visiting detail page [13/24]: https://footystream.pk/events/hamburger-vs-mainz-05
-🟢 Successfully processed: Serie A [11/24]
-🟡 Visiting detail page [14/24]: https://footystream.pk/events/eintracht-frankfurt-vs-augsburg
-🟢 Successfully processed: Serie A [12/24]
-🟡 Visiting detail page [15/24]: https://footystream.pk/events/chelsea-vs-arsenal
 🟢 Successfully processed: Bundesliga [13/24]
+🟡 Visiting detail page [14/24]: https://footystream.pk/events/eintracht-frankfurt-vs-augsburg
+🟢 Successfully processed: Serie A [11/24]
+🟡 Visiting detail page [15/24]: https://footystream.pk/events/chelsea-vs-arsenal
+🟢 Successfully processed: Serie A [12/24]
 🟡 Visiting detail page [16/24]: https://footystream.pk/events/alaves-vs-osasuna
 🟢 Successfully processed: Bundesliga [14/24]
 🟡 Visiting detail page [17/24]: https://footystream.pk/events/malaga-vs-levante

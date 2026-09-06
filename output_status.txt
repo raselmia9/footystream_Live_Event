@@ -7,10 +7,10 @@
 🟡 Visiting detail page [3/13]: https://footystream.pk/events/indycar-monterey-grand-prix
 🟡 Visiting detail page [1/13]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: Snooker [2/13]
-🟡 Visiting detail page [4/13]: https://footystream.pk/events/celta-de-vigo-vs-getafe
 🟢 Successfully processed: MotorSports [3/13]
-🟢 Successfully processed: ATP Tour [1/13]
+🟡 Visiting detail page [4/13]: https://footystream.pk/events/celta-de-vigo-vs-getafe
 🟡 Visiting detail page [5/13]: https://footystream.pk/events/elche-vs-real-sociedad
+🟢 Successfully processed: ATP Tour [1/13]
 🟡 Visiting detail page [6/13]: https://footystream.pk/events/lazio-vs-udinese
 🟢 Successfully processed: LaLiga [4/13]
 🟡 Visiting detail page [7/13]: https://footystream.pk/events/afc-wimbledon-vs-bromley

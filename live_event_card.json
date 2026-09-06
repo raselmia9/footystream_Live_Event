@@ -286,7 +286,28 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-valencia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1715"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1716"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1717"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1718"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1719"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

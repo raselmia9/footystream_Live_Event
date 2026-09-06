@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 12
-🟡 Visiting detail page [1/12]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/12]: https://footystream.pk/events/british-open
+🟡 Visiting detail page [1/12]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/12]: https://footystream.pk/events/celta-de-vigo-vs-getafe
 🟢 Successfully processed: LaLiga [3/12]
 🟡 Visiting detail page [4/12]: https://footystream.pk/events/elche-vs-real-sociedad
 🟢 Successfully processed: LaLiga [4/12]
 🟡 Visiting detail page [5/12]: https://footystream.pk/events/lazio-vs-udinese
-🟢 Successfully processed: Serie A [5/12]
-🟡 Visiting detail page [6/12]: https://footystream.pk/events/afc-wimbledon-vs-bromley
 🟢 Successfully processed: Snooker [2/12]
 🟢 Successfully processed: ATP Tour [1/12]
+🟡 Visiting detail page [6/12]: https://footystream.pk/events/afc-wimbledon-vs-bromley
 🟡 Visiting detail page [7/12]: https://footystream.pk/events/aston-villa-vs-club-brugge
+🟢 Successfully processed: Serie A [5/12]
 🟡 Visiting detail page [8/12]: https://footystream.pk/events/athens-vs-lask
 🟢 Successfully processed: Champions League [7/12]
 🟡 Visiting detail page [9/12]: https://footystream.pk/events/borussia-dortmund-vs-villarreal

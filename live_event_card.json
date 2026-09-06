@@ -109,6 +109,27 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-06 17:00:00",
+        "team1Title": "Birmingham City",
+        "team2Title": "Wolverhampton Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Birmingham%20City_vs_Wolverhampton%20Wanderers/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Birmingham%20City_vs_Wolverhampton%20Wanderers/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/birmingham-city-vs-wolves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/birmingham-city-vs-wolves/1705"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/birmingham-city-vs-wolves/1706"
+            }
+        ]
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-06 19:00:00",
         "team1Title": "Manchester United",
@@ -118,7 +139,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/manchester-united-vs-everton",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1693"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1694"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1695"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1696"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1697"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1698"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -130,7 +176,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-arsenal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1699"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1700"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1701"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1702"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1703"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1704"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

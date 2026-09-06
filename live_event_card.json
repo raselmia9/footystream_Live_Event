@@ -1,42 +1,5 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-06 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Manchester United",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%206.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/manchester-united-vs-everton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1693"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1694"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1695"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1696"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1697"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-everton/1698"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-06 20:15:00",
         "team1Title": "FC Barcelona",
@@ -187,23 +150,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://footystream.pk/alpha/indycar-monterey-grand-prix/1683"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-06 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Parma",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Parma/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/parma-vs-monza",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/parma-vs-monza/1710"
             }
         ]
     },

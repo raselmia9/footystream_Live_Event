@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 20
-🟡 Visiting detail page [1/20]: https://footystream.pk/events/chelsea-vs-arsenal
-🟡 Visiting detail page [3/20]: https://footystream.pk/events/british-open
 🟡 Visiting detail page [2/20]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: Premier League [1/20]
-🟡 Visiting detail page [4/20]: https://footystream.pk/events/indycar-monterey-grand-prix
+🟡 Visiting detail page [3/20]: https://footystream.pk/events/british-open
+🟡 Visiting detail page [1/20]: https://footystream.pk/events/chelsea-vs-arsenal
 🟢 Successfully processed: Snooker [3/20]
-🟡 Visiting detail page [5/20]: https://footystream.pk/events/eintracht-frankfurt-vs-augsburg
+🟡 Visiting detail page [4/20]: https://footystream.pk/events/indycar-monterey-grand-prix
 🟢 Successfully processed: ATP Tour [2/20]
+🟢 Successfully processed: Premier League [1/20]
+🟡 Visiting detail page [5/20]: https://footystream.pk/events/eintracht-frankfurt-vs-augsburg
 🟡 Visiting detail page [6/20]: https://footystream.pk/events/bologna-vs-sassuolo
 🟢 Successfully processed: MotorSports [4/20]
 🟡 Visiting detail page [7/20]: https://footystream.pk/events/alaves-vs-osasuna
@@ -18,9 +18,9 @@
 🟡 Visiting detail page [8/20]: https://footystream.pk/events/malaga-vs-levante
 🟢 Successfully processed: Serie A [6/20]
 🟡 Visiting detail page [9/20]: https://footystream.pk/events/milan-vs-juventus
-🟢 Successfully processed: LaLiga [7/20]
-🟡 Visiting detail page [10/20]: https://footystream.pk/events/lazio-vs-udinese
 🟢 Successfully processed: LaLiga [8/20]
+🟡 Visiting detail page [10/20]: https://footystream.pk/events/lazio-vs-udinese
+🟢 Successfully processed: LaLiga [7/20]
 🟡 Visiting detail page [11/20]: https://footystream.pk/events/sevilla-vs-espanyol
 🟢 Successfully processed: Serie A [10/20]
 🟡 Visiting detail page [12/20]: https://footystream.pk/events/celta-de-vigo-vs-getafe

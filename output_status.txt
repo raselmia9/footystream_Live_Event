@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 15
-🟡 Visiting detail page [1/15]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/15]: https://footystream.pk/events/british-open
+🟡 Visiting detail page [1/15]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/15]: https://footystream.pk/events/indycar-monterey-grand-prix
-🟢 Successfully processed: MotorSports [3/15]
-🟡 Visiting detail page [4/15]: https://footystream.pk/events/milan-vs-juventus
 🟢 Successfully processed: Snooker [2/15]
-🟡 Visiting detail page [5/15]: https://footystream.pk/events/sevilla-vs-espanyol
 🟢 Successfully processed: ATP Tour [1/15]
+🟡 Visiting detail page [5/15]: https://footystream.pk/events/sevilla-vs-espanyol
+🟡 Visiting detail page [4/15]: https://footystream.pk/events/milan-vs-juventus
+🟢 Successfully processed: MotorSports [3/15]
 🟡 Visiting detail page [6/15]: https://footystream.pk/events/celta-de-vigo-vs-getafe
 🟢 Successfully processed: LaLiga [6/15]
 🟡 Visiting detail page [7/15]: https://footystream.pk/events/elche-vs-real-sociedad
-🟢 Successfully processed: LaLiga [5/15]
-🟡 Visiting detail page [8/15]: https://footystream.pk/events/lazio-vs-udinese
 🟢 Successfully processed: LaLiga [7/15]
-🟡 Visiting detail page [9/15]: https://footystream.pk/events/afc-wimbledon-vs-bromley
+🟡 Visiting detail page [8/15]: https://footystream.pk/events/lazio-vs-udinese
 🟢 Successfully processed: Serie A [4/15]
+🟡 Visiting detail page [9/15]: https://footystream.pk/events/afc-wimbledon-vs-bromley
+🟢 Successfully processed: LaLiga [5/15]
 🟡 Visiting detail page [10/15]: https://footystream.pk/events/aston-villa-vs-club-brugge
 🟢 Successfully processed: Serie A [8/15]
 🟡 Visiting detail page [11/15]: https://footystream.pk/events/athens-vs-lask

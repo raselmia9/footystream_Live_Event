@@ -4,27 +4,27 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
 🟡 Visiting detail page [2/18]: https://footystream.pk/events/british-open
-🟡 Visiting detail page [1/18]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/18]: https://footystream.pk/events/omega-european-masters
+🟡 Visiting detail page [1/18]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: PGA Tour [3/18]
 🟢 Successfully processed: Snooker [2/18]
-🟡 Visiting detail page [5/18]: https://footystream.pk/events/indycar-monterey-grand-prix
-🟡 Visiting detail page [4/18]: https://footystream.pk/events/italian-gp
 🟢 Successfully processed: ATP Tour [1/18]
 🟡 Visiting detail page [6/18]: https://footystream.pk/events/manchester-united-vs-everton
+🟡 Visiting detail page [4/18]: https://footystream.pk/events/italian-gp
+🟡 Visiting detail page [5/18]: https://footystream.pk/events/indycar-monterey-grand-prix
 🟢 Successfully processed: Premier League [6/18]
 🟡 Visiting detail page [7/18]: https://footystream.pk/events/chelsea-vs-arsenal
 🟢 Successfully processed: Premier League [7/18]
 🟡 Visiting detail page [8/18]: https://footystream.pk/events/barcelona-vs-valencia
-🟢 Successfully processed: LaLiga [8/18]
-🟢 Successfully processed: MotorSports [5/18]
-🟡 Visiting detail page [9/18]: https://footystream.pk/events/alaves-vs-osasuna
-🟡 Visiting detail page [10/18]: https://footystream.pk/events/malaga-vs-levante
 🟢 Successfully processed: Formula 1 [4/18]
+🟡 Visiting detail page [9/18]: https://footystream.pk/events/alaves-vs-osasuna
+🟢 Successfully processed: MotorSports [5/18]
+🟡 Visiting detail page [10/18]: https://footystream.pk/events/malaga-vs-levante
+🟢 Successfully processed: LaLiga [8/18]
 🟡 Visiting detail page [11/18]: https://footystream.pk/events/sevilla-vs-espanyol
 🟢 Successfully processed: LaLiga [9/18]
-🟢 Successfully processed: LaLiga [10/18]
 🟡 Visiting detail page [12/18]: https://footystream.pk/events/milan-vs-juventus
+🟢 Successfully processed: LaLiga [10/18]
 🟡 Visiting detail page [13/18]: https://footystream.pk/events/aston-villa-vs-club-brugge
 🟢 Successfully processed: LaLiga [11/18]
 🟡 Visiting detail page [14/18]: https://footystream.pk/events/athens-vs-lask

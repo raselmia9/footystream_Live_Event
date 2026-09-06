@@ -218,12 +218,12 @@
     {
         "eventTitle": "WSL",
         "matchTime": "2026-09-06 17:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Brighton & Hove Albion",
+        "team1Title": "Event Ended",
+        "team2Title": "Arsenal",
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Brighton%20%26%20Hove%20Albion/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Arsenal/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/arsenal-vs-brighton",
         "multiWatchPageLink": [
             {
@@ -235,12 +235,12 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-09-06 17:00:00",
-        "team1Title": "Birmingham City",
-        "team2Title": "Wolverhampton Wanderers",
+        "team1Title": "Event Ended",
+        "team2Title": "Birmingham City",
         "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Birmingham%20City_vs_Wolverhampton%20Wanderers/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Birmingham%20City_vs_Wolverhampton%20Wanderers/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Birmingham%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Birmingham%20City/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/birmingham-city-vs-wolves",
         "multiWatchPageLink": [
             {
@@ -261,7 +261,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Parma_vs_Monza/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/parma-vs-monza",
         "multiWatchPageLink": [
             {

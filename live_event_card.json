@@ -116,23 +116,6 @@
         ]
     },
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-03 17:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Omega European Masters",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Omega%20European%20Masters/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/omega-european-masters",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/omega-european-masters/1607"
-            }
-        ]
-    },
-    {
         "eventTitle": "MotorSports",
         "matchTime": "2026-09-05 23:00:00",
         "team1Title": "IndyCar Monterey Grand Prix",
@@ -190,39 +173,6 @@
                 "url": "https://footystream.pk/alpha/bologna-vs-sassuolo/1711"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-07 00:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/milan-vs-juventus/1708"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/milan-vs-juventus/1709"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-08 00:45:00",
-        "team1Title": "Lazio",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/lazio-vs-udinese",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",
@@ -301,6 +251,39 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/elche-vs-real-sociedad",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-07 00:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/milan-vs-juventus",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/milan-vs-juventus/1708"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/milan-vs-juventus/1709"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-08 00:45:00",
+        "team1Title": "Lazio",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/lazio-vs-udinese",
         "multiWatchPageLink": []
     },
     {

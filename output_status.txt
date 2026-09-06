@@ -3,53 +3,53 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 24
-🟡 Visiting detail page [1/24]: https://footystream.pk/events/manchester-united-vs-everton
 🟡 Visiting detail page [2/24]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [1/24]: https://footystream.pk/events/manchester-united-vs-everton
 🟡 Visiting detail page [3/24]: https://footystream.pk/events/british-open
-🟢 Successfully processed: ATP Tour [2/24]
-🟡 Visiting detail page [4/24]: https://footystream.pk/events/omega-european-masters
 🟢 Successfully processed: Snooker [3/24]
+🟡 Visiting detail page [4/24]: https://footystream.pk/events/omega-european-masters
+🟢 Successfully processed: ATP Tour [2/24]
 🟡 Visiting detail page [5/24]: https://footystream.pk/events/italian-gp
-🟢 Successfully processed: Premier League [1/24]
+🟢 Successfully processed: Formula 1 [5/24]
 🟡 Visiting detail page [6/24]: https://footystream.pk/events/indycar-monterey-grand-prix
 🟢 Successfully processed: PGA Tour [4/24]
-🟢 Successfully processed: Formula 1 [5/24]
 🟡 Visiting detail page [7/24]: https://footystream.pk/events/arsenal-vs-brighton
+🟢 Successfully processed: Premier League [1/24]
 🟡 Visiting detail page [8/24]: https://footystream.pk/events/birmingham-city-vs-wolves
 🟢 Successfully processed: MotorSports [6/24]
 🟡 Visiting detail page [9/24]: https://footystream.pk/events/parma-vs-monza
 🟢 Successfully processed: EFL [8/24]
-🟡 Visiting detail page [10/24]: https://footystream.pk/events/bologna-vs-sassuolo
 🟢 Successfully processed: WSL [7/24]
+🟡 Visiting detail page [10/24]: https://footystream.pk/events/bologna-vs-sassuolo
 🟡 Visiting detail page [11/24]: https://footystream.pk/events/milan-vs-juventus
 🟢 Successfully processed: Serie A [9/24]
 🟡 Visiting detail page [12/24]: https://footystream.pk/events/hamburger-vs-mainz-05
 🟢 Successfully processed: Serie A [11/24]
+🟡 Visiting detail page [13/24]: https://footystream.pk/events/eintracht-frankfurt-vs-augsburg
 🟢 Successfully processed: Serie A [10/24]
 🟡 Visiting detail page [14/24]: https://footystream.pk/events/barcelona-vs-valencia
-🟡 Visiting detail page [13/24]: https://footystream.pk/events/eintracht-frankfurt-vs-augsburg
 🟢 Successfully processed: Bundesliga [12/24]
 🟡 Visiting detail page [15/24]: https://footystream.pk/events/alaves-vs-osasuna
 🟢 Successfully processed: Bundesliga [13/24]
 🟡 Visiting detail page [16/24]: https://footystream.pk/events/malaga-vs-levante
-🟢 Successfully processed: LaLiga [15/24]
-🟡 Visiting detail page [17/24]: https://footystream.pk/events/sevilla-vs-espanyol
-🟢 Successfully processed: LaLiga [14/24]
-🟡 Visiting detail page [18/24]: https://footystream.pk/events/chelsea-vs-arsenal
 🟢 Successfully processed: LaLiga [16/24]
-🟡 Visiting detail page [19/24]: https://footystream.pk/events/aston-villa-vs-club-brugge
+🟡 Visiting detail page [17/24]: https://footystream.pk/events/sevilla-vs-espanyol
 🟢 Successfully processed: LaLiga [17/24]
-🟡 Visiting detail page [20/24]: https://footystream.pk/events/athens-vs-lask
+🟡 Visiting detail page [18/24]: https://footystream.pk/events/chelsea-vs-arsenal
+🟢 Successfully processed: LaLiga [15/24]
+🟡 Visiting detail page [19/24]: https://footystream.pk/events/aston-villa-vs-club-brugge
 🟢 Successfully processed: Champions League [19/24]
+🟡 Visiting detail page [20/24]: https://footystream.pk/events/athens-vs-lask
+🟢 Successfully processed: LaLiga [14/24]
 🟡 Visiting detail page [21/24]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
 🟢 Successfully processed: Champions League [20/24]
-🟡 Visiting detail page [22/24]: https://footystream.pk/events/manchester-city-vs-porto
 🟢 Successfully processed: Champions League [21/24]
+🟡 Visiting detail page [22/24]: https://footystream.pk/events/manchester-city-vs-porto
 🟡 Visiting detail page [23/24]: https://footystream.pk/events/real-madrid-vs-inter-milan
-🟢 Successfully processed: Champions League [22/24]
-🟡 Visiting detail page [24/24]: https://footystream.pk/events/barcelona-vs-feyenoord
 🟢 Successfully processed: Champions League [23/24]
-🟢 Successfully processed: Champions League [24/24]
+🟡 Visiting detail page [24/24]: https://footystream.pk/events/barcelona-vs-feyenoord
 🟢 Successfully processed: Premier League [18/24]
+🟢 Successfully processed: Champions League [24/24]
+🟢 Successfully processed: Champions League [22/24]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 24

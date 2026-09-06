@@ -37,6 +37,39 @@
         ]
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-06 20:15:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barcelona-vs-valencia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1715"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1716"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1717"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1718"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1719"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-08-24 20:00:00",
         "team1Title": "US Open 2026",
@@ -277,35 +310,39 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-06 20:15:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-06 21:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Arsenal",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barcelona-vs-valencia",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-arsenal",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1715"
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1699"
             },
             {
                 "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1716"
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1700"
             },
             {
                 "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1717"
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1701"
             },
             {
                 "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1718"
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1702"
             },
             {
                 "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/barcelona-vs-valencia/1719"
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1703"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1704"
             }
         ]
     },
@@ -353,43 +390,6 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/sevilla-vs-espanyol",
         "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-06 21:30:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Arsenal",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/chelsea-vs-arsenal",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1699"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1700"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1701"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1702"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1703"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://footystream.pk/alpha/chelsea-vs-arsenal/1704"
-            }
-        ]
     },
     {
         "eventTitle": "Champions League",

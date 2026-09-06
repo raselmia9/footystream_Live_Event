@@ -46,27 +46,6 @@
         ]
     },
     {
-        "eventTitle": "MotorSports",
-        "matchTime": "2026-09-05 23:00:00",
-        "team1Title": "IndyCar Monterey Grand Prix",
-        "team2Title": "MotorSports",
-        "team1Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/IndyCar%20Monterey%20Grand%20Prix_vs_MotorSports/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/IndyCar%20Monterey%20Grand%20Prix_vs_MotorSports/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/indycar-monterey-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/indycar-monterey-grand-prix/1682"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/indycar-monterey-grand-prix/1683"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-07 23:00:00",
         "team1Title": "Celta de Vigo",

@@ -68,23 +68,6 @@
     },
     {
         "eventTitle": "LaLiga",
-        "matchTime": "2026-09-07 01:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Espanyol",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sevilla_vs_Espanyol/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/sevilla-vs-espanyol",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/sevilla-vs-espanyol/1723"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
         "matchTime": "2026-09-07 23:00:00",
         "team1Title": "Celta de Vigo",
         "team2Title": "Getafe",

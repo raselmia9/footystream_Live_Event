@@ -67,44 +67,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-06 22:30:00",
-        "team1Title": "Deportivo Alavés",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20Alav%C3%A9s_vs_Osasuna/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20Alav%C3%A9s_vs_Osasuna/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/alaves-vs-osasuna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/alaves-vs-osasuna/1720"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/alaves-vs-osasuna/1721"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-06 22:30:00",
-        "team1Title": "Málaga",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/M%C3%A1laga_vs_Levante/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/malaga-vs-levante",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/malaga-vs-levante/1722"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-07 00:45:00",
         "team1Title": "AC Milan",
@@ -124,18 +86,6 @@
                 "url": "https://footystream.pk/alpha/milan-vs-juventus/1709"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-08 00:45:00",
-        "team1Title": "Lazio",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/lazio-vs-udinese",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",
@@ -176,6 +126,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/elche-vs-real-sociedad",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-08 00:45:00",
+        "team1Title": "Lazio",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/lazio-vs-udinese",
         "multiWatchPageLink": []
     },
     {

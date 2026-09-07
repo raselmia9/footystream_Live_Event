@@ -142,6 +142,23 @@
         ]
     },
     {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-08 01:15:00",
+        "team1Title": "Estoril",
+        "team2Title": "Arouca",
+        "team1Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/estoril-vs-arouca",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/estoril-vs-arouca/1736"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-09-08 22:45:00",
         "team1Title": "Aston Villa",

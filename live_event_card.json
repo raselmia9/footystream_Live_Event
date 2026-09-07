@@ -29,27 +29,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-08 01:00:00",
-        "team1Title": "AFC Wimbledon",
-        "team2Title": "Bromley",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AFC%20Wimbledon_vs_Bromley/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AFC%20Wimbledon_vs_Bromley/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/afc-wimbledon-vs-bromley",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/afc-wimbledon-vs-bromley/1724"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/afc-wimbledon-vs-bromley/1725"
-            }
-        ]
-    },
-    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-09-08 01:15:00",
         "team1Title": "Estoril",

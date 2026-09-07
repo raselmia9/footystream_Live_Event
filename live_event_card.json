@@ -1,5 +1,46 @@
 [
     {
+        "eventTitle": "ATP Tour",
+        "matchTime": "2026-08-24 20:00:00",
+        "team1Title": "US Open 2026",
+        "team2Title": "ATP Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/US%20Open%202026_vs_ATP%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/US%20Open%202026_vs_ATP%20Tour/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/US%20Open%202026_vs_ATP%20Tour/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/US%20Open%202026_vs_ATP%20Tour/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/us-open-2026",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/us-open-2026/1437"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/us-open-2026/1438"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/us-open-2026/1439"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/us-open-2026/1440"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-07 23:00:00",
+        "team1Title": "Celta de Vigo",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/celta-de-vigo-vs-getafe",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-08 01:30:00",
         "team1Title": "Real Sociedad",
@@ -12,6 +53,63 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-08 00:45:00",
+        "team1Title": "Lazio",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/lazio-vs-udinese",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-08 01:00:00",
+        "team1Title": "AFC Wimbledon",
+        "team2Title": "Bromley",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/afc-wimbledon-vs-bromley",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/afc-wimbledon-vs-bromley/1724"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/afc-wimbledon-vs-bromley/1725"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-08 22:45:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Club Brugge",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/aston-villa-vs-club-brugge",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-08 22:45:00",
+        "team1Title": "AEK Athens",
+        "team2Title": "LASK",
+        "team1Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/athens-vs-lask",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-09-09 01:00:00",
         "team1Title": "Borussia Dortmund",
@@ -21,6 +119,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-09 01:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Porto",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/manchester-city-vs-porto",
         "multiWatchPageLink": []
     },
     {

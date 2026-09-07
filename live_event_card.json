@@ -75,31 +75,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-08 01:30:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Elche CF",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/elche-vs-real-sociedad",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1733"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1734"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1735"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-08 00:45:00",
         "team1Title": "Lazio",
@@ -155,6 +130,31 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/estoril-vs-arouca/1736"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-08 01:30:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/elche-vs-real-sociedad",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1733"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1734"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1735"
             }
         ]
     },

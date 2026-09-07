@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 11
-🟡 Visiting detail page [1/11]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [2/11]: https://footystream.pk/events/lazio-vs-udinese
 🟡 Visiting detail page [3/11]: https://footystream.pk/events/afc-wimbledon-vs-bromley
+🟡 Visiting detail page [1/11]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: Serie A [2/11]
 🟡 Visiting detail page [4/11]: https://footystream.pk/events/estoril-vs-arouca
 🟢 Successfully processed: EFL [3/11]
-🟢 Successfully processed: ATP Tour [1/11]
 🟡 Visiting detail page [5/11]: https://footystream.pk/events/elche-vs-real-sociedad
+🟢 Successfully processed: ATP Tour [1/11]
 🟡 Visiting detail page [6/11]: https://footystream.pk/events/aston-villa-vs-club-brugge
 🟢 Successfully processed: Champions League [6/11]
 🟡 Visiting detail page [7/11]: https://footystream.pk/events/athens-vs-lask
-🟢 Successfully processed: Champions League [7/11]
-🟡 Visiting detail page [8/11]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
 🟢 Successfully processed: Liga Portugal [4/11]
-🟡 Visiting detail page [9/11]: https://footystream.pk/events/manchester-city-vs-porto
+🟡 Visiting detail page [8/11]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
 🟢 Successfully processed: LaLiga [5/11]
+🟡 Visiting detail page [9/11]: https://footystream.pk/events/manchester-city-vs-porto
+🟢 Successfully processed: Champions League [7/11]
 🟡 Visiting detail page [10/11]: https://footystream.pk/events/real-madrid-vs-inter-milan
 🟢 Successfully processed: Champions League [8/11]
 🟡 Visiting detail page [11/11]: https://footystream.pk/events/barcelona-vs-feyenoord

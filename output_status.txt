@@ -4,22 +4,22 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 9
 🟡 Visiting detail page [2/9]: https://footystream.pk/events/estoril-vs-arouca
-🟡 Visiting detail page [1/9]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/9]: https://footystream.pk/events/elche-vs-real-sociedad
+🟡 Visiting detail page [1/9]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: Liga Portugal [2/9]
-🟡 Visiting detail page [4/9]: https://footystream.pk/events/aston-villa-vs-club-brugge
-🟢 Successfully processed: LaLiga [3/9]
 🟢 Successfully processed: ATP Tour [1/9]
+🟢 Successfully processed: LaLiga [3/9]
+🟡 Visiting detail page [4/9]: https://footystream.pk/events/aston-villa-vs-club-brugge
 🟡 Visiting detail page [5/9]: https://footystream.pk/events/athens-vs-lask
 🟡 Visiting detail page [6/9]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
+🟢 Successfully processed: Champions League [5/9]
+🟢 Successfully processed: Champions League [6/9]
 🟢 Successfully processed: Champions League [4/9]
 🟡 Visiting detail page [7/9]: https://footystream.pk/events/manchester-city-vs-porto
-🟢 Successfully processed: Champions League [6/9]
-🟡 Visiting detail page [8/9]: https://footystream.pk/events/real-madrid-vs-inter-milan
-🟢 Successfully processed: Champions League [5/9]
 🟡 Visiting detail page [9/9]: https://footystream.pk/events/barcelona-vs-feyenoord
+🟡 Visiting detail page [8/9]: https://footystream.pk/events/real-madrid-vs-inter-milan
 🟢 Successfully processed: Champions League [7/9]
-🟢 Successfully processed: Champions League [8/9]
 🟢 Successfully processed: Champions League [9/9]
+🟢 Successfully processed: Champions League [8/9]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 9

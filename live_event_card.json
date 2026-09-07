@@ -31,12 +31,12 @@
     {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-09-08 01:15:00",
-        "team1Title": "Estoril",
-        "team2Title": "Arouca",
+        "team1Title": "Event Ended",
+        "team2Title": "Estoril",
         "team1Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Estoril_vs_Arouca/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Estoril/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/estoril-vs-arouca",
         "multiWatchPageLink": [
             {

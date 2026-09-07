@@ -29,28 +29,25 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-07 23:00:00",
-        "team1Title": "Celta de Vigo",
-        "team2Title": "Getafe",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-07 22:30:00",
+        "team1Title": "Cagliari",
+        "team2Title": "Lecce",
+        "team1Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/celta-de-vigo-vs-getafe",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-08 01:30:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Elche CF",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/elche-vs-real-sociedad",
-        "multiWatchPageLink": []
+        "detailsPage": "https://footystream.pk/events/cagliari-vs-lecce",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/cagliari-vs-lecce/1729"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/cagliari-vs-lecce/1730"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -62,7 +59,66 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lazio-vs-udinese",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lazio-vs-udinese/1731"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/lazio-vs-udinese/1732"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-07 23:00:00",
+        "team1Title": "Celta de Vigo",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/celta-de-vigo-vs-getafe",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/celta-de-vigo-vs-getafe/1726"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/celta-de-vigo-vs-getafe/1727"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/celta-de-vigo-vs-getafe/1728"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-08 01:30:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/elche-vs-real-sociedad",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1733"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1734"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1735"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

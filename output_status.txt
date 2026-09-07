@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 7
-🟡 Visiting detail page [3/7]: https://footystream.pk/events/athens-vs-lask
 🟡 Visiting detail page [2/7]: https://footystream.pk/events/aston-villa-vs-club-brugge
 🟡 Visiting detail page [1/7]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [3/7]: https://footystream.pk/events/athens-vs-lask
 🟢 Successfully processed: Champions League [2/7]
 🟢 Successfully processed: Champions League [3/7]
 🟡 Visiting detail page [4/7]: https://footystream.pk/events/borussia-dortmund-vs-villarreal

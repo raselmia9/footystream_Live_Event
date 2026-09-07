@@ -7,8 +7,8 @@
 🟡 Visiting detail page [3/11]: https://footystream.pk/events/elche-vs-real-sociedad
 🟡 Visiting detail page [1/11]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: LaLiga [2/11]
-🟢 Successfully processed: LaLiga [3/11]
 🟡 Visiting detail page [4/11]: https://footystream.pk/events/lazio-vs-udinese
+🟢 Successfully processed: LaLiga [3/11]
 🟡 Visiting detail page [5/11]: https://footystream.pk/events/afc-wimbledon-vs-bromley
 🟢 Successfully processed: Serie A [4/11]
 🟡 Visiting detail page [6/11]: https://footystream.pk/events/aston-villa-vs-club-brugge

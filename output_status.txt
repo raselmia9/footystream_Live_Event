@@ -10,19 +10,19 @@
 🟡 Visiting detail page [4/13]: https://footystream.pk/events/celta-de-vigo-vs-getafe
 🟢 Successfully processed: ATP Tour [1/13]
 🟡 Visiting detail page [5/13]: https://footystream.pk/events/elche-vs-real-sociedad
-🟢 Successfully processed: LaLiga [4/13]
-🟡 Visiting detail page [6/13]: https://footystream.pk/events/afc-wimbledon-vs-bromley
 🟢 Successfully processed: Serie A [3/13]
+🟡 Visiting detail page [6/13]: https://footystream.pk/events/afc-wimbledon-vs-bromley
+🟢 Successfully processed: LaLiga [4/13]
 🟡 Visiting detail page [7/13]: https://footystream.pk/events/estoril-vs-arouca
 🟢 Successfully processed: LaLiga [5/13]
 🟡 Visiting detail page [8/13]: https://footystream.pk/events/aston-villa-vs-club-brugge
-🟢 Successfully processed: EFL [6/13]
-🟡 Visiting detail page [9/13]: https://footystream.pk/events/athens-vs-lask
-🟢 Successfully processed: Liga Portugal [7/13]
-🟡 Visiting detail page [10/13]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
 🟢 Successfully processed: Champions League [8/13]
-🟡 Visiting detail page [11/13]: https://footystream.pk/events/manchester-city-vs-porto
+🟡 Visiting detail page [9/13]: https://footystream.pk/events/athens-vs-lask
+🟢 Successfully processed: EFL [6/13]
 🟢 Successfully processed: Champions League [9/13]
+🟡 Visiting detail page [10/13]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
+🟡 Visiting detail page [11/13]: https://footystream.pk/events/manchester-city-vs-porto
+🟢 Successfully processed: Liga Portugal [7/13]
 🟡 Visiting detail page [12/13]: https://footystream.pk/events/real-madrid-vs-inter-milan
 🟢 Successfully processed: Champions League [10/13]
 🟡 Visiting detail page [13/13]: https://footystream.pk/events/barcelona-vs-feyenoord

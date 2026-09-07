@@ -50,27 +50,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-08 00:45:00",
-        "team1Title": "Lazio",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/lazio-vs-udinese",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/lazio-vs-udinese/1731"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/lazio-vs-udinese/1732"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-07 23:00:00",
         "team1Title": "Celta de Vigo",
@@ -117,6 +96,27 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/elche-vs-real-sociedad/1735"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-08 00:45:00",
+        "team1Title": "Lazio",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/lazio-vs-udinese",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lazio-vs-udinese/1731"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/lazio-vs-udinese/1732"
             }
         ]
     },

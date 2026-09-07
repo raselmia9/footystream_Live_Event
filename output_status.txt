@@ -3,11 +3,11 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 11
-🟡 Visiting detail page [2/11]: https://footystream.pk/events/celta-de-vigo-vs-getafe
 🟡 Visiting detail page [1/11]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [2/11]: https://footystream.pk/events/celta-de-vigo-vs-getafe
 🟡 Visiting detail page [3/11]: https://footystream.pk/events/elche-vs-real-sociedad
-🟢 Successfully processed: LaLiga [2/11]
 🟢 Successfully processed: LaLiga [3/11]
+🟢 Successfully processed: LaLiga [2/11]
 🟡 Visiting detail page [4/11]: https://footystream.pk/events/lazio-vs-udinese
 🟡 Visiting detail page [5/11]: https://footystream.pk/events/afc-wimbledon-vs-bromley
 🟢 Successfully processed: Serie A [4/11]

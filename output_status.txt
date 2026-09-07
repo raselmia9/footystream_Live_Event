@@ -1,7 +1,50 @@
 🟢 Process Started...
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
-🔴 CRITICAL_ERROR: Page.goto: Timeout 30000ms exceeded.
+🟡 Waiting for event cards to load...
+🟢 Total unique detail links to process in parallel: 11
+🟡 Visiting detail page [2/11]: https://footystream.pk/events/celta-de-vigo-vs-getafe
+🟡 Visiting detail page [3/11]: https://footystream.pk/events/elche-vs-real-sociedad
+🟡 Visiting detail page [1/11]: https://footystream.pk/events/us-open-2026
+🟢 Successfully processed: LaLiga [3/11]
+🟡 Visiting detail page [4/11]: https://footystream.pk/events/lazio-vs-udinese
+🔴 ERROR on detail page https://footystream.pk/events/celta-de-vigo-vs-getafe: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - navigating to "https://footystream.pk/", waiting until "load"
+  - navigating to "https://footystream.pk/events/celta-de-vigo-vs-getafe", waiting until "load"
 
+🟡 Visiting detail page [5/11]: https://footystream.pk/events/afc-wimbledon-vs-bromley
+🔴 ERROR on detail page https://footystream.pk/events/us-open-2026: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://footystream.pk/events/us-open-2026", waiting until "load"
+
+🟡 Visiting detail page [6/11]: https://footystream.pk/events/aston-villa-vs-club-brugge
+🔴 ERROR on detail page https://footystream.pk/events/lazio-vs-udinese: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://footystream.pk/events/lazio-vs-udinese", waiting until "load"
+
+🟡 Visiting detail page [7/11]: https://footystream.pk/events/athens-vs-lask
+🔴 ERROR on detail page https://footystream.pk/events/afc-wimbledon-vs-bromley: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://footystream.pk/events/afc-wimbledon-vs-bromley", waiting until "load"
+
+🟡 Visiting detail page [8/11]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
+🔴 ERROR on detail page https://footystream.pk/events/aston-villa-vs-club-brugge: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://footystream.pk/events/aston-villa-vs-club-brugge", waiting until "load"
+
+🟡 Visiting detail page [9/11]: https://footystream.pk/events/manchester-city-vs-porto
+🔴 ERROR on detail page https://footystream.pk/events/athens-vs-lask: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://footystream.pk/events/athens-vs-lask", waiting until "load"
+
+🟡 Visiting detail page [10/11]: https://footystream.pk/events/real-madrid-vs-inter-milan
+🟢 Successfully processed: Champions League [8/11]
+🟡 Visiting detail page [11/11]: https://footystream.pk/events/barcelona-vs-feyenoord
+🔴 ERROR on detail page https://footystream.pk/events/manchester-city-vs-porto: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://footystream.pk/events/manchester-city-vs-porto", waiting until "load"
+
+🟢 Successfully processed: Champions League [10/11]
+🟢 Successfully processed: Champions League [11/11]
+🟢 Browser closed successfully.
+🟢 Process completed successfully. Total collected events: 4

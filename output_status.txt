@@ -10,12 +10,12 @@
 🟡 Visiting detail page [4/7]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
 🟢 Successfully processed: Champions League [2/7]
 🟡 Visiting detail page [5/7]: https://footystream.pk/events/manchester-city-vs-porto
-🟢 Successfully processed: Champions League [5/7]
 🟢 Successfully processed: Champions League [4/7]
 🟡 Visiting detail page [6/7]: https://footystream.pk/events/real-madrid-vs-inter-milan
+🟢 Successfully processed: Champions League [5/7]
 🟡 Visiting detail page [7/7]: https://footystream.pk/events/barcelona-vs-feyenoord
-🟢 Successfully processed: ATP Tour [1/7]
 🟢 Successfully processed: Champions League [6/7]
 🟢 Successfully processed: Champions League [7/7]
+🟢 Successfully processed: ATP Tour [1/7]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 7

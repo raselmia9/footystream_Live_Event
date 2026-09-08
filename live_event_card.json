@@ -82,7 +82,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Burnley%20FC_vs_Wrexham/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/burnley-vs-wrexham",
         "multiWatchPageLink": [
             {
@@ -179,9 +179,26 @@
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Inter%20Milan/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Inter%20Milan/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Inter%20Milan/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Inter%20Milan/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/real-madrid-vs-inter-milan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-inter-milan/1751"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-inter-milan/1752"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-inter-milan/1753"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-inter-milan/1754"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

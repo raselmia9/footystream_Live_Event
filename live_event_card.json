@@ -135,7 +135,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-villarreal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-villarreal/1745"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-villarreal/1746"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -163,6 +172,18 @@
     },
     {
         "eventTitle": "Champions League",
+        "matchTime": "2026-09-09 01:00:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Lille",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-betis-vs-lille",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
         "matchTime": "2026-09-09 22:45:00",
         "team1Title": "FC Barcelona",
         "team2Title": "Feyenoord",
@@ -183,18 +204,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/viking-vs-stuttgart",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-10 01:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-atletico-madrid",
         "multiWatchPageLink": []
     }
 ]

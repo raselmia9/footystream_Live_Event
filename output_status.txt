@@ -3,29 +3,29 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 12
-🟡 Visiting detail page [3/12]: https://footystream.pk/events/athens-vs-lask
 🟡 Visiting detail page [2/12]: https://footystream.pk/events/aston-villa-vs-club-brugge
+🟡 Visiting detail page [3/12]: https://footystream.pk/events/athens-vs-lask
 🟡 Visiting detail page [1/12]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: Champions League [3/12]
 🟡 Visiting detail page [4/12]: https://footystream.pk/events/burnley-vs-wrexham
-🟢 Successfully processed: ATP Tour [1/12]
 🟢 Successfully processed: Champions League [2/12]
+🟢 Successfully processed: ATP Tour [1/12]
 🟡 Visiting detail page [5/12]: https://footystream.pk/events/bolton-wanderers-vs-west-ham-united
 🟡 Visiting detail page [6/12]: https://footystream.pk/events/millwall-vs-newcastle-united
 🟢 Successfully processed: EFL [4/12]
 🟡 Visiting detail page [7/12]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
 🟢 Successfully processed: EFL [5/12]
-🟢 Successfully processed: EFL [6/12]
 🟡 Visiting detail page [8/12]: https://footystream.pk/events/manchester-city-vs-porto
+🟢 Successfully processed: EFL [6/12]
 🟡 Visiting detail page [9/12]: https://footystream.pk/events/real-madrid-vs-inter-milan
-🟢 Successfully processed: Champions League [8/12]
-🟡 Visiting detail page [10/12]: https://footystream.pk/events/real-betis-vs-lille
 🟢 Successfully processed: Champions League [9/12]
-🟡 Visiting detail page [11/12]: https://footystream.pk/events/barcelona-vs-feyenoord
+🟡 Visiting detail page [10/12]: https://footystream.pk/events/real-betis-vs-lille
 🟢 Successfully processed: Champions League [10/12]
-🟡 Visiting detail page [12/12]: https://footystream.pk/events/viking-vs-stuttgart
-🟢 Successfully processed: Champions League [11/12]
-🟢 Successfully processed: Champions League [12/12]
+🟡 Visiting detail page [11/12]: https://footystream.pk/events/barcelona-vs-feyenoord
 🟢 Successfully processed: Champions League [7/12]
+🟢 Successfully processed: Champions League [11/12]
+🟡 Visiting detail page [12/12]: https://footystream.pk/events/viking-vs-stuttgart
+🟢 Successfully processed: Champions League [12/12]
+🟢 Successfully processed: Champions League [8/12]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 12

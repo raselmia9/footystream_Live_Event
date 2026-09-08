@@ -271,6 +271,30 @@
         ]
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-11 06:35:00",
+        "team1Title": "Los Angeles Rams",
+        "team2Title": "San Francisco 49ers",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rams-vs-49ers-live",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-13 23:00:00",
+        "team1Title": "Chicago Bears",
+        "team2Title": "Carolina Panthers",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bears-vs-panthers",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-10 18:30:00",
         "team1Title": "Irish Open",
@@ -324,6 +348,42 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-12 19:00:00",
+        "team1Title": "Genoa",
+        "team2Title": "Frosinone Calcio",
+        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/genoa-vs-frosinone",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-12 22:00:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Lazio",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/milan-vs-lazio",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-13 00:45:00",
+        "team1Title": "Atalanta",
+        "team2Title": "Cagliari",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/atalanta-vs-cagliari",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-12 01:00:00",
         "team1Title": "Valencia",
@@ -333,6 +393,66 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/valencia-vs-sevilla",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-12 18:00:00",
+        "team1Title": "Racing Santander",
+        "team2Title": "Deportivo Alavés",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/racing-santander-vs-alaves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-12 20:15:00",
+        "team1Title": "Espanyol",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/espanyol-vs-osasuna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-12 22:30:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/elche-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-13 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-12 20:00:00",
+        "team1Title": "Brentford",
+        "team2Title": "AFC Bournemouth",
+        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/brentford-vs-bournemouth",
         "multiWatchPageLink": []
     },
     {
@@ -381,6 +501,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/ipswich-vs-crystal-palace",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-12 22:30:00",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/spurs-vs-everton",
         "multiWatchPageLink": []
     }
 ]

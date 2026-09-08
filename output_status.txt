@@ -6,8 +6,8 @@
 🟡 Visiting detail page [3/7]: https://footystream.pk/events/athens-vs-lask
 🟡 Visiting detail page [2/7]: https://footystream.pk/events/aston-villa-vs-club-brugge
 🟡 Visiting detail page [1/7]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: Champions League [3/7]
 🟢 Successfully processed: Champions League [2/7]
+🟢 Successfully processed: Champions League [3/7]
 🟡 Visiting detail page [4/7]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
 🟡 Visiting detail page [5/7]: https://footystream.pk/events/manchester-city-vs-porto
 🟢 Successfully processed: Champions League [4/7]

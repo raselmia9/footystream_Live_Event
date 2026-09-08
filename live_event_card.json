@@ -50,140 +50,6 @@
         ]
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-09 01:00:00",
-        "team1Title": "Borussia Dortmund",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-villarreal",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-villarreal/1745"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-villarreal/1746"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-villarreal/1755"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-09 01:00:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Porto",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Porto/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Porto/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Porto/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/manchester-city-vs-porto",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/manchester-city-vs-porto/1747"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/manchester-city-vs-porto/1748"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/manchester-city-vs-porto/1749"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-09 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Inter Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Inter%20Milan/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Inter%20Milan/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Inter%20Milan/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Inter%20Milan/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-inter-milan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-inter-milan/1751"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-inter-milan/1752"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-inter-milan/1753"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-inter-milan/1754"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-09 01:00:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Lille",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Lille/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Lille/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/real-betis-vs-lille",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/real-betis-vs-lille/1750"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/real-betis-vs-lille/1756"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-09 01:00:00",
-        "team1Title": "Bolton Wanderers",
-        "team2Title": "West Ham United",
-        "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bolton%20Wanderers_vs_West%20Ham%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/bolton-wanderers-vs-west-ham-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bolton-wanderers-vs-west-ham-united/1741"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-09 01:00:00",
-        "team1Title": "Millwall FC",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Millwall%20FC_vs_Newcastle%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/millwall-vs-newcastle-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/millwall-vs-newcastle-united/1742"
-            }
-        ]
-    },
-    {
         "eventTitle": "UEFA Youth League",
         "matchTime": "2026-09-09 20:00:00",
         "team1Title": "Atlético Madrid",
@@ -273,6 +139,31 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-09-10 00:00:00",
+        "team1Title": "Al-Nassr",
+        "team2Title": "Abha",
+        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/abha/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/al-nassr-vs-abha",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/al-nassr-vs-abha/1765"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/al-nassr-vs-abha/1766"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/al-nassr-vs-abha/1767"
+            }
+        ]
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-10 00:45:00",
         "team1Title": "Everton",
@@ -297,6 +188,44 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-11 01:00:00",
+        "team1Title": "Stevenage",
+        "team2Title": "Luton Town",
+        "team1Logo": "https://cdn.img4every1.org/team/stevenage/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/luton-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/stevenage-vs-luton-town",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/stevenage-vs-luton-town/1763"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/stevenage-vs-luton-town/1764"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-12 01:00:00",
+        "team1Title": "West Ham United",
+        "team2Title": "Wrexham",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/west-ham-united-vs-wrexham",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1768"
+            }
+        ]
+    },
+    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-09-10 01:45:00",
         "team1Title": "Benfica",
@@ -306,6 +235,152 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/benfica-vs-moreirense",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-11 01:15:00",
+        "team1Title": "Estrela",
+        "team2Title": "Sporting Braga",
+        "team1Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/estrela-vs-sporting-braga",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-10 06:20:00",
+        "team1Title": "New England Patriots",
+        "team2Title": "Seattle Seahawks",
+        "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/patriots-vs-seahawks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/patriots-vs-seahawks/1760"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/patriots-vs-seahawks/1761"
+            }
+        ]
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-09-10 18:30:00",
+        "team1Title": "Irish Open",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/irish-open",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/irish-open/1762"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-12 00:30:00",
+        "team1Title": "Union Berlin",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/union-berlin-vs-schalke-04",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-12 00:45:00",
+        "team1Title": "Rennes",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rennes-vs-olympique-marseille",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-12 00:45:00",
+        "team1Title": "Venezia",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/venezia-vs-fiorentina",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-12 01:00:00",
+        "team1Title": "Valencia",
+        "team2Title": "Sevilla",
+        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/valencia-vs-sevilla",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-12 20:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Fulham",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/liverpool-vs-fulham-live-stream",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-12 20:00:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Nottingham Forest",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/aston-villa-vs-nottm-forest",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-12 20:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Hull City",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-hull-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-12 20:00:00",
+        "team1Title": "Ipswich Town",
+        "team2Title": "Crystal Palace",
+        "team1Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/ipswich-vs-crystal-palace",
         "multiWatchPageLink": []
     }
 ]

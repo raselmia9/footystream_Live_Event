@@ -2,42 +2,58 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [3/18]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
-🟡 Visiting detail page [2/18]: https://footystream.pk/events/english-open-snooker
-🟡 Visiting detail page [1/18]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: Snooker [2/18]
-🟡 Visiting detail page [4/18]: https://footystream.pk/events/manchester-city-vs-porto
-🟢 Successfully processed: Champions League [3/18]
-🟡 Visiting detail page [5/18]: https://footystream.pk/events/real-madrid-vs-inter-milan
-🟢 Successfully processed: ATP Tour [1/18]
-🟡 Visiting detail page [6/18]: https://footystream.pk/events/real-betis-vs-lille
-🟢 Successfully processed: Champions League [4/18]
-🟡 Visiting detail page [7/18]: https://footystream.pk/events/bolton-wanderers-vs-west-ham-united
-🟢 Successfully processed: Champions League [5/18]
-🟡 Visiting detail page [8/18]: https://footystream.pk/events/millwall-vs-newcastle-united
-🟢 Successfully processed: EFL [7/18]
-🟡 Visiting detail page [9/18]: https://footystream.pk/events/atletico-vs-liverpool
-🟢 Successfully processed: Champions League [6/18]
-🟡 Visiting detail page [10/18]: https://footystream.pk/events/barcelona-vs-feyenoord
-🟢 Successfully processed: EFL [8/18]
-🟡 Visiting detail page [11/18]: https://footystream.pk/events/viking-vs-stuttgart
-🟢 Successfully processed: Champions League [10/18]
-🟡 Visiting detail page [12/18]: https://footystream.pk/events/liverpool-vs-atletico-madrid
-🟢 Successfully processed: Champions League [11/18]
-🟡 Visiting detail page [13/18]: https://footystream.pk/events/arsenal-vs-napoli
-🟢 Successfully processed: Champions League [12/18]
-🟡 Visiting detail page [14/18]: https://footystream.pk/events/psg-vs-slovan-bratislava
-🟢 Successfully processed: Champions League [13/18]
-🟡 Visiting detail page [15/18]: https://footystream.pk/events/sporting-cp-vs-galatasaray
-🟢 Successfully processed: Champions League [14/18]
-🟡 Visiting detail page [16/18]: https://footystream.pk/events/everton-vs-wolves
-🟢 Successfully processed: Champions League [15/18]
-🟡 Visiting detail page [17/18]: https://footystream.pk/events/chelsea-vs-leeds-united
-🟢 Successfully processed: EFL [16/18]
-🟡 Visiting detail page [18/18]: https://footystream.pk/events/benfica-vs-moreirense
-🟢 Successfully processed: EFL [17/18]
-🟢 Successfully processed: UEFA Youth League [9/18]
-🟢 Successfully processed: Liga Portugal [18/18]
+🟢 Total unique detail links to process in parallel: 26
+🟡 Visiting detail page [3/26]: https://footystream.pk/events/atletico-vs-liverpool
+🟡 Visiting detail page [1/26]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [2/26]: https://footystream.pk/events/english-open-snooker
+🟢 Successfully processed: ATP Tour [1/26]
+🟡 Visiting detail page [4/26]: https://footystream.pk/events/barcelona-vs-feyenoord
+🟢 Successfully processed: Snooker [2/26]
+🟡 Visiting detail page [5/26]: https://footystream.pk/events/viking-vs-stuttgart
+🟢 Successfully processed: Champions League [4/26]
+🟡 Visiting detail page [6/26]: https://footystream.pk/events/liverpool-vs-atletico-madrid
+🟢 Successfully processed: Champions League [5/26]
+🟡 Visiting detail page [7/26]: https://footystream.pk/events/arsenal-vs-napoli
+🟢 Successfully processed: Champions League [6/26]
+🟡 Visiting detail page [8/26]: https://footystream.pk/events/psg-vs-slovan-bratislava
+🟢 Successfully processed: Champions League [7/26]
+🟡 Visiting detail page [9/26]: https://footystream.pk/events/sporting-cp-vs-galatasaray
+🟢 Successfully processed: UEFA Youth League [3/26]
+🟡 Visiting detail page [10/26]: https://footystream.pk/events/al-nassr-vs-abha
+🟢 Successfully processed: Champions League [8/26]
+🟡 Visiting detail page [11/26]: https://footystream.pk/events/everton-vs-wolves
+🟢 Successfully processed: Champions League [9/26]
+🟡 Visiting detail page [12/26]: https://footystream.pk/events/chelsea-vs-leeds-united
+🟢 Successfully processed: EFL [11/26]
+🟡 Visiting detail page [13/26]: https://footystream.pk/events/stevenage-vs-luton-town
+🟢 Successfully processed: EFL [12/26]
+🟡 Visiting detail page [14/26]: https://footystream.pk/events/west-ham-united-vs-wrexham
+🟢 Successfully processed: Saudi Pro League [10/26]
+🟡 Visiting detail page [15/26]: https://footystream.pk/events/benfica-vs-moreirense
+🟢 Successfully processed: Liga Portugal [15/26]
+🟡 Visiting detail page [16/26]: https://footystream.pk/events/estrela-vs-sporting-braga
+🟢 Successfully processed: Liga Portugal [16/26]
+🟡 Visiting detail page [17/26]: https://footystream.pk/events/patriots-vs-seahawks
+🟢 Successfully processed: EFL [13/26]
+🟡 Visiting detail page [18/26]: https://footystream.pk/events/irish-open
+🟢 Successfully processed: EFL [14/26]
+🟡 Visiting detail page [19/26]: https://footystream.pk/events/union-berlin-vs-schalke-04
+🟢 Successfully processed: Bundesliga [19/26]
+🟡 Visiting detail page [20/26]: https://footystream.pk/events/rennes-vs-olympique-marseille
+🟢 Successfully processed: French Ligue 1 [20/26]
+🟡 Visiting detail page [21/26]: https://footystream.pk/events/venezia-vs-fiorentina
+🟢 Successfully processed: Serie A [21/26]
+🟡 Visiting detail page [22/26]: https://footystream.pk/events/valencia-vs-sevilla
+🟢 Successfully processed: LaLiga [22/26]
+🟡 Visiting detail page [23/26]: https://footystream.pk/events/liverpool-vs-fulham-live-stream
+🟢 Successfully processed: NFL [17/26]
+🟡 Visiting detail page [24/26]: https://footystream.pk/events/aston-villa-vs-nottm-forest
+🟢 Successfully processed: PGA Tour [18/26]
+🟡 Visiting detail page [25/26]: https://footystream.pk/events/chelsea-vs-hull-city
+🟢 Successfully processed: Premier League [23/26]
+🟡 Visiting detail page [26/26]: https://footystream.pk/events/ipswich-vs-crystal-palace
+🟢 Successfully processed: Premier League [24/26]
+🟢 Successfully processed: Premier League [25/26]
+🟢 Successfully processed: Premier League [26/26]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 18
+🟢 Process completed successfully. Total collected events: 26

@@ -117,5 +117,56 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-feyenoord",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-09 00:45:00",
+        "team1Title": "Burnley FC",
+        "team2Title": "Wrexham",
+        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/burnley-vs-wrexham",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/burnley-vs-wrexham/1743"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-09 01:00:00",
+        "team1Title": "Bolton Wanderers",
+        "team2Title": "West Ham United",
+        "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bolton-wanderers-vs-west-ham-united",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bolton-wanderers-vs-west-ham-united/1741"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-09 01:00:00",
+        "team1Title": "Millwall FC",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/millwall-vs-newcastle-united",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/millwall-vs-newcastle-united/1742"
+            }
+        ]
     }
 ]

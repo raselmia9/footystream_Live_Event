@@ -29,19 +29,23 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-09 00:45:00",
-        "team1Title": "Burnley FC",
-        "team2Title": "Wrexham",
-        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "eventTitle": "Snooker",
+        "matchTime": "2026-09-08 16:00:00",
+        "team1Title": "English Open Snooker",
+        "team2Title": "Snooker",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Burnley%20FC_vs_Wrexham/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/burnley-vs-wrexham",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/english-open-snooker",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/burnley-vs-wrexham/1743"
+                "url": "https://footystream.pk/alpha/english-open-snooker/1758"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/english-open-snooker/1759"
             }
         ]
     },

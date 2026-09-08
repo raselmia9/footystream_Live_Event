@@ -180,6 +180,23 @@
         ]
     },
     {
+        "eventTitle": "UEFA Youth League",
+        "matchTime": "2026-09-09 20:00:00",
+        "team1Title": "Atlético Madrid",
+        "team2Title": "Liverpool",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/atletico-vs-liverpool",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/atletico-vs-liverpool/1757"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-09-09 22:45:00",
         "team1Title": "FC Barcelona",
@@ -273,6 +290,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-leeds-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-10 01:45:00",
+        "team1Title": "Benfica",
+        "team2Title": "Moreirense",
+        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/benfica-vs-moreirense",
         "multiWatchPageLink": []
     }
 ]

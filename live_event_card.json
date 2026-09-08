@@ -99,7 +99,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bolton%20Wanderers_vs_West%20Ham%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/bolton-wanderers-vs-west-ham-united",
         "multiWatchPageLink": [
             {
@@ -116,7 +116,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Millwall%20FC_vs_Newcastle%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/millwall-vs-newcastle-united",
         "multiWatchPageLink": [
             {
@@ -133,7 +133,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-villarreal",
         "multiWatchPageLink": [
             {
@@ -154,7 +154,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Porto/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Porto/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Porto/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/manchester-city-vs-porto",
         "multiWatchPageLink": [
             {
@@ -191,9 +191,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Lille/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/real-betis-vs-lille",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-betis-vs-lille/1750"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

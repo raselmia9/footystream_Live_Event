@@ -92,40 +92,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-09 01:00:00",
-        "team1Title": "Bolton Wanderers",
-        "team2Title": "West Ham United",
-        "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bolton%20Wanderers_vs_West%20Ham%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/bolton-wanderers-vs-west-ham-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bolton-wanderers-vs-west-ham-united/1741"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-09 01:00:00",
-        "team1Title": "Millwall FC",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Millwall%20FC_vs_Newcastle%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/millwall-vs-newcastle-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/millwall-vs-newcastle-united/1742"
-            }
-        ]
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-09-09 01:00:00",
         "team1Title": "Borussia Dortmund",
@@ -240,5 +206,39 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/viking-vs-stuttgart",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-09 01:00:00",
+        "team1Title": "Bolton Wanderers",
+        "team2Title": "West Ham United",
+        "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bolton%20Wanderers_vs_West%20Ham%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/bolton-wanderers-vs-west-ham-united",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bolton-wanderers-vs-west-ham-united/1741"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-09 01:00:00",
+        "team1Title": "Millwall FC",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Millwall%20FC_vs_Newcastle%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/millwall-vs-newcastle-united",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/millwall-vs-newcastle-united/1742"
+            }
+        ]
     }
 ]

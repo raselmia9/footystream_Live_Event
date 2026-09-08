@@ -3,28 +3,28 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [2/14]: https://footystream.pk/events/burnley-vs-wrexham
 🟡 Visiting detail page [3/14]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
+🟡 Visiting detail page [2/14]: https://footystream.pk/events/burnley-vs-wrexham
 🟡 Visiting detail page [1/14]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: EFL [2/14]
-🟡 Visiting detail page [4/14]: https://footystream.pk/events/manchester-city-vs-porto
-🟢 Successfully processed: ATP Tour [1/14]
 🟢 Successfully processed: Champions League [3/14]
+🟡 Visiting detail page [4/14]: https://footystream.pk/events/manchester-city-vs-porto
+🟢 Successfully processed: EFL [2/14]
 🟡 Visiting detail page [5/14]: https://footystream.pk/events/real-madrid-vs-inter-milan
+🟢 Successfully processed: ATP Tour [1/14]
 🟡 Visiting detail page [6/14]: https://footystream.pk/events/real-betis-vs-lille
 🟢 Successfully processed: Champions League [4/14]
 🟡 Visiting detail page [7/14]: https://footystream.pk/events/bolton-wanderers-vs-west-ham-united
-🟢 Successfully processed: Champions League [5/14]
 🟢 Successfully processed: Champions League [6/14]
+🟢 Successfully processed: Champions League [5/14]
 🟡 Visiting detail page [8/14]: https://footystream.pk/events/millwall-vs-newcastle-united
 🟡 Visiting detail page [9/14]: https://footystream.pk/events/barcelona-vs-feyenoord
 🟢 Successfully processed: Champions League [9/14]
 🟡 Visiting detail page [10/14]: https://footystream.pk/events/viking-vs-stuttgart
 🟢 Successfully processed: Champions League [10/14]
 🟡 Visiting detail page [11/14]: https://footystream.pk/events/liverpool-vs-atletico-madrid
-🟢 Successfully processed: EFL [8/14]
-🟡 Visiting detail page [12/14]: https://footystream.pk/events/arsenal-vs-napoli
 🟢 Successfully processed: EFL [7/14]
+🟡 Visiting detail page [12/14]: https://footystream.pk/events/arsenal-vs-napoli
+🟢 Successfully processed: EFL [8/14]
 🟡 Visiting detail page [13/14]: https://footystream.pk/events/psg-vs-slovan-bratislava
 🟢 Successfully processed: Champions League [11/14]
 🟡 Visiting detail page [14/14]: https://footystream.pk/events/sporting-cp-vs-galatasaray

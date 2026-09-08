@@ -8,15 +8,15 @@
 🟡 Visiting detail page [3/10]: https://footystream.pk/events/athens-vs-lask
 🟢 Successfully processed: Champions League [3/10]
 🟡 Visiting detail page [4/10]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
+🟢 Successfully processed: Champions League [2/10]
 🟢 Successfully processed: ATP Tour [1/10]
 🟡 Visiting detail page [5/10]: https://footystream.pk/events/manchester-city-vs-porto
-🟢 Successfully processed: Champions League [2/10]
 🟡 Visiting detail page [6/10]: https://footystream.pk/events/real-madrid-vs-inter-milan
 🟢 Successfully processed: Champions League [4/10]
 🟡 Visiting detail page [7/10]: https://footystream.pk/events/barcelona-vs-feyenoord
+🟢 Successfully processed: Champions League [6/10]
 🟢 Successfully processed: Champions League [5/10]
 🟡 Visiting detail page [8/10]: https://footystream.pk/events/burnley-vs-wrexham
-🟢 Successfully processed: Champions League [6/10]
 🟡 Visiting detail page [9/10]: https://footystream.pk/events/bolton-wanderers-vs-west-ham-united
 🟢 Successfully processed: Champions League [7/10]
 🟡 Visiting detail page [10/10]: https://footystream.pk/events/millwall-vs-newcastle-united

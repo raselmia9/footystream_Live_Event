@@ -29,52 +29,6 @@
         ]
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-08 22:45:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Club Brugge",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Club%20Brugge/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Club%20Brugge/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Club%20Brugge/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/aston-villa-vs-club-brugge",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-club-brugge/1737"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-club-brugge/1738"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-club-brugge/1744"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-08 22:45:00",
-        "team1Title": "AEK Athens",
-        "team2Title": "LASK",
-        "team1Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AEK%20Athens_vs_LASK/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AEK%20Athens_vs_LASK/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/athens-vs-lask",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/athens-vs-lask/1739"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/athens-vs-lask/1740"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-09 00:45:00",
         "team1Title": "Burnley FC",
@@ -99,7 +53,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Villarreal/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-villarreal",
         "multiWatchPageLink": [
             {
@@ -109,6 +63,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://footystream.pk/alpha/borussia-dortmund-vs-villarreal/1746"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-villarreal/1755"
             }
         ]
     },
@@ -174,38 +132,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Lille/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Lille/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Lille/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/real-betis-vs-lille",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/real-betis-vs-lille/1750"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-betis-vs-lille/1756"
             }
         ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-09 22:45:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Feyenoord",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barcelona-vs-feyenoord",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-09 22:45:00",
-        "team1Title": "Viking",
-        "team2Title": "Stuttgart",
-        "team1Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/viking-vs-stuttgart",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "EFL",
@@ -240,5 +178,77 @@
                 "url": "https://footystream.pk/alpha/millwall-vs-newcastle-united/1742"
             }
         ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-09 22:45:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Feyenoord",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barcelona-vs-feyenoord",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-09 22:45:00",
+        "team1Title": "Viking",
+        "team2Title": "Stuttgart",
+        "team1Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/viking-vs-stuttgart",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/liverpool-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Napoli",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/arsenal-vs-napoli",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "PSG",
+        "team2Title": "Slovan Bratislava",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/psg-vs-slovan-bratislava",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "Galatasaray",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sporting-cp-vs-galatasaray",
+        "multiWatchPageLink": []
     }
 ]

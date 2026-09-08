@@ -38,7 +38,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/aston-villa-vs-club-brugge",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-club-brugge/1737"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-club-brugge/1738"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -50,7 +59,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/athens-vs-lask",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/athens-vs-lask/1739"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/athens-vs-lask/1740"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

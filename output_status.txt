@@ -2,34 +2,38 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [2/14]: https://footystream.pk/events/burnley-vs-wrexham
-🟡 Visiting detail page [3/14]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
-🟡 Visiting detail page [1/14]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: ATP Tour [1/14]
-🟡 Visiting detail page [4/14]: https://footystream.pk/events/manchester-city-vs-porto
-🟢 Successfully processed: EFL [2/14]
-🟢 Successfully processed: Champions League [3/14]
-🟡 Visiting detail page [5/14]: https://footystream.pk/events/real-madrid-vs-inter-milan
-🟡 Visiting detail page [6/14]: https://footystream.pk/events/real-betis-vs-lille
-🟢 Successfully processed: Champions League [4/14]
-🟡 Visiting detail page [7/14]: https://footystream.pk/events/bolton-wanderers-vs-west-ham-united
-🟢 Successfully processed: Champions League [6/14]
-🟡 Visiting detail page [8/14]: https://footystream.pk/events/millwall-vs-newcastle-united
-🟢 Successfully processed: Champions League [5/14]
-🟡 Visiting detail page [9/14]: https://footystream.pk/events/barcelona-vs-feyenoord
-🟢 Successfully processed: Champions League [9/14]
-🟡 Visiting detail page [10/14]: https://footystream.pk/events/viking-vs-stuttgart
-🟢 Successfully processed: Champions League [10/14]
-🟡 Visiting detail page [11/14]: https://footystream.pk/events/liverpool-vs-atletico-madrid
-🟢 Successfully processed: EFL [7/14]
-🟡 Visiting detail page [12/14]: https://footystream.pk/events/arsenal-vs-napoli
-🟢 Successfully processed: EFL [8/14]
-🟡 Visiting detail page [13/14]: https://footystream.pk/events/psg-vs-slovan-bratislava
-🟢 Successfully processed: Champions League [11/14]
-🟡 Visiting detail page [14/14]: https://footystream.pk/events/sporting-cp-vs-galatasaray
-🟢 Successfully processed: Champions League [12/14]
-🟢 Successfully processed: Champions League [13/14]
-🟢 Successfully processed: Champions League [14/14]
+🟢 Total unique detail links to process in parallel: 16
+🟡 Visiting detail page [1/16]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [2/16]: https://footystream.pk/events/burnley-vs-wrexham
+🟡 Visiting detail page [3/16]: https://footystream.pk/events/borussia-dortmund-vs-villarreal
+🟢 Successfully processed: EFL [2/16]
+🟡 Visiting detail page [4/16]: https://footystream.pk/events/manchester-city-vs-porto
+🟢 Successfully processed: Champions League [3/16]
+🟡 Visiting detail page [5/16]: https://footystream.pk/events/real-madrid-vs-inter-milan
+🟢 Successfully processed: ATP Tour [1/16]
+🟡 Visiting detail page [6/16]: https://footystream.pk/events/real-betis-vs-lille
+🟢 Successfully processed: Champions League [4/16]
+🟡 Visiting detail page [7/16]: https://footystream.pk/events/bolton-wanderers-vs-west-ham-united
+🟢 Successfully processed: Champions League [5/16]
+🟡 Visiting detail page [8/16]: https://footystream.pk/events/millwall-vs-newcastle-united
+🟢 Successfully processed: Champions League [6/16]
+🟡 Visiting detail page [9/16]: https://footystream.pk/events/barcelona-vs-feyenoord
+🟢 Successfully processed: Champions League [9/16]
+🟡 Visiting detail page [10/16]: https://footystream.pk/events/viking-vs-stuttgart
+🟢 Successfully processed: EFL [7/16]
+🟡 Visiting detail page [11/16]: https://footystream.pk/events/liverpool-vs-atletico-madrid
+🟢 Successfully processed: EFL [8/16]
+🟡 Visiting detail page [12/16]: https://footystream.pk/events/arsenal-vs-napoli
+🟢 Successfully processed: Champions League [10/16]
+🟡 Visiting detail page [13/16]: https://footystream.pk/events/psg-vs-slovan-bratislava
+🟢 Successfully processed: Champions League [12/16]
+🟡 Visiting detail page [14/16]: https://footystream.pk/events/sporting-cp-vs-galatasaray
+🟢 Successfully processed: Champions League [11/16]
+🟡 Visiting detail page [15/16]: https://footystream.pk/events/everton-vs-wolves
+🟢 Successfully processed: Champions League [13/16]
+🟡 Visiting detail page [16/16]: https://footystream.pk/events/chelsea-vs-leeds-united
+🟢 Successfully processed: Champions League [14/16]
+🟢 Successfully processed: EFL [15/16]
+🟢 Successfully processed: EFL [16/16]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 14
+🟢 Process completed successfully. Total collected events: 16

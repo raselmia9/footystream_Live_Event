@@ -250,5 +250,29 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/sporting-cp-vs-galatasaray",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-10 00:45:00",
+        "team1Title": "Everton",
+        "team2Title": "Wolverhampton Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Leeds United",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-leeds-united",
+        "multiWatchPageLink": []
     }
 ]

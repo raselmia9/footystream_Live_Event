@@ -4,11 +4,11 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 37
 🟡 Visiting detail page [2/37]: https://footystream.pk/events/english-open-snooker
-🟡 Visiting detail page [3/37]: https://footystream.pk/events/atletico-vs-liverpool
 🟡 Visiting detail page [1/37]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [3/37]: https://footystream.pk/events/atletico-vs-liverpool
+🟢 Successfully processed: ATP Tour [1/37]
 🟢 Successfully processed: Snooker [2/37]
 🟡 Visiting detail page [4/37]: https://footystream.pk/events/barcelona-vs-feyenoord
-🟢 Successfully processed: ATP Tour [1/37]
 🟡 Visiting detail page [5/37]: https://footystream.pk/events/viking-vs-stuttgart
 🟢 Successfully processed: Champions League [4/37]
 🟡 Visiting detail page [6/37]: https://footystream.pk/events/liverpool-vs-atletico-madrid
@@ -58,15 +58,15 @@
 🟡 Visiting detail page [28/37]: https://footystream.pk/events/racing-santander-vs-alaves
 🟢 Successfully processed: PGA Tour [20/37]
 🟡 Visiting detail page [29/37]: https://footystream.pk/events/espanyol-vs-osasuna
-🟢 Successfully processed: LaLiga [28/37]
 🟢 Successfully processed: LaLiga [27/37]
 🟡 Visiting detail page [30/37]: https://footystream.pk/events/elche-vs-athletic-club
+🟢 Successfully processed: LaLiga [28/37]
 🟡 Visiting detail page [31/37]: https://footystream.pk/events/real-madrid-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [29/37]
 🟡 Visiting detail page [32/37]: https://footystream.pk/events/brentford-vs-bournemouth
-🟢 Successfully processed: LaLiga [31/37]
 🟢 Successfully processed: LaLiga [30/37]
 🟡 Visiting detail page [33/37]: https://footystream.pk/events/liverpool-vs-fulham-live-stream
+🟢 Successfully processed: LaLiga [31/37]
 🟡 Visiting detail page [34/37]: https://footystream.pk/events/aston-villa-vs-nottm-forest
 🟢 Successfully processed: Premier League [32/37]
 🟡 Visiting detail page [35/37]: https://footystream.pk/events/chelsea-vs-hull-city

@@ -76,7 +76,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-feyenoord",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/barcelona-vs-feyenoord/1769"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/barcelona-vs-feyenoord/1770"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/barcelona-vs-feyenoord/1771"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/barcelona-vs-feyenoord/1772"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/barcelona-vs-feyenoord/1773"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/barcelona-vs-feyenoord/1774"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -88,7 +113,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/viking-vs-stuttgart",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/viking-vs-stuttgart/1775"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

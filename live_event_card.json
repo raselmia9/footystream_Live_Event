@@ -94,7 +94,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Viking_vs_Stuttgart/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Viking_vs_Stuttgart/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Viking_vs_Stuttgart/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Viking_vs_Stuttgart/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Viking_vs_Stuttgart/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/viking-vs-stuttgart",
         "multiWatchPageLink": [
             {
@@ -104,20 +104,12 @@
             {
                 "channel": "Link 2",
                 "url": "https://footystream.pk/alpha/viking-vs-stuttgart/1776"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/viking-vs-stuttgart/1777"
             }
         ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-10 01:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-atletico-madrid",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Champions League",

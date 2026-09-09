@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 37
-🟡 Visiting detail page [3/37]: https://footystream.pk/events/atletico-vs-liverpool
 🟡 Visiting detail page [1/37]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [3/37]: https://footystream.pk/events/atletico-vs-liverpool
 🟡 Visiting detail page [2/37]: https://footystream.pk/events/english-open-snooker
-🟢 Successfully processed: ATP Tour [1/37]
-🟡 Visiting detail page [4/37]: https://footystream.pk/events/barcelona-vs-feyenoord
 🟢 Successfully processed: Snooker [2/37]
+🟡 Visiting detail page [4/37]: https://footystream.pk/events/barcelona-vs-feyenoord
+🟢 Successfully processed: ATP Tour [1/37]
 🟡 Visiting detail page [5/37]: https://footystream.pk/events/viking-vs-stuttgart
 🟢 Successfully processed: Champions League [4/37]
 🟡 Visiting detail page [6/37]: https://footystream.pk/events/liverpool-vs-atletico-madrid
@@ -30,13 +30,13 @@
 🟡 Visiting detail page [14/37]: https://footystream.pk/events/west-ham-united-vs-wrexham
 🟢 Successfully processed: Saudi Pro League [10/37]
 🟡 Visiting detail page [15/37]: https://footystream.pk/events/benfica-vs-moreirense
-🟢 Successfully processed: EFL [13/37]
-🟡 Visiting detail page [16/37]: https://footystream.pk/events/estrela-vs-sporting-braga
 🟢 Successfully processed: Liga Portugal [15/37]
-🟡 Visiting detail page [17/37]: https://footystream.pk/events/patriots-vs-seahawks
+🟡 Visiting detail page [16/37]: https://footystream.pk/events/estrela-vs-sporting-braga
 🟢 Successfully processed: EFL [14/37]
-🟡 Visiting detail page [18/37]: https://footystream.pk/events/rams-vs-49ers-live
+🟡 Visiting detail page [17/37]: https://footystream.pk/events/patriots-vs-seahawks
 🟢 Successfully processed: Liga Portugal [16/37]
+🟡 Visiting detail page [18/37]: https://footystream.pk/events/rams-vs-49ers-live
+🟢 Successfully processed: EFL [13/37]
 🟡 Visiting detail page [19/37]: https://footystream.pk/events/bears-vs-panthers
 🟢 Successfully processed: NFL [18/37]
 🟡 Visiting detail page [20/37]: https://footystream.pk/events/irish-open
@@ -66,15 +66,15 @@
 🟡 Visiting detail page [32/37]: https://footystream.pk/events/brentford-vs-bournemouth
 🟢 Successfully processed: LaLiga [30/37]
 🟡 Visiting detail page [33/37]: https://footystream.pk/events/liverpool-vs-fulham-live-stream
-🟢 Successfully processed: Premier League [32/37]
-🟡 Visiting detail page [34/37]: https://footystream.pk/events/aston-villa-vs-nottm-forest
 🟢 Successfully processed: LaLiga [31/37]
-🟡 Visiting detail page [35/37]: https://footystream.pk/events/chelsea-vs-hull-city
+🟡 Visiting detail page [34/37]: https://footystream.pk/events/aston-villa-vs-nottm-forest
 🟢 Successfully processed: Premier League [33/37]
+🟢 Successfully processed: Premier League [32/37]
+🟡 Visiting detail page [35/37]: https://footystream.pk/events/chelsea-vs-hull-city
 🟡 Visiting detail page [36/37]: https://footystream.pk/events/ipswich-vs-crystal-palace
-🟢 Successfully processed: Premier League [35/37]
-🟡 Visiting detail page [37/37]: https://footystream.pk/events/spurs-vs-everton
 🟢 Successfully processed: Premier League [34/37]
+🟡 Visiting detail page [37/37]: https://footystream.pk/events/spurs-vs-everton
+🟢 Successfully processed: Premier League [35/37]
 🟢 Successfully processed: Premier League [36/37]
 🟢 Successfully processed: Premier League [37/37]
 🟢 Browser closed successfully.

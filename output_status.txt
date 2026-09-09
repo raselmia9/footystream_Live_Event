@@ -18,29 +18,29 @@
 🟡 Visiting detail page [8/37]: https://footystream.pk/events/psg-vs-slovan-bratislava
 🟢 Successfully processed: Champions League [7/37]
 🟡 Visiting detail page [9/37]: https://footystream.pk/events/sporting-cp-vs-galatasaray
-🟢 Successfully processed: UEFA Youth League [3/37]
-🟡 Visiting detail page [10/37]: https://footystream.pk/events/al-nassr-vs-abha
 🟢 Successfully processed: Champions League [8/37]
-🟡 Visiting detail page [11/37]: https://footystream.pk/events/everton-vs-wolves
+🟡 Visiting detail page [10/37]: https://footystream.pk/events/al-nassr-vs-abha
 🟢 Successfully processed: Champions League [9/37]
-🟡 Visiting detail page [12/37]: https://footystream.pk/events/chelsea-vs-leeds-united
+🟡 Visiting detail page [11/37]: https://footystream.pk/events/everton-vs-wolves
 🟢 Successfully processed: EFL [11/37]
+🟢 Successfully processed: UEFA Youth League [3/37]
+🟡 Visiting detail page [12/37]: https://footystream.pk/events/chelsea-vs-leeds-united
 🟡 Visiting detail page [13/37]: https://footystream.pk/events/stevenage-vs-luton-town
 🟢 Successfully processed: EFL [12/37]
 🟡 Visiting detail page [14/37]: https://footystream.pk/events/west-ham-united-vs-wrexham
-🟢 Successfully processed: Saudi Pro League [10/37]
-🟡 Visiting detail page [15/37]: https://footystream.pk/events/benfica-vs-moreirense
-🟢 Successfully processed: Liga Portugal [15/37]
-🟡 Visiting detail page [16/37]: https://footystream.pk/events/estrela-vs-sporting-braga
 🟢 Successfully processed: EFL [13/37]
+🟡 Visiting detail page [15/37]: https://footystream.pk/events/benfica-vs-moreirense
+🟢 Successfully processed: Saudi Pro League [10/37]
+🟡 Visiting detail page [16/37]: https://footystream.pk/events/estrela-vs-sporting-braga
+🟢 Successfully processed: Liga Portugal [15/37]
 🟡 Visiting detail page [17/37]: https://footystream.pk/events/patriots-vs-seahawks
-🟢 Successfully processed: Liga Portugal [16/37]
-🟡 Visiting detail page [18/37]: https://footystream.pk/events/rams-vs-49ers-live
 🟢 Successfully processed: EFL [14/37]
+🟡 Visiting detail page [18/37]: https://footystream.pk/events/rams-vs-49ers-live
+🟢 Successfully processed: Liga Portugal [16/37]
 🟡 Visiting detail page [19/37]: https://footystream.pk/events/bears-vs-panthers
 🟢 Successfully processed: NFL [18/37]
-🟢 Successfully processed: NFL [19/37]
 🟡 Visiting detail page [20/37]: https://footystream.pk/events/irish-open
+🟢 Successfully processed: NFL [19/37]
 🟡 Visiting detail page [21/37]: https://footystream.pk/events/union-berlin-vs-schalke-04
 🟢 Successfully processed: Bundesliga [21/37]
 🟡 Visiting detail page [22/37]: https://footystream.pk/events/rennes-vs-olympique-marseille
@@ -50,17 +50,17 @@
 🟡 Visiting detail page [24/37]: https://footystream.pk/events/genoa-vs-frosinone
 🟢 Successfully processed: Serie A [24/37]
 🟡 Visiting detail page [25/37]: https://footystream.pk/events/milan-vs-lazio
-🟢 Successfully processed: NFL [17/37]
-🟡 Visiting detail page [26/37]: https://footystream.pk/events/atalanta-vs-cagliari
 🟢 Successfully processed: Serie A [25/37]
-🟡 Visiting detail page [27/37]: https://footystream.pk/events/valencia-vs-sevilla
+🟡 Visiting detail page [26/37]: https://footystream.pk/events/atalanta-vs-cagliari
 🟢 Successfully processed: Serie A [26/37]
+🟡 Visiting detail page [27/37]: https://footystream.pk/events/valencia-vs-sevilla
+🟢 Successfully processed: NFL [17/37]
 🟡 Visiting detail page [28/37]: https://footystream.pk/events/racing-santander-vs-alaves
-🟢 Successfully processed: PGA Tour [20/37]
-🟡 Visiting detail page [29/37]: https://footystream.pk/events/espanyol-vs-osasuna
 🟢 Successfully processed: LaLiga [27/37]
-🟡 Visiting detail page [30/37]: https://footystream.pk/events/elche-vs-athletic-club
+🟡 Visiting detail page [29/37]: https://footystream.pk/events/espanyol-vs-osasuna
 🟢 Successfully processed: LaLiga [28/37]
+🟡 Visiting detail page [30/37]: https://footystream.pk/events/elche-vs-athletic-club
+🟢 Successfully processed: PGA Tour [20/37]
 🟡 Visiting detail page [31/37]: https://footystream.pk/events/real-madrid-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [29/37]
 🟡 Visiting detail page [32/37]: https://footystream.pk/events/brentford-vs-bournemouth

@@ -36,7 +36,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/english-open-snooker",
         "multiWatchPageLink": [
             {
@@ -52,12 +52,12 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-09-09 22:45:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Feyenoord",
+        "team1Title": "Event Ended",
+        "team2Title": "FC Barcelona",
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Feyenoord/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Feyenoord/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Feyenoord/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Feyenoord/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Feyenoord/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Feyenoord/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_FC%20Barcelona/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_FC%20Barcelona/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_FC%20Barcelona/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_FC%20Barcelona/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_FC%20Barcelona/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_FC%20Barcelona/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-feyenoord",
         "multiWatchPageLink": [
             {
@@ -89,12 +89,12 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-09-09 22:45:00",
-        "team1Title": "Viking",
-        "team2Title": "Stuttgart",
+        "team1Title": "Event Ended",
+        "team2Title": "Viking",
         "team1Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Viking_vs_Stuttgart/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Viking_vs_Stuttgart/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Viking_vs_Stuttgart/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Viking/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Viking/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/viking-vs-stuttgart",
         "multiWatchPageLink": [
             {

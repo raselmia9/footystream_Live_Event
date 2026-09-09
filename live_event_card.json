@@ -253,18 +253,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-11 01:15:00",
-        "team1Title": "Estrela",
-        "team2Title": "Sporting Braga",
-        "team1Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/estrela-vs-sporting-braga",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-10 06:20:00",
         "team1Title": "New England Patriots",
@@ -435,6 +423,18 @@
                 "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1768"
             }
         ]
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-11 01:15:00",
+        "team1Title": "Estrela",
+        "team2Title": "Sporting Braga",
+        "team1Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/estrela-vs-sporting-braga",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",

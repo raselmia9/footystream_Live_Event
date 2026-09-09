@@ -114,6 +114,18 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/liverpool-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
         "team1Title": "Arsenal",
         "team2Title": "Napoli",
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
@@ -155,7 +167,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/abha/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/al-nassr-vs-abha",
         "multiWatchPageLink": [
             {
@@ -426,18 +438,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/espanyol-vs-osasuna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-12 22:30:00",
-        "team1Title": "Elche CF",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/elche-vs-athletic-club",
         "multiWatchPageLink": []
     },
     {

@@ -3,31 +3,31 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 32
-🟡 Visiting detail page [2/32]: https://footystream.pk/events/english-open-snooker
 🟡 Visiting detail page [1/32]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/32]: https://footystream.pk/events/patriots-vs-seahawks
+🟡 Visiting detail page [2/32]: https://footystream.pk/events/english-open-snooker
 🟢 Successfully processed: Snooker [2/32]
+🟡 Visiting detail page [4/32]: https://footystream.pk/events/rams-vs-49ers-live
+🟢 Successfully processed: NFL [3/32]
 🟢 Successfully processed: ATP Tour [1/32]
 🟡 Visiting detail page [5/32]: https://footystream.pk/events/bears-vs-panthers
-🟢 Successfully processed: NFL [3/32]
-🟡 Visiting detail page [4/32]: https://footystream.pk/events/rams-vs-49ers-live
 🟡 Visiting detail page [6/32]: https://footystream.pk/events/irish-open
 🟢 Successfully processed: NFL [4/32]
-🟢 Successfully processed: NFL [5/32]
 🟡 Visiting detail page [7/32]: https://footystream.pk/events/psv-vs-shakhtar-donetsk
+🟢 Successfully processed: NFL [5/32]
 🟡 Visiting detail page [8/32]: https://footystream.pk/events/roma-vs-fenerbahce
 🟢 Successfully processed: Champions League [7/32]
 🟡 Visiting detail page [9/32]: https://footystream.pk/events/lens-vs-slavia-praha
 🟢 Successfully processed: Champions League [8/32]
 🟡 Visiting detail page [10/32]: https://footystream.pk/events/manchester-united-vs-sabah
-🟢 Successfully processed: Champions League [10/32]
 🟢 Successfully processed: Champions League [9/32]
 🟡 Visiting detail page [11/32]: https://footystream.pk/events/bayern-munchen-vs-bodo-glimt
+🟢 Successfully processed: Champions League [10/32]
 🟡 Visiting detail page [12/32]: https://footystream.pk/events/como-vs-rb-leipzig
 🟢 Successfully processed: Champions League [11/32]
+🟡 Visiting detail page [13/32]: https://footystream.pk/events/stevenage-vs-luton-town
 🟢 Successfully processed: Champions League [12/32]
 🟡 Visiting detail page [14/32]: https://footystream.pk/events/west-ham-united-vs-wrexham
-🟡 Visiting detail page [13/32]: https://footystream.pk/events/stevenage-vs-luton-town
 🟢 Successfully processed: PGA Tour [6/32]
 🟡 Visiting detail page [15/32]: https://footystream.pk/events/estrela-vs-sporting-braga
 🟢 Successfully processed: Liga Portugal [15/32]
@@ -36,11 +36,11 @@
 🟡 Visiting detail page [17/32]: https://footystream.pk/events/rennes-vs-olympique-marseille
 🟢 Successfully processed: French Ligue 1 [17/32]
 🟡 Visiting detail page [18/32]: https://footystream.pk/events/venezia-vs-fiorentina
-🟢 Successfully processed: Serie A [18/32]
-🟡 Visiting detail page [19/32]: https://footystream.pk/events/genoa-vs-frosinone
 🟢 Successfully processed: EFL [13/32]
-🟡 Visiting detail page [20/32]: https://footystream.pk/events/milan-vs-lazio
+🟡 Visiting detail page [19/32]: https://footystream.pk/events/genoa-vs-frosinone
 🟢 Successfully processed: EFL [14/32]
+🟡 Visiting detail page [20/32]: https://footystream.pk/events/milan-vs-lazio
+🟢 Successfully processed: Serie A [18/32]
 🟡 Visiting detail page [21/32]: https://footystream.pk/events/atalanta-vs-cagliari
 🟢 Successfully processed: Serie A [19/32]
 🟡 Visiting detail page [22/32]: https://footystream.pk/events/valencia-vs-sevilla

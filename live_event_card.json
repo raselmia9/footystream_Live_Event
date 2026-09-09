@@ -112,54 +112,6 @@
         ]
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-10 01:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-atletico-madrid",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-10 01:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Napoli",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/arsenal-vs-napoli",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-10 01:00:00",
-        "team1Title": "PSG",
-        "team2Title": "Slovan Bratislava",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/psg-vs-slovan-bratislava",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-10 01:00:00",
-        "team1Title": "Sporting CP",
-        "team2Title": "Galatasaray",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/sporting-cp-vs-galatasaray",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Saudi Pro League",
         "matchTime": "2026-09-10 00:00:00",
         "team1Title": "Al-Nassr",
@@ -167,7 +119,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/abha/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/al-nassr-vs-abha",
         "multiWatchPageLink": [
             {
@@ -245,6 +197,78 @@
                 "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1768"
             }
         ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/liverpool-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Napoli",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/arsenal-vs-napoli",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "PSG",
+        "team2Title": "Slovan Bratislava",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/psg-vs-slovan-bratislava",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "Galatasaray",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sporting-cp-vs-galatasaray",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 22:45:00",
+        "team1Title": "PSV",
+        "team2Title": "Shakhtar Donetsk",
+        "team1Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/psv-vs-shakhtar-donetsk",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-10 22:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Fenerbahçe",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/roma-vs-fenerbahce",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Liga Portugal",
@@ -438,6 +462,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/espanyol-vs-osasuna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-12 22:30:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/elche-vs-athletic-club",
         "multiWatchPageLink": []
     },
     {

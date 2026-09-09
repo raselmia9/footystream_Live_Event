@@ -119,7 +119,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/abha/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Al-Nassr_vs_Abha/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/al-nassr-vs-abha",
         "multiWatchPageLink": [
             {
@@ -208,7 +208,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-atletico-madrid",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/liverpool-vs-atletico-madrid/1778"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/liverpool-vs-atletico-madrid/1779"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/liverpool-vs-atletico-madrid/1780"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/liverpool-vs-atletico-madrid/1781"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/liverpool-vs-atletico-madrid/1782"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/liverpool-vs-atletico-madrid/1783"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -220,7 +245,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/arsenal-vs-napoli",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/arsenal-vs-napoli/1784"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/arsenal-vs-napoli/1785"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -232,7 +266,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/psg-vs-slovan-bratislava",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/psg-vs-slovan-bratislava/1786"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/psg-vs-slovan-bratislava/1787"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/psg-vs-slovan-bratislava/1788"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

@@ -50,31 +50,6 @@
         ]
     },
     {
-        "eventTitle": "Saudi Pro League",
-        "matchTime": "2026-09-10 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Al-Nassr",
-        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/abha/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Al-Nassr/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Al-Nassr/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Al-Nassr/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/al-nassr-vs-abha",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/al-nassr-vs-abha/1765"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/al-nassr-vs-abha/1766"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/al-nassr-vs-abha/1767"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-10 00:45:00",
         "team1Title": "Everton",

@@ -156,9 +156,39 @@
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Leeds%20United/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Leeds%20United/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-leeds-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/chelsea-vs-leeds-united/1793"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/chelsea-vs-leeds-united/1794"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-10 01:00:00",
+        "team1Title": "Queens Park Rangers",
+        "team2Title": "Charlton Athletic",
+        "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Queens%20Park%20Rangers_vs_Charlton%20Athletic/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Queens%20Park%20Rangers_vs_Charlton%20Athletic/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/qpr-vs-charlton-athletic",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/qpr-vs-charlton-athletic/1795"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/qpr-vs-charlton-athletic/1796"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -206,7 +236,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Atl%C3%A9tico%20Madrid/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Atl%C3%A9tico%20Madrid/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Atl%C3%A9tico%20Madrid/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Atl%C3%A9tico%20Madrid/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Atl%C3%A9tico%20Madrid/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Atl%C3%A9tico%20Madrid/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-atletico-madrid",
         "multiWatchPageLink": [
             {
@@ -243,7 +273,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Napoli/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Napoli/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/arsenal-vs-napoli",
         "multiWatchPageLink": [
             {
@@ -264,7 +294,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Slovan%20Bratislava/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Slovan%20Bratislava/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Slovan%20Bratislava/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/psg-vs-slovan-bratislava",
         "multiWatchPageLink": [
             {
@@ -289,9 +319,26 @@
         "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sporting%20CP_vs_Galatasaray/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sporting%20CP_vs_Galatasaray/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sporting%20CP_vs_Galatasaray/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sporting%20CP_vs_Galatasaray/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/sporting-cp-vs-galatasaray",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/sporting-cp-vs-galatasaray/1789"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/sporting-cp-vs-galatasaray/1790"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/sporting-cp-vs-galatasaray/1791"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/sporting-cp-vs-galatasaray/1792"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

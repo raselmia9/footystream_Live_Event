@@ -216,7 +216,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/estrela-vs-sporting-braga",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/estrela-vs-sporting-braga/1804"
+            }
+        ]
     },
     {
         "eventTitle": "NFL",

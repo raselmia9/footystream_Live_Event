@@ -50,27 +50,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-10 06:20:00",
-        "team1Title": "New England Patriots",
-        "team2Title": "Seattle Seahawks",
-        "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20England%20Patriots_vs_Seattle%20Seahawks/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20England%20Patriots_vs_Seattle%20Seahawks/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/patriots-vs-seahawks",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/patriots-vs-seahawks/1760"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/patriots-vs-seahawks/1761"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-10 18:30:00",
         "team1Title": "Irish Open",

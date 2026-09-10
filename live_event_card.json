@@ -76,7 +76,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/psv-vs-shakhtar-donetsk",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/psv-vs-shakhtar-donetsk/1797"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/psv-vs-shakhtar-donetsk/1798"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/psv-vs-shakhtar-donetsk/1799"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -88,7 +101,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/roma-vs-fenerbahce",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/roma-vs-fenerbahce/1800"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/roma-vs-fenerbahce/1801"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/roma-vs-fenerbahce/1802"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/roma-vs-fenerbahce/1803"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

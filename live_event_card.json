@@ -226,7 +226,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/rams-vs-49ers-live",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/bravo/rams-vs-49ers-live/40"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/bravo/rams-vs-49ers-live/41"
+            }
+        ]
     },
     {
         "eventTitle": "NFL",

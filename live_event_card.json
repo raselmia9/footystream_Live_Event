@@ -128,9 +128,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lens_vs_Slavia%20Praha/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lens_vs_Slavia%20Praha/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/lens-vs-slavia-praha",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lens-vs-slavia-praha/1810"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/lens-vs-slavia-praha/1811"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -214,7 +223,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Estrela_vs_Sporting%20Braga/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/estrela-vs-sporting-braga",
         "multiWatchPageLink": [
             {

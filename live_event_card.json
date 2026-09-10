@@ -248,6 +248,23 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-09-11 13:00:00",
+        "team1Title": "MotoGP",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/motogp-san-marino-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/motogp-san-marino-grand-prix/1805"
+            }
+        ]
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-12 00:30:00",
         "team1Title": "Union Berlin",

@@ -265,6 +265,31 @@
         ]
     },
     {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-09-11 14:00:00",
+        "team1Title": "f1 Spanish Grand Prix",
+        "team2Title": "Formula 1",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/f1-spanish-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/f1-spanish-grand-prix/1807"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/f1-spanish-grand-prix/1808"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/f1-spanish-grand-prix/1809"
+            }
+        ]
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-12 00:30:00",
         "team1Title": "Union Berlin",

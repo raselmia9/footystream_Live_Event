@@ -71,30 +71,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-11 06:35:00",
-        "team1Title": "Los Angeles Rams",
-        "team2Title": "San Francisco 49ers",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/rams-vs-49ers-live",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-13 23:00:00",
-        "team1Title": "Chicago Bears",
-        "team2Title": "Carolina Panthers",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bears-vs-panthers",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-10 18:30:00",
         "team1Title": "Irish Open",
@@ -231,6 +207,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/estrela-vs-sporting-braga",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-11 06:35:00",
+        "team1Title": "Los Angeles Rams",
+        "team2Title": "San Francisco 49ers",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rams-vs-49ers-live",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-13 23:00:00",
+        "team1Title": "Chicago Bears",
+        "team2Title": "Carolina Panthers",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bears-vs-panthers",
         "multiWatchPageLink": []
     },
     {

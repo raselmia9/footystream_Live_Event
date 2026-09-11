@@ -197,6 +197,27 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-12 01:00:00",
+        "team1Title": "West Ham United",
+        "team2Title": "Wrexham",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/West%20Ham%20United_vs_Wrexham/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/West%20Ham%20United_vs_Wrexham/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/west-ham-united-vs-wrexham",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1768"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1831"
+            }
+        ]
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-12 18:00:00",
         "team1Title": "Racing Santander",
@@ -243,27 +264,6 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
         "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-12 01:00:00",
-        "team1Title": "West Ham United",
-        "team2Title": "Wrexham",
-        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/West%20Ham%20United_vs_Wrexham/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/West%20Ham%20United_vs_Wrexham/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/west-ham-united-vs-wrexham",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1768"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1831"
-            }
-        ]
     },
     {
         "eventTitle": "Serie A",

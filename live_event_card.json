@@ -116,7 +116,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Union%20Berlin_vs_Schalke%2004/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/union-berlin-vs-schalke-04",
         "multiWatchPageLink": [
             {
@@ -135,7 +135,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/rennes-vs-olympique-marseille",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rennes-vs-olympique-marseille/1832"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/rennes-vs-olympique-marseille/1833"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/rennes-vs-olympique-marseille/1834"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -151,6 +164,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/venezia-vs-fiorentina/1826"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/venezia-vs-fiorentina/1830"
             }
         ]
     },
@@ -277,6 +294,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1768"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/west-ham-united-vs-wrexham/1831"
             }
         ]
     },

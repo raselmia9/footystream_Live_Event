@@ -6,11 +6,11 @@
 🟡 Visiting detail page [2/24]: https://footystream.pk/events/english-open-snooker
 🟡 Visiting detail page [1/24]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/24]: https://footystream.pk/events/irish-open
-🟢 Successfully processed: ATP Tour [1/24]
+🟢 Successfully processed: PGA Tour [3/24]
 🟡 Visiting detail page [4/24]: https://footystream.pk/events/motogp-san-marino-grand-prix
 🟢 Successfully processed: Snooker [2/24]
 🟡 Visiting detail page [5/24]: https://footystream.pk/events/f1-spanish-grand-prix
-🟢 Successfully processed: PGA Tour [3/24]
+🟢 Successfully processed: ATP Tour [1/24]
 🟡 Visiting detail page [6/24]: https://footystream.pk/events/union-berlin-vs-schalke-04
 🟢 Successfully processed: Bundesliga [6/24]
 🟡 Visiting detail page [7/24]: https://footystream.pk/events/rennes-vs-olympique-marseille
@@ -28,15 +28,15 @@
 🟡 Visiting detail page [13/24]: https://footystream.pk/events/racing-santander-vs-alaves
 🟢 Successfully processed: Serie A [11/24]
 🟡 Visiting detail page [14/24]: https://footystream.pk/events/espanyol-vs-osasuna
-🟢 Successfully processed: LaLiga [13/24]
-🟡 Visiting detail page [15/24]: https://footystream.pk/events/elche-vs-athletic-club
 🟢 Successfully processed: LaLiga [12/24]
+🟡 Visiting detail page [15/24]: https://footystream.pk/events/elche-vs-athletic-club
+🟢 Successfully processed: LaLiga [13/24]
 🟡 Visiting detail page [16/24]: https://footystream.pk/events/real-madrid-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [14/24]
 🟡 Visiting detail page [17/24]: https://footystream.pk/events/west-ham-united-vs-wrexham
-🟢 Successfully processed: LaLiga [16/24]
-🟡 Visiting detail page [18/24]: https://footystream.pk/events/brentford-vs-bournemouth
 🟢 Successfully processed: LaLiga [15/24]
+🟡 Visiting detail page [18/24]: https://footystream.pk/events/brentford-vs-bournemouth
+🟢 Successfully processed: LaLiga [16/24]
 🟡 Visiting detail page [19/24]: https://footystream.pk/events/liverpool-vs-fulham-live-stream
 🟢 Successfully processed: Premier League [18/24]
 🟡 Visiting detail page [20/24]: https://footystream.pk/events/aston-villa-vs-nottm-forest

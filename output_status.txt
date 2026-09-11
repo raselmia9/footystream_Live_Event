@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 24
-🟡 Visiting detail page [2/24]: https://footystream.pk/events/english-open-snooker
-🟡 Visiting detail page [1/24]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/24]: https://footystream.pk/events/irish-open
+🟡 Visiting detail page [1/24]: https://footystream.pk/events/us-open-2026
+🟡 Visiting detail page [2/24]: https://footystream.pk/events/english-open-snooker
 🟢 Successfully processed: PGA Tour [3/24]
 🟡 Visiting detail page [4/24]: https://footystream.pk/events/motogp-san-marino-grand-prix
 🟢 Successfully processed: Snooker [2/24]

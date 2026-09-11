@@ -69,12 +69,12 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-09-11 06:35:00",
-        "team1Title": "Los Angeles Rams",
-        "team2Title": "San Francisco 49ers",
+        "team1Title": "Event Ended",
+        "team2Title": "Los Angeles Rams",
         "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Los%20Angeles%20Rams_vs_San%20Francisco%2049ers/Link%201.m3u8|Referer=https://embed.st/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Los%20Angeles%20Rams_vs_San%20Francisco%2049ers/Link%202.m3u8|Referer=https://embed.st/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Los%20Angeles%20Rams/Link%201.m3u8|Referer=https://embed.st/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Los%20Angeles%20Rams/Link%202.m3u8|Referer=https://embed.st/",
         "detailsPage": "https://footystream.pk/events/rams-vs-49ers-live",
         "multiWatchPageLink": [
             {

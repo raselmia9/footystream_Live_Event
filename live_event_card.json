@@ -118,7 +118,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/union-berlin-vs-schalke-04",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/union-berlin-vs-schalke-04/1825"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -142,7 +147,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/venezia-vs-fiorentina",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/venezia-vs-fiorentina/1826"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -190,7 +200,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/valencia-vs-sevilla",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/valencia-vs-sevilla/1827"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/valencia-vs-sevilla/1828"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/valencia-vs-sevilla/1829"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

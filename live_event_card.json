@@ -88,18 +88,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-13 23:00:00",
-        "team1Title": "Chicago Bears",
-        "team2Title": "Carolina Panthers",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bears-vs-panthers",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-09-11 13:00:00",
         "team1Title": "MotoGP",
@@ -360,6 +348,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/spurs-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-13 23:00:00",
+        "team1Title": "Chicago Bears",
+        "team2Title": "Carolina Panthers",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bears-vs-panthers",
         "multiWatchPageLink": []
     }
 ]

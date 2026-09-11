@@ -74,7 +74,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/MotoGP_vs_Team%202/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/motogp-san-marino-grand-prix",
         "multiWatchPageLink": [
             {
@@ -91,7 +91,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/f1%20Spanish%20Grand%20Prix_vs_Formula%201/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/f1%20Spanish%20Grand%20Prix_vs_Formula%201/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/f1%20Spanish%20Grand%20Prix_vs_Formula%201/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/f1%20Spanish%20Grand%20Prix_vs_Formula%201/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/f1%20Spanish%20Grand%20Prix_vs_Formula%201/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/f1-spanish-grand-prix",
         "multiWatchPageLink": [
             {

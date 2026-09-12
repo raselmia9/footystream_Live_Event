@@ -1,63 +1,5 @@
 [
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-13 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Rayo%20Vallecano/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Rayo%20Vallecano/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Rayo%20Vallecano/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1878"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1879"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1880"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-13 01:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Sunderland/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Sunderland/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Sunderland/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Sunderland/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Sunderland/Link%205.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/arsenal-vs-sunderland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1869"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1870"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1871"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1872"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1873"
-            }
-        ]
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-08-24 20:00:00",
         "team1Title": "US Open 2026",
@@ -163,23 +105,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/f1-spanish-grand-prix/1809"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-13 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Atalanta",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Atalanta/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/atalanta-vs-cagliari",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/atalanta-vs-cagliari/1842"
             }
         ]
     },

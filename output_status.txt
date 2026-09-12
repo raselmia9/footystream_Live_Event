@@ -4,41 +4,41 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 26
 🟡 Visiting detail page [2/26]: https://footystream.pk/events/real-madrid-vs-rayo-vallecano
-🟡 Visiting detail page [3/26]: https://footystream.pk/events/arsenal-vs-sunderland
 🟡 Visiting detail page [1/26]: https://footystream.pk/events/spurs-vs-everton
+🟡 Visiting detail page [3/26]: https://footystream.pk/events/arsenal-vs-sunderland
 🟢 Successfully processed: Premier League [1/26]
 🟡 Visiting detail page [4/26]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: LaLiga [2/26]
 🟢 Successfully processed: Premier League [3/26]
-🟡 Visiting detail page [6/26]: https://footystream.pk/events/irish-open
+🟢 Successfully processed: LaLiga [2/26]
 🟡 Visiting detail page [5/26]: https://footystream.pk/events/english-open-snooker
-🟢 Successfully processed: ATP Tour [4/26]
-🟡 Visiting detail page [7/26]: https://footystream.pk/events/motogp-san-marino-grand-prix
+🟡 Visiting detail page [6/26]: https://footystream.pk/events/irish-open
 🟢 Successfully processed: Snooker [5/26]
-🟡 Visiting detail page [8/26]: https://footystream.pk/events/f1-spanish-grand-prix
+🟡 Visiting detail page [7/26]: https://footystream.pk/events/motogp-san-marino-grand-prix
 🟢 Successfully processed: PGA Tour [6/26]
+🟡 Visiting detail page [8/26]: https://footystream.pk/events/f1-spanish-grand-prix
+🟢 Successfully processed: ATP Tour [4/26]
 🟡 Visiting detail page [9/26]: https://footystream.pk/events/milan-vs-lazio
-🟢 Successfully processed: MotoGP [7/26]
-🟡 Visiting detail page [10/26]: https://footystream.pk/events/elche-vs-athletic-club
 🟢 Successfully processed: Formula 1 [8/26]
-🟡 Visiting detail page [11/26]: https://footystream.pk/events/koln-vs-werder-bremen
+🟡 Visiting detail page [10/26]: https://footystream.pk/events/elche-vs-athletic-club
 🟢 Successfully processed: Serie A [9/26]
+🟡 Visiting detail page [11/26]: https://footystream.pk/events/koln-vs-werder-bremen
+🟢 Successfully processed: Bundesliga [11/26]
 🟡 Visiting detail page [12/26]: https://footystream.pk/events/atalanta-vs-cagliari
 🟢 Successfully processed: LaLiga [10/26]
 🟡 Visiting detail page [13/26]: https://footystream.pk/events/lecce-vs-monza
-🟢 Successfully processed: Bundesliga [11/26]
-🟡 Visiting detail page [14/26]: https://footystream.pk/events/bologna-vs-napoli
 🟢 Successfully processed: Serie A [13/26]
-🟡 Visiting detail page [15/26]: https://footystream.pk/events/juventus-vs-sassuolo
+🟡 Visiting detail page [14/26]: https://footystream.pk/events/bologna-vs-napoli
 🟢 Successfully processed: Serie A [14/26]
+🟡 Visiting detail page [15/26]: https://footystream.pk/events/juventus-vs-sassuolo
+🟢 Successfully processed: MotoGP [7/26]
 🟡 Visiting detail page [16/26]: https://footystream.pk/events/wolves-vs-sheffield-united
-🟢 Successfully processed: Serie A [15/26]
-🟡 Visiting detail page [17/26]: https://footystream.pk/events/malaga-vs-celta-de-vigo
-🟢 Successfully processed: LaLiga [17/26]
-🟡 Visiting detail page [18/26]: https://footystream.pk/events/barcelona-vs-levante
-🟢 Successfully processed: LaLiga [18/26]
-🟡 Visiting detail page [19/26]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
 🟢 Successfully processed: Serie A [12/26]
+🟡 Visiting detail page [17/26]: https://footystream.pk/events/malaga-vs-celta-de-vigo
+🟢 Successfully processed: Serie A [15/26]
+🟡 Visiting detail page [18/26]: https://footystream.pk/events/barcelona-vs-levante
+🟢 Successfully processed: LaLiga [17/26]
+🟡 Visiting detail page [19/26]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
+🟢 Successfully processed: LaLiga [18/26]
 🟡 Visiting detail page [20/26]: https://footystream.pk/events/brighton-vs-coventry-city
 🟢 Successfully processed: LaLiga [19/26]
 🟡 Visiting detail page [21/26]: https://footystream.pk/events/manchester-united-vs-manchester-city
@@ -52,8 +52,8 @@
 🟡 Visiting detail page [25/26]: https://footystream.pk/events/psg-vs-brest
 🟢 Successfully processed: NFL [24/26]
 🟡 Visiting detail page [26/26]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
-🟢 Successfully processed: EFL [16/26]
 🟢 Successfully processed: French Ligue 1 [25/26]
+🟢 Successfully processed: EFL [16/26]
 🟢 Successfully processed: Copa Del Rey [26/26]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 26

@@ -169,12 +169,12 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-13 00:45:00",
-        "team1Title": "Atalanta",
-        "team2Title": "Cagliari",
+        "team1Title": "Event Ended",
+        "team2Title": "Atalanta",
         "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atalanta_vs_Cagliari/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Atalanta/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/atalanta-vs-cagliari",
         "multiWatchPageLink": [
             {

@@ -184,51 +184,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-12 20:15:00",
-        "team1Title": "Espanyol",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/espanyol-vs-osasuna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1838"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1839"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-12 22:30:00",
-        "team1Title": "Elche CF",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/elche-vs-athletic-club",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-13 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-12 19:00:00",
         "team1Title": "Genoa",
@@ -287,7 +242,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Paderborn/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-paderborn",
         "multiWatchPageLink": [
             {
@@ -394,6 +349,51 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/arsenal-vs-sunderland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-12 20:15:00",
+        "team1Title": "Espanyol",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/espanyol-vs-osasuna",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1838"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1839"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-12 22:30:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/elche-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-13 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
         "multiWatchPageLink": []
     },
     {

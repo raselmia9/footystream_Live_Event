@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-fulham-live-stream",
         "multiWatchPageLink": [
             {
@@ -21,6 +21,10 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1855"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1856"
             }
         ]
     },
@@ -32,7 +36,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-hull-city",
         "multiWatchPageLink": [
             {
@@ -46,6 +50,10 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1851"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1857"
             }
         ]
     },
@@ -218,27 +226,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-12 22:30:00",
-        "team1Title": "Köln",
-        "team2Title": "Werder Bremen",
-        "team1Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/koln-vs-werder-bremen",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/koln-vs-werder-bremen/1846"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/koln-vs-werder-bremen/1847"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-12 20:00:00",
         "team1Title": "Brentford",
@@ -393,6 +380,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/atalanta-vs-cagliari/1842"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-12 22:30:00",
+        "team1Title": "Köln",
+        "team2Title": "Werder Bremen",
+        "team1Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/koln-vs-werder-bremen",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/koln-vs-werder-bremen/1846"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/koln-vs-werder-bremen/1847"
             }
         ]
     },

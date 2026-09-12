@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/spurs-vs-everton",
         "multiWatchPageLink": [
             {
@@ -33,6 +33,64 @@
             {
                 "channel": "Link 6",
                 "url": "https://footystream.pk/alpha/spurs-vs-everton/1868"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-13 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1878"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1879"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1880"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-13 01:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Sunderland",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/arsenal-vs-sunderland",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1869"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1870"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1871"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1872"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1873"
             }
         ]
     },
@@ -262,19 +320,19 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-13 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-13 17:00:00",
+        "team1Title": "Wolverhampton Wanderers",
+        "team2Title": "Sheffield United",
+        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
+        "detailsPage": "https://footystream.pk/events/wolves-vs-sheffield-united",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1878"
+                "url": "https://footystream.pk/alpha/wolves-vs-sheffield-united/1874"
             }
         ]
     },
@@ -316,39 +374,6 @@
     },
     {
         "eventTitle": "Premier League",
-        "matchTime": "2026-09-13 01:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/arsenal-vs-sunderland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1869"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1870"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1871"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1872"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/arsenal-vs-sunderland/1873"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
         "matchTime": "2026-09-13 19:00:00",
         "team1Title": "Brighton & Hove Albion",
         "team2Title": "Coventry City",
@@ -370,23 +395,6 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/manchester-united-vs-manchester-city",
         "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-13 17:00:00",
-        "team1Title": "Wolverhampton Wanderers",
-        "team2Title": "Sheffield United",
-        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/wolves-vs-sheffield-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/wolves-vs-sheffield-united/1874"
-            }
-        ]
     },
     {
         "eventTitle": "Bundesliga",

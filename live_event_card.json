@@ -116,9 +116,22 @@
         "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Racing%20Santander_vs_Deportivo%20Alav%C3%A9s/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Racing%20Santander_vs_Deportivo%20Alav%C3%A9s/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Racing%20Santander_vs_Deportivo%20Alav%C3%A9s/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/racing-santander-vs-alaves",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/racing-santander-vs-alaves/1835"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/racing-santander-vs-alaves/1836"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/racing-santander-vs-alaves/1837"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -130,7 +143,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/espanyol-vs-osasuna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1838"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

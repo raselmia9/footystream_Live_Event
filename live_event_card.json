@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%205.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/spurs-vs-everton",
         "multiWatchPageLink": [
             {
@@ -146,27 +146,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-12 20:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Espanyol",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Espanyol/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Espanyol/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/espanyol-vs-osasuna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1838"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1839"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-12 22:00:00",
         "team1Title": "AC Milan",
@@ -209,59 +188,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-13 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1878"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-13 18:00:00",
-        "team1Title": "Málaga",
-        "team2Title": "Celta de Vigo",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/malaga-vs-celta-de-vigo",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-13 20:15:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barcelona-vs-levante",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-13 22:30:00",
-        "team1Title": "Getafe",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/getafe-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-12 22:30:00",
         "team1Title": "Köln",
@@ -281,30 +207,6 @@
                 "url": "https://footystream.pk/alpha/koln-vs-werder-bremen/1847"
             }
         ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-13 19:30:00",
-        "team1Title": "RB Leipzig",
-        "team2Title": "Hamburger SV",
-        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-13 21:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Elversberg",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bayern-munich-vs-elversberg",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Serie A",
@@ -357,6 +259,59 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/juventus-vs-sassuolo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-13 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-madrid-vs-rayo-vallecano",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-rayo-vallecano/1878"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-13 18:00:00",
+        "team1Title": "Málaga",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/malaga-vs-celta-de-vigo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-13 20:15:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barcelona-vs-levante",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-13 22:30:00",
+        "team1Title": "Getafe",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/getafe-vs-deportivo-la-coruna",
         "multiWatchPageLink": []
     },
     {
@@ -432,6 +387,30 @@
                 "url": "https://footystream.pk/alpha/wolves-vs-sheffield-united/1874"
             }
         ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-13 19:30:00",
+        "team1Title": "RB Leipzig",
+        "team2Title": "Hamburger SV",
+        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-13 21:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Elversberg",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bayern-munich-vs-elversberg",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "NFL",

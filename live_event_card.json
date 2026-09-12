@@ -1,64 +1,6 @@
 [
     {
         "eventTitle": "Premier League",
-        "matchTime": "2026-09-12 20:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Fulham",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Fulham/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-fulham-live-stream",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1853"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1854"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1855"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/liverpool-vs-fulham-live-stream/1856"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-12 20:00:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Hull City",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/chelsea-vs-hull-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1849"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1850"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1851"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/chelsea-vs-hull-city/1857"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
         "matchTime": "2026-09-12 22:30:00",
         "team1Title": "Tottenham Hotspur",
         "team2Title": "Everton",
@@ -200,61 +142,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/f1-spanish-grand-prix/1809"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-12 20:00:00",
-        "team1Title": "Brentford",
-        "team2Title": "AFC Bournemouth",
-        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brentford_vs_AFC%20Bournemouth/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/brentford-vs-bournemouth",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/brentford-vs-bournemouth/1848"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-12 20:00:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Nottingham Forest",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Nottingham%20Forest/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Nottingham%20Forest/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/aston-villa-vs-nottm-forest",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-nottm-forest/1843"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/aston-villa-vs-nottm-forest/1844"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-12 20:00:00",
-        "team1Title": "Ipswich Town",
-        "team2Title": "Crystal Palace",
-        "team1Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Ipswich%20Town_vs_Crystal%20Palace/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/ipswich-vs-crystal-palace",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/ipswich-vs-crystal-palace/1852"
             }
         ]
     },

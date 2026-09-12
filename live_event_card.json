@@ -147,6 +147,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1838"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/espanyol-vs-osasuna/1839"
             }
         ]
     },
@@ -184,7 +188,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/genoa-vs-frosinone",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/genoa-vs-frosinone/1841"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -196,7 +205,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/milan-vs-lazio",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/milan-vs-lazio/1840"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -208,7 +222,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/atalanta-vs-cagliari",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/atalanta-vs-cagliari/1842"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -244,7 +263,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/aston-villa-vs-nottm-forest",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-nottm-forest/1843"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-nottm-forest/1844"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

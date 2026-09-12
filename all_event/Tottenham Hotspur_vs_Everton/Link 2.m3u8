@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
+https://dz5.bhalocast.pro:7059/hls/superprem.m3u8?md5=cUo_udzdfbNqeFujxyQ0SA&expires=1789231003&ch=superprem&s=6d8faddd099d35ac0a94256ab2dd4dd3

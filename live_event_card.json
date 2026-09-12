@@ -36,7 +36,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Hull%20City/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-hull-city",
         "multiWatchPageLink": [
             {
@@ -65,7 +65,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/spurs-vs-everton",
         "multiWatchPageLink": [
             {
@@ -200,23 +200,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/f1-spanish-grand-prix/1809"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-12 19:00:00",
-        "team1Title": "Genoa",
-        "team2Title": "Frosinone Calcio",
-        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Genoa_vs_Frosinone%20Calcio/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/genoa-vs-frosinone",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/genoa-vs-frosinone/1841"
             }
         ]
     },
@@ -391,7 +374,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Elche%20CF_vs_Athletic%20Club/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Elche%20CF_vs_Athletic%20Club/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Elche%20CF_vs_Athletic%20Club/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/elche-vs-athletic-club",
         "multiWatchPageLink": [
             {
@@ -469,7 +452,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/K%C3%B6ln_vs_Werder%20Bremen/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/K%C3%B6ln_vs_Werder%20Bremen/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/koln-vs-werder-bremen",
         "multiWatchPageLink": [
             {

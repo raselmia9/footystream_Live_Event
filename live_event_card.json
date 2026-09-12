@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Everton/Link%205.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/spurs-vs-everton",
         "multiWatchPageLink": [
             {
@@ -148,12 +148,12 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-12 20:15:00",
-        "team1Title": "Espanyol",
-        "team2Title": "Osasuna",
+        "team1Title": "Event Ended",
+        "team2Title": "Espanyol",
         "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Espanyol_vs_Osasuna/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Espanyol_vs_Osasuna/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Espanyol/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Espanyol/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/espanyol-vs-osasuna",
         "multiWatchPageLink": [
             {

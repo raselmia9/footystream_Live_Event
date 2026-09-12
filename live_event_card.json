@@ -134,6 +134,18 @@
     },
     {
         "eventTitle": "LaLiga",
+        "matchTime": "2026-09-12 22:30:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/elche-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
         "matchTime": "2026-09-13 01:00:00",
         "team1Title": "Real Madrid",
         "team2Title": "Rayo Vallecano",

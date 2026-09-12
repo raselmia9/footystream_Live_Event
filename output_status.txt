@@ -6,21 +6,21 @@
 🟡 Visiting detail page [2/19]: https://footystream.pk/events/english-open-snooker
 🟡 Visiting detail page [3/19]: https://footystream.pk/events/irish-open
 🟡 Visiting detail page [1/19]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: PGA Tour [3/19]
-🟡 Visiting detail page [4/19]: https://footystream.pk/events/motogp-san-marino-grand-prix
 🟢 Successfully processed: Snooker [2/19]
+🟢 Successfully processed: PGA Tour [3/19]
 🟡 Visiting detail page [5/19]: https://footystream.pk/events/f1-spanish-grand-prix
-🟢 Successfully processed: ATP Tour [1/19]
-🟡 Visiting detail page [6/19]: https://footystream.pk/events/racing-santander-vs-alaves
-🟢 Successfully processed: LaLiga [6/19]
-🟡 Visiting detail page [7/19]: https://footystream.pk/events/espanyol-vs-osasuna
-🟢 Successfully processed: LaLiga [7/19]
-🟡 Visiting detail page [8/19]: https://footystream.pk/events/elche-vs-athletic-club
-🟢 Successfully processed: MotoGP [4/19]
-🟡 Visiting detail page [9/19]: https://footystream.pk/events/real-madrid-vs-rayo-vallecano
-🟢 Successfully processed: LaLiga [8/19]
-🟡 Visiting detail page [10/19]: https://footystream.pk/events/genoa-vs-frosinone
+🟡 Visiting detail page [4/19]: https://footystream.pk/events/motogp-san-marino-grand-prix
 🟢 Successfully processed: Formula 1 [5/19]
+🟡 Visiting detail page [6/19]: https://footystream.pk/events/racing-santander-vs-alaves
+🟢 Successfully processed: MotoGP [4/19]
+🟡 Visiting detail page [7/19]: https://footystream.pk/events/espanyol-vs-osasuna
+🟢 Successfully processed: ATP Tour [1/19]
+🟡 Visiting detail page [8/19]: https://footystream.pk/events/elche-vs-athletic-club
+🟢 Successfully processed: LaLiga [6/19]
+🟡 Visiting detail page [9/19]: https://footystream.pk/events/real-madrid-vs-rayo-vallecano
+🟢 Successfully processed: LaLiga [7/19]
+🟡 Visiting detail page [10/19]: https://footystream.pk/events/genoa-vs-frosinone
+🟢 Successfully processed: LaLiga [8/19]
 🟡 Visiting detail page [11/19]: https://footystream.pk/events/milan-vs-lazio
 🟢 Successfully processed: LaLiga [9/19]
 🟡 Visiting detail page [12/19]: https://footystream.pk/events/atalanta-vs-cagliari

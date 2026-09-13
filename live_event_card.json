@@ -133,7 +133,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/M%C3%A1laga_vs_Celta%20de%20Vigo/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/M%C3%A1laga_vs_Celta%20de%20Vigo/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/M%C3%A1laga_vs_Celta%20de%20Vigo/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/malaga-vs-celta-de-vigo",
         "multiWatchPageLink": [
             {
@@ -193,7 +193,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/getafe-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1900"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1901"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/getafe-vs-deportivo-la-coruna/1902"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -275,7 +288,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lecce-vs-monza",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lecce-vs-monza/1906"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -287,7 +305,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bologna-vs-napoli",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bologna-vs-napoli/1908"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -299,7 +322,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/juventus-vs-sassuolo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1907"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",
@@ -311,7 +339,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rb-leipzig-vs-hamburger-sv/1909"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",
@@ -323,7 +356,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayern-munich-vs-elversberg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bayern-munich-vs-elversberg/1910"
+            }
+        ]
     },
     {
         "eventTitle": "NFL",
@@ -359,7 +397,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1903"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1904"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1905"
+            }
+        ]
     },
     {
         "eventTitle": "MotoGP",

@@ -2,42 +2,40 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [2/18]: https://footystream.pk/events/manchester-united-vs-manchester-city
-🟡 Visiting detail page [1/18]: https://footystream.pk/events/barcelona-vs-levante
-🟡 Visiting detail page [3/18]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: LaLiga [1/18]
-🟢 Successfully processed: ATP Tour [3/18]
-🟡 Visiting detail page [4/18]: https://footystream.pk/events/english-open-snooker
-🟡 Visiting detail page [5/18]: https://footystream.pk/events/irish-open
-🟢 Successfully processed: Premier League [2/18]
-🟡 Visiting detail page [6/18]: https://footystream.pk/events/motogp-san-marino-grand-prix
-🟢 Successfully processed: PGA Tour [5/18]
-🟡 Visiting detail page [7/18]: https://footystream.pk/events/f1-spanish-grand-prix
-🟢 Successfully processed: Snooker [4/18]
-🟡 Visiting detail page [8/18]: https://footystream.pk/events/brighton-vs-coventry-city
-🟢 Successfully processed: MotoGP [6/18]
-🟡 Visiting detail page [9/18]: https://footystream.pk/events/lecce-vs-monza
-🟢 Successfully processed: Formula 1 [7/18]
-🟡 Visiting detail page [10/18]: https://footystream.pk/events/rb-leipzig-vs-hamburger-sv
-🟢 Successfully processed: Premier League [8/18]
-🟡 Visiting detail page [11/18]: https://footystream.pk/events/bayern-munich-vs-elversberg
-🟢 Successfully processed: Serie A [9/18]
-🟡 Visiting detail page [12/18]: https://footystream.pk/events/bologna-vs-napoli
-🟢 Successfully processed: Bundesliga [10/18]
-🟡 Visiting detail page [13/18]: https://footystream.pk/events/juventus-vs-sassuolo
-🟢 Successfully processed: Bundesliga [11/18]
-🟡 Visiting detail page [14/18]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
-🟢 Successfully processed: Serie A [12/18]
-🟡 Visiting detail page [15/18]: https://footystream.pk/events/bears-vs-panthers
-🟢 Successfully processed: NFL [15/18]
-🟡 Visiting detail page [16/18]: https://footystream.pk/events/psg-vs-brest
-🟢 Successfully processed: French Ligue 1 [16/18]
-🟡 Visiting detail page [17/18]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
-🟢 Successfully processed: Serie A [13/18]
-🟡 Visiting detail page [18/18]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: LaLiga [14/18]
-🟢 Successfully processed: Copa Del Rey [17/18]
-🟢 Successfully processed: MotoGP [18/18]
+🟢 Total unique detail links to process in parallel: 17
+🟡 Visiting detail page [2/17]: https://footystream.pk/events/manchester-united-vs-manchester-city
+🟡 Visiting detail page [1/17]: https://footystream.pk/events/barcelona-vs-levante
+🟡 Visiting detail page [3/17]: https://footystream.pk/events/us-open-2026
+🟢 Successfully processed: Premier League [2/17]
+🟡 Visiting detail page [4/17]: https://footystream.pk/events/english-open-snooker
+🟢 Successfully processed: ATP Tour [3/17]
+🟡 Visiting detail page [5/17]: https://footystream.pk/events/irish-open
+🟢 Successfully processed: LaLiga [1/17]
+🟡 Visiting detail page [6/17]: https://footystream.pk/events/f1-spanish-grand-prix
+🟢 Successfully processed: Snooker [4/17]
+🟡 Visiting detail page [7/17]: https://footystream.pk/events/brighton-vs-coventry-city
+🟢 Successfully processed: PGA Tour [5/17]
+🟡 Visiting detail page [8/17]: https://footystream.pk/events/lecce-vs-monza
+🟢 Successfully processed: Formula 1 [6/17]
+🟡 Visiting detail page [9/17]: https://footystream.pk/events/rb-leipzig-vs-hamburger-sv
+🟢 Successfully processed: Premier League [7/17]
+🟡 Visiting detail page [10/17]: https://footystream.pk/events/bayern-munich-vs-elversberg
+🟢 Successfully processed: Bundesliga [9/17]
+🟡 Visiting detail page [11/17]: https://footystream.pk/events/bologna-vs-napoli
+🟢 Successfully processed: Serie A [8/17]
+🟡 Visiting detail page [12/17]: https://footystream.pk/events/juventus-vs-sassuolo
+🟢 Successfully processed: Bundesliga [10/17]
+🟡 Visiting detail page [13/17]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
+🟢 Successfully processed: Serie A [11/17]
+🟡 Visiting detail page [14/17]: https://footystream.pk/events/bears-vs-panthers
+🟢 Successfully processed: NFL [14/17]
+🟡 Visiting detail page [15/17]: https://footystream.pk/events/psg-vs-brest
+🟢 Successfully processed: French Ligue 1 [15/17]
+🟡 Visiting detail page [16/17]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
+🟢 Successfully processed: Serie A [12/17]
+🟡 Visiting detail page [17/17]: https://footystream.pk/events/motogp-austria-grand-prix
+🟢 Successfully processed: LaLiga [13/17]
+🟢 Successfully processed: Copa Del Rey [16/17]
+🟢 Successfully processed: MotoGP [17/17]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 18
+🟢 Process completed successfully. Total collected events: 17

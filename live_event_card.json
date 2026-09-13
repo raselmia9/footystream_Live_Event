@@ -57,7 +57,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Juventus_vs_Sassuolo/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Juventus_vs_Sassuolo/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Juventus_vs_Sassuolo/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/juventus-vs-sassuolo",
         "multiWatchPageLink": [
             {
@@ -158,7 +158,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Philadelphia%20Eagles_vs_Washington%20Commanders/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/eagles-vs-commanders-live",
         "multiWatchPageLink": [
             {
@@ -311,6 +311,30 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-16 23:00:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-16 23:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Coppa Italia",
         "matchTime": "2026-09-15 22:00:00",
         "team1Title": "Genoa",
@@ -383,6 +407,54 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-17 00:45:00",
+        "team1Title": "Fleetwood Town",
+        "team2Title": "Sheffield United",
+        "team1Logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-17 00:45:00",
+        "team1Title": "Everton",
+        "team2Title": "Wolverhampton Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-16 22:45:00",
+        "team1Title": "Ararat-Armenia",
+        "team2Title": "Sparta Praha",
+        "team1Logo": "https://cdn.img4every1.org/team/ararat-armenia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sparta-praha/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/ararat-armenia-vs-sparta-praha",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-09-16 22:45:00",
+        "team1Title": "Celta de Vigo",
+        "team2Title": "Omonia Nicosia",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/omonia-nicosia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/celta-vigo-vs-omonia-nicosia",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-09-17 01:00:00",
         "team1Title": "AC Milan",
@@ -431,27 +503,80 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Hapoel Be'er Sheva",
-        "team2Title": "Dinamo Zagreb",
-        "team1Logo": "https://cdn.img4every1.org/team/hapoel-beer-sheva/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 22:45:00",
+        "team1Title": "OFI",
+        "team2Title": "Hoffenheim",
+        "team1Logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/hapoel-beer-sheva-vs-dinamo-zagreb",
+        "detailsPage": "https://footystream.pk/events/ofi-vs-hoffenheim",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/ofi-vs-hoffenheim/1927"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 22:45:00",
+        "team1Title": "Salzburg",
+        "team2Title": "Levski Sofia",
+        "team1Logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia",
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Olympiakos Piraeus",
-        "team2Title": "Jagiellonia Bialystok",
-        "team1Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jagiellonia-bialystok/logo.webp",
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Juventus",
+        "team2Title": "NEC",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nec/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok",
+        "detailsPage": "https://footystream.pk/events/juventus-vs-nec",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Celtic",
+        "team2Title": "Ferencváros",
+        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/celtic-vs-ferencvaros",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Lech Poznan",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/crystal-palace-vs-lech-poznan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Real Sociedad",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
         "multiWatchPageLink": []
     },
     {

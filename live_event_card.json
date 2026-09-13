@@ -85,7 +85,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/english-open-snooker",
         "multiWatchPageLink": [
             {
@@ -182,9 +182,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chicago%20Bears_vs_Carolina%20Panthers/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/bears-vs-panthers",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bears-vs-panthers/1912"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -194,7 +199,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Juventus_vs_Sassuolo/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Juventus_vs_Sassuolo/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/juventus-vs-sassuolo",
         "multiWatchPageLink": [
             {

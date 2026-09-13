@@ -3,26 +3,26 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 12
-🟡 Visiting detail page [2/12]: https://footystream.pk/events/psg-vs-brest
 🟡 Visiting detail page [1/12]: https://footystream.pk/events/manchester-united-vs-manchester-city
+🟡 Visiting detail page [2/12]: https://footystream.pk/events/psg-vs-brest
 🟡 Visiting detail page [3/12]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: French Ligue 1 [2/12]
 🟡 Visiting detail page [4/12]: https://footystream.pk/events/english-open-snooker
-🟢 Successfully processed: ATP Tour [3/12]
-🟡 Visiting detail page [5/12]: https://footystream.pk/events/irish-open
 🟢 Successfully processed: Premier League [1/12]
+🟡 Visiting detail page [5/12]: https://footystream.pk/events/irish-open
+🟢 Successfully processed: ATP Tour [3/12]
 🟡 Visiting detail page [6/12]: https://footystream.pk/events/bayern-munich-vs-elversberg
-🟢 Successfully processed: PGA Tour [5/12]
+🟢 Successfully processed: Snooker [4/12]
 🟡 Visiting detail page [7/12]: https://footystream.pk/events/bologna-vs-napoli
 🟢 Successfully processed: Bundesliga [6/12]
 🟡 Visiting detail page [8/12]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
-🟢 Successfully processed: Serie A [7/12]
+🟢 Successfully processed: PGA Tour [5/12]
 🟡 Visiting detail page [9/12]: https://footystream.pk/events/bears-vs-panthers
-🟢 Successfully processed: LaLiga [8/12]
+🟢 Successfully processed: Serie A [7/12]
 🟡 Visiting detail page [10/12]: https://footystream.pk/events/juventus-vs-sassuolo
 🟢 Successfully processed: NFL [9/12]
 🟡 Visiting detail page [11/12]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
-🟢 Successfully processed: Snooker [4/12]
+🟢 Successfully processed: LaLiga [8/12]
 🟡 Visiting detail page [12/12]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: Serie A [10/12]
 🟢 Successfully processed: Copa Del Rey [11/12]

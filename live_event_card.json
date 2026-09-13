@@ -179,31 +179,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-13 18:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Málaga",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_M%C3%A1laga/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_M%C3%A1laga/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_M%C3%A1laga/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/malaga-vs-celta-de-vigo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1892"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1893"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1894"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-13 19:00:00",
         "team1Title": "Brighton & Hove Albion",

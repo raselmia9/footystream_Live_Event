@@ -2,60 +2,58 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 27
-🟡 Visiting detail page [1/27]: https://footystream.pk/events/us-open-2026
-🟡 Visiting detail page [3/27]: https://footystream.pk/events/juventus-vs-sassuolo
-🟡 Visiting detail page [2/27]: https://footystream.pk/events/psg-vs-brest
-🟢 Successfully processed: Serie A [3/27]
-🟡 Visiting detail page [4/27]: https://footystream.pk/events/english-open-snooker
-🟢 Successfully processed: ATP Tour [1/27]
-🟡 Visiting detail page [5/27]: https://footystream.pk/events/irish-open
-🟢 Successfully processed: French Ligue 1 [2/27]
-🟡 Visiting detail page [6/27]: https://footystream.pk/events/bologna-vs-napoli
-🟢 Successfully processed: PGA Tour [5/27]
-🟡 Visiting detail page [7/27]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
-🟢 Successfully processed: Serie A [6/27]
-🟡 Visiting detail page [8/27]: https://footystream.pk/events/parma-vs-como
-🟢 Successfully processed: Snooker [4/27]
-🟡 Visiting detail page [9/27]: https://footystream.pk/events/bears-vs-panthers
-🟢 Successfully processed: Serie A [8/27]
-🟡 Visiting detail page [10/27]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
-🟢 Successfully processed: LaLiga [7/27]
-🟡 Visiting detail page [11/27]: https://footystream.pk/events/roma-vs-torino
-🟢 Successfully processed: Serie A [11/27]
-🟡 Visiting detail page [12/27]: https://footystream.pk/events/inter-milan-vs-udinese
-🟢 Successfully processed: NFL [9/27]
-🟡 Visiting detail page [13/27]: https://footystream.pk/events/leeds-united-vs-newcastle-united
-🟢 Successfully processed: Serie A [12/27]
-🟡 Visiting detail page [14/27]: https://footystream.pk/events/real-betis-vs-villarreal
-🟢 Successfully processed: Copa Del Rey [10/27]
-🟡 Visiting detail page [15/27]: https://footystream.pk/events/rayo-vallecano-vs-espanyol
-🟢 Successfully processed: LaLiga [15/27]
-🟡 Visiting detail page [16/27]: https://footystream.pk/events/valencia-vs-alaves
-🟢 Successfully processed: LaLiga [16/27]
-🟡 Visiting detail page [17/27]: https://footystream.pk/events/real-madrid-vs-elche
-🟢 Successfully processed: LaLiga [17/27]
-🟡 Visiting detail page [18/27]: https://footystream.pk/events/genoa-vs-sudtirol
-🟢 Successfully processed: Premier League [13/27]
-🟡 Visiting detail page [19/27]: https://footystream.pk/events/pisa-vs-fiorentina
-🟢 Successfully processed: Coppa Italia [18/27]
-🟡 Visiting detail page [20/27]: https://footystream.pk/events/barnsley-vs-peterborough-united
-🟢 Successfully processed: LaLiga [14/27]
-🟡 Visiting detail page [21/27]: https://footystream.pk/events/fulham-vs-west-ham-united
-🟢 Successfully processed: EFL [20/27]
-🟡 Visiting detail page [22/27]: https://footystream.pk/events/liverpool-vs-spurs
-🟢 Successfully processed: Coppa Italia [19/27]
-🟡 Visiting detail page [23/27]: https://footystream.pk/events/reading-vs-brentford
-🟢 Successfully processed: EFL [22/27]
-🟡 Visiting detail page [24/27]: https://footystream.pk/events/milan-vs-benfica
-🟢 Successfully processed: EFL [21/27]
-🟡 Visiting detail page [25/27]: https://footystream.pk/events/bayer-leverkusen-vs-celje
-🟢 Successfully processed: EFL [23/27]
-🟡 Visiting detail page [26/27]: https://footystream.pk/events/sunderland-vs-az
-🟢 Successfully processed: Champions League [24/27]
-🟡 Visiting detail page [27/27]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: Champions League [25/27]
-🟢 Successfully processed: Champions League [26/27]
-🟢 Successfully processed: MotoGP [27/27]
+🟢 Total unique detail links to process in parallel: 26
+🟡 Visiting detail page [2/26]: https://footystream.pk/events/psg-vs-brest
+🟡 Visiting detail page [3/26]: https://footystream.pk/events/juventus-vs-sassuolo
+🟡 Visiting detail page [1/26]: https://footystream.pk/events/us-open-2026
+🟢 Successfully processed: French Ligue 1 [2/26]
+🟡 Visiting detail page [4/26]: https://footystream.pk/events/english-open-snooker
+🟢 Successfully processed: Snooker [4/26]
+🟡 Visiting detail page [5/26]: https://footystream.pk/events/irish-open
+🟢 Successfully processed: PGA Tour [5/26]
+🟡 Visiting detail page [6/26]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
+🟢 Successfully processed: Serie A [3/26]
+🟡 Visiting detail page [7/26]: https://footystream.pk/events/parma-vs-como
+🟢 Successfully processed: Serie A [7/26]
+🟡 Visiting detail page [8/26]: https://footystream.pk/events/bears-vs-panthers
+🟢 Successfully processed: ATP Tour [1/26]
+🟡 Visiting detail page [9/26]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
+🟢 Successfully processed: LaLiga [6/26]
+🟡 Visiting detail page [10/26]: https://footystream.pk/events/roma-vs-torino
+🟢 Successfully processed: Serie A [10/26]
+🟡 Visiting detail page [11/26]: https://footystream.pk/events/inter-milan-vs-udinese
+🟢 Successfully processed: NFL [8/26]
+🟡 Visiting detail page [12/26]: https://footystream.pk/events/leeds-united-vs-newcastle-united
+🟢 Successfully processed: Serie A [11/26]
+🟡 Visiting detail page [13/26]: https://footystream.pk/events/real-betis-vs-villarreal
+🟢 Successfully processed: Copa Del Rey [9/26]
+🟡 Visiting detail page [14/26]: https://footystream.pk/events/rayo-vallecano-vs-espanyol
+🟢 Successfully processed: LaLiga [14/26]
+🟡 Visiting detail page [15/26]: https://footystream.pk/events/valencia-vs-alaves
+🟢 Successfully processed: LaLiga [15/26]
+🟡 Visiting detail page [16/26]: https://footystream.pk/events/real-madrid-vs-elche
+🟢 Successfully processed: LaLiga [16/26]
+🟢 Successfully processed: Premier League [12/26]
+🟡 Visiting detail page [17/26]: https://footystream.pk/events/genoa-vs-sudtirol
+🟡 Visiting detail page [18/26]: https://footystream.pk/events/pisa-vs-fiorentina
+🟢 Successfully processed: LaLiga [13/26]
+🟡 Visiting detail page [19/26]: https://footystream.pk/events/barnsley-vs-peterborough-united
+🟢 Successfully processed: Coppa Italia [17/26]
+🟡 Visiting detail page [20/26]: https://footystream.pk/events/fulham-vs-west-ham-united
+🟢 Successfully processed: Coppa Italia [18/26]
+🟡 Visiting detail page [21/26]: https://footystream.pk/events/liverpool-vs-spurs
+🟢 Successfully processed: EFL [19/26]
+🟡 Visiting detail page [22/26]: https://footystream.pk/events/reading-vs-brentford
+🟢 Successfully processed: EFL [20/26]
+🟡 Visiting detail page [23/26]: https://footystream.pk/events/milan-vs-benfica
+🟢 Successfully processed: EFL [21/26]
+🟡 Visiting detail page [24/26]: https://footystream.pk/events/bayer-leverkusen-vs-celje
+🟢 Successfully processed: EFL [22/26]
+🟡 Visiting detail page [25/26]: https://footystream.pk/events/sunderland-vs-az
+🟢 Successfully processed: Champions League [23/26]
+🟡 Visiting detail page [26/26]: https://footystream.pk/events/motogp-austria-grand-prix
+🟢 Successfully processed: Champions League [24/26]
+🟢 Successfully processed: Champions League [25/26]
+🟢 Successfully processed: MotoGP [26/26]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 27
+🟢 Process completed successfully. Total collected events: 26

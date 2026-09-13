@@ -30,23 +30,6 @@
     },
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-09-14 02:25:00",
-        "team1Title": "Philadelphia Eagles",
-        "team2Title": "Washington Commanders",
-        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Philadelphia%20Eagles_vs_Washington%20Commanders/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/eagles-vs-commanders-live",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/eagles-vs-commanders-live/1924"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
         "matchTime": "2026-09-14 06:20:00",
         "team1Title": "Dallas Cowboys",
         "team2Title": "New York Giants",

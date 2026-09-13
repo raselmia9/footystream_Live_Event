@@ -7,14 +7,14 @@
 🟡 Visiting detail page [2/19]: https://footystream.pk/events/english-open-snooker
 🟡 Visiting detail page [3/19]: https://footystream.pk/events/irish-open
 🟢 Successfully processed: PGA Tour [3/19]
-🟡 Visiting detail page [4/19]: https://footystream.pk/events/motogp-san-marino-grand-prix
 🟢 Successfully processed: Snooker [2/19]
+🟡 Visiting detail page [4/19]: https://footystream.pk/events/motogp-san-marino-grand-prix
+🟡 Visiting detail page [5/19]: https://footystream.pk/events/f1-spanish-grand-prix
 🟢 Successfully processed: ATP Tour [1/19]
 🟡 Visiting detail page [6/19]: https://footystream.pk/events/wolves-vs-sheffield-united
-🟡 Visiting detail page [5/19]: https://footystream.pk/events/f1-spanish-grand-prix
 🟢 Successfully processed: MotoGP [4/19]
-🟡 Visiting detail page [7/19]: https://footystream.pk/events/malaga-vs-celta-de-vigo
 🟢 Successfully processed: Formula 1 [5/19]
+🟡 Visiting detail page [7/19]: https://footystream.pk/events/malaga-vs-celta-de-vigo
 🟡 Visiting detail page [8/19]: https://footystream.pk/events/barcelona-vs-levante
 🟢 Successfully processed: LaLiga [7/19]
 🟡 Visiting detail page [9/19]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
@@ -28,15 +28,15 @@
 🟡 Visiting detail page [13/19]: https://footystream.pk/events/bologna-vs-napoli
 🟢 Successfully processed: Serie A [12/19]
 🟡 Visiting detail page [14/19]: https://footystream.pk/events/juventus-vs-sassuolo
-🟢 Successfully processed: Serie A [13/19]
-🟡 Visiting detail page [15/19]: https://footystream.pk/events/rb-leipzig-vs-hamburger-sv
-🟢 Successfully processed: Serie A [14/19]
-🟡 Visiting detail page [16/19]: https://footystream.pk/events/bayern-munich-vs-elversberg
-🟢 Successfully processed: Bundesliga [15/19]
-🟡 Visiting detail page [17/19]: https://footystream.pk/events/bears-vs-panthers
 🟢 Successfully processed: EFL [6/19]
-🟢 Successfully processed: Bundesliga [16/19]
+🟡 Visiting detail page [15/19]: https://footystream.pk/events/rb-leipzig-vs-hamburger-sv
+🟢 Successfully processed: Serie A [13/19]
+🟡 Visiting detail page [16/19]: https://footystream.pk/events/bayern-munich-vs-elversberg
+🟢 Successfully processed: Serie A [14/19]
+🟡 Visiting detail page [17/19]: https://footystream.pk/events/bears-vs-panthers
+🟢 Successfully processed: Bundesliga [15/19]
 🟡 Visiting detail page [18/19]: https://footystream.pk/events/psg-vs-brest
+🟢 Successfully processed: Bundesliga [16/19]
 🟡 Visiting detail page [19/19]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
 🟢 Successfully processed: NFL [17/19]
 🟢 Successfully processed: French Ligue 1 [18/19]

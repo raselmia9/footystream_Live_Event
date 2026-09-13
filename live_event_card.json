@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Levante/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Levante/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Levante/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Levante/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Levante/Link%205.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Levante/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Levante/Link%205.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-levante",
         "multiWatchPageLink": [
             {
@@ -40,7 +40,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/manchester-united-vs-manchester-city",
         "multiWatchPageLink": [
             {
@@ -68,6 +68,18 @@
                 "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1891"
             }
         ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-14 00:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Brest",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/psg-vs-brest",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "ATP Tour",
@@ -163,23 +175,6 @@
     },
     {
         "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-13 19:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "RB Leipzig",
-        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_RB%20Leipzig/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/rb-leipzig-vs-hamburger-sv/1909"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
         "matchTime": "2026-09-13 21:30:00",
         "team1Title": "Bayern München",
         "team2Title": "Elversberg",
@@ -209,27 +204,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/bologna-vs-napoli/1908"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-14 00:45:00",
-        "team1Title": "Juventus",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/juventus-vs-sassuolo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1907"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1911"
             }
         ]
     },
@@ -271,16 +245,25 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "French Ligue 1",
+        "eventTitle": "Serie A",
         "matchTime": "2026-09-14 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Brest",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "team1Title": "Juventus",
+        "team2Title": "Sassuolo",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/psg-vs-brest",
-        "multiWatchPageLink": []
+        "detailsPage": "https://footystream.pk/events/juventus-vs-sassuolo",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1907"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1911"
+            }
+        ]
     },
     {
         "eventTitle": "Copa Del Rey",

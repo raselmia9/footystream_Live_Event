@@ -109,23 +109,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-13 23:00:00",
-        "team1Title": "Chicago Bears",
-        "team2Title": "Carolina Panthers",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chicago%20Bears_vs_Carolina%20Panthers/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/bears-vs-panthers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bears-vs-panthers/1912"
-            }
-        ]
-    },
-    {
         "eventTitle": "Copa Del Rey",
         "matchTime": "2026-09-14 01:00:00",
         "team1Title": "Atlético Madrid",
@@ -595,5 +578,17 @@
                 "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/1806"
             }
         ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-19 00:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Manchester City",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/liverpool-vs-manchester-city",
+        "multiWatchPageLink": []
     }
 ]

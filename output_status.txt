@@ -4,17 +4,17 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 39
 🟡 Visiting detail page [1/39]: https://footystream.pk/events/us-open-2026
-🟡 Visiting detail page [3/39]: https://footystream.pk/events/juventus-vs-sassuolo
 🟡 Visiting detail page [2/39]: https://footystream.pk/events/psg-vs-brest
-🟢 Successfully processed: Serie A [3/39]
-🟢 Successfully processed: French Ligue 1 [2/39]
+🟡 Visiting detail page [3/39]: https://footystream.pk/events/juventus-vs-sassuolo
 🟢 Successfully processed: ATP Tour [1/39]
+🟢 Successfully processed: Serie A [3/39]
 🟡 Visiting detail page [4/39]: https://footystream.pk/events/english-open-snooker
-🟡 Visiting detail page [6/39]: https://footystream.pk/events/bears-vs-panthers
 🟡 Visiting detail page [5/39]: https://footystream.pk/events/irish-open
-🟢 Successfully processed: Snooker [4/39]
-🟡 Visiting detail page [7/39]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
+🟢 Successfully processed: French Ligue 1 [2/39]
+🟡 Visiting detail page [6/39]: https://footystream.pk/events/bears-vs-panthers
 🟢 Successfully processed: PGA Tour [5/39]
+🟡 Visiting detail page [7/39]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
+🟢 Successfully processed: Snooker [4/39]
 🟡 Visiting detail page [8/39]: https://footystream.pk/events/eagles-vs-commanders-live
 🟢 Successfully processed: NFL [6/39]
 🟡 Visiting detail page [9/39]: https://footystream.pk/events/dallas-cowboys-vs-giants-live-stream
@@ -34,9 +34,9 @@
 🟡 Visiting detail page [16/39]: https://footystream.pk/events/real-madrid-vs-elche
 🟢 Successfully processed: LaLiga [16/39]
 🟡 Visiting detail page [17/39]: https://footystream.pk/events/osasuna-vs-atletico-madrid
-🟢 Successfully processed: Premier League [12/39]
-🟡 Visiting detail page [18/39]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [17/39]
+🟡 Visiting detail page [18/39]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
+🟢 Successfully processed: Premier League [12/39]
 🟡 Visiting detail page [19/39]: https://footystream.pk/events/genoa-vs-sudtirol
 🟢 Successfully processed: LaLiga [13/39]
 🟡 Visiting detail page [20/39]: https://footystream.pk/events/pisa-vs-fiorentina

@@ -183,6 +183,14 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1883"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1884"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1885"
             }
         ]
     },
@@ -196,7 +204,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/manchester-united-vs-manchester-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1886"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1887"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1888"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1889"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1890"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1891"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

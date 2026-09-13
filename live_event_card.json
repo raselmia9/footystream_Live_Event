@@ -29,48 +29,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-14 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "PSG",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_PSG/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_PSG/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/psg-vs-brest",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/psg-vs-brest/1913"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/psg-vs-brest/1914"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-14 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Juventus/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Juventus/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/juventus-vs-sassuolo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1907"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1911"
-            }
-        ]
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-09-08 16:00:00",
         "team1Title": "English Open Snooker",
@@ -94,12 +52,12 @@
     {
         "eventTitle": "Copa Del Rey",
         "matchTime": "2026-09-14 01:00:00",
-        "team1Title": "Atlético Madrid",
-        "team2Title": "Real Sociedad",
+        "team1Title": "Event Ended",
+        "team2Title": "Atlético Madrid",
         "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atl%C3%A9tico%20Madrid_vs_Real%20Sociedad/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atl%C3%A9tico%20Madrid_vs_Real%20Sociedad/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atl%C3%A9tico%20Madrid_vs_Real%20Sociedad/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Atl%C3%A9tico%20Madrid/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Atl%C3%A9tico%20Madrid/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Atl%C3%A9tico%20Madrid/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
         "multiWatchPageLink": [
             {
@@ -176,6 +134,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/inter-milan-vs-udinese",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-19 00:45:00",
+        "team1Title": "Monza",
+        "team2Title": "Sassuolo",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/monza-vs-sassuolo",
         "multiWatchPageLink": []
     },
     {
@@ -584,6 +554,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-union-berlin",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-19 00:45:00",
+        "team1Title": "Lens",
+        "team2Title": "AS Monaco",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/lens-vs-monaco",
         "multiWatchPageLink": []
     }
 ]

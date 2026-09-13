@@ -179,23 +179,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-13 17:00:00",
-        "team1Title": "Wolverhampton Wanderers",
-        "team2Title": "Sheffield United",
-        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wolverhampton%20Wanderers_vs_Sheffield%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/wolves-vs-sheffield-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/wolves-vs-sheffield-united/1874"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-13 18:00:00",
         "team1Title": "Málaga",
@@ -271,6 +254,40 @@
         ]
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-13 19:30:00",
+        "team1Title": "RB Leipzig",
+        "team2Title": "Hamburger SV",
+        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/RB%20Leipzig_vs_Hamburger%20SV/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rb-leipzig-vs-hamburger-sv/1909"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-13 21:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Elversberg",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bayern-munich-vs-elversberg",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bayern-munich-vs-elversberg/1910"
+            }
+        ]
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-13 22:00:00",
         "team1Title": "Bologna",
@@ -305,40 +322,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://footystream.pk/alpha/juventus-vs-sassuolo/1911"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-13 19:30:00",
-        "team1Title": "RB Leipzig",
-        "team2Title": "Hamburger SV",
-        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/RB%20Leipzig_vs_Hamburger%20SV/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/rb-leipzig-vs-hamburger-sv",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/rb-leipzig-vs-hamburger-sv/1909"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-13 21:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Elversberg",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bayern-munich-vs-elversberg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bayern-munich-vs-elversberg/1910"
             }
         ]
     },

@@ -6,21 +6,21 @@
 🟡 Visiting detail page [1/39]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/39]: https://footystream.pk/events/juventus-vs-sassuolo
 🟡 Visiting detail page [2/39]: https://footystream.pk/events/psg-vs-brest
-🟢 Successfully processed: ATP Tour [1/39]
-🟢 Successfully processed: French Ligue 1 [2/39]
-🟡 Visiting detail page [4/39]: https://footystream.pk/events/english-open-snooker
-🟡 Visiting detail page [5/39]: https://footystream.pk/events/irish-open
 🟢 Successfully processed: Serie A [3/39]
-🟢 Successfully processed: PGA Tour [5/39]
+🟢 Successfully processed: French Ligue 1 [2/39]
+🟢 Successfully processed: ATP Tour [1/39]
+🟡 Visiting detail page [4/39]: https://footystream.pk/events/english-open-snooker
 🟡 Visiting detail page [6/39]: https://footystream.pk/events/bears-vs-panthers
-🟡 Visiting detail page [7/39]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
+🟡 Visiting detail page [5/39]: https://footystream.pk/events/irish-open
 🟢 Successfully processed: Snooker [4/39]
+🟡 Visiting detail page [7/39]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
+🟢 Successfully processed: PGA Tour [5/39]
 🟡 Visiting detail page [8/39]: https://footystream.pk/events/eagles-vs-commanders-live
-🟢 Successfully processed: NFL [8/39]
+🟢 Successfully processed: NFL [6/39]
 🟡 Visiting detail page [9/39]: https://footystream.pk/events/dallas-cowboys-vs-giants-live-stream
 🟢 Successfully processed: Copa Del Rey [7/39]
 🟡 Visiting detail page [10/39]: https://footystream.pk/events/roma-vs-torino
-🟢 Successfully processed: NFL [6/39]
+🟢 Successfully processed: NFL [8/39]
 🟡 Visiting detail page [11/39]: https://footystream.pk/events/inter-milan-vs-udinese
 🟢 Successfully processed: Serie A [10/39]
 🟡 Visiting detail page [12/39]: https://footystream.pk/events/leeds-united-vs-newcastle-united
@@ -31,40 +31,40 @@
 🟢 Successfully processed: LaLiga [14/39]
 🟡 Visiting detail page [15/39]: https://footystream.pk/events/valencia-vs-alaves
 🟢 Successfully processed: LaLiga [15/39]
-🟢 Successfully processed: Premier League [12/39]
 🟡 Visiting detail page [16/39]: https://footystream.pk/events/real-madrid-vs-elche
-🟡 Visiting detail page [17/39]: https://footystream.pk/events/osasuna-vs-atletico-madrid
-🟢 Successfully processed: LaLiga [13/39]
-🟡 Visiting detail page [18/39]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [16/39]
-🟡 Visiting detail page [19/39]: https://footystream.pk/events/genoa-vs-sudtirol
+🟡 Visiting detail page [17/39]: https://footystream.pk/events/osasuna-vs-atletico-madrid
+🟢 Successfully processed: Premier League [12/39]
+🟡 Visiting detail page [18/39]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [17/39]
+🟡 Visiting detail page [19/39]: https://footystream.pk/events/genoa-vs-sudtirol
+🟢 Successfully processed: LaLiga [13/39]
 🟡 Visiting detail page [20/39]: https://footystream.pk/events/pisa-vs-fiorentina
 🟢 Successfully processed: LaLiga [18/39]
 🟡 Visiting detail page [21/39]: https://footystream.pk/events/barnsley-vs-peterborough-united
 🟢 Successfully processed: Coppa Italia [19/39]
-🟢 Successfully processed: Coppa Italia [20/39]
 🟡 Visiting detail page [22/39]: https://footystream.pk/events/fulham-vs-west-ham-united
+🟢 Successfully processed: Coppa Italia [20/39]
 🟡 Visiting detail page [23/39]: https://footystream.pk/events/liverpool-vs-spurs
 🟢 Successfully processed: EFL [21/39]
 🟡 Visiting detail page [24/39]: https://footystream.pk/events/reading-vs-brentford
-🟢 Successfully processed: EFL [23/39]
-🟡 Visiting detail page [25/39]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
 🟢 Successfully processed: EFL [22/39]
+🟡 Visiting detail page [25/39]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
+🟢 Successfully processed: EFL [23/39]
 🟡 Visiting detail page [26/39]: https://footystream.pk/events/everton-vs-wolves
 🟢 Successfully processed: EFL [24/39]
 🟡 Visiting detail page [27/39]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
 🟢 Successfully processed: EFL [25/39]
-🟢 Successfully processed: EFL [26/39]
 🟡 Visiting detail page [28/39]: https://footystream.pk/events/celta-vigo-vs-omonia-nicosia
+🟢 Successfully processed: EFL [26/39]
 🟡 Visiting detail page [29/39]: https://footystream.pk/events/milan-vs-benfica
 🟢 Successfully processed: Champions League [27/39]
 🟡 Visiting detail page [30/39]: https://footystream.pk/events/bayer-leverkusen-vs-celje
-🟢 Successfully processed: Champions League [29/39]
-🟡 Visiting detail page [31/39]: https://footystream.pk/events/sunderland-vs-az
-🟢 Successfully processed: Champions League [30/39]
 🟢 Successfully processed: Champions League [28/39]
+🟡 Visiting detail page [31/39]: https://footystream.pk/events/sunderland-vs-az
+🟢 Successfully processed: Champions League [29/39]
 🟡 Visiting detail page [32/39]: https://footystream.pk/events/lyon-vs-anderlecht
+🟢 Successfully processed: Champions League [30/39]
 🟡 Visiting detail page [33/39]: https://footystream.pk/events/ofi-vs-hoffenheim
 🟢 Successfully processed: Champions League [31/39]
 🟡 Visiting detail page [34/39]: https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia

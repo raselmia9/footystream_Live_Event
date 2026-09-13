@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
 🟡 Visiting detail page [2/19]: https://footystream.pk/events/manchester-united-vs-manchester-city
-🟡 Visiting detail page [1/19]: https://footystream.pk/events/barcelona-vs-levante
 🟡 Visiting detail page [3/19]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: ATP Tour [3/19]
+🟡 Visiting detail page [1/19]: https://footystream.pk/events/barcelona-vs-levante
 🟢 Successfully processed: LaLiga [1/19]
 🟡 Visiting detail page [4/19]: https://footystream.pk/events/english-open-snooker
+🟢 Successfully processed: ATP Tour [3/19]
 🟡 Visiting detail page [5/19]: https://footystream.pk/events/irish-open
-🟢 Successfully processed: Premier League [2/19]
-🟡 Visiting detail page [6/19]: https://footystream.pk/events/motogp-san-marino-grand-prix
 🟢 Successfully processed: PGA Tour [5/19]
+🟡 Visiting detail page [6/19]: https://footystream.pk/events/motogp-san-marino-grand-prix
+🟢 Successfully processed: Premier League [2/19]
 🟡 Visiting detail page [7/19]: https://footystream.pk/events/f1-spanish-grand-prix
-🟢 Successfully processed: Snooker [4/19]
-🟡 Visiting detail page [8/19]: https://footystream.pk/events/malaga-vs-celta-de-vigo
 🟢 Successfully processed: MotoGP [6/19]
+🟡 Visiting detail page [8/19]: https://footystream.pk/events/malaga-vs-celta-de-vigo
+🟢 Successfully processed: Snooker [4/19]
 🟡 Visiting detail page [9/19]: https://footystream.pk/events/brighton-vs-coventry-city
 🟢 Successfully processed: Formula 1 [7/19]
 🟡 Visiting detail page [10/19]: https://footystream.pk/events/lecce-vs-monza

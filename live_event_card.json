@@ -2,12 +2,12 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-13 21:30:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Manchester City",
+        "team1Title": "Event Ended",
+        "team2Title": "Manchester United",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Manchester%20City/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20United/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/manchester-united-vs-manchester-city",
         "multiWatchPageLink": [
             {
@@ -44,9 +44,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Brest/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Brest/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/psg-vs-brest",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/psg-vs-brest/1913"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/psg-vs-brest/1914"
+            }
+        ]
     },
     {
         "eventTitle": "ATP Tour",
@@ -118,12 +127,12 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-13 21:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Elversberg",
+        "team1Title": "Event Ended",
+        "team2Title": "Bayern München",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayern%20M%C3%BCnchen_vs_Elversberg/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Bayern%20M%C3%BCnchen/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/bayern-munich-vs-elversberg",
         "multiWatchPageLink": [
             {
@@ -175,6 +184,18 @@
         ]
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-13 22:30:00",
+        "team1Title": "Parma",
+        "team2Title": "Como",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/parma-vs-como",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-13 23:00:00",
         "team1Title": "Chicago Bears",
@@ -213,6 +234,30 @@
         ]
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-14 22:30:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Torino",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/roma-vs-torino",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-15 00:45:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/inter-milan-vs-udinese",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Copa Del Rey",
         "matchTime": "2026-09-14 01:00:00",
         "team1Title": "Atlético Madrid",
@@ -220,7 +265,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atl%C3%A9tico%20Madrid_vs_Real%20Sociedad/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atl%C3%A9tico%20Madrid_vs_Real%20Sociedad/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atl%C3%A9tico%20Madrid_vs_Real%20Sociedad/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
         "multiWatchPageLink": [
             {
@@ -236,6 +281,104 @@
                 "url": "https://footystream.pk/alpha/atletico-madrid-vs-real-sociedad/1905"
             }
         ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-15 01:00:00",
+        "team1Title": "Leeds United",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/leeds-united-vs-newcastle-united",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/leeds-united-vs-newcastle-united/1915"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/leeds-united-vs-newcastle-united/1916"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/leeds-united-vs-newcastle-united/1917"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/leeds-united-vs-newcastle-united/1918"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/leeds-united-vs-newcastle-united/1919"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/leeds-united-vs-newcastle-united/1920"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-15 01:00:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-betis-vs-villarreal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-betis-vs-villarreal/1921"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-betis-vs-villarreal/1922"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/real-betis-vs-villarreal/1923"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-15 23:00:00",
+        "team1Title": "Rayo Vallecano",
+        "team2Title": "Espanyol",
+        "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-espanyol",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-16 00:00:00",
+        "team1Title": "Valencia",
+        "team2Title": "Deportivo Alavés",
+        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/valencia-vs-alaves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-16 01:30:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-madrid-vs-elche",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "MotoGP",

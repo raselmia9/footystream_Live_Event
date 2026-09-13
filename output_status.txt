@@ -3,38 +3,38 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
-🟡 Visiting detail page [2/19]: https://footystream.pk/events/manchester-united-vs-manchester-city
 🟡 Visiting detail page [1/19]: https://footystream.pk/events/barcelona-vs-levante
+🟡 Visiting detail page [2/19]: https://footystream.pk/events/manchester-united-vs-manchester-city
 🟡 Visiting detail page [3/19]: https://footystream.pk/events/us-open-2026
-🟢 Successfully processed: ATP Tour [3/19]
+🟢 Successfully processed: Premier League [2/19]
 🟡 Visiting detail page [4/19]: https://footystream.pk/events/english-open-snooker
 🟢 Successfully processed: LaLiga [1/19]
+🟢 Successfully processed: ATP Tour [3/19]
 🟡 Visiting detail page [5/19]: https://footystream.pk/events/irish-open
-🟢 Successfully processed: Snooker [4/19]
 🟡 Visiting detail page [6/19]: https://footystream.pk/events/motogp-san-marino-grand-prix
 🟢 Successfully processed: PGA Tour [5/19]
 🟡 Visiting detail page [7/19]: https://footystream.pk/events/f1-spanish-grand-prix
 🟢 Successfully processed: MotoGP [6/19]
 🟡 Visiting detail page [8/19]: https://footystream.pk/events/malaga-vs-celta-de-vigo
-🟢 Successfully processed: Premier League [2/19]
+🟢 Successfully processed: Snooker [4/19]
 🟡 Visiting detail page [9/19]: https://footystream.pk/events/brighton-vs-coventry-city
 🟢 Successfully processed: Formula 1 [7/19]
 🟡 Visiting detail page [10/19]: https://footystream.pk/events/lecce-vs-monza
 🟢 Successfully processed: LaLiga [8/19]
-🟡 Visiting detail page [11/19]: https://footystream.pk/events/rb-leipzig-vs-hamburger-sv
 🟢 Successfully processed: Premier League [9/19]
+🟡 Visiting detail page [11/19]: https://footystream.pk/events/rb-leipzig-vs-hamburger-sv
 🟡 Visiting detail page [12/19]: https://footystream.pk/events/bayern-munich-vs-elversberg
-🟢 Successfully processed: Serie A [10/19]
+🟢 Successfully processed: Bundesliga [12/19]
 🟡 Visiting detail page [13/19]: https://footystream.pk/events/bologna-vs-napoli
 🟢 Successfully processed: Bundesliga [11/19]
+🟢 Successfully processed: Serie A [10/19]
 🟡 Visiting detail page [14/19]: https://footystream.pk/events/juventus-vs-sassuolo
-🟢 Successfully processed: Bundesliga [12/19]
 🟡 Visiting detail page [15/19]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
-🟢 Successfully processed: Serie A [13/19]
+🟢 Successfully processed: Serie A [14/19]
 🟡 Visiting detail page [16/19]: https://footystream.pk/events/bears-vs-panthers
 🟢 Successfully processed: NFL [16/19]
 🟡 Visiting detail page [17/19]: https://footystream.pk/events/psg-vs-brest
-🟢 Successfully processed: Serie A [14/19]
+🟢 Successfully processed: Serie A [13/19]
 🟡 Visiting detail page [18/19]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
 🟢 Successfully processed: French Ligue 1 [17/19]
 🟡 Visiting detail page [19/19]: https://footystream.pk/events/motogp-austria-grand-prix

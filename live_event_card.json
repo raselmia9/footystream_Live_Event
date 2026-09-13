@@ -187,18 +187,6 @@
     },
     {
         "eventTitle": "Serie A",
-        "matchTime": "2026-09-13 19:00:00",
-        "team1Title": "Lecce",
-        "team2Title": "Monza",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/lecce-vs-monza",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
         "matchTime": "2026-09-13 22:00:00",
         "team1Title": "Bologna",
         "team2Title": "Napoli",

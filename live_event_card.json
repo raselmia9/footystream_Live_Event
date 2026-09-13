@@ -280,5 +280,22 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/atletico-madrid-vs-real-sociedad",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-09-18 13:00:00",
+        "team1Title": "MotoGP Austria Grand Prix",
+        "team2Title": "MotoGP",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/motogp-austria-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/1806"
+            }
+        ]
     }
 ]

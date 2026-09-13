@@ -31,12 +31,12 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-09-14 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Brest",
+        "team1Title": "Event Ended",
+        "team2Title": "PSG",
         "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Brest/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Brest/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_PSG/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_PSG/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/psg-vs-brest",
         "multiWatchPageLink": [
             {
@@ -52,12 +52,12 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-14 00:45:00",
-        "team1Title": "Juventus",
-        "team2Title": "Sassuolo",
+        "team1Title": "Event Ended",
+        "team2Title": "Juventus",
         "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Juventus_vs_Sassuolo/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Juventus_vs_Sassuolo/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Juventus/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Juventus/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/juventus-vs-sassuolo",
         "multiWatchPageLink": [
             {

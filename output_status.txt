@@ -7,14 +7,14 @@
 🟡 Visiting detail page [1/18]: https://footystream.pk/events/barcelona-vs-levante
 🟡 Visiting detail page [3/18]: https://footystream.pk/events/us-open-2026
 🟢 Successfully processed: LaLiga [1/18]
-🟡 Visiting detail page [4/18]: https://footystream.pk/events/english-open-snooker
 🟢 Successfully processed: ATP Tour [3/18]
+🟡 Visiting detail page [4/18]: https://footystream.pk/events/english-open-snooker
 🟡 Visiting detail page [5/18]: https://footystream.pk/events/irish-open
 🟢 Successfully processed: Premier League [2/18]
 🟡 Visiting detail page [6/18]: https://footystream.pk/events/motogp-san-marino-grand-prix
-🟢 Successfully processed: Snooker [4/18]
-🟡 Visiting detail page [7/18]: https://footystream.pk/events/f1-spanish-grand-prix
 🟢 Successfully processed: PGA Tour [5/18]
+🟡 Visiting detail page [7/18]: https://footystream.pk/events/f1-spanish-grand-prix
+🟢 Successfully processed: Snooker [4/18]
 🟡 Visiting detail page [8/18]: https://footystream.pk/events/brighton-vs-coventry-city
 🟢 Successfully processed: MotoGP [6/18]
 🟡 Visiting detail page [9/18]: https://footystream.pk/events/lecce-vs-monza
@@ -30,11 +30,11 @@
 🟡 Visiting detail page [14/18]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
 🟢 Successfully processed: Serie A [12/18]
 🟡 Visiting detail page [15/18]: https://footystream.pk/events/bears-vs-panthers
-🟢 Successfully processed: Serie A [13/18]
-🟡 Visiting detail page [16/18]: https://footystream.pk/events/psg-vs-brest
 🟢 Successfully processed: NFL [15/18]
-🟡 Visiting detail page [17/18]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
+🟡 Visiting detail page [16/18]: https://footystream.pk/events/psg-vs-brest
 🟢 Successfully processed: French Ligue 1 [16/18]
+🟡 Visiting detail page [17/18]: https://footystream.pk/events/atletico-madrid-vs-real-sociedad
+🟢 Successfully processed: Serie A [13/18]
 🟡 Visiting detail page [18/18]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: LaLiga [14/18]
 🟢 Successfully processed: Copa Del Rey [17/18]

@@ -135,7 +135,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/malaga-vs-celta-de-vigo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1892"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1893"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/malaga-vs-celta-de-vigo/1894"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -147,7 +160,28 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-levante",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/barcelona-vs-levante/1895"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/barcelona-vs-levante/1896"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/barcelona-vs-levante/1897"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/barcelona-vs-levante/1898"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/barcelona-vs-levante/1899"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

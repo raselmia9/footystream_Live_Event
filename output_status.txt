@@ -6,17 +6,17 @@
 🟡 Visiting detail page [2/20]: https://footystream.pk/events/english-open-snooker
 🟡 Visiting detail page [1/20]: https://footystream.pk/events/us-open-2026
 🟡 Visiting detail page [3/20]: https://footystream.pk/events/irish-open
-🟢 Successfully processed: ATP Tour [1/20]
-🟢 Successfully processed: Snooker [2/20]
-🟡 Visiting detail page [4/20]: https://footystream.pk/events/motogp-san-marino-grand-prix
-🟡 Visiting detail page [5/20]: https://footystream.pk/events/f1-spanish-grand-prix
 🟢 Successfully processed: PGA Tour [3/20]
+🟡 Visiting detail page [4/20]: https://footystream.pk/events/motogp-san-marino-grand-prix
+🟢 Successfully processed: Snooker [2/20]
+🟢 Successfully processed: ATP Tour [1/20]
+🟡 Visiting detail page [5/20]: https://footystream.pk/events/f1-spanish-grand-prix
 🟡 Visiting detail page [6/20]: https://footystream.pk/events/wolves-vs-sheffield-united
-🟢 Successfully processed: EFL [6/20]
-🟡 Visiting detail page [7/20]: https://footystream.pk/events/malaga-vs-celta-de-vigo
 🟢 Successfully processed: MotoGP [4/20]
-🟡 Visiting detail page [8/20]: https://footystream.pk/events/barcelona-vs-levante
+🟡 Visiting detail page [7/20]: https://footystream.pk/events/malaga-vs-celta-de-vigo
 🟢 Successfully processed: Formula 1 [5/20]
+🟢 Successfully processed: EFL [6/20]
+🟡 Visiting detail page [8/20]: https://footystream.pk/events/barcelona-vs-levante
 🟡 Visiting detail page [9/20]: https://footystream.pk/events/getafe-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [7/20]
 🟡 Visiting detail page [10/20]: https://footystream.pk/events/brighton-vs-coventry-city

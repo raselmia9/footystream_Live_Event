@@ -33,6 +33,43 @@
         ]
     },
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-13 21:30:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Manchester City",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/manchester-united-vs-manchester-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1886"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1887"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1888"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1889"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1890"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1891"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-08-24 20:00:00",
         "team1Title": "US Open 2026",
@@ -213,43 +250,6 @@
             {
                 "channel": "Link 5",
                 "url": "https://footystream.pk/alpha/brighton-vs-coventry-city/1885"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-13 21:30:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/manchester-united-vs-manchester-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1886"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1887"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1888"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1889"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1890"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://footystream.pk/alpha/manchester-united-vs-manchester-city/1891"
             }
         ]
     },

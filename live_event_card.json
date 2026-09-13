@@ -106,7 +106,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/English%20Open%20Snooker_vs_Snooker/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/english-open-snooker",
         "multiWatchPageLink": [
             {
@@ -164,12 +164,12 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-13 19:00:00",
-        "team1Title": "Brighton & Hove Albion",
-        "team2Title": "Coventry City",
+        "team1Title": "Event Ended",
+        "team2Title": "Brighton & Hove Albion",
         "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brighton%20%26%20Hove%20Albion_vs_Coventry%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brighton%20%26%20Hove%20Albion_vs_Coventry%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brighton%20%26%20Hove%20Albion_vs_Coventry%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brighton%20%26%20Hove%20Albion_vs_Coventry%20City/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brighton%20%26%20Hove%20Albion_vs_Coventry%20City/Link%205.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Brighton%20%26%20Hove%20Albion/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Brighton%20%26%20Hove%20Albion/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Brighton%20%26%20Hove%20Albion/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Brighton%20%26%20Hove%20Albion/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Brighton%20%26%20Hove%20Albion/Link%205.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/brighton-vs-coventry-city",
         "multiWatchPageLink": [
             {
@@ -197,12 +197,12 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-13 19:00:00",
-        "team1Title": "Lecce",
-        "team2Title": "Monza",
+        "team1Title": "Event Ended",
+        "team2Title": "Lecce",
         "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lecce_vs_Monza/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Lecce/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/lecce-vs-monza",
         "multiWatchPageLink": [
             {
@@ -291,7 +291,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Getafe_vs_Deportivo%20La%20Coru%C3%B1a/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Getafe_vs_Deportivo%20La%20Coru%C3%B1a/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Getafe_vs_Deportivo%20La%20Coru%C3%B1a/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/getafe-vs-deportivo-la-coruna",
         "multiWatchPageLink": [
             {

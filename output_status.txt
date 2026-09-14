@@ -7,9 +7,9 @@
 🟡 Visiting detail page [1/36]: https://footystream.pk/events/dallas-cowboys-vs-giants-live-stream
 🟡 Visiting detail page [3/36]: https://footystream.pk/events/inter-milan-vs-udinese
 🟢 Successfully processed: Serie A [2/36]
-🟡 Visiting detail page [4/36]: https://footystream.pk/events/monza-vs-sassuolo
 🟢 Successfully processed: Serie A [3/36]
 🟡 Visiting detail page [5/36]: https://footystream.pk/events/leeds-united-vs-newcastle-united
+🟡 Visiting detail page [4/36]: https://footystream.pk/events/monza-vs-sassuolo
 🟢 Successfully processed: Serie A [4/36]
 🟡 Visiting detail page [6/36]: https://footystream.pk/events/chelsea-vs-brentford
 🟢 Successfully processed: NFL [1/36]
@@ -32,9 +32,9 @@
 🟡 Visiting detail page [15/36]: https://footystream.pk/events/barnsley-vs-peterborough-united
 🟢 Successfully processed: Coppa Italia [14/36]
 🟡 Visiting detail page [16/36]: https://footystream.pk/events/fulham-vs-west-ham-united
-🟢 Successfully processed: LaLiga [7/36]
-🟡 Visiting detail page [17/36]: https://footystream.pk/events/liverpool-vs-spurs
 🟢 Successfully processed: EFL [15/36]
+🟡 Visiting detail page [17/36]: https://footystream.pk/events/liverpool-vs-spurs
+🟢 Successfully processed: LaLiga [7/36]
 🟡 Visiting detail page [18/36]: https://footystream.pk/events/reading-vs-brentford
 🟢 Successfully processed: EFL [16/36]
 🟡 Visiting detail page [19/36]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
@@ -72,8 +72,8 @@
 🟡 Visiting detail page [35/36]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
 🟢 Successfully processed: Bundesliga [35/36]
 🟡 Visiting detail page [36/36]: https://footystream.pk/events/lens-vs-monaco
-🟢 Successfully processed: Europa League [27/36]
 🟢 Successfully processed: French Ligue 1 [36/36]
+🟢 Successfully processed: Europa League [27/36]
 🟢 Successfully processed: MotoGP [33/36]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 36

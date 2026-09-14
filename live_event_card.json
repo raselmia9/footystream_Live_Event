@@ -1,39 +1,5 @@
 [
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-14 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AS Roma",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_AS%20Roma/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/roma-vs-torino",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/roma-vs-torino/1929"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-14 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Parma",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Parma/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/parma-vs-como",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/parma-vs-como/1931"
-            }
-        ]
-    },
-    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-09-14 23:45:00",
         "team1Title": "Rio Ave",
@@ -72,18 +38,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-19 00:45:00",
-        "team1Title": "Monza",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/monza-vs-sassuolo",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-15 01:00:00",
         "team1Title": "Leeds United",
@@ -91,7 +45,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/leeds-united-vs-newcastle-united",
         "multiWatchPageLink": [
             {
@@ -121,18 +75,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Brentford",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/chelsea-vs-brentford",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-15 01:00:00",
         "team1Title": "Real Betis",
@@ -156,6 +98,47 @@
                 "url": "https://footystream.pk/alpha/real-betis-vs-villarreal/1923"
             }
         ]
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-15 01:45:00",
+        "team1Title": "Sporting Braga",
+        "team2Title": "Estoril",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sporting%20Braga_vs_Estoril/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/sporting-braga-vs-estoril",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/sporting-braga-vs-estoril/1933"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Coppa Italia",
+        "matchTime": "2026-09-15 22:00:00",
+        "team1Title": "Genoa",
+        "team2Title": "Südtirol",
+        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sudtirol/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/genoa-vs-sudtirol",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Coppa Italia",
+        "matchTime": "2026-09-16 01:00:00",
+        "team1Title": "Pisa",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/pisa-vs-fiorentina",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",
@@ -218,44 +201,15 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-15 01:45:00",
-        "team1Title": "Sporting Braga",
-        "team2Title": "Estoril",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sporting%20Braga_vs_Estoril/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/sporting-braga-vs-estoril",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/sporting-braga-vs-estoril/1933"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-15 22:00:00",
-        "team1Title": "Genoa",
-        "team2Title": "Südtirol",
-        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sudtirol/logo.webp",
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-17 01:30:00",
+        "team1Title": "Levante",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/genoa-vs-sudtirol",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Pisa",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/pisa-vs-fiorentina",
+        "detailsPage": "https://footystream.pk/events/levante-vs-athletic-club",
         "multiWatchPageLink": []
     },
     {
@@ -434,6 +388,18 @@
     {
         "eventTitle": "Europa League",
         "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Juventus",
+        "team2Title": "NEC",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nec/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/juventus-vs-nec",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
         "team1Title": "Celtic",
         "team2Title": "Ferencváros",
         "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
@@ -518,6 +484,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lens-vs-monaco",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-19 00:45:00",
+        "team1Title": "Monza",
+        "team2Title": "Sassuolo",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/monza-vs-sassuolo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Brentford",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-brentford",
         "multiWatchPageLink": []
     }
 ]

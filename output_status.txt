@@ -3,13 +3,13 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 36
-🟡 Visiting detail page [3/36]: https://footystream.pk/events/real-betis-vs-villarreal
 🟡 Visiting detail page [2/36]: https://footystream.pk/events/leeds-united-vs-newcastle-united
+🟡 Visiting detail page [3/36]: https://footystream.pk/events/real-betis-vs-villarreal
 🟡 Visiting detail page [1/36]: https://footystream.pk/events/inter-milan-vs-udinese
 🟢 Successfully processed: Serie A [1/36]
-🟡 Visiting detail page [4/36]: https://footystream.pk/events/sporting-braga-vs-estoril
-🟢 Successfully processed: LaLiga [3/36]
 🟢 Successfully processed: Premier League [2/36]
+🟢 Successfully processed: LaLiga [3/36]
+🟡 Visiting detail page [4/36]: https://footystream.pk/events/sporting-braga-vs-estoril
 🟡 Visiting detail page [5/36]: https://footystream.pk/events/genoa-vs-sudtirol
 🟡 Visiting detail page [6/36]: https://footystream.pk/events/pisa-vs-fiorentina
 🟢 Successfully processed: Coppa Italia [5/36]
@@ -44,9 +44,9 @@
 🟡 Visiting detail page [21/36]: https://footystream.pk/events/milan-vs-benfica
 🟢 Successfully processed: Champions League [19/36]
 🟡 Visiting detail page [22/36]: https://footystream.pk/events/bayer-leverkusen-vs-celje
-🟢 Successfully processed: Champions League [21/36]
-🟡 Visiting detail page [23/36]: https://footystream.pk/events/sunderland-vs-az
 🟢 Successfully processed: Champions League [20/36]
+🟡 Visiting detail page [23/36]: https://footystream.pk/events/sunderland-vs-az
+🟢 Successfully processed: Champions League [21/36]
 🟡 Visiting detail page [24/36]: https://footystream.pk/events/lyon-vs-anderlecht
 🟢 Successfully processed: Champions League [22/36]
 🟡 Visiting detail page [25/36]: https://footystream.pk/events/ofi-vs-hoffenheim

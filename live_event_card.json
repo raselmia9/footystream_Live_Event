@@ -241,18 +241,6 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Tottenham Hotspur",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-spurs",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-16 01:00:00",
         "team1Title": "Brentford",
         "team2Title": "Reading",
         "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",

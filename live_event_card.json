@@ -1,22 +1,5 @@
 [
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-09-14 23:45:00",
-        "team1Title": "Rio Ave",
-        "team2Title": "Estrela",
-        "team1Logo": "https://cdn.img4every1.org/team/rio-ave/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rio%20Ave_vs_Estrela/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/rio-ave-vs-estrela",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/rio-ave-vs-estrela/1932"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-15 00:45:00",
         "team1Title": "Inter Milan",
@@ -45,7 +28,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Newcastle%20United/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/leeds-united-vs-newcastle-united",
         "multiWatchPageLink": [
             {
@@ -82,7 +65,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Villarreal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Villarreal/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Villarreal/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Villarreal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Betis_vs_Villarreal/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/real-betis-vs-villarreal",
         "multiWatchPageLink": [
             {

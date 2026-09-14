@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 35
 🟡 Visiting detail page [1/35]: https://footystream.pk/events/roma-vs-torino
-🟡 Visiting detail page [3/35]: https://footystream.pk/events/monza-vs-sassuolo
 🟡 Visiting detail page [2/35]: https://footystream.pk/events/inter-milan-vs-udinese
-🟢 Successfully processed: Serie A [2/35]
-🟡 Visiting detail page [4/35]: https://footystream.pk/events/leeds-united-vs-newcastle-united
-🟢 Successfully processed: Serie A [1/35]
-🟡 Visiting detail page [5/35]: https://footystream.pk/events/chelsea-vs-brentford
+🟡 Visiting detail page [3/35]: https://footystream.pk/events/monza-vs-sassuolo
 🟢 Successfully processed: Serie A [3/35]
+🟢 Successfully processed: Serie A [1/35]
+🟡 Visiting detail page [4/35]: https://footystream.pk/events/leeds-united-vs-newcastle-united
+🟢 Successfully processed: Serie A [2/35]
+🟡 Visiting detail page [5/35]: https://footystream.pk/events/chelsea-vs-brentford
 🟡 Visiting detail page [6/35]: https://footystream.pk/events/real-betis-vs-villarreal
 🟢 Successfully processed: Premier League [5/35]
 🟡 Visiting detail page [7/35]: https://footystream.pk/events/rayo-vallecano-vs-espanyol
@@ -18,11 +18,11 @@
 🟡 Visiting detail page [8/35]: https://footystream.pk/events/valencia-vs-alaves
 🟢 Successfully processed: LaLiga [8/35]
 🟡 Visiting detail page [9/35]: https://footystream.pk/events/real-madrid-vs-elche
-🟢 Successfully processed: Premier League [4/35]
+🟢 Successfully processed: LaLiga [9/35]
 🟡 Visiting detail page [10/35]: https://footystream.pk/events/osasuna-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [6/35]
 🟡 Visiting detail page [11/35]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
-🟢 Successfully processed: LaLiga [9/35]
+🟢 Successfully processed: Premier League [4/35]
 🟡 Visiting detail page [12/35]: https://footystream.pk/events/genoa-vs-sudtirol
 🟢 Successfully processed: LaLiga [10/35]
 🟡 Visiting detail page [13/35]: https://footystream.pk/events/pisa-vs-fiorentina
@@ -68,10 +68,10 @@
 🟡 Visiting detail page [33/35]: https://footystream.pk/events/liverpool-vs-manchester-city
 🟢 Successfully processed: WSL [33/35]
 🟡 Visiting detail page [34/35]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
-🟢 Successfully processed: Europa League [26/35]
-🟡 Visiting detail page [35/35]: https://footystream.pk/events/lens-vs-monaco
 🟢 Successfully processed: Bundesliga [34/35]
+🟡 Visiting detail page [35/35]: https://footystream.pk/events/lens-vs-monaco
 🟢 Successfully processed: French Ligue 1 [35/35]
+🟢 Successfully processed: Europa League [26/35]
 🟢 Successfully processed: MotoGP [32/35]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 35

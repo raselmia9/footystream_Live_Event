@@ -47,6 +47,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/inter-milan-vs-udinese/1930"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/inter-milan-vs-udinese/1934"
             }
         ]
     },
@@ -61,6 +65,40 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/monza-vs-sassuolo",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-14 23:45:00",
+        "team1Title": "Rio Ave",
+        "team2Title": "Estrela",
+        "team1Logo": "https://cdn.img4every1.org/team/rio-ave/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rio-ave-vs-estrela",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rio-ave-vs-estrela/1932"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-15 01:45:00",
+        "team1Title": "Sporting Braga",
+        "team2Title": "Estoril",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-braga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sporting-braga-vs-estoril",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/sporting-braga-vs-estoril/1933"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

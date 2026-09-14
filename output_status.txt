@@ -6,8 +6,8 @@
 🟡 Visiting detail page [3/35]: https://footystream.pk/events/monza-vs-sassuolo
 🟡 Visiting detail page [1/35]: https://footystream.pk/events/roma-vs-torino
 🟡 Visiting detail page [2/35]: https://footystream.pk/events/inter-milan-vs-udinese
-🟢 Successfully processed: Serie A [2/35]
 🟢 Successfully processed: Serie A [3/35]
+🟢 Successfully processed: Serie A [2/35]
 🟢 Successfully processed: Serie A [1/35]
 🟡 Visiting detail page [4/35]: https://footystream.pk/events/leeds-united-vs-newcastle-united
 🟡 Visiting detail page [5/35]: https://footystream.pk/events/chelsea-vs-brentford
@@ -20,10 +20,10 @@
 🟡 Visiting detail page [9/35]: https://footystream.pk/events/real-madrid-vs-elche
 🟢 Successfully processed: LaLiga [9/35]
 🟡 Visiting detail page [10/35]: https://footystream.pk/events/osasuna-vs-atletico-madrid
-🟢 Successfully processed: LaLiga [6/35]
 🟢 Successfully processed: Premier League [4/35]
-🟡 Visiting detail page [12/35]: https://footystream.pk/events/genoa-vs-sudtirol
 🟡 Visiting detail page [11/35]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
+🟢 Successfully processed: LaLiga [6/35]
+🟡 Visiting detail page [12/35]: https://footystream.pk/events/genoa-vs-sudtirol
 🟢 Successfully processed: LaLiga [10/35]
 🟡 Visiting detail page [13/35]: https://footystream.pk/events/pisa-vs-fiorentina
 🟢 Successfully processed: LaLiga [11/35]

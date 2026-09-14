@@ -9,7 +9,29 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/roma-vs-torino",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/roma-vs-torino/1929"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-14 22:30:00",
+        "team1Title": "Parma",
+        "team2Title": "Como",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/parma-vs-como",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/parma-vs-como/1931"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -21,7 +43,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/inter-milan-vs-udinese",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/inter-milan-vs-udinese/1930"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

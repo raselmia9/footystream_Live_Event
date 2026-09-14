@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 35
 🟡 Visiting detail page [1/35]: https://footystream.pk/events/roma-vs-torino
-🟡 Visiting detail page [2/35]: https://footystream.pk/events/inter-milan-vs-udinese
 🟡 Visiting detail page [3/35]: https://footystream.pk/events/monza-vs-sassuolo
+🟡 Visiting detail page [2/35]: https://footystream.pk/events/inter-milan-vs-udinese
 🟢 Successfully processed: Serie A [1/35]
-🟡 Visiting detail page [4/35]: https://footystream.pk/events/leeds-united-vs-newcastle-united
 🟢 Successfully processed: Serie A [2/35]
 🟢 Successfully processed: Serie A [3/35]
 🟡 Visiting detail page [5/35]: https://footystream.pk/events/chelsea-vs-brentford
+🟡 Visiting detail page [4/35]: https://footystream.pk/events/leeds-united-vs-newcastle-united
 🟡 Visiting detail page [6/35]: https://footystream.pk/events/real-betis-vs-villarreal
 🟢 Successfully processed: Premier League [5/35]
 🟡 Visiting detail page [7/35]: https://footystream.pk/events/rayo-vallecano-vs-espanyol
@@ -20,19 +20,19 @@
 🟡 Visiting detail page [9/35]: https://footystream.pk/events/real-madrid-vs-elche
 🟢 Successfully processed: LaLiga [9/35]
 🟡 Visiting detail page [10/35]: https://footystream.pk/events/osasuna-vs-atletico-madrid
-🟢 Successfully processed: Premier League [4/35]
-🟢 Successfully processed: LaLiga [6/35]
-🟡 Visiting detail page [12/35]: https://footystream.pk/events/genoa-vs-sudtirol
-🟡 Visiting detail page [11/35]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [10/35]
-🟡 Visiting detail page [13/35]: https://footystream.pk/events/pisa-vs-fiorentina
+🟡 Visiting detail page [11/35]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [11/35]
+🟡 Visiting detail page [12/35]: https://footystream.pk/events/genoa-vs-sudtirol
+🟢 Successfully processed: Premier League [4/35]
+🟡 Visiting detail page [13/35]: https://footystream.pk/events/pisa-vs-fiorentina
+🟢 Successfully processed: LaLiga [6/35]
 🟡 Visiting detail page [14/35]: https://footystream.pk/events/barnsley-vs-peterborough-united
 🟢 Successfully processed: Coppa Italia [12/35]
 🟡 Visiting detail page [15/35]: https://footystream.pk/events/fulham-vs-west-ham-united
-🟢 Successfully processed: Coppa Italia [13/35]
-🟡 Visiting detail page [16/35]: https://footystream.pk/events/liverpool-vs-spurs
 🟢 Successfully processed: EFL [14/35]
+🟡 Visiting detail page [16/35]: https://footystream.pk/events/liverpool-vs-spurs
+🟢 Successfully processed: Coppa Italia [13/35]
 🟡 Visiting detail page [17/35]: https://footystream.pk/events/reading-vs-brentford
 🟢 Successfully processed: EFL [15/35]
 🟡 Visiting detail page [18/35]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
@@ -58,9 +58,9 @@
 🟡 Visiting detail page [28/35]: https://footystream.pk/events/juventus-vs-nec
 🟢 Successfully processed: Europa League [27/35]
 🟡 Visiting detail page [29/35]: https://footystream.pk/events/celtic-vs-ferencvaros
-🟢 Successfully processed: Europa League [29/35]
-🟡 Visiting detail page [30/35]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
 🟢 Successfully processed: Europa League [28/35]
+🟡 Visiting detail page [30/35]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
+🟢 Successfully processed: Europa League [29/35]
 🟡 Visiting detail page [31/35]: https://footystream.pk/events/bournemouth-vs-real-sociedad
 🟢 Successfully processed: Europa League [30/35]
 🟡 Visiting detail page [32/35]: https://footystream.pk/events/motogp-austria-grand-prix
@@ -70,8 +70,8 @@
 🟡 Visiting detail page [34/35]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
 🟢 Successfully processed: Bundesliga [34/35]
 🟡 Visiting detail page [35/35]: https://footystream.pk/events/lens-vs-monaco
-🟢 Successfully processed: French Ligue 1 [35/35]
 🟢 Successfully processed: Europa League [26/35]
+🟢 Successfully processed: French Ligue 1 [35/35]
 🟢 Successfully processed: MotoGP [32/35]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 35

@@ -3,8 +3,8 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 36
-🟡 Visiting detail page [3/36]: https://footystream.pk/events/inter-milan-vs-udinese
 🟡 Visiting detail page [2/36]: https://footystream.pk/events/roma-vs-torino
+🟡 Visiting detail page [3/36]: https://footystream.pk/events/inter-milan-vs-udinese
 🟡 Visiting detail page [1/36]: https://footystream.pk/events/dallas-cowboys-vs-giants-live-stream
 🟢 Successfully processed: Serie A [2/36]
 🟢 Successfully processed: Serie A [3/36]
@@ -12,9 +12,9 @@
 🟡 Visiting detail page [5/36]: https://footystream.pk/events/leeds-united-vs-newcastle-united
 🟢 Successfully processed: Serie A [4/36]
 🟡 Visiting detail page [6/36]: https://footystream.pk/events/chelsea-vs-brentford
-🟢 Successfully processed: NFL [1/36]
-🟡 Visiting detail page [7/36]: https://footystream.pk/events/real-betis-vs-villarreal
 🟢 Successfully processed: Premier League [6/36]
+🟡 Visiting detail page [7/36]: https://footystream.pk/events/real-betis-vs-villarreal
+🟢 Successfully processed: NFL [1/36]
 🟡 Visiting detail page [8/36]: https://footystream.pk/events/rayo-vallecano-vs-espanyol
 🟢 Successfully processed: LaLiga [8/36]
 🟡 Visiting detail page [9/36]: https://footystream.pk/events/valencia-vs-alaves
@@ -34,21 +34,21 @@
 🟡 Visiting detail page [16/36]: https://footystream.pk/events/fulham-vs-west-ham-united
 🟢 Successfully processed: EFL [15/36]
 🟡 Visiting detail page [17/36]: https://footystream.pk/events/liverpool-vs-spurs
-🟢 Successfully processed: LaLiga [7/36]
-🟡 Visiting detail page [18/36]: https://footystream.pk/events/reading-vs-brentford
 🟢 Successfully processed: EFL [16/36]
-🟡 Visiting detail page [19/36]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
+🟡 Visiting detail page [18/36]: https://footystream.pk/events/reading-vs-brentford
 🟢 Successfully processed: EFL [17/36]
-🟡 Visiting detail page [20/36]: https://footystream.pk/events/everton-vs-wolves
+🟡 Visiting detail page [19/36]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
 🟢 Successfully processed: EFL [18/36]
-🟡 Visiting detail page [21/36]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
+🟡 Visiting detail page [20/36]: https://footystream.pk/events/everton-vs-wolves
 🟢 Successfully processed: EFL [19/36]
+🟡 Visiting detail page [21/36]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
+🟢 Successfully processed: LaLiga [7/36]
 🟡 Visiting detail page [22/36]: https://footystream.pk/events/celta-vigo-vs-omonia-nicosia
 🟢 Successfully processed: EFL [20/36]
 🟡 Visiting detail page [23/36]: https://footystream.pk/events/milan-vs-benfica
 🟢 Successfully processed: Champions League [21/36]
-🟢 Successfully processed: Champions League [22/36]
 🟡 Visiting detail page [24/36]: https://footystream.pk/events/bayer-leverkusen-vs-celje
+🟢 Successfully processed: Champions League [22/36]
 🟡 Visiting detail page [25/36]: https://footystream.pk/events/sunderland-vs-az
 🟢 Successfully processed: Champions League [23/36]
 🟡 Visiting detail page [26/36]: https://footystream.pk/events/lyon-vs-anderlecht

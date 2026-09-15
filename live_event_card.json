@@ -1,26 +1,88 @@
 [
     {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-15 22:00:00",
-        "team1Title": "Genoa",
-        "team2Title": "Südtirol",
-        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sudtirol/logo.webp",
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-16 01:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Genoa_vs_S%C3%BCdtirol/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Genoa_vs_S%C3%BCdtirol/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Genoa_vs_S%C3%BCdtirol/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/genoa-vs-sudtirol",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Ipswich%20Town/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Ipswich%20Town/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/arsenal-vs-ipswich",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1935"
+                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1948"
             },
             {
                 "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1936"
+                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1949"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-16 01:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Tottenham Hotspur",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/liverpool-vs-spurs",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1945"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1946"
             },
             {
                 "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1937"
+                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1947"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1950"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-16 01:30:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/real-madrid-vs-elche",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1956"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1957"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1958"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1959"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1960"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1961"
             }
         ]
     },
@@ -106,56 +168,6 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Ipswich Town",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Ipswich%20Town/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Ipswich%20Town/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/arsenal-vs-ipswich",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1948"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1949"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Tottenham Hotspur",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-spurs",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1945"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1946"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1947"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1950"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-16 01:00:00",
         "team1Title": "Brentford",
         "team2Title": "Reading",
         "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
@@ -187,6 +199,30 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-17 00:45:00",
+        "team1Title": "Everton",
+        "team2Title": "Wolverhampton Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/manchester-united-vs-brighton",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Coppa Italia",
         "matchTime": "2026-09-16 01:00:00",
         "team1Title": "Pisa",
@@ -210,103 +246,6 @@
                 "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1953"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-16 01:30:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Elche CF",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-elche",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1956"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1957"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1958"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1959"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1960"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1961"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-16 23:00:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-16 23:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-17 01:30:00",
-        "team1Title": "Levante",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/levante-vs-athletic-club",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Copa Del Rey",
-        "matchTime": "2026-01-16 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Racing Santander",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barcelona-vs-racing",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-17 23:00:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Getafe",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-betis-vs-getafe",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Champions League",
@@ -378,6 +317,78 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lyon-vs-anderlecht",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-16 23:00:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-16 23:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-17 01:30:00",
+        "team1Title": "Levante",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/levante-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Copa Del Rey",
+        "matchTime": "2026-01-16 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Racing Santander",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barcelona-vs-racing",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-17 23:00:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-betis-vs-getafe",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-18 01:30:00",
+        "team1Title": "Málaga",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/malaga-vs-villarreal",
         "multiWatchPageLink": []
     },
     {

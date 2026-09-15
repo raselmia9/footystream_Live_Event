@@ -171,7 +171,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Ipswich%20Town/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Arsenal_vs_Ipswich%20Town/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/arsenal-vs-ipswich",
         "multiWatchPageLink": [
             {
@@ -192,7 +192,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-spurs",
         "multiWatchPageLink": [
             {
@@ -221,9 +221,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brentford_vs_Reading/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brentford_vs_Reading/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/reading-vs-brentford",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/reading-vs-brentford/1954"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/reading-vs-brentford/1955"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -245,7 +254,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pisa_vs_Fiorentina/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pisa_vs_Fiorentina/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pisa_vs_Fiorentina/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/pisa-vs-fiorentina",
         "multiWatchPageLink": [
             {

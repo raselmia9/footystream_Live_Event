@@ -1,59 +1,5 @@
 [
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Arsenal",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Arsenal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Arsenal/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Arsenal/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/arsenal-vs-ipswich",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1948"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1949"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1962"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Liverpool",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Liverpool/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-spurs",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1945"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1946"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1947"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1950"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-16 01:30:00",
         "team1Title": "Real Madrid",
@@ -87,52 +33,6 @@
             {
                 "channel": "Link 6",
                 "url": "https://footystream.pk/alpha/real-madrid-vs-elche/1961"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Brentford",
-        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Brentford/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Brentford/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/reading-vs-brentford",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/reading-vs-brentford/1954"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/reading-vs-brentford/1955"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Pisa",
-        "team1Logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Pisa/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Pisa/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Pisa/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/pisa-vs-fiorentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1951"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1952"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1953"
             }
         ]
     },

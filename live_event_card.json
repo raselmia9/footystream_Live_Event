@@ -173,7 +173,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-spurs",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1945"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1946"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1947"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

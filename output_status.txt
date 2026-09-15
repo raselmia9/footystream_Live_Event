@@ -3,30 +3,30 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 36
-🟡 Visiting detail page [2/36]: https://footystream.pk/events/liverpool-vs-spurs
-🟡 Visiting detail page [1/36]: https://footystream.pk/events/arsenal-vs-ipswich
 🟡 Visiting detail page [3/36]: https://footystream.pk/events/real-madrid-vs-elche
-🟢 Successfully processed: EFL [1/36]
-🟡 Visiting detail page [4/36]: https://footystream.pk/events/rayo-vallecano-vs-espanyol
+🟡 Visiting detail page [1/36]: https://footystream.pk/events/arsenal-vs-ipswich
+🟡 Visiting detail page [2/36]: https://footystream.pk/events/liverpool-vs-spurs
 🟢 Successfully processed: EFL [2/36]
+🟡 Visiting detail page [4/36]: https://footystream.pk/events/rayo-vallecano-vs-espanyol
 🟢 Successfully processed: LaLiga [3/36]
 🟡 Visiting detail page [5/36]: https://footystream.pk/events/valencia-vs-alaves
+🟢 Successfully processed: EFL [1/36]
 🟡 Visiting detail page [6/36]: https://footystream.pk/events/barnsley-vs-peterborough-united
-🟢 Successfully processed: EFL [6/36]
-🟡 Visiting detail page [7/36]: https://footystream.pk/events/fulham-vs-west-ham-united
 🟢 Successfully processed: LaLiga [4/36]
+🟡 Visiting detail page [7/36]: https://footystream.pk/events/fulham-vs-west-ham-united
+🟢 Successfully processed: EFL [6/36]
 🟡 Visiting detail page [8/36]: https://footystream.pk/events/reading-vs-brentford
 🟢 Successfully processed: LaLiga [5/36]
 🟡 Visiting detail page [9/36]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
 🟢 Successfully processed: EFL [9/36]
 🟡 Visiting detail page [10/36]: https://footystream.pk/events/everton-vs-wolves
-🟢 Successfully processed: EFL [7/36]
-🟡 Visiting detail page [11/36]: https://footystream.pk/events/manchester-united-vs-brighton
-🟢 Successfully processed: EFL [10/36]
-🟡 Visiting detail page [12/36]: https://footystream.pk/events/pisa-vs-fiorentina
-🟢 Successfully processed: EFL [11/36]
-🟡 Visiting detail page [13/36]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
 🟢 Successfully processed: EFL [8/36]
+🟡 Visiting detail page [11/36]: https://footystream.pk/events/manchester-united-vs-brighton
+🟢 Successfully processed: EFL [7/36]
+🟡 Visiting detail page [12/36]: https://footystream.pk/events/pisa-vs-fiorentina
+🟢 Successfully processed: EFL [10/36]
+🟡 Visiting detail page [13/36]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
+🟢 Successfully processed: EFL [11/36]
 🟡 Visiting detail page [14/36]: https://footystream.pk/events/celta-vigo-vs-omonia-nicosia
 🟢 Successfully processed: Champions League [13/36]
 🟡 Visiting detail page [15/36]: https://footystream.pk/events/milan-vs-benfica
@@ -37,20 +37,20 @@
 🟢 Successfully processed: Champions League [16/36]
 🟡 Visiting detail page [18/36]: https://footystream.pk/events/lyon-vs-anderlecht
 🟢 Successfully processed: Champions League [17/36]
-🟢 Successfully processed: Coppa Italia [12/36]
 🟡 Visiting detail page [19/36]: https://footystream.pk/events/osasuna-vs-atletico-madrid
+🟢 Successfully processed: Coppa Italia [12/36]
 🟡 Visiting detail page [20/36]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: Champions League [18/36]
 🟡 Visiting detail page [21/36]: https://footystream.pk/events/levante-vs-athletic-club
+🟢 Successfully processed: LaLiga [20/36]
 🟢 Successfully processed: LaLiga [19/36]
 🟡 Visiting detail page [22/36]: https://footystream.pk/events/barcelona-vs-racing
-🟢 Successfully processed: LaLiga [20/36]
 🟡 Visiting detail page [23/36]: https://footystream.pk/events/real-betis-vs-getafe
 🟢 Successfully processed: LaLiga [21/36]
 🟡 Visiting detail page [24/36]: https://footystream.pk/events/malaga-vs-villarreal
+🟢 Successfully processed: Copa Del Rey [22/36]
 🟢 Successfully processed: LaLiga [23/36]
 🟡 Visiting detail page [25/36]: https://footystream.pk/events/ofi-vs-hoffenheim
-🟢 Successfully processed: Copa Del Rey [22/36]
 🟡 Visiting detail page [26/36]: https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia
 🟢 Successfully processed: LaLiga [24/36]
 🟡 Visiting detail page [27/36]: https://footystream.pk/events/juventus-vs-nec

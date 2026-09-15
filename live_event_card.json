@@ -223,6 +223,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/aston-villa-vs-coventry-city",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Coppa Italia",
         "matchTime": "2026-09-16 01:00:00",
         "team1Title": "Pisa",

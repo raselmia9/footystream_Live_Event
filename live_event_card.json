@@ -9,7 +9,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/genoa-vs-sudtirol",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1935"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1936"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/genoa-vs-sudtirol/1937"
+            }
+        ]
     },
     {
         "eventTitle": "Coppa Italia",
@@ -33,7 +46,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-espanyol",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-espanyol/1938"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-espanyol/1939"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/rayo-vallecano-vs-espanyol/1940"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -45,7 +71,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/valencia-vs-alaves",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/valencia-vs-alaves/1941"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

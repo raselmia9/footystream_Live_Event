@@ -119,6 +119,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Copa Del Rey",
+        "matchTime": "2026-01-16 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Racing Santander",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barcelona-vs-racing",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-16 00:30:00",
         "team1Title": "Barnsley",

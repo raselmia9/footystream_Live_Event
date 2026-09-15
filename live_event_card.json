@@ -97,18 +97,6 @@
     },
     {
         "eventTitle": "EFL",
-        "matchTime": "2026-09-16 00:30:00",
-        "team1Title": "Barnsley",
-        "team2Title": "Peterborough United",
-        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barnsley-vs-peterborough-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
         "matchTime": "2026-09-16 00:45:00",
         "team1Title": "Fulham",
         "team2Title": "West Ham United",
@@ -332,18 +320,6 @@
                 "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/1806"
             }
         ]
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-09-19 00:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-manchester-city",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",

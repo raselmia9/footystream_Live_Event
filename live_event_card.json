@@ -32,7 +32,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Tottenham%20Hotspur/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-spurs",
         "multiWatchPageLink": [
             {
@@ -61,7 +61,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Elche%20CF/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/real-madrid-vs-elche",
         "multiWatchPageLink": [
             {
@@ -98,7 +98,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Valencia_vs_Deportivo%20Alav%C3%A9s/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Valencia_vs_Deportivo%20Alav%C3%A9s/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Valencia_vs_Deportivo%20Alav%C3%A9s/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/valencia-vs-alaves",
         "multiWatchPageLink": [
             {
@@ -110,6 +110,18 @@
                 "url": "https://footystream.pk/alpha/valencia-vs-alaves/1942"
             }
         ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-16 00:30:00",
+        "team1Title": "Barnsley",
+        "team2Title": "Peterborough United",
+        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barnsley-vs-peterborough-united",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "EFL",
@@ -129,6 +141,27 @@
             {
                 "channel": "Link 2",
                 "url": "https://footystream.pk/alpha/fulham-vs-west-ham-united/1944"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-16 01:00:00",
+        "team1Title": "Brentford",
+        "team2Title": "Reading",
+        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brentford_vs_Reading/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Brentford_vs_Reading/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/reading-vs-brentford",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/reading-vs-brentford/1954"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/reading-vs-brentford/1955"
             }
         ]
     },
@@ -311,18 +344,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-17 00:45:00",
-        "team1Title": "Everton",
-        "team2Title": "Wolverhampton Wanderers",
-        "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
         "multiWatchPageLink": []
     },
     {

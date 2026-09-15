@@ -150,7 +150,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Fulham_vs_West%20Ham%20United/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Fulham_vs_West%20Ham%20United/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/fulham-vs-west-ham-united",
         "multiWatchPageLink": [
             {
@@ -160,6 +160,27 @@
             {
                 "channel": "Link 2",
                 "url": "https://footystream.pk/alpha/fulham-vs-west-ham-united/1944"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-16 01:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/arsenal-vs-ipswich",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1948"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/arsenal-vs-ipswich/1949"
             }
         ]
     },
@@ -185,6 +206,10 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1947"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/liverpool-vs-spurs/1950"
             }
         ]
     },
@@ -213,18 +238,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-17 00:45:00",
-        "team1Title": "Everton",
-        "team2Title": "Wolverhampton Wanderers",
-        "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Coppa Italia",
         "matchTime": "2026-09-16 01:00:00",
         "team1Title": "Pisa",
@@ -234,7 +247,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/pisa-vs-fiorentina",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1951"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1952"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/pisa-vs-fiorentina/1953"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

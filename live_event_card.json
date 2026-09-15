@@ -75,6 +75,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/valencia-vs-alaves/1941"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/valencia-vs-alaves/1942"
             }
         ]
     },
@@ -148,7 +152,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/fulham-vs-west-ham-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/fulham-vs-west-ham-united/1943"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/fulham-vs-west-ham-united/1944"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

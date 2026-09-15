@@ -7,16 +7,16 @@
 🟡 Visiting detail page [1/32]: https://footystream.pk/events/genoa-vs-sudtirol
 🟡 Visiting detail page [3/32]: https://footystream.pk/events/valencia-vs-alaves
 🟢 Successfully processed: Coppa Italia [1/32]
-🟡 Visiting detail page [4/32]: https://footystream.pk/events/real-madrid-vs-elche
 🟢 Successfully processed: LaLiga [2/32]
+🟡 Visiting detail page [4/32]: https://footystream.pk/events/real-madrid-vs-elche
 🟡 Visiting detail page [5/32]: https://footystream.pk/events/osasuna-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [4/32]
-🟢 Successfully processed: LaLiga [5/32]
 🟡 Visiting detail page [6/32]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
+🟢 Successfully processed: LaLiga [5/32]
 🟡 Visiting detail page [7/32]: https://footystream.pk/events/levante-vs-athletic-club
 🟢 Successfully processed: LaLiga [6/32]
-🟢 Successfully processed: LaLiga [7/32]
 🟡 Visiting detail page [8/32]: https://footystream.pk/events/barnsley-vs-peterborough-united
+🟢 Successfully processed: LaLiga [7/32]
 🟡 Visiting detail page [9/32]: https://footystream.pk/events/fulham-vs-west-ham-united
 🟢 Successfully processed: EFL [8/32]
 🟡 Visiting detail page [10/32]: https://footystream.pk/events/liverpool-vs-spurs
@@ -44,9 +44,9 @@
 🟡 Visiting detail page [21/32]: https://footystream.pk/events/ofi-vs-hoffenheim
 🟢 Successfully processed: Champions League [20/32]
 🟡 Visiting detail page [22/32]: https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia
-🟢 Successfully processed: EFL [9/32]
-🟡 Visiting detail page [23/32]: https://footystream.pk/events/juventus-vs-nec
 🟢 Successfully processed: Europa League [22/32]
+🟡 Visiting detail page [23/32]: https://footystream.pk/events/juventus-vs-nec
+🟢 Successfully processed: EFL [9/32]
 🟡 Visiting detail page [24/32]: https://footystream.pk/events/celtic-vs-ferencvaros
 🟢 Successfully processed: Europa League [23/32]
 🟡 Visiting detail page [25/32]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
@@ -62,10 +62,10 @@
 🟡 Visiting detail page [30/32]: https://footystream.pk/events/lens-vs-monaco
 🟢 Successfully processed: French Ligue 1 [30/32]
 🟡 Visiting detail page [31/32]: https://footystream.pk/events/monza-vs-sassuolo
-🟢 Successfully processed: Serie A [31/32]
-🟡 Visiting detail page [32/32]: https://footystream.pk/events/chelsea-vs-brentford
-🟢 Successfully processed: Premier League [32/32]
 🟢 Successfully processed: Europa League [21/32]
+🟡 Visiting detail page [32/32]: https://footystream.pk/events/chelsea-vs-brentford
+🟢 Successfully processed: Serie A [31/32]
+🟢 Successfully processed: Premier League [32/32]
 🟢 Successfully processed: MotoGP [27/32]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 32

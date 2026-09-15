@@ -12,18 +12,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Coppa Italia",
-        "matchTime": "2026-09-16 01:00:00",
-        "team1Title": "Pisa",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/pisa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/pisa-vs-fiorentina",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-15 23:00:00",
         "team1Title": "Rayo Vallecano",
@@ -33,18 +21,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/rayo-vallecano-vs-espanyol",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-16 00:00:00",
-        "team1Title": "Valencia",
-        "team2Title": "Deportivo Alavés",
-        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/valencia-vs-alaves",
         "multiWatchPageLink": []
     },
     {

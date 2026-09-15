@@ -481,18 +481,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-18 01:00:00",
-        "team1Title": "AFC Bournemouth",
-        "team2Title": "Real Sociedad",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-09-18 13:00:00",
         "team1Title": "MotoGP Austria Grand Prix",

@@ -11,14 +11,14 @@
 🟢 Successfully processed: Champions League [2/31]
 🟡 Visiting detail page [5/31]: https://footystream.pk/events/bayer-leverkusen-vs-celje
 🟢 Successfully processed: Champions League [4/31]
-🟡 Visiting detail page [6/31]: https://footystream.pk/events/sunderland-vs-az
 🟢 Successfully processed: Champions League [5/31]
+🟡 Visiting detail page [6/31]: https://footystream.pk/events/sunderland-vs-az
 🟡 Visiting detail page [7/31]: https://footystream.pk/events/lyon-vs-anderlecht
 🟢 Successfully processed: LaLiga [1/31]
 🟡 Visiting detail page [8/31]: https://footystream.pk/events/osasuna-vs-atletico-madrid
-🟢 Successfully processed: Champions League [6/31]
-🟡 Visiting detail page [9/31]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: Champions League [7/31]
+🟡 Visiting detail page [9/31]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
+🟢 Successfully processed: Champions League [6/31]
 🟡 Visiting detail page [10/31]: https://footystream.pk/events/levante-vs-athletic-club
 🟢 Successfully processed: LaLiga [8/31]
 🟡 Visiting detail page [11/31]: https://footystream.pk/events/barcelona-vs-racing
@@ -50,11 +50,11 @@
 🟡 Visiting detail page [24/31]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
 🟢 Successfully processed: Europa League [24/31]
 🟡 Visiting detail page [25/31]: https://footystream.pk/events/bournemouth-vs-real-sociedad
-🟢 Successfully processed: EFL [19/31]
-🟡 Visiting detail page [26/31]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: Europa League [20/31]
-🟡 Visiting detail page [27/31]: https://footystream.pk/events/liverpool-vs-manchester-city
 🟢 Successfully processed: Europa League [25/31]
+🟡 Visiting detail page [26/31]: https://footystream.pk/events/motogp-austria-grand-prix
+🟢 Successfully processed: EFL [19/31]
+🟡 Visiting detail page [27/31]: https://footystream.pk/events/liverpool-vs-manchester-city
+🟢 Successfully processed: Europa League [20/31]
 🟡 Visiting detail page [28/31]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
 🟢 Successfully processed: WSL [27/31]
 🟡 Visiting detail page [29/31]: https://footystream.pk/events/lens-vs-monaco

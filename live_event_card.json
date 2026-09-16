@@ -1,55 +1,5 @@
 [
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-16 23:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Osasuna/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Osasuna/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Osasuna/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Osasuna/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1965"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1966"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1967"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1968"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-16 23:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sevilla",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Sevilla/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Sevilla/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1969"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1970"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-17 00:45:00",
         "team1Title": "Fleetwood Town",
@@ -284,42 +234,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-17 23:00:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Getafe",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-betis-vs-getafe",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-18 01:30:00",
-        "team1Title": "Málaga",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/malaga-vs-villarreal",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Title": "Espanyol",
-        "team2Title": "Elche CF",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/espanyol-vs-elche",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Europa League",
         "matchTime": "2026-09-17 22:45:00",
         "team1Title": "OFI",
@@ -394,6 +308,42 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-17 23:00:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-betis-vs-getafe",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-18 01:30:00",
+        "team1Title": "Málaga",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/malaga-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Title": "Espanyol",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/espanyol-vs-elche",
         "multiWatchPageLink": []
     },
     {

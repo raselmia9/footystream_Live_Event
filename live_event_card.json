@@ -189,7 +189,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/fleetwood-town-vs-sheffield-united/1973"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -201,7 +206,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/everton-vs-wolves/1972"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

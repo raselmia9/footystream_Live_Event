@@ -4,17 +4,17 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 24
 🟡 Visiting detail page [1/24]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
-🟡 Visiting detail page [3/24]: https://footystream.pk/events/milan-vs-benfica
 🟡 Visiting detail page [2/24]: https://footystream.pk/events/celta-vigo-vs-omonia-nicosia
+🟡 Visiting detail page [3/24]: https://footystream.pk/events/milan-vs-benfica
 🟢 Successfully processed: Europa League [3/24]
 🟡 Visiting detail page [4/24]: https://footystream.pk/events/bayer-leverkusen-vs-celje
 🟢 Successfully processed: Europa League [4/24]
 🟡 Visiting detail page [5/24]: https://footystream.pk/events/sunderland-vs-az
-🟢 Successfully processed: Europa League [1/24]
-🟡 Visiting detail page [6/24]: https://footystream.pk/events/lyon-vs-anderlecht
-🟢 Successfully processed: Europa League [2/24]
 🟢 Successfully processed: Europa League [5/24]
+🟡 Visiting detail page [6/24]: https://footystream.pk/events/lyon-vs-anderlecht
+🟢 Successfully processed: Europa League [1/24]
 🟡 Visiting detail page [7/24]: https://footystream.pk/events/osasuna-vs-atletico-madrid
+🟢 Successfully processed: Europa League [2/24]
 🟡 Visiting detail page [8/24]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: Europa League [6/24]
 🟡 Visiting detail page [9/24]: https://footystream.pk/events/levante-vs-athletic-club
@@ -23,8 +23,8 @@
 🟢 Successfully processed: Copa Del Rey [10/24]
 🟡 Visiting detail page [11/24]: https://footystream.pk/events/real-betis-vs-getafe
 🟢 Successfully processed: LaLiga [8/24]
-🟢 Successfully processed: LaLiga [7/24]
 🟡 Visiting detail page [12/24]: https://footystream.pk/events/malaga-vs-villarreal
+🟢 Successfully processed: LaLiga [7/24]
 🟡 Visiting detail page [13/24]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
 🟢 Successfully processed: LaLiga [11/24]
 🟡 Visiting detail page [14/24]: https://footystream.pk/events/everton-vs-wolves

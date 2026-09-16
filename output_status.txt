@@ -4,29 +4,29 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
 🟡 Visiting detail page [2/30]: https://footystream.pk/events/celta-vigo-vs-omonia-nicosia
-🟡 Visiting detail page [1/30]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
 🟡 Visiting detail page [3/30]: https://footystream.pk/events/milan-vs-benfica
+🟡 Visiting detail page [1/30]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
+🟢 Successfully processed: Champions League [2/30]
+🟡 Visiting detail page [4/30]: https://footystream.pk/events/bayer-leverkusen-vs-celje
 🟢 Successfully processed: Champions League [1/30]
 🟢 Successfully processed: Champions League [3/30]
-🟡 Visiting detail page [4/30]: https://footystream.pk/events/bayer-leverkusen-vs-celje
 🟡 Visiting detail page [5/30]: https://footystream.pk/events/sunderland-vs-az
-🟢 Successfully processed: Champions League [2/30]
 🟡 Visiting detail page [6/30]: https://footystream.pk/events/lyon-vs-anderlecht
 🟢 Successfully processed: Champions League [4/30]
-🟢 Successfully processed: Champions League [5/30]
 🟡 Visiting detail page [7/30]: https://footystream.pk/events/osasuna-vs-atletico-madrid
+🟢 Successfully processed: Champions League [5/30]
 🟡 Visiting detail page [8/30]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: Champions League [6/30]
 🟡 Visiting detail page [9/30]: https://footystream.pk/events/levante-vs-athletic-club
 🟢 Successfully processed: LaLiga [7/30]
 🟡 Visiting detail page [10/30]: https://footystream.pk/events/barcelona-vs-racing
 🟢 Successfully processed: LaLiga [8/30]
-🟢 Successfully processed: LaLiga [9/30]
 🟡 Visiting detail page [11/30]: https://footystream.pk/events/real-betis-vs-getafe
+🟢 Successfully processed: LaLiga [9/30]
 🟡 Visiting detail page [12/30]: https://footystream.pk/events/malaga-vs-villarreal
-🟢 Successfully processed: LaLiga [11/30]
-🟡 Visiting detail page [13/30]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
 🟢 Successfully processed: Copa Del Rey [10/30]
+🟡 Visiting detail page [13/30]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
+🟢 Successfully processed: LaLiga [11/30]
 🟡 Visiting detail page [14/30]: https://footystream.pk/events/everton-vs-wolves
 🟢 Successfully processed: LaLiga [12/30]
 🟡 Visiting detail page [15/30]: https://footystream.pk/events/manchester-united-vs-brighton

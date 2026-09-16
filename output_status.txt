@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 24
-🟡 Visiting detail page [2/24]: https://footystream.pk/events/celta-vigo-vs-omonia-nicosia
-🟡 Visiting detail page [3/24]: https://footystream.pk/events/milan-vs-benfica
 🟡 Visiting detail page [1/24]: https://footystream.pk/events/ararat-armenia-vs-sparta-praha
+🟡 Visiting detail page [3/24]: https://footystream.pk/events/milan-vs-benfica
+🟡 Visiting detail page [2/24]: https://footystream.pk/events/celta-vigo-vs-omonia-nicosia
 🟢 Successfully processed: Europa League [3/24]
 🟡 Visiting detail page [4/24]: https://footystream.pk/events/bayer-leverkusen-vs-celje
 🟢 Successfully processed: Europa League [4/24]
@@ -14,9 +14,9 @@
 🟡 Visiting detail page [6/24]: https://footystream.pk/events/lyon-vs-anderlecht
 🟢 Successfully processed: Europa League [6/24]
 🟡 Visiting detail page [7/24]: https://footystream.pk/events/osasuna-vs-atletico-madrid
-🟢 Successfully processed: Europa League [1/24]
-🟡 Visiting detail page [8/24]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
 🟢 Successfully processed: Europa League [2/24]
+🟡 Visiting detail page [8/24]: https://footystream.pk/events/sevilla-vs-deportivo-la-coruna
+🟢 Successfully processed: Europa League [1/24]
 🟡 Visiting detail page [9/24]: https://footystream.pk/events/levante-vs-athletic-club
 🟢 Successfully processed: LaLiga [9/24]
 🟡 Visiting detail page [10/24]: https://footystream.pk/events/barcelona-vs-racing
@@ -48,8 +48,8 @@
 🟡 Visiting detail page [23/24]: https://footystream.pk/events/monza-vs-sassuolo
 🟢 Successfully processed: Serie A [23/24]
 🟡 Visiting detail page [24/24]: https://footystream.pk/events/chelsea-vs-brentford
-🟢 Successfully processed: Premier League [24/24]
 🟢 Successfully processed: EFL [18/24]
+🟢 Successfully processed: Premier League [24/24]
 🟢 Successfully processed: MotoGP [19/24]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 24

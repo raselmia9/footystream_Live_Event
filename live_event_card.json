@@ -34,54 +34,6 @@
         ]
     },
     {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Benfica",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/milan-vs-benfica",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "Celje",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celje/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Sunderland",
-        "team2Title": "AZ Alkmaar",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/sunderland-vs-az",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Olympique Lyonnais",
-        "team2Title": "Anderlecht",
-        "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/anderlecht/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/lyon-vs-anderlecht",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-16 23:00:00",
         "team1Title": "Osasuna",
@@ -130,54 +82,6 @@
                 "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1970"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-17 01:30:00",
-        "team1Title": "Levante",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/levante-vs-athletic-club",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Copa Del Rey",
-        "matchTime": "2026-01-16 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Racing Santander",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barcelona-vs-racing",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-17 23:00:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Getafe",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-betis-vs-getafe",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-18 01:30:00",
-        "team1Title": "Málaga",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/malaga-vs-villarreal",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "EFL",
@@ -265,6 +169,138 @@
                 "url": "https://footystream.pk/alpha/mk-dons-vs-wimbledon/1928"
             }
         ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Benfica",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/milan-vs-benfica",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Celje",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celje/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Sunderland",
+        "team2Title": "AZ Alkmaar",
+        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sunderland-vs-az",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Olympique Lyonnais",
+        "team2Title": "Anderlecht",
+        "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/anderlecht/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/lyon-vs-anderlecht",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Hapoel Be'er Sheva",
+        "team2Title": "Dinamo Zagreb",
+        "team1Logo": "https://cdn.img4every1.org/team/hapoel-beer-sheva/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/hapoel-beer-sheva-vs-dinamo-zagreb",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Olympiakos Piraeus",
+        "team2Title": "Jagiellonia Bialystok",
+        "team1Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jagiellonia-bialystok/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-17 01:30:00",
+        "team1Title": "Levante",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/levante-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Copa Del Rey",
+        "matchTime": "2026-01-16 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Racing Santander",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barcelona-vs-racing",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-17 23:00:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-betis-vs-getafe",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-18 01:30:00",
+        "team1Title": "Málaga",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/malaga-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Title": "Espanyol",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/espanyol-vs-elche",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "MotoGP",

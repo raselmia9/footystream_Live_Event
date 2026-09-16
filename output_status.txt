@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
-🟡 Visiting detail page [1/31]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
 🟡 Visiting detail page [3/31]: https://footystream.pk/events/manchester-united-vs-brighton
 🟡 Visiting detail page [2/31]: https://footystream.pk/events/everton-vs-wolves
-🟢 Successfully processed: EFL [3/31]
-🟡 Visiting detail page [4/31]: https://footystream.pk/events/milan-vs-benfica
+🟡 Visiting detail page [1/31]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
 🟢 Successfully processed: EFL [1/31]
+🟡 Visiting detail page [4/31]: https://footystream.pk/events/milan-vs-benfica
+🟢 Successfully processed: EFL [3/31]
 🟡 Visiting detail page [5/31]: https://footystream.pk/events/bayer-leverkusen-vs-celje
 🟢 Successfully processed: EFL [2/31]
 🟡 Visiting detail page [6/31]: https://footystream.pk/events/sunderland-vs-az
-🟢 Successfully processed: Europa League [4/31]
-🟡 Visiting detail page [7/31]: https://footystream.pk/events/lyon-vs-anderlecht
-🟢 Successfully processed: Europa League [6/31]
-🟡 Visiting detail page [8/31]: https://footystream.pk/events/hapoel-beer-sheva-vs-dinamo-zagreb
 🟢 Successfully processed: Europa League [5/31]
+🟡 Visiting detail page [7/31]: https://footystream.pk/events/lyon-vs-anderlecht
+🟢 Successfully processed: Europa League [4/31]
+🟡 Visiting detail page [8/31]: https://footystream.pk/events/hapoel-beer-sheva-vs-dinamo-zagreb
+🟢 Successfully processed: Europa League [6/31]
 🟡 Visiting detail page [9/31]: https://footystream.pk/events/rennes-vs-sturm-graz
 🟢 Successfully processed: Europa League [8/31]
 🟡 Visiting detail page [10/31]: https://footystream.pk/events/aston-villa-vs-coventry-city
@@ -36,9 +36,9 @@
 🟡 Visiting detail page [17/31]: https://footystream.pk/events/celtic-vs-ferencvaros
 🟢 Successfully processed: Europa League [16/31]
 🟡 Visiting detail page [18/31]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
-🟢 Successfully processed: Europa League [17/31]
-🟡 Visiting detail page [19/31]: https://footystream.pk/events/bournemouth-vs-real-sociedad
 🟢 Successfully processed: Europa League [18/31]
+🟡 Visiting detail page [19/31]: https://footystream.pk/events/bournemouth-vs-real-sociedad
+🟢 Successfully processed: Europa League [17/31]
 🟡 Visiting detail page [20/31]: https://footystream.pk/events/real-betis-vs-getafe
 🟢 Successfully processed: Europa League [19/31]
 🟡 Visiting detail page [21/31]: https://footystream.pk/events/malaga-vs-villarreal
@@ -60,10 +60,10 @@
 🟡 Visiting detail page [29/31]: https://footystream.pk/events/lens-vs-monaco
 🟢 Successfully processed: French Ligue 1 [29/31]
 🟡 Visiting detail page [30/31]: https://footystream.pk/events/monza-vs-sassuolo
-🟢 Successfully processed: Serie A [30/31]
-🟡 Visiting detail page [31/31]: https://footystream.pk/events/chelsea-vs-brentford
 🟢 Successfully processed: EFL [24/31]
-🟢 Successfully processed: Premier League [31/31]
+🟡 Visiting detail page [31/31]: https://footystream.pk/events/chelsea-vs-brentford
+🟢 Successfully processed: Serie A [30/31]
 🟢 Successfully processed: MotoGP [26/31]
+🟢 Successfully processed: Premier League [31/31]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 31

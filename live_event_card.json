@@ -189,6 +189,18 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Title": "Bristol City",
+        "team2Title": "Watford",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bristol-city-vs-watford",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Europa League",
         "matchTime": "2026-09-17 01:00:00",
         "team1Title": "AC Milan",

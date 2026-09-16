@@ -260,6 +260,40 @@
         ]
     },
     {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-09-17 13:30:00",
+        "team1Title": "BMW Championship",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bmw-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bmw-championship/1996"
+            }
+        ]
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-09-17 22:00:00",
+        "team1Title": "Biltmore Championship",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/biltmore-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/biltmore-championship/1997"
+            }
+        ]
+    },
+    {
         "eventTitle": "Europa League",
         "matchTime": "2026-09-17 22:45:00",
         "team1Title": "OFI",
@@ -414,6 +448,27 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-18 06:15:00",
+        "team1Title": "Buffalo Bills",
+        "team2Title": "Detroit Lions",
+        "team1Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/buffalo-bills-vs-lions",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/buffalo-bills-vs-lions/1998"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/buffalo-bills-vs-lions/1999"
+            }
+        ]
+    },
+    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-09-18 13:00:00",
         "team1Title": "MotoGP Austria Grand Prix",
@@ -431,6 +486,40 @@
         ]
     },
     {
+        "eventTitle": "MotorSports",
+        "matchTime": "2026-09-18 13:30:00",
+        "team1Title": "Goodwood Festival of Speed",
+        "team2Title": "MotorSports",
+        "team1Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/goodwood-festival-of-speed",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/goodwood-festival-of-speed/2000"
+            }
+        ]
+    },
+    {
+        "eventTitle": "AFL",
+        "matchTime": "2026-09-18 15:30:00",
+        "team1Title": "Sydney Swans",
+        "team2Title": "Fremantle",
+        "team1Logo": "https://cdn.img4every1.org/team/sydney-swans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sydney-swans-vs-fremantle",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/sydney-swans-vs-fremantle/2001"
+            }
+        ]
+    },
+    {
         "eventTitle": "WSL",
         "matchTime": "2026-09-19 00:00:00",
         "team1Title": "Liverpool",
@@ -440,18 +529,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-manchester-city",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-19 00:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Union Berlin",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-union-berlin",
         "multiWatchPageLink": []
     },
     {

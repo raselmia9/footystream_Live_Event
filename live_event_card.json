@@ -35,55 +35,50 @@
     },
     {
         "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 22:45:00",
-        "team1Title": "OFI",
-        "team2Title": "Hoffenheim",
-        "team1Logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Benfica",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/ofi-vs-hoffenheim",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/ofi-vs-hoffenheim/1927"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 22:45:00",
-        "team1Title": "Salzburg",
-        "team2Title": "Levski Sofia",
-        "team1Logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia",
+        "detailsPage": "https://footystream.pk/events/milan-vs-benfica",
         "multiWatchPageLink": []
     },
     {
         "eventTitle": "Europa League",
-        "matchTime": "2026-09-18 01:00:00",
-        "team1Title": "Juventus",
-        "team2Title": "NEC",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nec/logo.webp",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Celje",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celje/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/juventus-vs-nec",
+        "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
         "multiWatchPageLink": []
     },
     {
         "eventTitle": "Europa League",
-        "matchTime": "2026-09-18 01:00:00",
-        "team1Title": "Celtic",
-        "team2Title": "Ferencváros",
-        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Sunderland",
+        "team2Title": "AZ Alkmaar",
+        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/celtic-vs-ferencvaros",
+        "detailsPage": "https://footystream.pk/events/sunderland-vs-az",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-17 01:00:00",
+        "team1Title": "Olympique Lyonnais",
+        "team2Title": "Anderlecht",
+        "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/anderlecht/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/lyon-vs-anderlecht",
         "multiWatchPageLink": []
     },
     {
@@ -96,7 +91,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/osasuna-vs-atletico-madrid",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1965"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1966"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1967"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/osasuna-vs-atletico-madrid/1968"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -108,7 +120,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/sevilla-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1969"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/sevilla-vs-deportivo-la-coruna/1970"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -234,78 +255,6 @@
                 "url": "https://footystream.pk/alpha/mk-dons-vs-wimbledon/1928"
             }
         ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Benfica",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/milan-vs-benfica",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "Celje",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celje/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Sunderland",
-        "team2Title": "AZ Alkmaar",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/sunderland-vs-az",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Olympique Lyonnais",
-        "team2Title": "Anderlecht",
-        "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/anderlecht/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/lyon-vs-anderlecht",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Hapoel Be'er Sheva",
-        "team2Title": "Dinamo Zagreb",
-        "team1Logo": "https://cdn.img4every1.org/team/hapoel-beer-sheva/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/hapoel-beer-sheva-vs-dinamo-zagreb",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 01:00:00",
-        "team1Title": "Olympiakos Piraeus",
-        "team2Title": "Jagiellonia Bialystok",
-        "team1Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jagiellonia-bialystok/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "MotoGP",

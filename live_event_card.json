@@ -91,7 +91,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Fleetwood%20Town_vs_Sheffield%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
         "multiWatchPageLink": [
             {
@@ -108,7 +108,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Everton_vs_Wolverhampton%20Wanderers/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
         "multiWatchPageLink": [
             {
@@ -127,7 +127,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/manchester-united-vs-brighton",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-brighton/1974"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/manchester-united-vs-brighton/1975"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -139,7 +148,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/aston-villa-vs-coventry-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1976"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/aston-villa-vs-coventry-city/1977"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -192,7 +210,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bayer-leverkusen-vs-celje/1979"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -204,7 +227,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/sunderland-vs-az",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/sunderland-vs-az/1978"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",

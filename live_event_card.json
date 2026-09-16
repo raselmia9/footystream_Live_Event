@@ -108,7 +108,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Everton_vs_Wolverhampton%20Wanderers/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
         "multiWatchPageLink": [
             {
@@ -125,7 +125,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Brighton%20%26%20Hove%20Albion/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Brighton%20%26%20Hove%20Albion/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/manchester-united-vs-brighton",
         "multiWatchPageLink": [
             {
@@ -146,7 +146,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Coventry%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Aston%20Villa_vs_Coventry%20City/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/aston-villa-vs-coventry-city",
         "multiWatchPageLink": [
             {
@@ -196,9 +196,26 @@
         "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Benfica/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Benfica/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Benfica/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Benfica/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/milan-vs-benfica",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/milan-vs-benfica/1980"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/milan-vs-benfica/1981"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/milan-vs-benfica/1982"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/milan-vs-benfica/1983"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -208,7 +225,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/celje/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayer%20Leverkusen_vs_Celje/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-celje",
         "multiWatchPageLink": [
             {
@@ -225,12 +242,16 @@
         "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sunderland_vs_AZ%20Alkmaar/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sunderland_vs_AZ%20Alkmaar/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/sunderland-vs-az",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/sunderland-vs-az/1978"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/sunderland-vs-az/1985"
             }
         ]
     },
@@ -242,9 +263,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/anderlecht/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Olympique%20Lyonnais_vs_Anderlecht/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/lyon-vs-anderlecht",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lyon-vs-anderlecht/1984"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",

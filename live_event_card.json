@@ -1,40 +1,6 @@
 [
     {
         "eventTitle": "EFL",
-        "matchTime": "2026-09-17 00:45:00",
-        "team1Title": "Fleetwood Town",
-        "team2Title": "Sheffield United",
-        "team1Logo": "https://cdn.img4every1.org/team/fleetwood-town/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Fleetwood%20Town_vs_Sheffield%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/fleetwood-town-vs-sheffield-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/fleetwood-town-vs-sheffield-united/1973"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-17 00:45:00",
-        "team1Title": "Everton",
-        "team2Title": "Wolverhampton Wanderers",
-        "team1Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Everton_vs_Wolverhampton%20Wanderers/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/everton-vs-wolves",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/everton-vs-wolves/1972"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
         "matchTime": "2026-09-17 01:00:00",
         "team1Title": "Manchester United",
         "team2Title": "Brighton & Hove Albion",
@@ -529,6 +495,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-manchester-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-19 00:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Union Berlin",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-union-berlin",
         "multiWatchPageLink": []
     },
     {

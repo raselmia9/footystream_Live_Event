@@ -6,23 +6,23 @@
 🟡 Visiting detail page [2/31]: https://footystream.pk/events/everton-vs-wolves
 🟡 Visiting detail page [1/31]: https://footystream.pk/events/fleetwood-town-vs-sheffield-united
 🟡 Visiting detail page [3/31]: https://footystream.pk/events/manchester-united-vs-brighton
+🟢 Successfully processed: EFL [2/31]
 🟢 Successfully processed: EFL [1/31]
 🟡 Visiting detail page [4/31]: https://footystream.pk/events/milan-vs-benfica
-🟢 Successfully processed: EFL [2/31]
-🟢 Successfully processed: EFL [3/31]
 🟡 Visiting detail page [5/31]: https://footystream.pk/events/bayer-leverkusen-vs-celje
+🟢 Successfully processed: EFL [3/31]
 🟡 Visiting detail page [6/31]: https://footystream.pk/events/sunderland-vs-az
+🟢 Successfully processed: Europa League [5/31]
 🟢 Successfully processed: Europa League [6/31]
-🟢 Successfully processed: Europa League [4/31]
 🟡 Visiting detail page [7/31]: https://footystream.pk/events/lyon-vs-anderlecht
 🟡 Visiting detail page [8/31]: https://footystream.pk/events/hapoel-beer-sheva-vs-dinamo-zagreb
-🟢 Successfully processed: Europa League [5/31]
+🟢 Successfully processed: Europa League [4/31]
 🟡 Visiting detail page [9/31]: https://footystream.pk/events/rennes-vs-sturm-graz
 🟢 Successfully processed: Europa League [8/31]
 🟡 Visiting detail page [10/31]: https://footystream.pk/events/aston-villa-vs-coventry-city
-🟢 Successfully processed: Europa League [9/31]
-🟡 Visiting detail page [11/31]: https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok
 🟢 Successfully processed: Europa League [7/31]
+🟡 Visiting detail page [11/31]: https://footystream.pk/events/olympiakos-piraeus-vs-jagiellonia-bia-ystok
+🟢 Successfully processed: Europa League [9/31]
 🟡 Visiting detail page [12/31]: https://footystream.pk/events/levante-vs-athletic-club
 🟢 Successfully processed: EFL [10/31]
 🟡 Visiting detail page [13/31]: https://footystream.pk/events/barcelona-vs-racing
@@ -62,8 +62,8 @@
 🟡 Visiting detail page [30/31]: https://footystream.pk/events/monza-vs-sassuolo
 🟢 Successfully processed: Serie A [30/31]
 🟡 Visiting detail page [31/31]: https://footystream.pk/events/chelsea-vs-brentford
-🟢 Successfully processed: EFL [24/31]
 🟢 Successfully processed: Premier League [31/31]
+🟢 Successfully processed: EFL [24/31]
 🟢 Successfully processed: MotoGP [26/31]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 31

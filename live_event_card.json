@@ -68,63 +68,6 @@
         ]
     },
     {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-18 01:00:00",
-        "team1Title": "Juventus",
-        "team2Title": "NEC",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nec/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/juventus-vs-nec",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/juventus-vs-nec/2016"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/juventus-vs-nec/2017"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-18 01:00:00",
-        "team1Title": "Celtic",
-        "team2Title": "Ferencváros",
-        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/celtic-vs-ferencvaros",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-18 01:00:00",
-        "team1Title": "Crystal Palace",
-        "team2Title": "Lech Poznan",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/crystal-palace-vs-lech-poznan",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-18 01:00:00",
-        "team1Title": "AFC Bournemouth",
-        "team2Title": "Real Sociedad",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-17 23:00:00",
         "team1Title": "Real Betis",
@@ -246,6 +189,63 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bristol-city-vs-watford",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Juventus",
+        "team2Title": "NEC",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nec/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/juventus-vs-nec",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/juventus-vs-nec/2016"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/juventus-vs-nec/2017"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Celtic",
+        "team2Title": "Ferencváros",
+        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/celtic-vs-ferencvaros",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Lech Poznan",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/crystal-palace-vs-lech-poznan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Real Sociedad",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bournemouth-vs-real-sociedad",
         "multiWatchPageLink": []
     },
     {

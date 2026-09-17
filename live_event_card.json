@@ -153,6 +153,40 @@
     {
         "eventTitle": "Europa League",
         "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Viktoria Plzen",
+        "team2Title": "Union Saint-Gilloise",
+        "team1Logo": "https://cdn.img4every1.org/team/viktoria-plzen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/union-saint-gilloise/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/viktoria-plzen-vs-union-sg",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/viktoria-plzen-vs-union-sg/2022"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Lillestrøm",
+        "team2Title": "Torreense",
+        "team1Logo": "https://cdn.img4every1.org/team/lillestrom/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torreense/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/lillestr-m-vs-torreense",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lillestr-m-vs-torreense/2023"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
         "team1Title": "Juventus",
         "team2Title": "NEC",
         "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
@@ -198,7 +232,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/crystal-palace-vs-lech-poznan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/crystal-palace-vs-lech-poznan/2019"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",

@@ -60,7 +60,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/salzburg-vs-le-vs-ki-sofia/2013"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -72,7 +77,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/juventus-vs-nec",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/juventus-vs-nec/2016"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/juventus-vs-nec/2017"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",

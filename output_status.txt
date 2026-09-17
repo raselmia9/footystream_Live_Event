@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
-🟡 Visiting detail page [1/31]: https://footystream.pk/events/bmw-championship
-🟡 Visiting detail page [3/31]: https://footystream.pk/events/buffalo-bills-vs-lions
 🟡 Visiting detail page [2/31]: https://footystream.pk/events/biltmore-championship
-🟢 Successfully processed: PGA Tour [1/31]
-🟡 Visiting detail page [4/31]: https://footystream.pk/events/motogp-austria-grand-prix
+🟡 Visiting detail page [3/31]: https://footystream.pk/events/buffalo-bills-vs-lions
+🟡 Visiting detail page [1/31]: https://footystream.pk/events/bmw-championship
 🟢 Successfully processed: PGA Tour [2/31]
+🟡 Visiting detail page [4/31]: https://footystream.pk/events/motogp-austria-grand-prix
+🟢 Successfully processed: PGA Tour [1/31]
 🟡 Visiting detail page [5/31]: https://footystream.pk/events/goodwood-festival-of-speed
 🟢 Successfully processed: NFL [3/31]
 🟡 Visiting detail page [6/31]: https://footystream.pk/events/sydney-swans-vs-fremantle
@@ -21,8 +21,8 @@
 🟢 Successfully processed: Bundesliga [8/31]
 🟡 Visiting detail page [10/31]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
 🟢 Successfully processed: Bundesliga [9/31]
-🟡 Visiting detail page [11/31]: https://footystream.pk/events/lens-vs-monaco
 🟢 Successfully processed: Bundesliga [10/31]
+🟡 Visiting detail page [11/31]: https://footystream.pk/events/lens-vs-monaco
 🟡 Visiting detail page [12/31]: https://footystream.pk/events/paris-vs-strasbourg
 🟢 Successfully processed: French Ligue 1 [11/31]
 🟡 Visiting detail page [13/31]: https://footystream.pk/events/monza-vs-sassuolo
@@ -44,15 +44,15 @@
 🟡 Visiting detail page [21/31]: https://footystream.pk/events/ipswich-town-vs-everton
 🟢 Successfully processed: Premier League [19/31]
 🟡 Visiting detail page [22/31]: https://footystream.pk/events/arsenal-vs-brighton
-🟢 Successfully processed: Premier League [20/31]
-🟡 Visiting detail page [23/31]: https://footystream.pk/events/nottm-forest-vs-coventry-city
 🟢 Successfully processed: Premier League [21/31]
+🟡 Visiting detail page [23/31]: https://footystream.pk/events/nottm-forest-vs-coventry-city
+🟢 Successfully processed: Premier League [20/31]
 🟡 Visiting detail page [24/31]: https://footystream.pk/events/bristol-city-vs-watford
 🟢 Successfully processed: Premier League [22/31]
 🟡 Visiting detail page [25/31]: https://footystream.pk/events/west-ham-united-vs-millwall
 🟢 Successfully processed: Premier League [23/31]
-🟡 Visiting detail page [26/31]: https://footystream.pk/events/barnsley-vs-leicester-city
 🟢 Successfully processed: EFL [24/31]
+🟡 Visiting detail page [26/31]: https://footystream.pk/events/barnsley-vs-leicester-city
 🟡 Visiting detail page [27/31]: https://footystream.pk/events/espanyol-vs-elche
 🟢 Successfully processed: EFL [25/31]
 🟡 Visiting detail page [28/31]: https://footystream.pk/events/osasuna-vs-rayo-vallecano

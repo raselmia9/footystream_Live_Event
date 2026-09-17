@@ -4,8 +4,8 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
 🟡 Visiting detail page [2/31]: https://footystream.pk/events/biltmore-championship
-🟡 Visiting detail page [1/31]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [3/31]: https://footystream.pk/events/buffalo-bills-vs-lions
+🟡 Visiting detail page [1/31]: https://footystream.pk/events/bmw-championship
 🟢 Successfully processed: PGA Tour [2/31]
 🟡 Visiting detail page [4/31]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: PGA Tour [1/31]
@@ -28,11 +28,11 @@
 🟡 Visiting detail page [13/31]: https://footystream.pk/events/monza-vs-sassuolo
 🟢 Successfully processed: French Ligue 1 [12/31]
 🟡 Visiting detail page [14/31]: https://footystream.pk/events/bologna-vs-torino
-🟢 Successfully processed: AFL [6/31]
-🟡 Visiting detail page [15/31]: https://footystream.pk/events/cagliari-vs-udinese
 🟢 Successfully processed: Serie A [13/31]
-🟡 Visiting detail page [16/31]: https://footystream.pk/events/inter-milan-vs-roma
+🟡 Visiting detail page [15/31]: https://footystream.pk/events/cagliari-vs-udinese
 🟢 Successfully processed: Serie A [14/31]
+🟡 Visiting detail page [16/31]: https://footystream.pk/events/inter-milan-vs-roma
+🟢 Successfully processed: AFL [6/31]
 🟡 Visiting detail page [17/31]: https://footystream.pk/events/lazio-vs-venezia
 🟢 Successfully processed: Serie A [15/31]
 🟡 Visiting detail page [18/31]: https://footystream.pk/events/chelsea-vs-brentford
@@ -62,8 +62,8 @@
 🟡 Visiting detail page [30/31]: https://footystream.pk/events/celta-vigo-vs-racing
 🟢 Successfully processed: LaLiga [28/31]
 🟡 Visiting detail page [31/31]: https://footystream.pk/events/barcelona-vs-sevilla
-🟢 Successfully processed: LaLiga [30/31]
 🟢 Successfully processed: LaLiga [29/31]
+🟢 Successfully processed: LaLiga [30/31]
 🟢 Successfully processed: LaLiga [31/31]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 31

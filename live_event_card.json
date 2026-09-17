@@ -120,7 +120,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/real-betis-vs-getafe",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-betis-vs-getafe/2005"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-betis-vs-getafe/2006"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/real-betis-vs-getafe/2007"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/real-betis-vs-getafe/2008"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -132,7 +149,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/malaga-vs-villarreal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/malaga-vs-villarreal/2009"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/malaga-vs-villarreal/2010"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/malaga-vs-villarreal/2011"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/malaga-vs-villarreal/2012"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

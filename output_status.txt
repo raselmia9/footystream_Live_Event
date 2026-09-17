@@ -6,21 +6,21 @@
 🟡 Visiting detail page [2/40]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [3/40]: https://footystream.pk/events/viktoria-plzen-vs-union-sg
 🟡 Visiting detail page [1/40]: https://footystream.pk/events/bmw-championship
-🟢 Successfully processed: PGA Tour [1/40]
-🟡 Visiting detail page [4/40]: https://footystream.pk/events/lillestr-m-vs-torreense
 🟢 Successfully processed: PGA Tour [2/40]
+🟡 Visiting detail page [4/40]: https://footystream.pk/events/lillestr-m-vs-torreense
 🟢 Successfully processed: Europa League [3/40]
+🟢 Successfully processed: PGA Tour [1/40]
 🟡 Visiting detail page [5/40]: https://footystream.pk/events/juventus-vs-nec
 🟡 Visiting detail page [6/40]: https://footystream.pk/events/celtic-vs-ferencvaros
+🟢 Successfully processed: Europa League [5/40]
 🟢 Successfully processed: Europa League [4/40]
 🟡 Visiting detail page [7/40]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
-🟢 Successfully processed: Europa League [5/40]
 🟡 Visiting detail page [8/40]: https://footystream.pk/events/bournemouth-vs-real-sociedad
 🟢 Successfully processed: Europa League [6/40]
 🟡 Visiting detail page [9/40]: https://footystream.pk/events/mk-dons-vs-wimbledon
-🟢 Successfully processed: Europa League [7/40]
 🟢 Successfully processed: Europa League [8/40]
 🟡 Visiting detail page [10/40]: https://footystream.pk/events/besiktas-vs-marseille
+🟢 Successfully processed: Europa League [7/40]
 🟡 Visiting detail page [11/40]: https://footystream.pk/events/malaga-vs-villarreal
 🟢 Successfully processed: EFL [9/40]
 🟡 Visiting detail page [12/40]: https://footystream.pk/events/buffalo-bills-vs-lions

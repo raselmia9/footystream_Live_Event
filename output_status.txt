@@ -3,24 +3,24 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
-🟡 Visiting detail page [2/23]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [3/23]: https://footystream.pk/events/ofi-vs-hoffenheim
 🟡 Visiting detail page [1/23]: https://footystream.pk/events/bmw-championship
+🟡 Visiting detail page [2/23]: https://footystream.pk/events/biltmore-championship
 🟢 Successfully processed: PGA Tour [1/23]
 🟡 Visiting detail page [4/23]: https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia
 🟢 Successfully processed: Europa League [4/23]
 🟡 Visiting detail page [5/23]: https://footystream.pk/events/juventus-vs-nec
 🟢 Successfully processed: Europa League [5/23]
 🟡 Visiting detail page [6/23]: https://footystream.pk/events/celtic-vs-ferencvaros
-🟢 Successfully processed: Europa League [6/23]
-🟡 Visiting detail page [7/23]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
-🟢 Successfully processed: Europa League [3/23]
-🟡 Visiting detail page [8/23]: https://footystream.pk/events/bournemouth-vs-real-sociedad
 🟢 Successfully processed: PGA Tour [2/23]
+🟢 Successfully processed: Europa League [3/23]
+🟡 Visiting detail page [7/23]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
+🟡 Visiting detail page [8/23]: https://footystream.pk/events/bournemouth-vs-real-sociedad
+🟢 Successfully processed: Europa League [6/23]
 🟡 Visiting detail page [9/23]: https://footystream.pk/events/real-betis-vs-getafe
-🟢 Successfully processed: Europa League [7/23]
-🟡 Visiting detail page [10/23]: https://footystream.pk/events/malaga-vs-villarreal
 🟢 Successfully processed: Europa League [8/23]
+🟡 Visiting detail page [10/23]: https://footystream.pk/events/malaga-vs-villarreal
+🟢 Successfully processed: Europa League [7/23]
 🟡 Visiting detail page [11/23]: https://footystream.pk/events/espanyol-vs-elche
 🟢 Successfully processed: LaLiga [9/23]
 🟡 Visiting detail page [12/23]: https://footystream.pk/events/manchester-city-vs-norwich-city
@@ -44,10 +44,10 @@
 🟡 Visiting detail page [21/23]: https://footystream.pk/events/lens-vs-monaco
 🟢 Successfully processed: French Ligue 1 [21/23]
 🟡 Visiting detail page [22/23]: https://footystream.pk/events/monza-vs-sassuolo
-🟢 Successfully processed: Serie A [22/23]
-🟡 Visiting detail page [23/23]: https://footystream.pk/events/chelsea-vs-brentford
-🟢 Successfully processed: Premier League [23/23]
 🟢 Successfully processed: MotorSports [17/23]
+🟡 Visiting detail page [23/23]: https://footystream.pk/events/chelsea-vs-brentford
+🟢 Successfully processed: Serie A [22/23]
 🟢 Successfully processed: AFL [18/23]
+🟢 Successfully processed: Premier League [23/23]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 23

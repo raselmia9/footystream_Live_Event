@@ -2,86 +2,70 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 40
-🟡 Visiting detail page [2/40]: https://footystream.pk/events/biltmore-championship
-🟡 Visiting detail page [3/40]: https://footystream.pk/events/viktoria-plzen-vs-union-sg
-🟡 Visiting detail page [1/40]: https://footystream.pk/events/bmw-championship
-🟢 Successfully processed: PGA Tour [2/40]
-🟡 Visiting detail page [4/40]: https://footystream.pk/events/lillestr-m-vs-torreense
-🟢 Successfully processed: Europa League [3/40]
-🟢 Successfully processed: PGA Tour [1/40]
-🟡 Visiting detail page [5/40]: https://footystream.pk/events/juventus-vs-nec
-🟡 Visiting detail page [6/40]: https://footystream.pk/events/celtic-vs-ferencvaros
-🟢 Successfully processed: Europa League [5/40]
-🟢 Successfully processed: Europa League [4/40]
-🟡 Visiting detail page [7/40]: https://footystream.pk/events/crystal-palace-vs-lech-poznan
-🟡 Visiting detail page [8/40]: https://footystream.pk/events/bournemouth-vs-real-sociedad
-🟢 Successfully processed: Europa League [6/40]
-🟡 Visiting detail page [9/40]: https://footystream.pk/events/mk-dons-vs-wimbledon
-🟢 Successfully processed: Europa League [8/40]
-🟡 Visiting detail page [10/40]: https://footystream.pk/events/besiktas-vs-marseille
-🟢 Successfully processed: Europa League [7/40]
-🟡 Visiting detail page [11/40]: https://footystream.pk/events/malaga-vs-villarreal
-🟢 Successfully processed: EFL [9/40]
-🟡 Visiting detail page [12/40]: https://footystream.pk/events/buffalo-bills-vs-lions
-🟢 Successfully processed: Europa League [10/40]
-🟡 Visiting detail page [13/40]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: LaLiga [11/40]
-🟡 Visiting detail page [14/40]: https://footystream.pk/events/goodwood-festival-of-speed
-🟢 Successfully processed: NFL [12/40]
-🟡 Visiting detail page [15/40]: https://footystream.pk/events/sydney-swans-vs-fremantle
-🟢 Successfully processed: MotoGP [13/40]
-🟡 Visiting detail page [16/40]: https://footystream.pk/events/liverpool-vs-manchester-city
-🟢 Successfully processed: MotorSports [14/40]
-🟡 Visiting detail page [17/40]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
-🟢 Successfully processed: WSL [16/40]
-🟡 Visiting detail page [18/40]: https://footystream.pk/events/eintracht-frankfurt-vs-freiburg
-🟢 Successfully processed: Bundesliga [17/40]
-🟡 Visiting detail page [19/40]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
-🟢 Successfully processed: Bundesliga [18/40]
-🟡 Visiting detail page [20/40]: https://footystream.pk/events/lens-vs-monaco
-🟢 Successfully processed: Bundesliga [19/40]
-🟡 Visiting detail page [21/40]: https://footystream.pk/events/paris-vs-strasbourg
-🟢 Successfully processed: French Ligue 1 [20/40]
-🟡 Visiting detail page [22/40]: https://footystream.pk/events/monza-vs-sassuolo
-🟢 Successfully processed: French Ligue 1 [21/40]
-🟡 Visiting detail page [23/40]: https://footystream.pk/events/bologna-vs-torino
-🟢 Successfully processed: AFL [15/40]
-🟡 Visiting detail page [24/40]: https://footystream.pk/events/cagliari-vs-udinese
-🟢 Successfully processed: Serie A [22/40]
-🟡 Visiting detail page [25/40]: https://footystream.pk/events/inter-milan-vs-roma
-🟢 Successfully processed: Serie A [23/40]
-🟡 Visiting detail page [26/40]: https://footystream.pk/events/lazio-vs-venezia
-🟢 Successfully processed: Serie A [24/40]
-🟡 Visiting detail page [27/40]: https://footystream.pk/events/chelsea-vs-brentford
-🟢 Successfully processed: Serie A [25/40]
-🟡 Visiting detail page [28/40]: https://footystream.pk/events/tottenham-hotspur-vs-aston-villa
-🟢 Successfully processed: Serie A [26/40]
-🟡 Visiting detail page [29/40]: https://footystream.pk/events/hull-city-vs-newcastle-united
-🟢 Successfully processed: Premier League [27/40]
-🟡 Visiting detail page [30/40]: https://footystream.pk/events/ipswich-town-vs-everton
-🟢 Successfully processed: Premier League [28/40]
-🟡 Visiting detail page [31/40]: https://footystream.pk/events/arsenal-vs-brighton
-🟢 Successfully processed: Premier League [29/40]
-🟡 Visiting detail page [32/40]: https://footystream.pk/events/nottm-forest-vs-coventry-city
-🟢 Successfully processed: Premier League [30/40]
-🟡 Visiting detail page [33/40]: https://footystream.pk/events/bristol-city-vs-watford
-🟢 Successfully processed: Premier League [31/40]
-🟡 Visiting detail page [34/40]: https://footystream.pk/events/west-ham-united-vs-millwall
-🟢 Successfully processed: Premier League [32/40]
-🟡 Visiting detail page [35/40]: https://footystream.pk/events/barnsley-vs-leicester-city
-🟢 Successfully processed: EFL [33/40]
-🟡 Visiting detail page [36/40]: https://footystream.pk/events/espanyol-vs-elche
-🟢 Successfully processed: EFL [34/40]
-🟡 Visiting detail page [37/40]: https://footystream.pk/events/osasuna-vs-rayo-vallecano
-🟢 Successfully processed: EFL [35/40]
-🟡 Visiting detail page [38/40]: https://footystream.pk/events/alaves-vs-athletic-club
-🟢 Successfully processed: LaLiga [36/40]
-🟡 Visiting detail page [39/40]: https://footystream.pk/events/celta-vigo-vs-racing
-🟢 Successfully processed: LaLiga [37/40]
-🟡 Visiting detail page [40/40]: https://footystream.pk/events/barcelona-vs-sevilla
-🟢 Successfully processed: LaLiga [38/40]
-🟢 Successfully processed: LaLiga [39/40]
-🟢 Successfully processed: LaLiga [40/40]
+🟢 Total unique detail links to process in parallel: 32
+🟡 Visiting detail page [2/32]: https://footystream.pk/events/biltmore-championship
+🟡 Visiting detail page [3/32]: https://footystream.pk/events/malaga-vs-villarreal
+🟡 Visiting detail page [1/32]: https://footystream.pk/events/bmw-championship
+🟢 Successfully processed: PGA Tour [1/32]
+🟡 Visiting detail page [4/32]: https://footystream.pk/events/buffalo-bills-vs-lions
+🟢 Successfully processed: PGA Tour [2/32]
+🟢 Successfully processed: LaLiga [3/32]
+🟡 Visiting detail page [5/32]: https://footystream.pk/events/motogp-austria-grand-prix
+🟡 Visiting detail page [6/32]: https://footystream.pk/events/goodwood-festival-of-speed
+🟢 Successfully processed: MotorSports [6/32]
+🟢 Successfully processed: MotoGP [5/32]
+🟢 Successfully processed: NFL [4/32]
+🟡 Visiting detail page [7/32]: https://footystream.pk/events/sydney-swans-vs-fremantle
+🟡 Visiting detail page [8/32]: https://footystream.pk/events/liverpool-vs-manchester-city
+🟡 Visiting detail page [9/32]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
+🟢 Successfully processed: WSL [8/32]
+🟡 Visiting detail page [10/32]: https://footystream.pk/events/eintracht-frankfurt-vs-freiburg
+🟢 Successfully processed: Bundesliga [9/32]
+🟡 Visiting detail page [11/32]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
+🟢 Successfully processed: Bundesliga [10/32]
+🟡 Visiting detail page [12/32]: https://footystream.pk/events/lens-vs-monaco
+🟢 Successfully processed: Bundesliga [11/32]
+🟡 Visiting detail page [13/32]: https://footystream.pk/events/paris-vs-strasbourg
+🟢 Successfully processed: French Ligue 1 [12/32]
+🟡 Visiting detail page [14/32]: https://footystream.pk/events/monza-vs-sassuolo
+🟢 Successfully processed: French Ligue 1 [13/32]
+🟡 Visiting detail page [15/32]: https://footystream.pk/events/bologna-vs-torino
+🟢 Successfully processed: Serie A [14/32]
+🟡 Visiting detail page [16/32]: https://footystream.pk/events/cagliari-vs-udinese
+🟢 Successfully processed: Serie A [15/32]
+🟡 Visiting detail page [17/32]: https://footystream.pk/events/inter-milan-vs-roma
+🟢 Successfully processed: Serie A [17/32]
+🟡 Visiting detail page [18/32]: https://footystream.pk/events/lazio-vs-venezia
+🟢 Successfully processed: AFL [7/32]
+🟡 Visiting detail page [19/32]: https://footystream.pk/events/chelsea-vs-brentford
+🟢 Successfully processed: Serie A [16/32]
+🟡 Visiting detail page [20/32]: https://footystream.pk/events/tottenham-hotspur-vs-aston-villa
+🟢 Successfully processed: Serie A [18/32]
+🟡 Visiting detail page [21/32]: https://footystream.pk/events/hull-city-vs-newcastle-united
+🟢 Successfully processed: Premier League [19/32]
+🟡 Visiting detail page [22/32]: https://footystream.pk/events/ipswich-town-vs-everton
+🟢 Successfully processed: Premier League [20/32]
+🟡 Visiting detail page [23/32]: https://footystream.pk/events/arsenal-vs-brighton
+🟢 Successfully processed: Premier League [21/32]
+🟡 Visiting detail page [24/32]: https://footystream.pk/events/nottm-forest-vs-coventry-city
+🟢 Successfully processed: Premier League [22/32]
+🟡 Visiting detail page [25/32]: https://footystream.pk/events/bristol-city-vs-watford
+🟢 Successfully processed: Premier League [23/32]
+🟡 Visiting detail page [26/32]: https://footystream.pk/events/west-ham-united-vs-millwall
+🟢 Successfully processed: Premier League [24/32]
+🟡 Visiting detail page [27/32]: https://footystream.pk/events/barnsley-vs-leicester-city
+🟢 Successfully processed: EFL [25/32]
+🟡 Visiting detail page [28/32]: https://footystream.pk/events/espanyol-vs-elche
+🟢 Successfully processed: EFL [26/32]
+🟡 Visiting detail page [29/32]: https://footystream.pk/events/osasuna-vs-rayo-vallecano
+🟢 Successfully processed: EFL [27/32]
+🟡 Visiting detail page [30/32]: https://footystream.pk/events/alaves-vs-athletic-club
+🟢 Successfully processed: LaLiga [28/32]
+🟡 Visiting detail page [31/32]: https://footystream.pk/events/celta-vigo-vs-racing
+🟢 Successfully processed: LaLiga [29/32]
+🟡 Visiting detail page [32/32]: https://footystream.pk/events/barcelona-vs-sevilla
+🟢 Successfully processed: LaLiga [30/32]
+🟢 Successfully processed: LaLiga [31/32]
+🟢 Successfully processed: LaLiga [32/32]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 40
+🟢 Process completed successfully. Total collected events: 32

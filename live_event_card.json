@@ -59,40 +59,6 @@
         ]
     },
     {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 22:45:00",
-        "team1Title": "OFI",
-        "team2Title": "Hoffenheim",
-        "team1Logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/OFI_vs_Hoffenheim/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/ofi-vs-hoffenheim",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/ofi-vs-hoffenheim/1927"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-09-17 22:45:00",
-        "team1Title": "Salzburg",
-        "team2Title": "Levski Sofia",
-        "team1Logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levski-sofia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Salzburg_vs_Levski%20Sofia/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/salzburg-vs-le-vs-ki-sofia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/salzburg-vs-le-vs-ki-sofia/2013"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-17 23:00:00",
         "team1Title": "Real Betis",
@@ -249,40 +215,21 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Title": "Bristol City",
-        "team2Title": "Watford",
-        "team1Logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "eventTitle": "Europa League",
+        "matchTime": "2026-09-18 01:00:00",
+        "team1Title": "Besiktas",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
         "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bristol-city-vs-watford",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "West Ham United",
-        "team2Title": "Millwall FC",
-        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/west-ham-united-vs-millwall",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "Barnsley",
-        "team2Title": "Leicester City",
-        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barnsley-vs-leicester-city",
-        "multiWatchPageLink": []
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Besiktas_vs_Team%202/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/besiktas-vs-marseille",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/besiktas-vs-marseille/2021"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -647,6 +594,42 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Title": "Bristol City",
+        "team2Title": "Watford",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bristol-city-vs-watford",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Title": "West Ham United",
+        "team2Title": "Millwall FC",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/west-ham-united-vs-millwall",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Title": "Barnsley",
+        "team2Title": "Leicester City",
+        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barnsley-vs-leicester-city",
         "multiWatchPageLink": []
     }
 ]

@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
-🟡 Visiting detail page [3/31]: https://footystream.pk/events/buffalo-bills-vs-lions
 🟡 Visiting detail page [2/31]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [1/31]: https://footystream.pk/events/bmw-championship
+🟡 Visiting detail page [3/31]: https://footystream.pk/events/buffalo-bills-vs-lions
 🟢 Successfully processed: PGA Tour [1/31]
 🟡 Visiting detail page [4/31]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: PGA Tour [2/31]

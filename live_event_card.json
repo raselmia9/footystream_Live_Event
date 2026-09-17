@@ -306,5 +306,17 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/monza-vs-sassuolo",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Brentford",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-brentford",
+        "multiWatchPageLink": []
     }
 ]

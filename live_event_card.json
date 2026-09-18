@@ -34,6 +34,23 @@
         ]
     },
     {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-09-18 13:00:00",
+        "team1Title": "MotoGP Austria Grand Prix",
+        "team2Title": "MotoGP",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/MotoGP%20Austria%20Grand%20Prix_vs_MotoGP/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/motogp-austria-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/1806"
+            }
+        ]
+    },
+    {
         "eventTitle": "MotorSports",
         "matchTime": "2026-09-18 13:30:00",
         "team1Title": "Goodwood Festival of Speed",
@@ -58,7 +75,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Manchester%20City/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-manchester-city",
         "multiWatchPageLink": [
             {

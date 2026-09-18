@@ -128,7 +128,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-union-berlin",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bayern-munchen-vs-union-berlin/2050"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",

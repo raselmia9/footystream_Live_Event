@@ -94,7 +94,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/liverpool-vs-manchester-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/liverpool-vs-manchester-city/2038"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",
@@ -142,7 +147,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lens-vs-monaco",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lens-vs-monaco/2036"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/lens-vs-monaco/2037"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -166,7 +180,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/monza-vs-sassuolo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/monza-vs-sassuolo/2035"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -323,7 +342,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bristol-city-vs-watford",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bristol-city-vs-watford/2039"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

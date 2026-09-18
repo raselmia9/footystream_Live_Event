@@ -277,6 +277,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-19 01:00:00",
         "team1Title": "Bristol City",
@@ -322,6 +334,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/espanyol-vs-elche",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 18:00:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/osasuna-vs-rayo-vallecano",
         "multiWatchPageLink": []
     },
     {

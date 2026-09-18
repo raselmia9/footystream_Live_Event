@@ -105,44 +105,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-19 00:45:00",
-        "team1Title": "Lens",
-        "team2Title": "AS Monaco",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lens_vs_AS%20Monaco/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lens_vs_AS%20Monaco/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/lens-vs-monaco",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/lens-vs-monaco/2036"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/lens-vs-monaco/2037"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-19 00:45:00",
-        "team1Title": "Monza",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Monza_vs_Sassuolo/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/monza-vs-sassuolo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/monza-vs-sassuolo/2035"
-            }
-        ]
-    },
-    {
         "eventTitle": "Super League",
         "matchTime": "2026-09-19 01:00:00",
         "team1Title": "Leigh Leopards",

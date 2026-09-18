@@ -219,6 +219,23 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Super League",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Title": "Leigh Leopards",
+        "team2Title": "Wakefield Trinity",
+        "team1Logo": "https://cdn.img4every1.org/team/leigh-leopards/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/wakefield-trinity-vs-leigh-leopards",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/wakefield-trinity-vs-leigh-leopards/2040"
+            }
+        ]
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-19 01:00:00",
         "team1Title": "Chelsea",

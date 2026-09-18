@@ -398,5 +398,22 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/paris-vs-strasbourg",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Super League",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Title": "Warrington Wolves",
+        "team2Title": "Hull KR",
+        "team1Logo": "https://cdn.img4every1.org/team/warrington-wolves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-kr/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/warrington-wolves-vs-hull-kr",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/warrington-wolves-vs-hull-kr/2051"
+            }
+        ]
     }
 ]

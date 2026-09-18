@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
+🟡 Visiting detail page [1/30]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [2/30]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [3/30]: https://footystream.pk/events/motogp-austria-grand-prix
-🟡 Visiting detail page [1/30]: https://footystream.pk/events/bmw-championship
 🟢 Successfully processed: MotoGP [3/30]
-🟢 Successfully processed: PGA Tour [1/30]
-🟢 Successfully processed: PGA Tour [2/30]
 🟡 Visiting detail page [4/30]: https://footystream.pk/events/goodwood-festival-of-speed
+🟢 Successfully processed: PGA Tour [2/30]
 🟡 Visiting detail page [5/30]: https://footystream.pk/events/sydney-swans-vs-fremantle
+🟢 Successfully processed: PGA Tour [1/30]
 🟡 Visiting detail page [6/30]: https://footystream.pk/events/liverpool-vs-manchester-city
 🟢 Successfully processed: MotorSports [4/30]
 🟡 Visiting detail page [7/30]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
 🟢 Successfully processed: AFL [5/30]
 🟡 Visiting detail page [8/30]: https://footystream.pk/events/eintracht-frankfurt-vs-freiburg
 🟢 Successfully processed: Bundesliga [7/30]
-🟢 Successfully processed: Bundesliga [8/30]
 🟡 Visiting detail page [9/30]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
+🟢 Successfully processed: Bundesliga [8/30]
 🟡 Visiting detail page [10/30]: https://footystream.pk/events/lens-vs-monaco
 🟢 Successfully processed: Bundesliga [9/30]
 🟡 Visiting detail page [11/30]: https://footystream.pk/events/paris-vs-strasbourg
@@ -58,9 +58,9 @@
 🟡 Visiting detail page [28/30]: https://footystream.pk/events/alaves-vs-athletic-club
 🟢 Successfully processed: LaLiga [28/30]
 🟡 Visiting detail page [29/30]: https://footystream.pk/events/celta-vigo-vs-racing
-🟢 Successfully processed: LaLiga [29/30]
-🟡 Visiting detail page [30/30]: https://footystream.pk/events/barcelona-vs-sevilla
 🟢 Successfully processed: EFL [23/30]
+🟡 Visiting detail page [30/30]: https://footystream.pk/events/barcelona-vs-sevilla
+🟢 Successfully processed: LaLiga [29/30]
 🟢 Successfully processed: LaLiga [30/30]
 🟢 Successfully processed: LaLiga [26/30]
 🟢 Browser closed successfully.

@@ -14,9 +14,9 @@
 🟡 Visiting detail page [6/30]: https://footystream.pk/events/liverpool-vs-manchester-city
 🟢 Successfully processed: WSL [6/30]
 🟡 Visiting detail page [7/30]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
-🟢 Successfully processed: Bundesliga [7/30]
-🟡 Visiting detail page [8/30]: https://footystream.pk/events/eintracht-frankfurt-vs-freiburg
 🟢 Successfully processed: MotorSports [4/30]
+🟡 Visiting detail page [8/30]: https://footystream.pk/events/eintracht-frankfurt-vs-freiburg
+🟢 Successfully processed: Bundesliga [7/30]
 🟡 Visiting detail page [9/30]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
 🟢 Successfully processed: AFL [5/30]
 🟡 Visiting detail page [10/30]: https://footystream.pk/events/lens-vs-monaco
@@ -52,16 +52,16 @@
 🟡 Visiting detail page [25/30]: https://footystream.pk/events/barnsley-vs-leicester-city
 🟢 Successfully processed: EFL [23/30]
 🟡 Visiting detail page [26/30]: https://footystream.pk/events/espanyol-vs-elche
-🟢 Successfully processed: EFL [24/30]
-🟡 Visiting detail page [27/30]: https://footystream.pk/events/osasuna-vs-rayo-vallecano
 🟢 Successfully processed: EFL [25/30]
+🟡 Visiting detail page [27/30]: https://footystream.pk/events/osasuna-vs-rayo-vallecano
+🟢 Successfully processed: EFL [24/30]
 🟡 Visiting detail page [28/30]: https://footystream.pk/events/alaves-vs-athletic-club
 🟢 Successfully processed: LaLiga [26/30]
 🟡 Visiting detail page [29/30]: https://footystream.pk/events/celta-vigo-vs-racing
 🟢 Successfully processed: LaLiga [27/30]
 🟡 Visiting detail page [30/30]: https://footystream.pk/events/barcelona-vs-sevilla
-🟢 Successfully processed: LaLiga [29/30]
 🟢 Successfully processed: LaLiga [28/30]
+🟢 Successfully processed: LaLiga [29/30]
 🟢 Successfully processed: LaLiga [30/30]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 30

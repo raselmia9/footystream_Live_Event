@@ -68,23 +68,6 @@
         ]
     },
     {
-        "eventTitle": "AFL",
-        "matchTime": "2026-09-18 15:30:00",
-        "team1Title": "Sydney Swans",
-        "team2Title": "Fremantle",
-        "team1Logo": "https://cdn.img4every1.org/team/sydney-swans/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Sydney%20Swans_vs_Fremantle/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/sydney-swans-vs-fremantle",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/sydney-swans-vs-fremantle/2001"
-            }
-        ]
-    },
-    {
         "eventTitle": "WSL",
         "matchTime": "2026-09-19 00:00:00",
         "team1Title": "Liverpool",

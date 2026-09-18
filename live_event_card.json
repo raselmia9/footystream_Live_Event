@@ -61,7 +61,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Biltmore%20Championship_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/biltmore-championship",
         "multiWatchPageLink": [
             {
@@ -101,23 +101,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/goodwood-festival-of-speed/2000"
-            }
-        ]
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-09-19 00:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_Manchester%20City/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-manchester-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/liverpool-vs-manchester-city/2038"
             }
         ]
     },

@@ -120,6 +120,23 @@
     },
     {
         "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-19 00:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Union Berlin",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bayern-munchen-vs-union-berlin",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bayern-munchen-vs-union-berlin/2050"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
         "matchTime": "2026-09-19 19:30:00",
         "team1Title": "Eintracht Frankfurt",
         "team2Title": "Freiburg",

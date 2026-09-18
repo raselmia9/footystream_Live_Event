@@ -3,30 +3,30 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
+🟡 Visiting detail page [1/31]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [3/31]: https://footystream.pk/events/buffalo-bills-vs-lions
 🟡 Visiting detail page [2/31]: https://footystream.pk/events/biltmore-championship
-🟡 Visiting detail page [1/31]: https://footystream.pk/events/bmw-championship
-🟢 Successfully processed: NFL [3/31]
-🟡 Visiting detail page [4/31]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: PGA Tour [2/31]
-🟢 Successfully processed: PGA Tour [1/31]
+🟡 Visiting detail page [4/31]: https://footystream.pk/events/motogp-austria-grand-prix
+🟢 Successfully processed: NFL [3/31]
 🟡 Visiting detail page [5/31]: https://footystream.pk/events/goodwood-festival-of-speed
+🟢 Successfully processed: PGA Tour [1/31]
 🟡 Visiting detail page [6/31]: https://footystream.pk/events/sydney-swans-vs-fremantle
 🟢 Successfully processed: MotoGP [4/31]
 🟡 Visiting detail page [7/31]: https://footystream.pk/events/liverpool-vs-manchester-city
 🟢 Successfully processed: MotorSports [5/31]
-🟡 Visiting detail page [8/31]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
 🟢 Successfully processed: AFL [6/31]
+🟡 Visiting detail page [8/31]: https://footystream.pk/events/bayern-munchen-vs-union-berlin
 🟡 Visiting detail page [9/31]: https://footystream.pk/events/eintracht-frankfurt-vs-freiburg
 🟢 Successfully processed: WSL [7/31]
-🟢 Successfully processed: Bundesliga [8/31]
 🟡 Visiting detail page [10/31]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
-🟡 Visiting detail page [11/31]: https://footystream.pk/events/lens-vs-monaco
+🟢 Successfully processed: Bundesliga [8/31]
 🟢 Successfully processed: Bundesliga [9/31]
+🟡 Visiting detail page [11/31]: https://footystream.pk/events/lens-vs-monaco
 🟡 Visiting detail page [12/31]: https://footystream.pk/events/paris-vs-strasbourg
 🟢 Successfully processed: Bundesliga [10/31]
-🟢 Successfully processed: French Ligue 1 [11/31]
 🟡 Visiting detail page [13/31]: https://footystream.pk/events/monza-vs-sassuolo
+🟢 Successfully processed: French Ligue 1 [11/31]
 🟡 Visiting detail page [14/31]: https://footystream.pk/events/bologna-vs-torino
 🟢 Successfully processed: French Ligue 1 [12/31]
 🟡 Visiting detail page [15/31]: https://footystream.pk/events/cagliari-vs-udinese

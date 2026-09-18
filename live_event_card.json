@@ -211,39 +211,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "West Ham United",
-        "team2Title": "Millwall FC",
-        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/west-ham-united-vs-millwall",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/west-ham-united-vs-millwall/2045"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/west-ham-united-vs-millwall/2046"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "Barnsley",
-        "team2Title": "Leicester City",
-        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barnsley-vs-leicester-city",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-19 01:00:00",
         "team1Title": "Espanyol",
@@ -267,54 +234,6 @@
                 "url": "https://footystream.pk/alpha/espanyol-vs-elche/2028"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-19 18:00:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/osasuna-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-19 20:15:00",
-        "team1Title": "Deportivo Alavés",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/alaves-vs-athletic-club",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-19 22:30:00",
-        "team1Title": "Celta de Vigo",
-        "team2Title": "Racing Santander",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/celta-vigo-vs-racing",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-20 01:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Sevilla",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barcelona-vs-sevilla",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Rugby Union",
@@ -383,6 +302,39 @@
                 "url": "https://footystream.pk/alpha/sydney-roosters-vs-sharks/2043"
             }
         ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Title": "West Ham United",
+        "team2Title": "Millwall FC",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/west-ham-united-vs-millwall",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/west-ham-united-vs-millwall/2045"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/west-ham-united-vs-millwall/2046"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Title": "Barnsley",
+        "team2Title": "Leicester City",
+        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barnsley-vs-leicester-city",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",
@@ -477,6 +429,54 @@
                 "url": "https://footystream.pk/alpha/chelsea-vs-birmingham-city/2048"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 18:00:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/osasuna-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 20:15:00",
+        "team1Title": "Deportivo Alavés",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/alaves-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Title": "Celta de Vigo",
+        "team2Title": "Racing Santander",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/celta-vigo-vs-racing",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-20 01:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Sevilla",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/barcelona-vs-sevilla",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Serie A",

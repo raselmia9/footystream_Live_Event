@@ -85,6 +85,40 @@
         ]
     },
     {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Title": "Charlton Athletic",
+        "team2Title": "London City Lionesses",
+        "team1Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/charlton-athletic-vs-london-lionesses",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/charlton-athletic-vs-london-lionesses/2047"
+            }
+        ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-19 17:45:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Birmingham City",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-birmingham-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/chelsea-vs-birmingham-city/2048"
+            }
+        ]
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-19 00:30:00",
         "team1Title": "Bayern München",
@@ -359,7 +393,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/west-ham-united-vs-millwall",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/west-ham-united-vs-millwall/2045"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/west-ham-united-vs-millwall/2046"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -445,5 +488,73 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-sevilla",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-09-19 13:00:00",
+        "team1Title": "Canada",
+        "team2Title": "USA",
+        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/canada-vs-usa",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/canada-vs-usa/2042"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-09-19 16:00:00",
+        "team1Title": "Fiji",
+        "team2Title": "Japan",
+        "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/fiji-vs-japan",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/fiji-vs-japan/2044"
+            }
+        ]
+    },
+    {
+        "eventTitle": "AFL",
+        "matchTime": "2026-09-19 13:00:00",
+        "team1Title": "Hawthorn Hawks",
+        "team2Title": "Brisbane Lions",
+        "team1Logo": "https://cdn.img4every1.org/team/hawthorn-hawks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brisbane-lions/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/hawthorn-vs-brisbane-lions",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/hawthorn-vs-brisbane-lions/2041"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NRL",
+        "matchTime": "2026-09-19 15:45:00",
+        "team1Title": "Sydney Roosters",
+        "team2Title": "Cronulla Sharks",
+        "team1Logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cronulla-sharks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/sydney-roosters-vs-sharks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/sydney-roosters-vs-sharks/2043"
+            }
+        ]
     }
 ]

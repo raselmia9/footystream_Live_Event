@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
+🟡 Visiting detail page [2/31]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [1/31]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [3/31]: https://footystream.pk/events/buffalo-bills-vs-lions
-🟡 Visiting detail page [2/31]: https://footystream.pk/events/biltmore-championship
+🟢 Successfully processed: NFL [3/31]
 🟢 Successfully processed: PGA Tour [2/31]
 🟡 Visiting detail page [4/31]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: NFL [3/31]
-🟡 Visiting detail page [5/31]: https://footystream.pk/events/goodwood-festival-of-speed
 🟢 Successfully processed: PGA Tour [1/31]
+🟡 Visiting detail page [5/31]: https://footystream.pk/events/goodwood-festival-of-speed
 🟡 Visiting detail page [6/31]: https://footystream.pk/events/sydney-swans-vs-fremantle
 🟢 Successfully processed: MotoGP [4/31]
 🟡 Visiting detail page [7/31]: https://footystream.pk/events/liverpool-vs-manchester-city

@@ -34,27 +34,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-18 06:15:00",
-        "team1Title": "Buffalo Bills",
-        "team2Title": "Detroit Lions",
-        "team1Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Buffalo%20Bills_vs_Detroit%20Lions/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Buffalo%20Bills_vs_Detroit%20Lions/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/buffalo-bills-vs-lions",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/buffalo-bills-vs-lions/1998"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/buffalo-bills-vs-lions/1999"
-            }
-        ]
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-09-18 13:00:00",
         "team1Title": "MotoGP Austria Grand Prix",

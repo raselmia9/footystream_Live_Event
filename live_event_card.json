@@ -1,5 +1,42 @@
 [
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 01:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Brentford",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chelsea-vs-brentford",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2029"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2030"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2031"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2032"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2033"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2034"
+            }
+        ]
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-17 13:30:00",
         "team1Title": "BMW Championship",
@@ -172,7 +209,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lens_vs_AS%20Monaco/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lens_vs_AS%20Monaco/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/lens-vs-monaco",
         "multiWatchPageLink": [
             {
@@ -205,7 +242,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Monza_vs_Sassuolo/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/monza-vs-sassuolo",
         "multiWatchPageLink": [
             {
@@ -278,103 +315,6 @@
                 "url": "https://footystream.pk/alpha/wakefield-trinity-vs-leigh-leopards/2040"
             }
         ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 01:00:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Brentford",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/chelsea-vs-brentford",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2029"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2030"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2031"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2032"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2033"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://footystream.pk/alpha/chelsea-vs-brentford/2034"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "Tottenham Hotspur",
-        "team2Title": "Aston Villa",
-        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/tottenham-hotspur-vs-aston-villa",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 20:00:00",
-        "team1Title": "Hull City",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/hull-city-vs-newcastle-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 20:00:00",
-        "team1Title": "Ipswich Town",
-        "team2Title": "Everton",
-        "team1Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/ipswich-town-vs-everton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 20:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/arsenal-vs-brighton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 22:30:00",
-        "team1Title": "Nottingham Forest",
-        "team2Title": "Coventry City",
-        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "EFL",
@@ -566,5 +506,65 @@
                 "url": "https://footystream.pk/alpha/sydney-roosters-vs-sharks/2043"
             }
         ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 17:30:00",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Aston Villa",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/tottenham-hotspur-vs-aston-villa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 20:00:00",
+        "team1Title": "Hull City",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/hull-city-vs-newcastle-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 20:00:00",
+        "team1Title": "Ipswich Town",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/ipswich-town-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 20:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/arsenal-vs-brighton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
+        "multiWatchPageLink": []
     }
 ]

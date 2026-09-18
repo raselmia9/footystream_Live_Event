@@ -152,7 +152,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-stuttgart",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-stuttgart/2049"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",

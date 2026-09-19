@@ -85,102 +85,14 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Hull City",
-        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Hull%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Hull%20City/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/hull-city-vs-newcastle-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/hull-city-vs-newcastle-united/2068"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/hull-city-vs-newcastle-united/2069"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Birmingham City",
-        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Birmingham%20City/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/birmingham-city-vs-middlesbrough",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/birmingham-city-vs-middlesbrough/2092"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Ipswich Town",
-        "team1Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Ipswich%20Town/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Ipswich%20Town/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/ipswich-town-vs-everton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/ipswich-town-vs-everton/2066"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/ipswich-town-vs-everton/2067"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Arsenal",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Arsenal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Arsenal/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Arsenal/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Arsenal/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/arsenal-vs-brighton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2060"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2061"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2062"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2065"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-19 20:15:00",
-        "team1Title": "Deportivo Alavés",
-        "team2Title": "Athletic Club",
+        "team1Title": "Event Ended",
+        "team2Title": "Deportivo Alavés",
         "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20Alav%C3%A9s_vs_Athletic%20Club/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20Alav%C3%A9s_vs_Athletic%20Club/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Deportivo%20Alav%C3%A9s/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Deportivo%20Alav%C3%A9s/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/alaves-vs-athletic-club",
         "multiWatchPageLink": [
             {

@@ -85,48 +85,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-20 00:45:00",
-        "team1Title": "Lazio",
-        "team2Title": "Venezia",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lazio_vs_Venezia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lazio_vs_Venezia/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/lazio-vs-venezia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/lazio-vs-venezia/2087"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/lazio-vs-venezia/2088"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-20 00:45:00",
-        "team1Title": "Rennes",
-        "team2Title": "Olympique Lyonnais",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rennes_vs_Olympique%20Lyonnais/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rennes_vs_Olympique%20Lyonnais/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/rennes-vs-lyon",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/rennes-vs-lyon/2096"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/rennes-vs-lyon/2097"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-20 01:00:00",
         "team1Title": "FC Barcelona",

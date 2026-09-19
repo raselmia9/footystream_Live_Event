@@ -6,9 +6,9 @@
 🟡 Visiting detail page [1/45]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [2/45]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [3/45]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: PGA Tour [2/45]
-🟡 Visiting detail page [4/45]: https://footystream.pk/events/goodwood-festival-of-speed
 🟢 Successfully processed: MotoGP [3/45]
+🟡 Visiting detail page [4/45]: https://footystream.pk/events/goodwood-festival-of-speed
+🟢 Successfully processed: PGA Tour [2/45]
 🟡 Visiting detail page [5/45]: https://footystream.pk/events/world-series-of-darts-finals
 🟢 Successfully processed: PGA Tour [1/45]
 🟡 Visiting detail page [6/45]: https://footystream.pk/events/mamelodi-sundowns-vs-al-ahli
@@ -20,15 +20,15 @@
 🟡 Visiting detail page [9/45]: https://footystream.pk/events/eintracht-frankfurt-vs-freiburg
 🟢 Successfully processed: Serie A [8/45]
 🟡 Visiting detail page [10/45]: https://footystream.pk/events/hull-city-vs-newcastle-united
-🟢 Successfully processed: Bundesliga [9/45]
-🟡 Visiting detail page [11/45]: https://footystream.pk/events/birmingham-city-vs-middlesbrough
 🟢 Successfully processed: Serie A [7/45]
+🟡 Visiting detail page [11/45]: https://footystream.pk/events/birmingham-city-vs-middlesbrough
+🟢 Successfully processed: Bundesliga [9/45]
 🟡 Visiting detail page [12/45]: https://footystream.pk/events/ipswich-town-vs-everton
 🟢 Successfully processed: Premier League [10/45]
 🟡 Visiting detail page [13/45]: https://footystream.pk/events/arsenal-vs-brighton
-🟢 Successfully processed: Premier League [12/45]
-🟡 Visiting detail page [14/45]: https://footystream.pk/events/alaves-vs-athletic-club
 🟢 Successfully processed: EFL [11/45]
+🟡 Visiting detail page [14/45]: https://footystream.pk/events/alaves-vs-athletic-club
+🟢 Successfully processed: Premier League [12/45]
 🟡 Visiting detail page [15/45]: https://footystream.pk/events/paris-vs-strasbourg
 🟢 Successfully processed: Premier League [13/45]
 🟡 Visiting detail page [16/45]: https://footystream.pk/events/rennes-vs-lyon
@@ -36,9 +36,9 @@
 🟡 Visiting detail page [17/45]: https://footystream.pk/events/auxerre-vs-brest
 🟢 Successfully processed: LaLiga [14/45]
 🟡 Visiting detail page [18/45]: https://footystream.pk/events/nice-vs-lille
-🟢 Successfully processed: French Ligue 1 [18/45]
-🟡 Visiting detail page [19/45]: https://footystream.pk/events/psg-vs-marseille
 🟢 Successfully processed: French Ligue 1 [17/45]
+🟡 Visiting detail page [19/45]: https://footystream.pk/events/psg-vs-marseille
+🟢 Successfully processed: French Ligue 1 [18/45]
 🟡 Visiting detail page [20/45]: https://footystream.pk/events/inter-milan-vs-roma
 🟢 Successfully processed: French Ligue 1 [19/45]
 🟡 Visiting detail page [21/45]: https://footystream.pk/events/lazio-vs-venezia
@@ -56,9 +56,9 @@
 🟡 Visiting detail page [27/45]: https://footystream.pk/events/manchester-city-vs-sunderland
 🟢 Successfully processed: Premier League [27/45]
 🟡 Visiting detail page [28/45]: https://footystream.pk/events/leeds-united-vs-crystal-palace
-🟢 Successfully processed: Premier League [28/45]
-🟡 Visiting detail page [29/45]: https://footystream.pk/events/liverpool-vs-bournemouth
 🟢 Successfully processed: Serie A [21/45]
+🟡 Visiting detail page [29/45]: https://footystream.pk/events/liverpool-vs-bournemouth
+🟢 Successfully processed: Premier League [28/45]
 🟡 Visiting detail page [30/45]: https://footystream.pk/events/fulham-vs-manchester-united
 🟢 Successfully processed: Premier League [29/45]
 🟡 Visiting detail page [31/45]: https://footystream.pk/events/celta-vigo-vs-racing
@@ -68,30 +68,30 @@
 🟡 Visiting detail page [33/45]: https://footystream.pk/events/getafe-vs-malaga
 🟢 Successfully processed: LaLiga [33/45]
 🟡 Visiting detail page [34/45]: https://footystream.pk/events/real-madrid-vs-atletico
-🟢 Successfully processed: LaLiga [34/45]
-🟡 Visiting detail page [35/45]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis
-🟢 Successfully processed: LaLiga [35/45]
-🟡 Visiting detail page [36/45]: https://footystream.pk/events/levante-vs-villarreal
 🟢 Successfully processed: LaLiga [31/45]
+🟡 Visiting detail page [35/45]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis
+🟢 Successfully processed: LaLiga [34/45]
+🟡 Visiting detail page [36/45]: https://footystream.pk/events/levante-vs-villarreal
+🟢 Successfully processed: LaLiga [35/45]
 🟡 Visiting detail page [37/45]: https://footystream.pk/events/man-united-vs-arsenal
 🟢 Successfully processed: LaLiga [32/45]
 🟡 Visiting detail page [38/45]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
 🟢 Successfully processed: LaLiga [36/45]
 🟡 Visiting detail page [39/45]: https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig
-🟢 Successfully processed: Bundesliga [39/45]
-🟡 Visiting detail page [40/45]: https://footystream.pk/events/schalke-04-vs-elversberg
-🟢 Successfully processed: Bundesliga [38/45]
-🟡 Visiting detail page [41/45]: https://footystream.pk/events/paderborn-vs-hoffenheim
 🟢 Successfully processed: WSL [37/45]
-🟡 Visiting detail page [42/45]: https://footystream.pk/events/warrington-wolves-vs-hull-kr
+🟡 Visiting detail page [40/45]: https://footystream.pk/events/schalke-04-vs-elversberg
+🟢 Successfully processed: Bundesliga [39/45]
+🟡 Visiting detail page [41/45]: https://footystream.pk/events/paderborn-vs-hoffenheim
 🟢 Successfully processed: Bundesliga [40/45]
-🟡 Visiting detail page [43/45]: https://footystream.pk/events/joshua-van-vs-alexandre-pantoja
+🟡 Visiting detail page [42/45]: https://footystream.pk/events/warrington-wolves-vs-hull-kr
 🟢 Successfully processed: Bundesliga [41/45]
+🟡 Visiting detail page [43/45]: https://footystream.pk/events/joshua-van-vs-alexandre-pantoja
+🟢 Successfully processed: Bundesliga [38/45]
 🟡 Visiting detail page [44/45]: https://footystream.pk/events/newcastle-knights-vs-warriors
 🟢 Successfully processed: Super League [42/45]
 🟡 Visiting detail page [45/45]: https://footystream.pk/events/wolves-vs-west-brom
 🟢 Successfully processed: UFC [43/45]
-🟢 Successfully processed: NRL [44/45]
 🟢 Successfully processed: EFL [45/45]
+🟢 Successfully processed: NRL [44/45]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 45

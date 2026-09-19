@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 43
-🟡 Visiting detail page [3/43]: https://footystream.pk/events/motogp-austria-grand-prix
-🟡 Visiting detail page [1/43]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [2/43]: https://footystream.pk/events/biltmore-championship
-🟢 Successfully processed: MotoGP [3/43]
-🟡 Visiting detail page [4/43]: https://footystream.pk/events/goodwood-festival-of-speed
-🟢 Successfully processed: PGA Tour [2/43]
+🟡 Visiting detail page [1/43]: https://footystream.pk/events/bmw-championship
+🟡 Visiting detail page [3/43]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: PGA Tour [1/43]
+🟢 Successfully processed: PGA Tour [2/43]
+🟡 Visiting detail page [4/43]: https://footystream.pk/events/goodwood-festival-of-speed
 🟡 Visiting detail page [5/43]: https://footystream.pk/events/canada-vs-usa
+🟢 Successfully processed: MotoGP [3/43]
 🟡 Visiting detail page [6/43]: https://footystream.pk/events/fiji-vs-japan
 🟢 Successfully processed: MotorSports [4/43]
 🟡 Visiting detail page [7/43]: https://footystream.pk/events/hawthorn-vs-brisbane-lions
-🟢 Successfully processed: Rugby Union [6/43]
-🟡 Visiting detail page [8/43]: https://footystream.pk/events/sydney-roosters-vs-sharks
 🟢 Successfully processed: Rugby Union [5/43]
+🟡 Visiting detail page [8/43]: https://footystream.pk/events/sydney-roosters-vs-sharks
+🟢 Successfully processed: Rugby Union [6/43]
 🟡 Visiting detail page [9/43]: https://footystream.pk/events/newcastle-knights-vs-warriors
 🟢 Successfully processed: AFL [7/43]
 🟡 Visiting detail page [10/43]: https://footystream.pk/events/world-series-of-darts-finals
@@ -28,9 +28,9 @@
 🟡 Visiting detail page [13/43]: https://footystream.pk/events/wolves-vs-west-brom
 🟢 Successfully processed: EFL [13/43]
 🟡 Visiting detail page [14/43]: https://footystream.pk/events/tottenham-hotspur-vs-aston-villa
-🟢 Successfully processed: Darts [10/43]
-🟡 Visiting detail page [15/43]: https://footystream.pk/events/hull-city-vs-newcastle-united
 🟢 Successfully processed: Premier League [14/43]
+🟡 Visiting detail page [15/43]: https://footystream.pk/events/hull-city-vs-newcastle-united
+🟢 Successfully processed: Darts [10/43]
 🟡 Visiting detail page [16/43]: https://footystream.pk/events/ipswich-town-vs-everton
 🟢 Successfully processed: Premier League [15/43]
 🟡 Visiting detail page [17/43]: https://footystream.pk/events/arsenal-vs-brighton
@@ -40,9 +40,9 @@
 🟡 Visiting detail page [19/43]: https://footystream.pk/events/manchester-city-vs-sunderland
 🟢 Successfully processed: Premier League [18/43]
 🟡 Visiting detail page [20/43]: https://footystream.pk/events/charlton-athletic-vs-london-lionesses
-🟢 Successfully processed: EFL [11/43]
-🟡 Visiting detail page [21/43]: https://footystream.pk/events/chelsea-vs-birmingham-city
 🟢 Successfully processed: Premier League [19/43]
+🟡 Visiting detail page [21/43]: https://footystream.pk/events/chelsea-vs-birmingham-city
+🟢 Successfully processed: EFL [11/43]
 🟡 Visiting detail page [22/43]: https://footystream.pk/events/osasuna-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [22/43]
 🟡 Visiting detail page [23/43]: https://footystream.pk/events/alaves-vs-athletic-club
@@ -56,9 +56,9 @@
 🟡 Visiting detail page [27/43]: https://footystream.pk/events/real-madrid-vs-atletico
 🟢 Successfully processed: WSL [20/43]
 🟡 Visiting detail page [28/43]: https://footystream.pk/events/bologna-vs-torino
-🟢 Successfully processed: WSL [21/43]
-🟡 Visiting detail page [29/43]: https://footystream.pk/events/cagliari-vs-udinese
 🟢 Successfully processed: LaLiga [27/43]
+🟡 Visiting detail page [29/43]: https://footystream.pk/events/cagliari-vs-udinese
+🟢 Successfully processed: WSL [21/43]
 🟡 Visiting detail page [30/43]: https://footystream.pk/events/inter-milan-vs-roma
 🟢 Successfully processed: Serie A [28/43]
 🟡 Visiting detail page [31/43]: https://footystream.pk/events/lazio-vs-venezia

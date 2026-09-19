@@ -85,90 +85,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "West Ham United",
-        "team2Title": "Millwall FC",
-        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/West%20Ham%20United_vs_Millwall%20FC/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/West%20Ham%20United_vs_Millwall%20FC/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/west-ham-united-vs-millwall",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/west-ham-united-vs-millwall/2045"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/west-ham-united-vs-millwall/2046"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "Barnsley",
-        "team2Title": "Leicester City",
-        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Barnsley_vs_Leicester%20City/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/barnsley-vs-leicester-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/barnsley-vs-leicester-city/2063"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "Tottenham Hotspur",
-        "team2Title": "Aston Villa",
-        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Aston%20Villa/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Aston%20Villa/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Aston%20Villa/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Tottenham%20Hotspur_vs_Aston%20Villa/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/tottenham-hotspur-vs-aston-villa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2056"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2057"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2058"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2059"
-            }
-        ]
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-09-19 17:30:00",
-        "team1Title": "Charlton Athletic",
-        "team2Title": "London City Lionesses",
-        "team1Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Charlton%20Athletic_vs_London%20City%20Lionesses/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/charlton-athletic-vs-london-lionesses",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/charlton-athletic-vs-london-lionesses/2047"
-            }
-        ]
-    },
-    {
         "eventTitle": "WSL",
         "matchTime": "2026-09-19 17:45:00",
         "team1Title": "Chelsea",
@@ -597,6 +513,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/nice-vs-lille",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-21 00:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
         "multiWatchPageLink": []
     },
     {

@@ -243,7 +243,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/arsenal-vs-brighton",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2060"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2061"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/arsenal-vs-brighton/2062"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

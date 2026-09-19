@@ -24,7 +24,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Biltmore%20Championship_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/biltmore-championship",
         "multiWatchPageLink": [
             {
@@ -156,71 +156,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-20 18:00:00",
-        "team1Title": "Getafe",
-        "team2Title": "Málaga",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/getafe-vs-malaga",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-20 20:15:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-atletico",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-20 22:30:00",
-        "team1Title": "Deportivo La Coruña",
-        "team2Title": "Real Betis",
-        "team1Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/deportivo-la-coruna-vs-real-betis",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-20 22:30:00",
-        "team1Title": "Levante",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/levante-vs-villarreal",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/levante-vs-villarreal/2054"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-21 01:00:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-sociedad-vs-valencia",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "UFC",
         "matchTime": "2026-09-20 05:00:00",
         "team1Title": "Joshua Van",
@@ -324,6 +259,71 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/wolves-vs-west-brom",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-20 18:00:00",
+        "team1Title": "Getafe",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/getafe-vs-malaga",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-20 20:15:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-madrid-vs-atletico",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-20 22:30:00",
+        "team1Title": "Deportivo La Coruña",
+        "team2Title": "Real Betis",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/deportivo-la-coruna-vs-real-betis",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-20 22:30:00",
+        "team1Title": "Levante",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/levante-vs-villarreal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/levante-vs-villarreal/2054"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-09-21 01:00:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/real-sociedad-vs-valencia",
         "multiWatchPageLink": []
     },
     {

@@ -85,23 +85,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-09-19 16:00:00",
-        "team1Title": "Fiji",
-        "team2Title": "Japan",
-        "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/fiji-vs-japan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/fiji-vs-japan/2044"
-            }
-        ]
-    },
-    {
         "eventTitle": "AFL",
         "matchTime": "2026-09-19 13:00:00",
         "team1Title": "Hawthorn Hawks",
@@ -149,6 +132,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/newcastle-knights-vs-warriors/2055"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-09-19 16:00:00",
+        "team1Title": "Fiji",
+        "team2Title": "Japan",
+        "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/fiji-vs-japan",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/fiji-vs-japan/2044"
             }
         ]
     },

@@ -205,12 +205,16 @@
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Stuttgart/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Stuttgart/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Stuttgart/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-stuttgart",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/borussia-dortmund-vs-stuttgart/2049"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-stuttgart/2098"
             }
         ]
     },
@@ -391,6 +395,10 @@
             {
                 "channel": "Link 3",
                 "url": "https://footystream.pk/alpha/barcelona-vs-sevilla/2080"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/barcelona-vs-sevilla/2099"
             }
         ]
     },

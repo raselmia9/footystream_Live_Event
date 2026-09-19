@@ -3,32 +3,32 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 37
-🟡 Visiting detail page [3/37]: https://footystream.pk/events/motogp-austria-grand-prix
 🟡 Visiting detail page [2/37]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [1/37]: https://footystream.pk/events/bmw-championship
+🟡 Visiting detail page [3/37]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: PGA Tour [1/37]
-🟡 Visiting detail page [4/37]: https://footystream.pk/events/goodwood-festival-of-speed
 🟢 Successfully processed: MotoGP [3/37]
-🟡 Visiting detail page [5/37]: https://footystream.pk/events/world-series-of-darts-finals
+🟡 Visiting detail page [4/37]: https://footystream.pk/events/goodwood-festival-of-speed
 🟢 Successfully processed: PGA Tour [2/37]
+🟡 Visiting detail page [5/37]: https://footystream.pk/events/world-series-of-darts-finals
 🟡 Visiting detail page [6/37]: https://footystream.pk/events/inter-milan-vs-roma
+🟢 Successfully processed: Darts [5/37]
 🟢 Successfully processed: MotorSports [4/37]
 🟡 Visiting detail page [7/37]: https://footystream.pk/events/nottm-forest-vs-coventry-city
-🟢 Successfully processed: Darts [5/37]
 🟡 Visiting detail page [8/37]: https://footystream.pk/events/celta-vigo-vs-racing
 🟢 Successfully processed: Serie A [6/37]
 🟡 Visiting detail page [9/37]: https://footystream.pk/events/man-united-vs-arsenal
-🟢 Successfully processed: WSL [9/37]
+🟢 Successfully processed: LaLiga [8/37]
 🟡 Visiting detail page [10/37]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
 🟢 Successfully processed: Premier League [7/37]
 🟡 Visiting detail page [11/37]: https://footystream.pk/events/warrington-wolves-vs-hull-kr
-🟢 Successfully processed: LaLiga [8/37]
+🟢 Successfully processed: WSL [9/37]
 🟡 Visiting detail page [12/37]: https://footystream.pk/events/lazio-vs-venezia
-🟢 Successfully processed: Serie A [12/37]
-🟢 Successfully processed: Bundesliga [10/37]
-🟡 Visiting detail page [13/37]: https://footystream.pk/events/napoli-vs-fiorentina
-🟡 Visiting detail page [14/37]: https://footystream.pk/events/como-vs-frosinone
 🟢 Successfully processed: Super League [11/37]
+🟡 Visiting detail page [13/37]: https://footystream.pk/events/napoli-vs-fiorentina
+🟢 Successfully processed: Bundesliga [10/37]
+🟡 Visiting detail page [14/37]: https://footystream.pk/events/como-vs-frosinone
+🟢 Successfully processed: Serie A [12/37]
 🟡 Visiting detail page [15/37]: https://footystream.pk/events/genoa-vs-parma
 🟢 Successfully processed: Serie A [13/37]
 🟡 Visiting detail page [16/37]: https://footystream.pk/events/juventus-vs-atalanta
@@ -54,9 +54,9 @@
 🟡 Visiting detail page [26/37]: https://footystream.pk/events/levante-vs-villarreal
 🟢 Successfully processed: LaLiga [25/37]
 🟡 Visiting detail page [27/37]: https://footystream.pk/events/real-sociedad-vs-valencia
-🟢 Successfully processed: LaLiga [27/37]
-🟡 Visiting detail page [28/37]: https://footystream.pk/events/joshua-van-vs-alexandre-pantoja
 🟢 Successfully processed: LaLiga [22/37]
+🟡 Visiting detail page [28/37]: https://footystream.pk/events/joshua-van-vs-alexandre-pantoja
+🟢 Successfully processed: LaLiga [27/37]
 🟡 Visiting detail page [29/37]: https://footystream.pk/events/newcastle-knights-vs-warriors
 🟢 Successfully processed: LaLiga [26/37]
 🟡 Visiting detail page [30/37]: https://footystream.pk/events/wolves-vs-west-brom
@@ -66,15 +66,15 @@
 🟡 Visiting detail page [32/37]: https://footystream.pk/events/leeds-united-vs-crystal-palace
 🟢 Successfully processed: Premier League [31/37]
 🟡 Visiting detail page [33/37]: https://footystream.pk/events/liverpool-vs-bournemouth
-🟢 Successfully processed: Premier League [32/37]
-🟡 Visiting detail page [34/37]: https://footystream.pk/events/fulham-vs-manchester-united
-🟢 Successfully processed: Premier League [33/37]
-🟡 Visiting detail page [35/37]: https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig
-🟢 Successfully processed: Premier League [34/37]
-🟡 Visiting detail page [36/37]: https://footystream.pk/events/schalke-04-vs-elversberg
-🟢 Successfully processed: Bundesliga [35/37]
-🟡 Visiting detail page [37/37]: https://footystream.pk/events/paderborn-vs-hoffenheim
 🟢 Successfully processed: NRL [29/37]
+🟡 Visiting detail page [34/37]: https://footystream.pk/events/fulham-vs-manchester-united
+🟢 Successfully processed: Premier League [32/37]
+🟡 Visiting detail page [35/37]: https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig
+🟢 Successfully processed: Premier League [33/37]
+🟡 Visiting detail page [36/37]: https://footystream.pk/events/schalke-04-vs-elversberg
+🟢 Successfully processed: Premier League [34/37]
+🟡 Visiting detail page [37/37]: https://footystream.pk/events/paderborn-vs-hoffenheim
+🟢 Successfully processed: Bundesliga [35/37]
 🟢 Successfully processed: Bundesliga [36/37]
 🟢 Successfully processed: Bundesliga [37/37]
 🟢 Browser closed successfully.

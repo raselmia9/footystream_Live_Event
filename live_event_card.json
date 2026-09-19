@@ -264,62 +264,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Eintracht%20Frankfurt_vs_Freiburg/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/eintracht-frankfurt-vs-freiburg",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-19 22:30:00",
-        "team1Title": "Borussia Dortmund",
-        "team2Title": "Stuttgart",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-stuttgart",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-stuttgart/2049"
+                "url": "https://footystream.pk/alpha/eintracht-frankfurt-vs-freiburg/2093"
             }
         ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-20 19:30:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "RB Leipzig",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-20 21:30:00",
-        "team1Title": "Schalke 04",
-        "team2Title": "Elversberg",
-        "team1Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/schalke-04-vs-elversberg",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-20 23:30:00",
-        "team1Title": "Paderborn",
-        "team2Title": "Hoffenheim",
-        "team1Logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/paderborn-vs-hoffenheim",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",
@@ -591,7 +543,37 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/paris-vs-strasbourg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/paris-vs-strasbourg/2094"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/paris-vs-strasbourg/2095"
+            }
+        ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-20 00:45:00",
+        "team1Title": "Rennes",
+        "team2Title": "Olympique Lyonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rennes-vs-lyon",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rennes-vs-lyon/2096"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/rennes-vs-lyon/2097"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -723,6 +705,59 @@
                 "url": "https://footystream.pk/alpha/man-united-vs-arsenal/2090"
             }
         ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Title": "Borussia Dortmund",
+        "team2Title": "Stuttgart",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-stuttgart",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/borussia-dortmund-vs-stuttgart/2049"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-20 19:30:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-20 21:30:00",
+        "team1Title": "Schalke 04",
+        "team2Title": "Elversberg",
+        "team1Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/schalke-04-vs-elversberg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-20 23:30:00",
+        "team1Title": "Paderborn",
+        "team2Title": "Hoffenheim",
+        "team1Logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/paderborn-vs-hoffenheim",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Super League",

@@ -102,23 +102,6 @@
         ]
     },
     {
-        "eventTitle": "NRL",
-        "matchTime": "2026-09-20 12:00:00",
-        "team1Title": "Newcastle Knights",
-        "team2Title": "Warriors",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/warriors-nrl-team/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/newcastle-knights-vs-warriors",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/newcastle-knights-vs-warriors/2055"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-09-19 16:00:00",
         "team1Title": "Fiji",
@@ -143,7 +126,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/World%20Series%20of%20Darts%20Finals_vs_Darts/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/world-series-of-darts-finals",
         "multiWatchPageLink": [
             {
@@ -207,7 +190,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/tottenham-hotspur-vs-aston-villa",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2056"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2057"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2058"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/tottenham-hotspur-vs-aston-villa/2059"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -579,6 +579,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/joshua-van-vs-alexandre-pantoja/2053"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NRL",
+        "matchTime": "2026-09-20 12:00:00",
+        "team1Title": "Newcastle Knights",
+        "team2Title": "Warriors",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/warriors-nrl-team/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/newcastle-knights-vs-warriors",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/newcastle-knights-vs-warriors/2055"
             }
         ]
     }

@@ -351,7 +351,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Osasuna_vs_Rayo%20Vallecano/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Osasuna_vs_Rayo%20Vallecano/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Osasuna_vs_Rayo%20Vallecano/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/osasuna-vs-rayo-vallecano",
         "multiWatchPageLink": [
             {
@@ -473,7 +473,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bologna-vs-torino",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bologna-vs-torino/2085"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

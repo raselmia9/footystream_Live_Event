@@ -6,10 +6,10 @@
 🟡 Visiting detail page [2/43]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [1/43]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [3/43]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: PGA Tour [2/43]
 🟢 Successfully processed: MotoGP [3/43]
-🟡 Visiting detail page [5/43]: https://footystream.pk/events/canada-vs-usa
 🟡 Visiting detail page [4/43]: https://footystream.pk/events/goodwood-festival-of-speed
+🟢 Successfully processed: PGA Tour [2/43]
+🟡 Visiting detail page [5/43]: https://footystream.pk/events/canada-vs-usa
 🟢 Successfully processed: PGA Tour [1/43]
 🟡 Visiting detail page [6/43]: https://footystream.pk/events/fiji-vs-japan
 🟢 Successfully processed: MotorSports [4/43]
@@ -20,8 +20,8 @@
 🟡 Visiting detail page [9/43]: https://footystream.pk/events/newcastle-knights-vs-warriors
 🟢 Successfully processed: AFL [7/43]
 🟡 Visiting detail page [10/43]: https://footystream.pk/events/world-series-of-darts-finals
-🟢 Successfully processed: NRL [9/43]
 🟢 Successfully processed: NRL [8/43]
+🟢 Successfully processed: NRL [9/43]
 🟡 Visiting detail page [11/43]: https://footystream.pk/events/west-ham-united-vs-millwall
 🟡 Visiting detail page [12/43]: https://footystream.pk/events/barnsley-vs-leicester-city
 🟢 Successfully processed: EFL [12/43]
@@ -55,10 +55,10 @@
 🟢 Successfully processed: LaLiga [26/43]
 🟡 Visiting detail page [27/43]: https://footystream.pk/events/real-madrid-vs-atletico
 🟢 Successfully processed: WSL [20/43]
-🟢 Successfully processed: LaLiga [27/43]
 🟡 Visiting detail page [28/43]: https://footystream.pk/events/bologna-vs-torino
-🟡 Visiting detail page [29/43]: https://footystream.pk/events/cagliari-vs-udinese
 🟢 Successfully processed: WSL [21/43]
+🟡 Visiting detail page [29/43]: https://footystream.pk/events/cagliari-vs-udinese
+🟢 Successfully processed: LaLiga [27/43]
 🟡 Visiting detail page [30/43]: https://footystream.pk/events/inter-milan-vs-roma
 🟢 Successfully processed: Serie A [28/43]
 🟡 Visiting detail page [31/43]: https://footystream.pk/events/lazio-vs-venezia

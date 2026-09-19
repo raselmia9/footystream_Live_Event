@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://dz5.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=S9ZpCtjg_uA3Y8jFbB6ENg&expires=1789599976&ch=viaplaysp1&s=64f27357c7a156d7d3e0a28ed6956c17
+https://dz5.bhalocast.pro:7059/hls/spch2.m3u8?md5=bqICjhaH_aWZ9W6nownZrA&expires=1789857403&ch=spch2&s=a287e644b3cb2851f2c70b34e17beb93

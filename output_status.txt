@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 43
-🟡 Visiting detail page [2/43]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [1/43]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [3/43]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: MotoGP [3/43]
-🟡 Visiting detail page [4/43]: https://footystream.pk/events/goodwood-festival-of-speed
-🟢 Successfully processed: PGA Tour [2/43]
-🟡 Visiting detail page [5/43]: https://footystream.pk/events/canada-vs-usa
+🟡 Visiting detail page [2/43]: https://footystream.pk/events/biltmore-championship
 🟢 Successfully processed: PGA Tour [1/43]
+🟡 Visiting detail page [4/43]: https://footystream.pk/events/goodwood-festival-of-speed
+🟢 Successfully processed: MotoGP [3/43]
+🟡 Visiting detail page [5/43]: https://footystream.pk/events/canada-vs-usa
+🟢 Successfully processed: PGA Tour [2/43]
 🟡 Visiting detail page [6/43]: https://footystream.pk/events/fiji-vs-japan
 🟢 Successfully processed: MotorSports [4/43]
 🟡 Visiting detail page [7/43]: https://footystream.pk/events/hawthorn-vs-brisbane-lions
@@ -57,20 +57,20 @@
 🟢 Successfully processed: WSL [20/43]
 🟡 Visiting detail page [28/43]: https://footystream.pk/events/bologna-vs-torino
 🟢 Successfully processed: WSL [21/43]
-🟡 Visiting detail page [29/43]: https://footystream.pk/events/cagliari-vs-udinese
 🟢 Successfully processed: LaLiga [27/43]
+🟡 Visiting detail page [29/43]: https://footystream.pk/events/cagliari-vs-udinese
 🟡 Visiting detail page [30/43]: https://footystream.pk/events/inter-milan-vs-roma
 🟢 Successfully processed: Serie A [28/43]
 🟡 Visiting detail page [31/43]: https://footystream.pk/events/lazio-vs-venezia
 🟢 Successfully processed: Serie A [29/43]
-🟡 Visiting detail page [32/43]: https://footystream.pk/events/napoli-vs-fiorentina
 🟢 Successfully processed: Serie A [30/43]
+🟡 Visiting detail page [32/43]: https://footystream.pk/events/napoli-vs-fiorentina
 🟡 Visiting detail page [33/43]: https://footystream.pk/events/como-vs-frosinone
 🟢 Successfully processed: Serie A [31/43]
 🟡 Visiting detail page [34/43]: https://footystream.pk/events/eintracht-frankfurt-vs-freiburg
 🟢 Successfully processed: Serie A [32/43]
-🟡 Visiting detail page [35/43]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
 🟢 Successfully processed: Serie A [33/43]
+🟡 Visiting detail page [35/43]: https://footystream.pk/events/borussia-dortmund-vs-stuttgart
 🟡 Visiting detail page [36/43]: https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig
 🟢 Successfully processed: Bundesliga [34/43]
 🟡 Visiting detail page [37/43]: https://footystream.pk/events/schalke-04-vs-elversberg

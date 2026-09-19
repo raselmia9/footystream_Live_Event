@@ -334,12 +334,33 @@
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Birmingham%20City/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-birmingham-city",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/chelsea-vs-birmingham-city/2048"
+            }
+        ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-19 22:30:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Arsenal",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/man-united-vs-arsenal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/man-united-vs-arsenal/2089"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/man-united-vs-arsenal/2090"
             }
         ]
     },
@@ -351,7 +372,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Osasuna_vs_Rayo%20Vallecano/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Osasuna_vs_Rayo%20Vallecano/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Osasuna_vs_Rayo%20Vallecano/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Osasuna_vs_Rayo%20Vallecano/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Osasuna_vs_Rayo%20Vallecano/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/osasuna-vs-rayo-vallecano",
         "multiWatchPageLink": [
             {
@@ -502,7 +523,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/inter-milan-vs-roma",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/inter-milan-vs-roma/2086"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -514,7 +540,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/lazio-vs-venezia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/lazio-vs-venezia/2087"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/lazio-vs-venezia/2088"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -639,18 +674,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/nice-vs-lille",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-21 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
         "multiWatchPageLink": []
     },
     {

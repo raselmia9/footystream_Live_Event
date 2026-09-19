@@ -85,27 +85,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-19 21:15:00",
-        "team1Title": "Paris FC",
-        "team2Title": "Strasbourg",
-        "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Paris%20FC_vs_Strasbourg/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Paris%20FC_vs_Strasbourg/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/paris-vs-strasbourg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/paris-vs-strasbourg/2094"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/paris-vs-strasbourg/2095"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-19 22:00:00",
         "team1Title": "Inter Milan",
@@ -243,7 +222,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lazio_vs_Venezia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lazio_vs_Venezia/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/lazio-vs-venezia",
         "multiWatchPageLink": [
             {
@@ -324,7 +303,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rennes_vs_Olympique%20Lyonnais/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Rennes_vs_Olympique%20Lyonnais/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/rennes-vs-lyon",
         "multiWatchPageLink": [
             {

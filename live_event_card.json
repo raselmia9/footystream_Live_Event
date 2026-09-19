@@ -278,7 +278,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/nottm-forest-vs-coventry-city/2081"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/nottm-forest-vs-coventry-city/2082"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/nottm-forest-vs-coventry-city/2083"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/nottm-forest-vs-coventry-city/2084"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -317,7 +334,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Birmingham%20City/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/chelsea-vs-birmingham-city",
         "multiWatchPageLink": [
             {
@@ -361,7 +378,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/alaves-vs-athletic-club",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/alaves-vs-athletic-club/2073"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/alaves-vs-athletic-club/2074"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -373,7 +399,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/celta-vigo-vs-racing",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2075"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2076"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/celta-vigo-vs-racing/2077"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -385,7 +424,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/barcelona-vs-sevilla",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/barcelona-vs-sevilla/2078"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/barcelona-vs-sevilla/2079"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/barcelona-vs-sevilla/2080"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

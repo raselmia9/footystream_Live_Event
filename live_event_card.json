@@ -508,6 +508,35 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-19 20:00:00",
+        "team1Title": "Birmingham City",
+        "team2Title": "Middlesbrough",
+        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/birmingham-city-vs-middlesbrough",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/birmingham-city-vs-middlesbrough/2092"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-20 17:00:00",
+        "team1Title": "Wolverhampton Wanderers",
+        "team2Title": "West Bromwich Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/wolves-vs-west-brom",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-19 20:15:00",
         "team1Title": "Deportivo Alavés",
@@ -651,18 +680,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-21 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "WSL",
         "matchTime": "2026-09-19 22:30:00",
         "team1Title": "Manchester United",
@@ -733,17 +750,5 @@
                 "url": "https://footystream.pk/alpha/newcastle-knights-vs-warriors/2055"
             }
         ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-20 17:00:00",
-        "team1Title": "Wolverhampton Wanderers",
-        "team2Title": "West Bromwich Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/wolves-vs-west-brom",
-        "multiWatchPageLink": []
     }
 ]

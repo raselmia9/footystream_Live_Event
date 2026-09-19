@@ -85,52 +85,6 @@
         ]
     },
     {
-        "eventTitle": "Intercontinental Cup",
-        "matchTime": "2026-09-19 19:00:00",
-        "team1Title": "Mamelodi Sundowns",
-        "team2Title": "Al Ahli",
-        "team1Logo": "https://cdn.img4every1.org/team/mamelodi-sundowns/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Mamelodi%20Sundowns_vs_Al%20Ahli/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/mamelodi-sundowns-vs-al-ahli",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/mamelodi-sundowns-vs-al-ahli/2091"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-19 19:00:00",
-        "team1Title": "Bologna",
-        "team2Title": "Torino",
-        "team1Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bologna_vs_Torino/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/bologna-vs-torino",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bologna-vs-torino/2085"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-19 19:00:00",
-        "team1Title": "Cagliari",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/cagliari-vs-udinese",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-19 19:30:00",
         "team1Title": "Eintracht Frankfurt",
@@ -278,63 +232,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-20 00:45:00",
-        "team1Title": "Rennes",
-        "team2Title": "Olympique Lyonnais",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/rennes-vs-lyon",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/rennes-vs-lyon/2096"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/rennes-vs-lyon/2097"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-20 19:00:00",
-        "team1Title": "Auxerre",
-        "team2Title": "Brest",
-        "team1Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/auxerre-vs-brest",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-20 21:15:00",
-        "team1Title": "Nice",
-        "team2Title": "Lille",
-        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/nice-vs-lille",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-21 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-09-19 22:00:00",
         "team1Title": "Inter Milan",
@@ -428,7 +325,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Nottingham%20Forest_vs_Coventry%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Nottingham%20Forest_vs_Coventry%20City/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Nottingham%20Forest_vs_Coventry%20City/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Nottingham%20Forest_vs_Coventry%20City/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/nottm-forest-vs-coventry-city",
         "multiWatchPageLink": [
             {
@@ -505,7 +402,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Celta%20de%20Vigo_vs_Racing%20Santander/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Celta%20de%20Vigo_vs_Racing%20Santander/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Celta%20de%20Vigo_vs_Racing%20Santander/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/celta-vigo-vs-racing",
         "multiWatchPageLink": [
             {
@@ -608,7 +505,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Arsenal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20United_vs_Arsenal/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/man-united-vs-arsenal",
         "multiWatchPageLink": [
             {
@@ -629,7 +526,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Borussia%20Dortmund_vs_Stuttgart/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/borussia-dortmund-vs-stuttgart",
         "multiWatchPageLink": [
             {
@@ -682,7 +579,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/warrington-wolves/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hull-kr/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Warrington%20Wolves_vs_Hull%20KR/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/warrington-wolves-vs-hull-kr",
         "multiWatchPageLink": [
             {
@@ -690,6 +587,63 @@
                 "url": "https://footystream.pk/alpha/warrington-wolves-vs-hull-kr/2051"
             }
         ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-20 00:45:00",
+        "team1Title": "Rennes",
+        "team2Title": "Olympique Lyonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/rennes-vs-lyon",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/rennes-vs-lyon/2096"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/rennes-vs-lyon/2097"
+            }
+        ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Title": "Auxerre",
+        "team2Title": "Brest",
+        "team1Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/auxerre-vs-brest",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-20 21:15:00",
+        "team1Title": "Nice",
+        "team2Title": "Lille",
+        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/nice-vs-lille",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-21 00:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "UFC",

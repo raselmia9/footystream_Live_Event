@@ -9,8 +9,8 @@
 🟢 Successfully processed: MotoGP [3/28]
 🟡 Visiting detail page [4/28]: https://footystream.pk/events/goodwood-festival-of-speed
 🟢 Successfully processed: PGA Tour [2/28]
-🟢 Successfully processed: PGA Tour [1/28]
 🟡 Visiting detail page [5/28]: https://footystream.pk/events/world-series-of-darts-finals
+🟢 Successfully processed: PGA Tour [1/28]
 🟡 Visiting detail page [6/28]: https://footystream.pk/events/joshua-van-vs-alexandre-pantoja
 🟢 Successfully processed: MotorSports [4/28]
 🟡 Visiting detail page [7/28]: https://footystream.pk/events/newcastle-knights-vs-warriors
@@ -52,11 +52,11 @@
 🟡 Visiting detail page [25/28]: https://footystream.pk/events/fulham-vs-manchester-united
 🟢 Successfully processed: Premier League [24/28]
 🟡 Visiting detail page [26/28]: https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig
-🟢 Successfully processed: LaLiga [17/28]
-🟡 Visiting detail page [27/28]: https://footystream.pk/events/schalke-04-vs-elversberg
 🟢 Successfully processed: Premier League [25/28]
-🟡 Visiting detail page [28/28]: https://footystream.pk/events/paderborn-vs-hoffenheim
+🟡 Visiting detail page [27/28]: https://footystream.pk/events/schalke-04-vs-elversberg
 🟢 Successfully processed: Bundesliga [26/28]
+🟡 Visiting detail page [28/28]: https://footystream.pk/events/paderborn-vs-hoffenheim
+🟢 Successfully processed: LaLiga [17/28]
 🟢 Successfully processed: Bundesliga [27/28]
 🟢 Successfully processed: Bundesliga [28/28]
 🟢 Browser closed successfully.

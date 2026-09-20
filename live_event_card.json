@@ -587,6 +587,57 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-09-20 23:00:00",
+        "team1Title": "Philadelphia Eagles",
+        "team2Title": "Tennessee Titans",
+        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/eagles-vs-titans",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/eagles-vs-titans/2160"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-20 23:00:00",
+        "team1Title": "New York Jets",
+        "team2Title": "Green Bay Packers",
+        "team1Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/jets-vs-packers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/jets-vs-packers/2161"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-20 23:00:00",
+        "team1Title": "Houston Texans",
+        "team2Title": "Cincinnati Bengals",
+        "team1Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/texans-vs-bengals",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/texans-vs-bengals/2162"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-20 23:00:00",
         "team1Title": "Chicago Bears",
         "team2Title": "Minnesota Vikings",
         "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
@@ -615,6 +666,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/patriots-vs-steelers/2159"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-20 23:00:00",
+        "team1Title": "Atlanta Falcons",
+        "team2Title": "Carolina Panthers",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/falcons-vs-panthers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/falcons-vs-panthers/2163"
             }
         ]
     }

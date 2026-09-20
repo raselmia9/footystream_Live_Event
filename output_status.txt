@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 8
-🟡 Visiting detail page [2/8]: https://footystream.pk/events/porto-vs-benfica
 🟡 Visiting detail page [1/8]: https://footystream.pk/events/biltmore-championship
+🟡 Visiting detail page [2/8]: https://footystream.pk/events/porto-vs-benfica
 🟡 Visiting detail page [3/8]: https://footystream.pk/events/broncos-vs-jaguars
 🟢 Successfully processed: PGA Tour [1/8]
-🟢 Successfully processed: NFL [3/8]
 🟡 Visiting detail page [4/8]: https://footystream.pk/events/raiders-vs-chargers
-🟡 Visiting detail page [5/8]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
 🟢 Successfully processed: Liga Portugal [2/8]
+🟡 Visiting detail page [5/8]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
+🟢 Successfully processed: NFL [3/8]
 🟡 Visiting detail page [6/8]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
-🟢 Successfully processed: NFL [6/8]
-🟡 Visiting detail page [7/8]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
 🟢 Successfully processed: NFL [4/8]
+🟡 Visiting detail page [7/8]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
+🟢 Successfully processed: NFL [6/8]
 🟡 Visiting detail page [8/8]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
 🟢 Successfully processed: NFL [5/8]
 🟢 Successfully processed: NFL [7/8]

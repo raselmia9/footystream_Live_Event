@@ -19,12 +19,12 @@
     {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-09-21 01:30:00",
-        "team1Title": "Porto",
-        "team2Title": "Benfica",
+        "team1Title": "Event Ended",
+        "team2Title": "Porto",
         "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Porto_vs_Benfica/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Porto/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/porto-vs-benfica",
         "multiWatchPageLink": [
             {

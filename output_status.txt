@@ -6,23 +6,23 @@
 🟡 Visiting detail page [2/12]: https://footystream.pk/events/psg-vs-marseille
 🟡 Visiting detail page [1/12]: https://footystream.pk/events/milan-vs-lecce
 🟡 Visiting detail page [3/12]: https://footystream.pk/events/biltmore-championship
-🟢 Successfully processed: PGA Tour [3/12]
 🟢 Successfully processed: Serie A [1/12]
+🟢 Successfully processed: French Ligue 1 [2/12]
+🟢 Successfully processed: PGA Tour [3/12]
 🟡 Visiting detail page [4/12]: https://footystream.pk/events/world-series-of-darts-finals
 🟡 Visiting detail page [5/12]: https://footystream.pk/events/real-sociedad-vs-valencia
-🟢 Successfully processed: French Ligue 1 [2/12]
 🟡 Visiting detail page [6/12]: https://footystream.pk/events/porto-vs-benfica
-🟢 Successfully processed: Darts [4/12]
 🟢 Successfully processed: Liga Portugal [6/12]
-🟡 Visiting detail page [8/12]: https://footystream.pk/events/raiders-vs-chargers
 🟡 Visiting detail page [7/12]: https://footystream.pk/events/broncos-vs-jaguars
+🟢 Successfully processed: Darts [4/12]
 🟢 Successfully processed: LaLiga [5/12]
 🟡 Visiting detail page [9/12]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
-🟢 Successfully processed: NFL [7/12]
+🟡 Visiting detail page [8/12]: https://footystream.pk/events/raiders-vs-chargers
+🟢 Successfully processed: NFL [8/12]
 🟡 Visiting detail page [10/12]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
 🟢 Successfully processed: NFL [9/12]
 🟡 Visiting detail page [11/12]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
-🟢 Successfully processed: NFL [8/12]
+🟢 Successfully processed: NFL [7/12]
 🟡 Visiting detail page [12/12]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
 🟢 Successfully processed: NFL [10/12]
 🟢 Successfully processed: NFL [11/12]

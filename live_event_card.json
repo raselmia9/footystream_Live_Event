@@ -413,10 +413,6 @@
             {
                 "channel": "Link 4",
                 "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2132"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2133"
             }
         ]
     },
@@ -471,10 +467,6 @@
             {
                 "channel": "Link 4",
                 "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2127"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2128"
             }
         ]
     },
@@ -488,7 +480,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/fulham-vs-manchester-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/fulham-vs-manchester-united/2149"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/fulham-vs-manchester-united/2150"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/fulham-vs-manchester-united/2151"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",

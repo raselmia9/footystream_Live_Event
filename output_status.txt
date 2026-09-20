@@ -2,58 +2,56 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 26
-🟡 Visiting detail page [1/26]: https://footystream.pk/events/biltmore-championship
-🟡 Visiting detail page [3/26]: https://footystream.pk/events/world-series-of-darts-finals
-🟡 Visiting detail page [2/26]: https://footystream.pk/events/goodwood-festival-of-speed
-🟢 Successfully processed: Darts [3/26]
-🟡 Visiting detail page [4/26]: https://footystream.pk/events/nice-vs-lille
-🟢 Successfully processed: PGA Tour [1/26]
-🟢 Successfully processed: MotorSports [2/26]
-🟡 Visiting detail page [5/26]: https://footystream.pk/events/schalke-04-vs-elversberg
-🟡 Visiting detail page [6/26]: https://footystream.pk/events/fulham-vs-manchester-united
-🟢 Successfully processed: Bundesliga [5/26]
-🟢 Successfully processed: Premier League [6/26]
-🟡 Visiting detail page [8/26]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis
-🟡 Visiting detail page [7/26]: https://footystream.pk/events/juventus-vs-atalanta
-🟢 Successfully processed: French Ligue 1 [4/26]
-🟡 Visiting detail page [9/26]: https://footystream.pk/events/levante-vs-villarreal
-🟢 Successfully processed: LaLiga [9/26]
-🟢 Successfully processed: Serie A [7/26]
-🟢 Successfully processed: LaLiga [8/26]
-🟡 Visiting detail page [10/26]: https://footystream.pk/events/eagles-vs-titans
-🟡 Visiting detail page [11/26]: https://footystream.pk/events/jets-vs-packers
-🟡 Visiting detail page [12/26]: https://footystream.pk/events/texans-vs-bengals
-🟢 Successfully processed: NFL [10/26]
-🟡 Visiting detail page [13/26]: https://footystream.pk/events/chicago-bears-vs-minnesota-vikings
-🟢 Successfully processed: NFL [12/26]
-🟡 Visiting detail page [14/26]: https://footystream.pk/events/patriots-vs-steelers
-🟢 Successfully processed: NFL [11/26]
-🟡 Visiting detail page [15/26]: https://footystream.pk/events/falcons-vs-panthers
-🟢 Successfully processed: NFL [13/26]
-🟡 Visiting detail page [16/26]: https://footystream.pk/events/paderborn-vs-hoffenheim
-🟢 Successfully processed: NFL [14/26]
-🟡 Visiting detail page [17/26]: https://footystream.pk/events/milan-vs-lecce
-🟢 Successfully processed: NFL [15/26]
-🟡 Visiting detail page [18/26]: https://footystream.pk/events/psg-vs-marseille
-🟢 Successfully processed: Bundesliga [16/26]
-🟡 Visiting detail page [19/26]: https://footystream.pk/events/real-sociedad-vs-valencia
-🟢 Successfully processed: Serie A [17/26]
-🟡 Visiting detail page [20/26]: https://footystream.pk/events/porto-vs-benfica
-🟢 Successfully processed: French Ligue 1 [18/26]
-🟡 Visiting detail page [21/26]: https://footystream.pk/events/broncos-vs-jaguars
-🟢 Successfully processed: LaLiga [19/26]
-🟡 Visiting detail page [22/26]: https://footystream.pk/events/raiders-vs-chargers
-🟢 Successfully processed: Liga Portugal [20/26]
-🟡 Visiting detail page [23/26]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
-🟢 Successfully processed: NFL [21/26]
-🟡 Visiting detail page [24/26]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
-🟢 Successfully processed: NFL [22/26]
-🟡 Visiting detail page [25/26]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
-🟢 Successfully processed: NFL [23/26]
-🟡 Visiting detail page [26/26]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
-🟢 Successfully processed: NFL [24/26]
-🟢 Successfully processed: NFL [25/26]
-🟢 Successfully processed: NFL [26/26]
+🟢 Total unique detail links to process in parallel: 25
+🟡 Visiting detail page [3/25]: https://footystream.pk/events/world-series-of-darts-finals
+🟡 Visiting detail page [2/25]: https://footystream.pk/events/goodwood-festival-of-speed
+🟡 Visiting detail page [1/25]: https://footystream.pk/events/biltmore-championship
+🟢 Successfully processed: PGA Tour [1/25]
+🟡 Visiting detail page [4/25]: https://footystream.pk/events/schalke-04-vs-elversberg
+🟢 Successfully processed: MotorSports [2/25]
+🟡 Visiting detail page [5/25]: https://footystream.pk/events/fulham-vs-manchester-united
+🟢 Successfully processed: Darts [3/25]
+🟡 Visiting detail page [6/25]: https://footystream.pk/events/juventus-vs-atalanta
+🟢 Successfully processed: Bundesliga [4/25]
+🟡 Visiting detail page [7/25]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis
+🟢 Successfully processed: Premier League [5/25]
+🟡 Visiting detail page [8/25]: https://footystream.pk/events/levante-vs-villarreal
+🟢 Successfully processed: Serie A [6/25]
+🟡 Visiting detail page [9/25]: https://footystream.pk/events/eagles-vs-titans
+🟢 Successfully processed: LaLiga [7/25]
+🟡 Visiting detail page [10/25]: https://footystream.pk/events/jets-vs-packers
+🟢 Successfully processed: LaLiga [8/25]
+🟡 Visiting detail page [11/25]: https://footystream.pk/events/texans-vs-bengals
+🟢 Successfully processed: NFL [9/25]
+🟡 Visiting detail page [12/25]: https://footystream.pk/events/chicago-bears-vs-minnesota-vikings
+🟢 Successfully processed: NFL [10/25]
+🟡 Visiting detail page [13/25]: https://footystream.pk/events/patriots-vs-steelers
+🟢 Successfully processed: NFL [11/25]
+🟡 Visiting detail page [14/25]: https://footystream.pk/events/falcons-vs-panthers
+🟢 Successfully processed: NFL [12/25]
+🟡 Visiting detail page [15/25]: https://footystream.pk/events/paderborn-vs-hoffenheim
+🟢 Successfully processed: NFL [13/25]
+🟡 Visiting detail page [16/25]: https://footystream.pk/events/milan-vs-lecce
+🟢 Successfully processed: NFL [14/25]
+🟡 Visiting detail page [17/25]: https://footystream.pk/events/psg-vs-marseille
+🟢 Successfully processed: Bundesliga [15/25]
+🟡 Visiting detail page [18/25]: https://footystream.pk/events/real-sociedad-vs-valencia
+🟢 Successfully processed: Serie A [16/25]
+🟡 Visiting detail page [19/25]: https://footystream.pk/events/porto-vs-benfica
+🟢 Successfully processed: French Ligue 1 [17/25]
+🟡 Visiting detail page [20/25]: https://footystream.pk/events/broncos-vs-jaguars
+🟢 Successfully processed: LaLiga [18/25]
+🟡 Visiting detail page [21/25]: https://footystream.pk/events/raiders-vs-chargers
+🟢 Successfully processed: Liga Portugal [19/25]
+🟡 Visiting detail page [22/25]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
+🟢 Successfully processed: NFL [20/25]
+🟡 Visiting detail page [23/25]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
+🟢 Successfully processed: NFL [21/25]
+🟡 Visiting detail page [24/25]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
+🟢 Successfully processed: NFL [22/25]
+🟡 Visiting detail page [25/25]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
+🟢 Successfully processed: NFL [23/25]
+🟢 Successfully processed: NFL [25/25]
+🟢 Successfully processed: NFL [24/25]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 26
+🟢 Process completed successfully. Total collected events: 25

@@ -2,52 +2,50 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 23
-🟡 Visiting detail page [3/23]: https://footystream.pk/events/world-series-of-darts-finals
-🟡 Visiting detail page [2/23]: https://footystream.pk/events/goodwood-festival-of-speed
-🟡 Visiting detail page [1/23]: https://footystream.pk/events/biltmore-championship
-🟢 Successfully processed: PGA Tour [1/23]
-🟢 Successfully processed: MotorSports [2/23]
-🟡 Visiting detail page [4/23]: https://footystream.pk/events/juventus-vs-atalanta
-🟡 Visiting detail page [5/23]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis
-🟢 Successfully processed: Darts [3/23]
-🟡 Visiting detail page [6/23]: https://footystream.pk/events/levante-vs-villarreal
-🟢 Successfully processed: Serie A [4/23]
-🟡 Visiting detail page [7/23]: https://footystream.pk/events/eagles-vs-titans
-🟢 Successfully processed: LaLiga [6/23]
-🟢 Successfully processed: LaLiga [5/23]
-🟡 Visiting detail page [8/23]: https://footystream.pk/events/jets-vs-packers
-🟡 Visiting detail page [9/23]: https://footystream.pk/events/texans-vs-bengals
-🟢 Successfully processed: NFL [8/23]
-🟢 Successfully processed: NFL [7/23]
-🟢 Successfully processed: NFL [9/23]
-🟡 Visiting detail page [10/23]: https://footystream.pk/events/chicago-bears-vs-minnesota-vikings
-🟡 Visiting detail page [11/23]: https://footystream.pk/events/patriots-vs-steelers
-🟡 Visiting detail page [12/23]: https://footystream.pk/events/falcons-vs-panthers
-🟢 Successfully processed: NFL [10/23]
-🟡 Visiting detail page [13/23]: https://footystream.pk/events/paderborn-vs-hoffenheim
-🟢 Successfully processed: NFL [11/23]
-🟡 Visiting detail page [14/23]: https://footystream.pk/events/milan-vs-lecce
-🟢 Successfully processed: NFL [12/23]
-🟡 Visiting detail page [15/23]: https://footystream.pk/events/psg-vs-marseille
-🟢 Successfully processed: Bundesliga [13/23]
-🟡 Visiting detail page [16/23]: https://footystream.pk/events/real-sociedad-vs-valencia
-🟢 Successfully processed: French Ligue 1 [15/23]
-🟢 Successfully processed: Serie A [14/23]
-🟡 Visiting detail page [17/23]: https://footystream.pk/events/porto-vs-benfica
-🟡 Visiting detail page [18/23]: https://footystream.pk/events/broncos-vs-jaguars
-🟢 Successfully processed: LaLiga [16/23]
-🟡 Visiting detail page [19/23]: https://footystream.pk/events/raiders-vs-chargers
-🟢 Successfully processed: NFL [18/23]
-🟢 Successfully processed: Liga Portugal [17/23]
-🟡 Visiting detail page [20/23]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
-🟡 Visiting detail page [21/23]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
-🟢 Successfully processed: NFL [19/23]
-🟡 Visiting detail page [22/23]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
-🟢 Successfully processed: NFL [21/23]
-🟡 Visiting detail page [23/23]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
-🟢 Successfully processed: NFL [20/23]
-🟢 Successfully processed: NFL [22/23]
-🟢 Successfully processed: NFL [23/23]
+🟢 Total unique detail links to process in parallel: 22
+🟡 Visiting detail page [1/22]: https://footystream.pk/events/biltmore-championship
+🟡 Visiting detail page [2/22]: https://footystream.pk/events/world-series-of-darts-finals
+🟡 Visiting detail page [3/22]: https://footystream.pk/events/juventus-vs-atalanta
+🟢 Successfully processed: Darts [2/22]
+🟡 Visiting detail page [4/22]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis
+🟢 Successfully processed: PGA Tour [1/22]
+🟢 Successfully processed: Serie A [3/22]
+🟡 Visiting detail page [5/22]: https://footystream.pk/events/levante-vs-villarreal
+🟡 Visiting detail page [6/22]: https://footystream.pk/events/eagles-vs-titans
+🟢 Successfully processed: NFL [6/22]
+🟡 Visiting detail page [7/22]: https://footystream.pk/events/jets-vs-packers
+🟢 Successfully processed: LaLiga [4/22]
+🟢 Successfully processed: LaLiga [5/22]
+🟡 Visiting detail page [9/22]: https://footystream.pk/events/chicago-bears-vs-minnesota-vikings
+🟡 Visiting detail page [8/22]: https://footystream.pk/events/texans-vs-bengals
+🟢 Successfully processed: NFL [8/22]
+🟡 Visiting detail page [10/22]: https://footystream.pk/events/patriots-vs-steelers
+🟢 Successfully processed: NFL [7/22]
+🟡 Visiting detail page [11/22]: https://footystream.pk/events/falcons-vs-panthers
+🟢 Successfully processed: NFL [9/22]
+🟡 Visiting detail page [12/22]: https://footystream.pk/events/paderborn-vs-hoffenheim
+🟢 Successfully processed: NFL [10/22]
+🟢 Successfully processed: NFL [11/22]
+🟡 Visiting detail page [13/22]: https://footystream.pk/events/milan-vs-lecce
+🟡 Visiting detail page [14/22]: https://footystream.pk/events/psg-vs-marseille
+🟢 Successfully processed: Bundesliga [12/22]
+🟡 Visiting detail page [15/22]: https://footystream.pk/events/real-sociedad-vs-valencia
+🟢 Successfully processed: Serie A [13/22]
+🟡 Visiting detail page [16/22]: https://footystream.pk/events/porto-vs-benfica
+🟢 Successfully processed: French Ligue 1 [14/22]
+🟢 Successfully processed: LaLiga [15/22]
+🟡 Visiting detail page [17/22]: https://footystream.pk/events/broncos-vs-jaguars
+🟡 Visiting detail page [18/22]: https://footystream.pk/events/raiders-vs-chargers
+🟢 Successfully processed: Liga Portugal [16/22]
+🟡 Visiting detail page [19/22]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
+🟢 Successfully processed: NFL [18/22]
+🟡 Visiting detail page [20/22]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
+🟢 Successfully processed: NFL [17/22]
+🟡 Visiting detail page [21/22]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
+🟢 Successfully processed: NFL [20/22]
+🟡 Visiting detail page [22/22]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
+🟢 Successfully processed: NFL [19/22]
+🟢 Successfully processed: NFL [21/22]
+🟢 Successfully processed: NFL [22/22]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 23
+🟢 Process completed successfully. Total collected events: 22

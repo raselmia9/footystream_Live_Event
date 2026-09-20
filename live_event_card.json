@@ -118,27 +118,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-20 16:30:00",
-        "team1Title": "Napoli",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Napoli_vs_Fiorentina/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Napoli_vs_Fiorentina/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/napoli-vs-fiorentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/napoli-vs-fiorentina/2100"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/napoli-vs-fiorentina/2101"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-20 17:00:00",
         "team1Title": "Wolverhampton Wanderers",
@@ -324,7 +303,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2171"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2172"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2173"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -435,6 +427,23 @@
             {
                 "channel": "Link 4",
                 "url": "https://footystream.pk/alpha/fulham-vs-manchester-united/2152"
+            }
+        ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-20 19:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Tottenham Hotspur",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Crystal%20Palace_vs_Tottenham%20Hotspur/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/crystal-palace-vs-tottenham",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/crystal-palace-vs-tottenham/2169"
             }
         ]
     },

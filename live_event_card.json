@@ -84,27 +84,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-20 19:30:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "RB Leipzig",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayer%20Leverkusen_vs_RB%20Leipzig/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayer%20Leverkusen_vs_RB%20Leipzig/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bayer-leverkusen-vs-rb-leipzig/2141"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/bayer-leverkusen-vs-rb-leipzig/2144"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-09-20 21:15:00",
         "team1Title": "Nice",
@@ -316,7 +295,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Philadelphia%20Eagles_vs_Tennessee%20Titans/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/eagles-vs-titans",
         "multiWatchPageLink": [
             {
@@ -333,7 +312,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20York%20Jets_vs_Green%20Bay%20Packers/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/jets-vs-packers",
         "multiWatchPageLink": [
             {
@@ -350,7 +329,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Houston%20Texans_vs_Cincinnati%20Bengals/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/texans-vs-bengals",
         "multiWatchPageLink": [
             {
@@ -367,7 +346,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chicago%20Bears_vs_Minnesota%20Vikings/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/chicago-bears-vs-minnesota-vikings",
         "multiWatchPageLink": [
             {
@@ -384,7 +363,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20England%20Patriots_vs_Pittsburgh%20Steelers/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/patriots-vs-steelers",
         "multiWatchPageLink": [
             {
@@ -401,7 +380,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atlanta%20Falcons_vs_Carolina%20Panthers/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/falcons-vs-panthers",
         "multiWatchPageLink": [
             {

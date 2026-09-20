@@ -1,63 +1,5 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-20 19:00:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Sunderland/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Sunderland/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Sunderland/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Sunderland/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/manchester-city-vs-sunderland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2129"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2130"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2131"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/manchester-city-vs-sunderland/2132"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-20 19:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "AFC Bournemouth",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_AFC%20Bournemouth/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_AFC%20Bournemouth/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_AFC%20Bournemouth/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liverpool_vs_AFC%20Bournemouth/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/liverpool-vs-bournemouth",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2124"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2125"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2126"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/liverpool-vs-bournemouth/2127"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-20 20:15:00",
         "team1Title": "Real Madrid",
@@ -65,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Real%20Madrid_vs_Atl%C3%A9tico%20Madrid/Link%205.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/real-madrid-vs-atletico",
         "multiWatchPageLink": [
             {
@@ -83,6 +25,10 @@
             {
                 "channel": "Link 4",
                 "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2113"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2177"
             }
         ]
     },
@@ -138,107 +84,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-20 19:00:00",
-        "team1Title": "Como",
-        "team2Title": "Frosinone Calcio",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Como_vs_Frosinone%20Calcio/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/como-vs-frosinone",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/como-vs-frosinone/2105"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-20 19:00:00",
-        "team1Title": "Auxerre",
-        "team2Title": "Brest",
-        "team1Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Auxerre_vs_Brest/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Auxerre_vs_Brest/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Auxerre_vs_Brest/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/auxerre-vs-brest",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/auxerre-vs-brest/2138"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/auxerre-vs-brest/2139"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/auxerre-vs-brest/2140"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-09-20 19:00:00",
-        "team1Title": "Leeds United",
-        "team2Title": "Crystal Palace",
-        "team1Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Crystal%20Palace/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Crystal%20Palace/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leeds%20United_vs_Crystal%20Palace/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/leeds-united-vs-crystal-palace",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/leeds-united-vs-crystal-palace/2134"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/leeds-united-vs-crystal-palace/2135"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/leeds-united-vs-crystal-palace/2136"
-            }
-        ]
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-09-20 19:00:00",
-        "team1Title": "Crystal Palace",
-        "team2Title": "Tottenham Hotspur",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Crystal%20Palace_vs_Tottenham%20Hotspur/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/crystal-palace-vs-tottenham",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/crystal-palace-vs-tottenham/2169"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-20 19:00:00",
-        "team1Title": "Genoa",
-        "team2Title": "Parma",
-        "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Genoa_vs_Parma/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/genoa-vs-parma",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/genoa-vs-parma/2104"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-09-20 19:30:00",
         "team1Title": "Bayer Leverkusen",
@@ -277,31 +122,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://footystream.pk/alpha/nice-vs-lille/2143"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-21 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2171"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2172"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2173"
             }
         ]
     },
@@ -434,7 +254,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20La%20Coru%C3%B1a_vs_Real%20Betis/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20La%20Coru%C3%B1a_vs_Real%20Betis/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20La%20Coru%C3%B1a_vs_Real%20Betis/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20La%20Coru%C3%B1a_vs_Real%20Betis/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Deportivo%20La%20Coru%C3%B1a_vs_Real%20Betis/Link%205.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/deportivo-la-coruna-vs-real-betis",
         "multiWatchPageLink": [
             {
@@ -467,7 +287,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Levante_vs_Villarreal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Levante_vs_Villarreal/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/levante-vs-villarreal",
         "multiWatchPageLink": [
             {
@@ -608,6 +428,31 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/falcons-vs-panthers/2163"
+            }
+        ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-21 00:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2171"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2172"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2173"
             }
         ]
     },

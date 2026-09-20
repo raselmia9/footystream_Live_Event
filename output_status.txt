@@ -3,19 +3,19 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 7
+🟡 Visiting detail page [1/7]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [2/7]: https://footystream.pk/events/broncos-vs-jaguars
 🟡 Visiting detail page [3/7]: https://footystream.pk/events/raiders-vs-chargers
-🟡 Visiting detail page [1/7]: https://footystream.pk/events/biltmore-championship
-🟢 Successfully processed: PGA Tour [1/7]
 🟢 Successfully processed: NFL [3/7]
 🟡 Visiting detail page [4/7]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
 🟢 Successfully processed: NFL [2/7]
 🟡 Visiting detail page [5/7]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
+🟢 Successfully processed: PGA Tour [1/7]
 🟡 Visiting detail page [6/7]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
-🟢 Successfully processed: NFL [6/7]
+🟢 Successfully processed: NFL [5/7]
 🟡 Visiting detail page [7/7]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
 🟢 Successfully processed: NFL [4/7]
-🟢 Successfully processed: NFL [5/7]
+🟢 Successfully processed: NFL [6/7]
 🟢 Successfully processed: NFL [7/7]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 7

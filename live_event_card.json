@@ -128,23 +128,6 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-09-21 02:05:00",
-        "team1Title": "Denver Broncos",
-        "team2Title": "Jacksonville Jaguars",
-        "team1Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Denver%20Broncos_vs_Jacksonville%20Jaguars/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/broncos-vs-jaguars",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/broncos-vs-jaguars/2164"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-21 02:05:00",
         "team1Title": "Las Vegas Raiders",
         "team2Title": "Los Angeles Chargers",
         "team1Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",

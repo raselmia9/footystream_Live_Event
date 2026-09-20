@@ -8,17 +8,17 @@
 🟡 Visiting detail page [3/26]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: MotoGP [3/26]
 🟡 Visiting detail page [4/26]: https://footystream.pk/events/goodwood-festival-of-speed
-🟢 Successfully processed: PGA Tour [2/26]
-🟡 Visiting detail page [5/26]: https://footystream.pk/events/world-series-of-darts-finals
 🟢 Successfully processed: PGA Tour [1/26]
+🟡 Visiting detail page [5/26]: https://footystream.pk/events/world-series-of-darts-finals
+🟢 Successfully processed: PGA Tour [2/26]
 🟡 Visiting detail page [6/26]: https://footystream.pk/events/napoli-vs-fiorentina
 🟢 Successfully processed: Serie A [6/26]
 🟡 Visiting detail page [7/26]: https://footystream.pk/events/como-vs-frosinone
 🟢 Successfully processed: Serie A [7/26]
 🟡 Visiting detail page [8/26]: https://footystream.pk/events/genoa-vs-parma
-🟢 Successfully processed: Darts [5/26]
-🟡 Visiting detail page [9/26]: https://footystream.pk/events/juventus-vs-atalanta
 🟢 Successfully processed: MotorSports [4/26]
+🟡 Visiting detail page [9/26]: https://footystream.pk/events/juventus-vs-atalanta
+🟢 Successfully processed: Darts [5/26]
 🟡 Visiting detail page [10/26]: https://footystream.pk/events/milan-vs-lecce
 🟢 Successfully processed: Serie A [8/26]
 🟡 Visiting detail page [11/26]: https://footystream.pk/events/wolves-vs-west-brom

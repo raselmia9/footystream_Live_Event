@@ -1,56 +1,5 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-17 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Biltmore Championship",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Biltmore%20Championship/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/biltmore-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/biltmore-championship/1997"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-21 02:05:00",
-        "team1Title": "Denver Broncos",
-        "team2Title": "Jacksonville Jaguars",
-        "team1Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Denver%20Broncos_vs_Jacksonville%20Jaguars/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/broncos-vs-jaguars",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/broncos-vs-jaguars/2164"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-21 02:05:00",
-        "team1Title": "Las Vegas Raiders",
-        "team2Title": "Los Angeles Chargers",
-        "team1Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Las%20Vegas%20Raiders_vs_Los%20Angeles%20Chargers/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/raiders-vs-chargers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/raiders-vs-chargers/2165"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-21 02:25:00",
         "team1Title": "Miami Dolphins",
@@ -109,7 +58,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Kansas%20City%20Chiefs_vs_Indianapolis%20Colts/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Kansas%20City%20Chiefs_vs_Indianapolis%20Colts/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts",
         "multiWatchPageLink": [
             {

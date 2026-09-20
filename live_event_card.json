@@ -1,5 +1,51 @@
 [
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-09-21 00:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Lecce",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Lecce/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Lecce/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/milan-vs-lecce",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/milan-vs-lecce/2156"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/milan-vs-lecce/2157"
+            }
+        ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-09-21 00:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2171"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2172"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/psg-vs-marseille/2173"
+            }
+        ]
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-17 22:00:00",
         "team1Title": "Biltmore Championship",
@@ -30,60 +76,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/world-series-of-darts-finals/2052"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-20 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Deportivo%20La%20Coru%C3%B1a/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Deportivo%20La%20Coru%C3%B1a/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Deportivo%20La%20Coru%C3%B1a/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Deportivo%20La%20Coru%C3%B1a/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Deportivo%20La%20Coru%C3%B1a/Link%205.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/deportivo-la-coruna-vs-real-betis",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2114"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2115"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2116"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2117"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2118"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-09-20 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Levante/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Levante/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/levante-vs-villarreal",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/levante-vs-villarreal/2054"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/levante-vs-villarreal/2119"
             }
         ]
     },
@@ -211,52 +203,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-21 00:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Lecce",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Lecce/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Lecce/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/milan-vs-lecce",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/milan-vs-lecce/2156"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/milan-vs-lecce/2157"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-21 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2171"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2172"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2173"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-09-21 01:00:00",
         "team1Title": "Real Sociedad",
@@ -310,7 +256,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Denver%20Broncos_vs_Jacksonville%20Jaguars/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/broncos-vs-jaguars",
         "multiWatchPageLink": [
             {
@@ -327,7 +273,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Las%20Vegas%20Raiders_vs_Los%20Angeles%20Chargers/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/raiders-vs-chargers",
         "multiWatchPageLink": [
             {
@@ -384,27 +330,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/seattle-seahawks-vs-cardinals/2168"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-21 06:20:00",
-        "team1Title": "Kansas City Chiefs",
-        "team2Title": "Indianapolis Colts",
-        "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/kansas-city-chiefs-vs-indianapolis-colts/2174"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/kansas-city-chiefs-vs-indianapolis-colts/2175"
             }
         ]
     }

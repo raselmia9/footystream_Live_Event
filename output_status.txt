@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 26
-🟡 Visiting detail page [2/26]: https://footystream.pk/events/biltmore-championship
-🟡 Visiting detail page [3/26]: https://footystream.pk/events/motogp-austria-grand-prix
 🟡 Visiting detail page [1/26]: https://footystream.pk/events/bmw-championship
+🟡 Visiting detail page [3/26]: https://footystream.pk/events/motogp-austria-grand-prix
+🟡 Visiting detail page [2/26]: https://footystream.pk/events/biltmore-championship
 🟢 Successfully processed: PGA Tour [2/26]
 🟡 Visiting detail page [4/26]: https://footystream.pk/events/goodwood-festival-of-speed
-🟢 Successfully processed: PGA Tour [1/26]
-🟡 Visiting detail page [5/26]: https://footystream.pk/events/world-series-of-darts-finals
 🟢 Successfully processed: MotoGP [3/26]
+🟡 Visiting detail page [5/26]: https://footystream.pk/events/world-series-of-darts-finals
+🟢 Successfully processed: PGA Tour [1/26]
 🟡 Visiting detail page [6/26]: https://footystream.pk/events/napoli-vs-fiorentina
 🟢 Successfully processed: Serie A [6/26]
 🟡 Visiting detail page [7/26]: https://footystream.pk/events/como-vs-frosinone
@@ -20,9 +20,9 @@
 🟡 Visiting detail page [9/26]: https://footystream.pk/events/juventus-vs-atalanta
 🟢 Successfully processed: Darts [5/26]
 🟡 Visiting detail page [10/26]: https://footystream.pk/events/milan-vs-lecce
-🟢 Successfully processed: Serie A [9/26]
-🟡 Visiting detail page [11/26]: https://footystream.pk/events/wolves-vs-west-brom
 🟢 Successfully processed: Serie A [8/26]
+🟡 Visiting detail page [11/26]: https://footystream.pk/events/wolves-vs-west-brom
+🟢 Successfully processed: Serie A [9/26]
 🟡 Visiting detail page [12/26]: https://footystream.pk/events/getafe-vs-malaga
 🟢 Successfully processed: Serie A [10/26]
 🟡 Visiting detail page [13/26]: https://footystream.pk/events/real-madrid-vs-atletico
@@ -50,10 +50,10 @@
 🟡 Visiting detail page [24/26]: https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig
 🟢 Successfully processed: Premier League [23/26]
 🟡 Visiting detail page [25/26]: https://footystream.pk/events/schalke-04-vs-elversberg
-🟢 Successfully processed: LaLiga [15/26]
-🟡 Visiting detail page [26/26]: https://footystream.pk/events/paderborn-vs-hoffenheim
 🟢 Successfully processed: Bundesliga [24/26]
+🟡 Visiting detail page [26/26]: https://footystream.pk/events/paderborn-vs-hoffenheim
 🟢 Successfully processed: Bundesliga [25/26]
 🟢 Successfully processed: Bundesliga [26/26]
+🟢 Successfully processed: LaLiga [15/26]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 26

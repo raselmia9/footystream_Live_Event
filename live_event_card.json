@@ -1,57 +1,6 @@
 [
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-09-21 02:25:00",
-        "team1Title": "Miami Dolphins",
-        "team2Title": "San Francisco 49ers",
-        "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Miami%20Dolphins_vs_San%20Francisco%2049ers/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/dolphins-vs-49ers-live-stream",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/dolphins-vs-49ers-live-stream/2167"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-21 02:25:00",
-        "team1Title": "Dallas Cowboys",
-        "team2Title": "Washington Commanders",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Dallas%20Cowboys_vs_Washington%20Commanders/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/dallas-cowboys-vs-commanders-live1",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/dallas-cowboys-vs-commanders-live1/2166"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-21 02:25:00",
-        "team1Title": "Seattle Seahawks",
-        "team2Title": "Arizona Cardinals",
-        "team1Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Seattle%20Seahawks_vs_Arizona%20Cardinals/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/seattle-seahawks-vs-cardinals",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/seattle-seahawks-vs-cardinals/2168"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
         "matchTime": "2026-09-21 06:20:00",
         "team1Title": "Kansas City Chiefs",
         "team2Title": "Indianapolis Colts",

@@ -2,14 +2,8 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 4
-🟡 Visiting detail page [3/4]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
-🟡 Visiting detail page [2/4]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
-🟡 Visiting detail page [1/4]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
-🟢 Successfully processed: NFL [2/4]
-🟡 Visiting detail page [4/4]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
-🟢 Successfully processed: NFL [3/4]
-🟢 Successfully processed: NFL [1/4]
-🟢 Successfully processed: NFL [4/4]
+🟢 Total unique detail links to process in parallel: 1
+🟡 Visiting detail page [1/1]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
+🟢 Successfully processed: NFL [1/1]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 4
+🟢 Process completed successfully. Total collected events: 1

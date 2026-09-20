@@ -147,27 +147,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-09-20 23:30:00",
-        "team1Title": "Paderborn",
-        "team2Title": "Hoffenheim",
-        "team1Logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/paderborn-vs-hoffenheim",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/paderborn-vs-hoffenheim/2145"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/paderborn-vs-hoffenheim/2146"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-09-20 21:30:00",
         "team1Title": "Fulham",
@@ -428,6 +407,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/falcons-vs-panthers/2163"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-09-20 23:30:00",
+        "team1Title": "Paderborn",
+        "team2Title": "Hoffenheim",
+        "team1Logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/paderborn-vs-hoffenheim",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/paderborn-vs-hoffenheim/2145"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/paderborn-vs-hoffenheim/2146"
             }
         ]
     },

@@ -677,5 +677,22 @@
                 "url": "https://footystream.pk/alpha/falcons-vs-panthers/2163"
             }
         ]
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-09-21 01:30:00",
+        "team1Title": "Porto",
+        "team2Title": "Benfica",
+        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/porto-vs-benfica",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/porto-vs-benfica/2176"
+            }
+        ]
     }
 ]

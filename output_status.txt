@@ -2,42 +2,30 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [2/18]: https://footystream.pk/events/psg-vs-marseille
-🟡 Visiting detail page [1/18]: https://footystream.pk/events/milan-vs-lecce
-🟡 Visiting detail page [3/18]: https://footystream.pk/events/biltmore-championship
-🟢 Successfully processed: French Ligue 1 [2/18]
-🟢 Successfully processed: PGA Tour [3/18]
-🟢 Successfully processed: Serie A [1/18]
-🟡 Visiting detail page [5/18]: https://footystream.pk/events/eagles-vs-titans
-🟡 Visiting detail page [4/18]: https://footystream.pk/events/world-series-of-darts-finals
-🟡 Visiting detail page [6/18]: https://footystream.pk/events/jets-vs-packers
-🟢 Successfully processed: Darts [4/18]
-🟡 Visiting detail page [7/18]: https://footystream.pk/events/texans-vs-bengals
-🟢 Successfully processed: NFL [5/18]
-🟢 Successfully processed: NFL [6/18]
-🟡 Visiting detail page [8/18]: https://footystream.pk/events/chicago-bears-vs-minnesota-vikings
-🟡 Visiting detail page [9/18]: https://footystream.pk/events/patriots-vs-steelers
-🟢 Successfully processed: NFL [7/18]
-🟡 Visiting detail page [10/18]: https://footystream.pk/events/falcons-vs-panthers
-🟢 Successfully processed: NFL [8/18]
-🟡 Visiting detail page [11/18]: https://footystream.pk/events/real-sociedad-vs-valencia
-🟢 Successfully processed: NFL [9/18]
-🟡 Visiting detail page [12/18]: https://footystream.pk/events/porto-vs-benfica
-🟢 Successfully processed: Liga Portugal [12/18]
-🟡 Visiting detail page [13/18]: https://footystream.pk/events/broncos-vs-jaguars
-🟢 Successfully processed: NFL [10/18]
-🟡 Visiting detail page [14/18]: https://footystream.pk/events/raiders-vs-chargers
-🟢 Successfully processed: LaLiga [11/18]
-🟡 Visiting detail page [15/18]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
-🟢 Successfully processed: NFL [13/18]
-🟡 Visiting detail page [16/18]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
-🟢 Successfully processed: NFL [14/18]
-🟡 Visiting detail page [17/18]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
-🟢 Successfully processed: NFL [15/18]
-🟡 Visiting detail page [18/18]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
-🟢 Successfully processed: NFL [16/18]
-🟢 Successfully processed: NFL [17/18]
-🟢 Successfully processed: NFL [18/18]
+🟢 Total unique detail links to process in parallel: 12
+🟡 Visiting detail page [2/12]: https://footystream.pk/events/psg-vs-marseille
+🟡 Visiting detail page [1/12]: https://footystream.pk/events/milan-vs-lecce
+🟡 Visiting detail page [3/12]: https://footystream.pk/events/biltmore-championship
+🟢 Successfully processed: PGA Tour [3/12]
+🟢 Successfully processed: Serie A [1/12]
+🟡 Visiting detail page [4/12]: https://footystream.pk/events/world-series-of-darts-finals
+🟡 Visiting detail page [5/12]: https://footystream.pk/events/real-sociedad-vs-valencia
+🟢 Successfully processed: French Ligue 1 [2/12]
+🟡 Visiting detail page [6/12]: https://footystream.pk/events/porto-vs-benfica
+🟢 Successfully processed: Darts [4/12]
+🟢 Successfully processed: Liga Portugal [6/12]
+🟡 Visiting detail page [8/12]: https://footystream.pk/events/raiders-vs-chargers
+🟡 Visiting detail page [7/12]: https://footystream.pk/events/broncos-vs-jaguars
+🟢 Successfully processed: LaLiga [5/12]
+🟡 Visiting detail page [9/12]: https://footystream.pk/events/dolphins-vs-49ers-live-stream
+🟢 Successfully processed: NFL [7/12]
+🟡 Visiting detail page [10/12]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
+🟢 Successfully processed: NFL [9/12]
+🟡 Visiting detail page [11/12]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
+🟢 Successfully processed: NFL [8/12]
+🟡 Visiting detail page [12/12]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
+🟢 Successfully processed: NFL [10/12]
+🟢 Successfully processed: NFL [11/12]
+🟢 Successfully processed: NFL [12/12]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 18
+🟢 Process completed successfully. Total collected events: 12

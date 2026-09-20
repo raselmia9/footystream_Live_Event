@@ -7,20 +7,20 @@
 🟡 Visiting detail page [3/19]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [1/19]: https://footystream.pk/events/milan-vs-lecce
 🟢 Successfully processed: PGA Tour [3/19]
-🟢 Successfully processed: French Ligue 1 [2/19]
-🟢 Successfully processed: Serie A [1/19]
 🟡 Visiting detail page [4/19]: https://footystream.pk/events/world-series-of-darts-finals
+🟢 Successfully processed: French Ligue 1 [2/19]
 🟡 Visiting detail page [5/19]: https://footystream.pk/events/eagles-vs-titans
+🟢 Successfully processed: Serie A [1/19]
 🟡 Visiting detail page [6/19]: https://footystream.pk/events/jets-vs-packers
 🟢 Successfully processed: Darts [4/19]
 🟡 Visiting detail page [7/19]: https://footystream.pk/events/texans-vs-bengals
-🟢 Successfully processed: NFL [6/19]
-🟡 Visiting detail page [8/19]: https://footystream.pk/events/chicago-bears-vs-minnesota-vikings
 🟢 Successfully processed: NFL [5/19]
+🟡 Visiting detail page [8/19]: https://footystream.pk/events/chicago-bears-vs-minnesota-vikings
+🟢 Successfully processed: NFL [6/19]
 🟡 Visiting detail page [9/19]: https://footystream.pk/events/patriots-vs-steelers
-🟢 Successfully processed: NFL [8/19]
-🟡 Visiting detail page [10/19]: https://footystream.pk/events/falcons-vs-panthers
 🟢 Successfully processed: NFL [7/19]
+🟡 Visiting detail page [10/19]: https://footystream.pk/events/falcons-vs-panthers
+🟢 Successfully processed: NFL [8/19]
 🟡 Visiting detail page [11/19]: https://footystream.pk/events/paderborn-vs-hoffenheim
 🟢 Successfully processed: NFL [9/19]
 🟡 Visiting detail page [12/19]: https://footystream.pk/events/real-sociedad-vs-valencia
@@ -36,9 +36,9 @@
 🟡 Visiting detail page [17/19]: https://footystream.pk/events/dallas-cowboys-vs-commanders-live1
 🟢 Successfully processed: NFL [15/19]
 🟡 Visiting detail page [18/19]: https://footystream.pk/events/seattle-seahawks-vs-cardinals
-🟢 Successfully processed: NFL [17/19]
-🟡 Visiting detail page [19/19]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
 🟢 Successfully processed: NFL [16/19]
+🟡 Visiting detail page [19/19]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
+🟢 Successfully processed: NFL [17/19]
 🟢 Successfully processed: NFL [18/19]
 🟢 Successfully processed: NFL [19/19]
 🟢 Browser closed successfully.

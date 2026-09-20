@@ -6,17 +6,17 @@
 🟡 Visiting detail page [1/27]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [2/27]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [3/27]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: PGA Tour [1/27]
-🟡 Visiting detail page [4/27]: https://footystream.pk/events/goodwood-festival-of-speed
 🟢 Successfully processed: MotoGP [3/27]
-🟡 Visiting detail page [5/27]: https://footystream.pk/events/world-series-of-darts-finals
+🟡 Visiting detail page [4/27]: https://footystream.pk/events/goodwood-festival-of-speed
 🟢 Successfully processed: PGA Tour [2/27]
+🟡 Visiting detail page [5/27]: https://footystream.pk/events/world-series-of-darts-finals
+🟢 Successfully processed: PGA Tour [1/27]
 🟡 Visiting detail page [6/27]: https://footystream.pk/events/newcastle-knights-vs-warriors
-🟢 Successfully processed: NRL [6/27]
-🟡 Visiting detail page [7/27]: https://footystream.pk/events/napoli-vs-fiorentina
-🟢 Successfully processed: Darts [5/27]
-🟡 Visiting detail page [8/27]: https://footystream.pk/events/como-vs-frosinone
 🟢 Successfully processed: MotorSports [4/27]
+🟡 Visiting detail page [7/27]: https://footystream.pk/events/napoli-vs-fiorentina
+🟢 Successfully processed: NRL [6/27]
+🟡 Visiting detail page [8/27]: https://footystream.pk/events/como-vs-frosinone
+🟢 Successfully processed: Darts [5/27]
 🟡 Visiting detail page [9/27]: https://footystream.pk/events/genoa-vs-parma
 🟢 Successfully processed: Serie A [7/27]
 🟡 Visiting detail page [10/27]: https://footystream.pk/events/juventus-vs-atalanta
@@ -32,9 +32,9 @@
 🟡 Visiting detail page [15/27]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis
 🟢 Successfully processed: LaLiga [13/27]
 🟡 Visiting detail page [16/27]: https://footystream.pk/events/levante-vs-villarreal
-🟢 Successfully processed: LaLiga [15/27]
-🟡 Visiting detail page [17/27]: https://footystream.pk/events/real-sociedad-vs-valencia
 🟢 Successfully processed: LaLiga [14/27]
+🟡 Visiting detail page [17/27]: https://footystream.pk/events/real-sociedad-vs-valencia
+🟢 Successfully processed: LaLiga [15/27]
 🟡 Visiting detail page [18/27]: https://footystream.pk/events/auxerre-vs-brest
 🟢 Successfully processed: LaLiga [17/27]
 🟡 Visiting detail page [19/27]: https://footystream.pk/events/nice-vs-lille
@@ -55,7 +55,7 @@
 🟢 Successfully processed: Bundesliga [25/27]
 🟡 Visiting detail page [27/27]: https://footystream.pk/events/paderborn-vs-hoffenheim
 🟢 Successfully processed: Bundesliga [26/27]
-🟢 Successfully processed: LaLiga [16/27]
 🟢 Successfully processed: Bundesliga [27/27]
+🟢 Successfully processed: LaLiga [16/27]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 27

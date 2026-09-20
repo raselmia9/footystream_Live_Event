@@ -339,7 +339,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/auxerre-vs-brest",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/auxerre-vs-brest/2138"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/auxerre-vs-brest/2139"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/auxerre-vs-brest/2140"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -478,7 +491,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/bayer-leverkusen-vs-rb-leipzig/2141"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",

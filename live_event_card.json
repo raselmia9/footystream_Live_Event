@@ -1,51 +1,5 @@
 [
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-09-21 00:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Lecce",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Lecce/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/AC%20Milan_vs_Lecce/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/milan-vs-lecce",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/milan-vs-lecce/2156"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/milan-vs-lecce/2157"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-09-21 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/PSG_vs_Team%202/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/psg-vs-marseille",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2171"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2172"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://footystream.pk/alpha/psg-vs-marseille/2173"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-17 22:00:00",
         "team1Title": "Biltmore Championship",
@@ -59,23 +13,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/biltmore-championship/1997"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Darts",
-        "matchTime": "2026-09-19 17:00:00",
-        "team1Title": "World Series of Darts Finals",
-        "team2Title": "Darts",
-        "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/World%20Series%20of%20Darts%20Finals_vs_Darts/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/world-series-of-darts-finals",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/world-series-of-darts-finals/2052"
             }
         ]
     },
@@ -122,6 +59,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/porto-vs-benfica/2176"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-21 02:05:00",
+        "team1Title": "Denver Broncos",
+        "team2Title": "Jacksonville Jaguars",
+        "team1Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Denver%20Broncos_vs_Jacksonville%20Jaguars/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://footystream.pk/events/broncos-vs-jaguars",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/broncos-vs-jaguars/2164"
             }
         ]
     },

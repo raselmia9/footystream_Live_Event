@@ -115,7 +115,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/como-vs-frosinone",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/como-vs-frosinone/2105"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -127,7 +132,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/genoa-vs-parma",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/genoa-vs-parma/2104"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -161,12 +171,16 @@
         "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wolverhampton%20Wanderers_vs_West%20Bromwich%20Albion/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wolverhampton%20Wanderers_vs_West%20Bromwich%20Albion/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wolverhampton%20Wanderers_vs_West%20Bromwich%20Albion/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/wolves-vs-west-brom",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/wolves-vs-west-brom/2102"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/wolves-vs-west-brom/2103"
             }
         ]
     },
@@ -180,7 +194,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/getafe-vs-malaga",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/getafe-vs-malaga/2106"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/getafe-vs-malaga/2107"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/getafe-vs-malaga/2108"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/getafe-vs-malaga/2109"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -192,7 +223,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/real-madrid-vs-atletico",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2110"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2111"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2112"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/real-madrid-vs-atletico/2113"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -204,7 +252,28 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/deportivo-la-coruna-vs-real-betis",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2114"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2115"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2116"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2117"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://footystream.pk/alpha/deportivo-la-coruna-vs-real-betis/2118"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -220,6 +289,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/levante-vs-villarreal/2054"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/levante-vs-villarreal/2119"
             }
         ]
     },
@@ -233,7 +306,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/real-sociedad-vs-valencia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2120"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2121"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2122"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2123"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",

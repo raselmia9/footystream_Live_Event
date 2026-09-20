@@ -418,5 +418,111 @@
                 "url": "https://footystream.pk/alpha/porto-vs-benfica/2176"
             }
         ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-21 02:05:00",
+        "team1Title": "Denver Broncos",
+        "team2Title": "Jacksonville Jaguars",
+        "team1Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/broncos-vs-jaguars",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/broncos-vs-jaguars/2164"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-21 02:05:00",
+        "team1Title": "Las Vegas Raiders",
+        "team2Title": "Los Angeles Chargers",
+        "team1Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/raiders-vs-chargers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/raiders-vs-chargers/2165"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-21 02:25:00",
+        "team1Title": "Miami Dolphins",
+        "team2Title": "San Francisco 49ers",
+        "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/dolphins-vs-49ers-live-stream",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/dolphins-vs-49ers-live-stream/2167"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-21 02:25:00",
+        "team1Title": "Dallas Cowboys",
+        "team2Title": "Washington Commanders",
+        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/dallas-cowboys-vs-commanders-live1",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/dallas-cowboys-vs-commanders-live1/2166"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-21 02:25:00",
+        "team1Title": "Seattle Seahawks",
+        "team2Title": "Arizona Cardinals",
+        "team1Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/seattle-seahawks-vs-cardinals",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/seattle-seahawks-vs-cardinals/2168"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-21 06:20:00",
+        "team1Title": "Kansas City Chiefs",
+        "team2Title": "Indianapolis Colts",
+        "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/kansas-city-chiefs-vs-indianapolis-colts/2174"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/kansas-city-chiefs-vs-indianapolis-colts/2175"
+            }
+        ]
     }
 ]

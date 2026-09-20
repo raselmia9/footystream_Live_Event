@@ -88,23 +88,6 @@
     },
     {
         "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-17 13:30:00",
-        "team1Title": "BMW Championship",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/BMW%20Championship_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/bmw-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/bmw-championship/1996"
-            }
-        ]
-    },
-    {
-        "eventTitle": "PGA Tour",
         "matchTime": "2026-09-17 22:00:00",
         "team1Title": "Biltmore Championship",
         "team2Title": "PGA Tour",
@@ -117,27 +100,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://footystream.pk/alpha/biltmore-championship/1997"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MotoGP",
-        "matchTime": "2026-09-18 13:00:00",
-        "team1Title": "MotoGP Austria Grand Prix",
-        "team2Title": "MotoGP",
-        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/MotoGP%20Austria%20Grand%20Prix_vs_MotoGP/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/MotoGP%20Austria%20Grand%20Prix_vs_MotoGP/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://footystream.pk/events/motogp-austria-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/1806"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://footystream.pk/alpha/motogp-austria-grand-prix/2137"
             }
         ]
     },

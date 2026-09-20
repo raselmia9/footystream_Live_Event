@@ -232,7 +232,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/juventus-vs-atalanta",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/juventus-vs-atalanta/2153"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/juventus-vs-atalanta/2154"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://footystream.pk/alpha/juventus-vs-atalanta/2155"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -244,7 +257,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/milan-vs-lecce",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/milan-vs-lecce/2156"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/milan-vs-lecce/2157"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -424,7 +446,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayer%20Leverkusen_vs_RB%20Leipzig/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bayer%20Leverkusen_vs_RB%20Leipzig/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/bayer-leverkusen-vs-rb-leipzig",
         "multiWatchPageLink": [
             {
@@ -559,6 +581,40 @@
             {
                 "channel": "Link 4",
                 "url": "https://footystream.pk/alpha/real-sociedad-vs-valencia/2123"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-20 23:00:00",
+        "team1Title": "Chicago Bears",
+        "team2Title": "Minnesota Vikings",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/chicago-bears-vs-minnesota-vikings",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/chicago-bears-vs-minnesota-vikings/2158"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-20 23:00:00",
+        "team1Title": "New England Patriots",
+        "team2Title": "Pittsburgh Steelers",
+        "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/patriots-vs-steelers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/patriots-vs-steelers/2159"
             }
         ]
     }

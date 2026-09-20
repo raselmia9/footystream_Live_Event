@@ -92,9 +92,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Napoli_vs_Fiorentina/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Napoli_vs_Fiorentina/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://footystream.pk/events/napoli-vs-fiorentina",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://footystream.pk/alpha/napoli-vs-fiorentina/2100"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://footystream.pk/alpha/napoli-vs-fiorentina/2101"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

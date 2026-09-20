@@ -4,11 +4,11 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 26
 🟡 Visiting detail page [1/26]: https://footystream.pk/events/bmw-championship
-🟡 Visiting detail page [3/26]: https://footystream.pk/events/motogp-austria-grand-prix
 🟡 Visiting detail page [2/26]: https://footystream.pk/events/biltmore-championship
-🟢 Successfully processed: PGA Tour [2/26]
-🟡 Visiting detail page [4/26]: https://footystream.pk/events/goodwood-festival-of-speed
+🟡 Visiting detail page [3/26]: https://footystream.pk/events/motogp-austria-grand-prix
 🟢 Successfully processed: MotoGP [3/26]
+🟡 Visiting detail page [4/26]: https://footystream.pk/events/goodwood-festival-of-speed
+🟢 Successfully processed: PGA Tour [2/26]
 🟡 Visiting detail page [5/26]: https://footystream.pk/events/world-series-of-darts-finals
 🟢 Successfully processed: PGA Tour [1/26]
 🟡 Visiting detail page [6/26]: https://footystream.pk/events/napoli-vs-fiorentina
@@ -16,15 +16,15 @@
 🟡 Visiting detail page [7/26]: https://footystream.pk/events/como-vs-frosinone
 🟢 Successfully processed: Serie A [7/26]
 🟡 Visiting detail page [8/26]: https://footystream.pk/events/genoa-vs-parma
-🟢 Successfully processed: MotorSports [4/26]
-🟡 Visiting detail page [9/26]: https://footystream.pk/events/juventus-vs-atalanta
 🟢 Successfully processed: Darts [5/26]
+🟡 Visiting detail page [9/26]: https://footystream.pk/events/juventus-vs-atalanta
+🟢 Successfully processed: MotorSports [4/26]
 🟡 Visiting detail page [10/26]: https://footystream.pk/events/milan-vs-lecce
 🟢 Successfully processed: Serie A [8/26]
 🟡 Visiting detail page [11/26]: https://footystream.pk/events/wolves-vs-west-brom
-🟢 Successfully processed: Serie A [9/26]
-🟡 Visiting detail page [12/26]: https://footystream.pk/events/getafe-vs-malaga
 🟢 Successfully processed: Serie A [10/26]
+🟡 Visiting detail page [12/26]: https://footystream.pk/events/getafe-vs-malaga
+🟢 Successfully processed: Serie A [9/26]
 🟡 Visiting detail page [13/26]: https://footystream.pk/events/real-madrid-vs-atletico
 🟢 Successfully processed: EFL [11/26]
 🟡 Visiting detail page [14/26]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis

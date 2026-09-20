@@ -6,17 +6,17 @@
 🟡 Visiting detail page [1/27]: https://footystream.pk/events/bmw-championship
 🟡 Visiting detail page [2/27]: https://footystream.pk/events/biltmore-championship
 🟡 Visiting detail page [3/27]: https://footystream.pk/events/motogp-austria-grand-prix
-🟢 Successfully processed: MotoGP [3/27]
-🟡 Visiting detail page [4/27]: https://footystream.pk/events/goodwood-festival-of-speed
-🟢 Successfully processed: PGA Tour [2/27]
-🟡 Visiting detail page [5/27]: https://footystream.pk/events/world-series-of-darts-finals
 🟢 Successfully processed: PGA Tour [1/27]
+🟡 Visiting detail page [4/27]: https://footystream.pk/events/goodwood-festival-of-speed
+🟢 Successfully processed: MotoGP [3/27]
+🟡 Visiting detail page [5/27]: https://footystream.pk/events/world-series-of-darts-finals
+🟢 Successfully processed: PGA Tour [2/27]
 🟡 Visiting detail page [6/27]: https://footystream.pk/events/newcastle-knights-vs-warriors
+🟢 Successfully processed: MotorSports [4/27]
 🟢 Successfully processed: Darts [5/27]
 🟡 Visiting detail page [7/27]: https://footystream.pk/events/napoli-vs-fiorentina
-🟢 Successfully processed: NRL [6/27]
 🟡 Visiting detail page [8/27]: https://footystream.pk/events/como-vs-frosinone
-🟢 Successfully processed: MotorSports [4/27]
+🟢 Successfully processed: NRL [6/27]
 🟡 Visiting detail page [9/27]: https://footystream.pk/events/genoa-vs-parma
 🟢 Successfully processed: Serie A [7/27]
 🟡 Visiting detail page [10/27]: https://footystream.pk/events/juventus-vs-atalanta
@@ -25,8 +25,8 @@
 🟢 Successfully processed: Serie A [9/27]
 🟡 Visiting detail page [12/27]: https://footystream.pk/events/wolves-vs-west-brom
 🟢 Successfully processed: Serie A [11/27]
-🟢 Successfully processed: Serie A [10/27]
 🟡 Visiting detail page [13/27]: https://footystream.pk/events/getafe-vs-malaga
+🟢 Successfully processed: Serie A [10/27]
 🟡 Visiting detail page [14/27]: https://footystream.pk/events/real-madrid-vs-atletico
 🟢 Successfully processed: EFL [12/27]
 🟡 Visiting detail page [15/27]: https://footystream.pk/events/deportivo-la-coruna-vs-real-betis

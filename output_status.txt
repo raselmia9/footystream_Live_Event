@@ -2,8 +2,7 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 1
-🟡 Visiting detail page [1/1]: https://footystream.pk/events/kansas-city-chiefs-vs-indianapolis-colts
-🟢 Successfully processed: NFL [1/1]
+🟡 Selector wait timeout, proceeding with current content...
+🟢 Total unique detail links to process in parallel: 0
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 1
+🟢 Process completed successfully. Total collected events: 0

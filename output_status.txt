@@ -3,27 +3,27 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 11
+🟡 Visiting detail page [2/11]: https://pogo.pk/events/inter-milano-vs-hacken
 🟡 Visiting detail page [1/11]: https://pogo.pk/events/manchester-city-vs-bayern
 🟡 Visiting detail page [3/11]: https://pogo.pk/events/salford-city-vs-sheffield-wednesday
-🟡 Visiting detail page [2/11]: https://pogo.pk/events/inter-milano-vs-hacken
-🟢 Successfully processed: Womens Champions League [1/11]
-🟡 Visiting detail page [4/11]: https://pogo.pk/events/arsenal-vs-k-ge
 🟢 Successfully processed: EFL [3/11]
+🟡 Visiting detail page [4/11]: https://pogo.pk/events/arsenal-vs-k-ge
+🟢 Successfully processed: Womens Champions League [1/11]
 🟡 Visiting detail page [5/11]: https://pogo.pk/events/real-madrid-vs-psg
 🟢 Successfully processed: Womens Champions League [2/11]
 🟡 Visiting detail page [6/11]: https://pogo.pk/events/benfica-vs-juventus
-🟢 Successfully processed: Womens Champions League [5/11]
-🟡 Visiting detail page [7/11]: https://pogo.pk/events/barcelona-vs-paris-fc
-🟢 Successfully processed: Womens Champions League [4/11]
-🟡 Visiting detail page [8/11]: https://pogo.pk/events/chelsea-vs-austria-wien
 🟢 Successfully processed: Womens Champions League [6/11]
+🟡 Visiting detail page [7/11]: https://pogo.pk/events/barcelona-vs-paris-fc
+🟢 Successfully processed: Womens Champions League [5/11]
+🟡 Visiting detail page [8/11]: https://pogo.pk/events/chelsea-vs-austria-wien
+🟢 Successfully processed: Womens Champions League [8/11]
 🟡 Visiting detail page [9/11]: https://pogo.pk/events/azerbaijan-vs-tajikistan
 🟢 Successfully processed: Womens Champions League [7/11]
 🟡 Visiting detail page [10/11]: https://pogo.pk/events/australia-vs-brazil
-🟢 Successfully processed: Womens Champions League [8/11]
+🟢 Successfully processed: Womens Champions League [4/11]
 🟡 Visiting detail page [11/11]: https://pogo.pk/events/india-vs-panama
 🟢 Successfully processed: Friendly [9/11]
-🟢 Successfully processed: Friendly [10/11]
 🟢 Successfully processed: Friendly [11/11]
+🟢 Successfully processed: Friendly [10/11]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 11

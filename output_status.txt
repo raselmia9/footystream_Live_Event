@@ -3,25 +3,28 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 10
-🟡 Visiting detail page [2/10]: https://pogo.pk/events/inter-milano-vs-hacken
 🟡 Visiting detail page [1/10]: https://pogo.pk/events/manchester-city-vs-bayern
+🟡 Visiting detail page [2/10]: https://pogo.pk/events/inter-milano-vs-hacken
 🟡 Visiting detail page [3/10]: https://pogo.pk/events/arsenal-vs-k-ge
-🟢 Successfully processed: Womens Champions League [2/10]
+🟢 Successfully processed: Womens Champions League [3/10]
 🟡 Visiting detail page [4/10]: https://pogo.pk/events/real-madrid-vs-psg
 🟢 Successfully processed: Womens Champions League [1/10]
 🟡 Visiting detail page [5/10]: https://pogo.pk/events/benfica-vs-juventus
-🟢 Successfully processed: Womens Champions League [3/10]
+🟢 Successfully processed: Womens Champions League [2/10]
 🟡 Visiting detail page [6/10]: https://pogo.pk/events/barcelona-vs-paris-fc
 🟢 Successfully processed: Womens Champions League [6/10]
 🟡 Visiting detail page [7/10]: https://pogo.pk/events/salford-city-vs-sheffield-wednesday
-🟢 Successfully processed: Womens Champions League [5/10]
-🟡 Visiting detail page [8/10]: https://pogo.pk/events/azerbaijan-vs-tajikistan
 🟢 Successfully processed: Womens Champions League [4/10]
-🟡 Visiting detail page [9/10]: https://pogo.pk/events/australia-vs-brazil
-🟢 Successfully processed: Friendly [9/10]
-🟡 Visiting detail page [10/10]: https://pogo.pk/events/india-vs-panama
-🟢 Successfully processed: Friendly [10/10]
-🟢 Successfully processed: Friendly [8/10]
+🟡 Visiting detail page [8/10]: https://pogo.pk/events/azerbaijan-vs-tajikistan
 🟢 Successfully processed: EFL [7/10]
+🟡 Visiting detail page [9/10]: https://pogo.pk/events/australia-vs-brazil
+🟢 Successfully processed: Womens Champions League [5/10]
+🟡 Visiting detail page [10/10]: https://pogo.pk/events/india-vs-panama
+🟢 Successfully processed: Friendly [9/10]
+🟢 Successfully processed: Friendly [10/10]
+🔴 ERROR on detail page https://pogo.pk/events/azerbaijan-vs-tajikistan: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/azerbaijan-vs-tajikistan", waiting until "load"
+
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 10
+🟢 Process completed successfully. Total collected events: 9

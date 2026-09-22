@@ -39,18 +39,6 @@
     },
     {
         "eventTitle": "Friendly",
-        "matchTime": "2026-09-23 22:00:00",
-        "team1Title": "Azerbaijan",
-        "team2Title": "Tajikistan",
-        "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/azerbaijan-vs-tajikistan",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Friendly",
         "matchTime": "2026-09-25 16:00:00",
         "team1Title": "Australia",
         "team2Title": "Brazil",
@@ -87,14 +75,14 @@
     },
     {
         "eventTitle": "Friendly",
-        "matchTime": "2026-09-27 05:00:00",
-        "team1Title": "Canada",
-        "team2Title": "Chile",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "matchTime": "2026-09-27 02:30:00",
+        "team1Title": "USA",
+        "team2Title": "Peru",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/canada-vs-chile",
+        "detailsPage": "https://pogo.pk/events/usa-vs-peru",
         "multiWatchPageLink": []
     },
     {
@@ -190,6 +178,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/malta-vs-andorra-live",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Title": "Portugal",
+        "team2Title": "Wales",
+        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/portugal-vs-wales",
         "multiWatchPageLink": []
     },
     {

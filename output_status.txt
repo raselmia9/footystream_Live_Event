@@ -25,10 +25,10 @@
 🟢 Successfully processed: Friendly [9/23]
 🟡 Visiting detail page [12/23]: https://pogo.pk/events/canada-vs-chile
 🟢 Successfully processed: Friendly [11/23]
-🟢 Successfully processed: Friendly [10/23]
 🟡 Visiting detail page [13/23]: https://pogo.pk/events/barcelona-vs-paris-fc
-🟡 Visiting detail page [14/23]: https://pogo.pk/events/chelsea-vs-austria-wien
 🟢 Successfully processed: Friendly [12/23]
+🟡 Visiting detail page [14/23]: https://pogo.pk/events/chelsea-vs-austria-wien
+🟢 Successfully processed: Friendly [10/23]
 🟡 Visiting detail page [15/23]: https://pogo.pk/events/f1-azerbaijan-grand-prix
 🟢 Successfully processed: Womens Champions League [13/23]
 🟡 Visiting detail page [16/23]: https://pogo.pk/events/open-de-france
@@ -36,15 +36,15 @@
 🟡 Visiting detail page [17/23]: https://pogo.pk/events/presidents-cup
 🟢 Successfully processed: Formula 1 [15/23]
 🟡 Visiting detail page [18/23]: https://pogo.pk/events/malta-vs-andorra-live
-🟢 Successfully processed: PGA Tour [17/23]
-🟡 Visiting detail page [19/23]: https://pogo.pk/events/portugal-vs-wales
 🟢 Successfully processed: PGA Tour [16/23]
-🟡 Visiting detail page [20/23]: https://pogo.pk/events/germany-vs-netherlands
+🟡 Visiting detail page [19/23]: https://pogo.pk/events/portugal-vs-wales
 🟢 Successfully processed: Nations League [18/23]
+🟡 Visiting detail page [20/23]: https://pogo.pk/events/germany-vs-netherlands
+🟢 Successfully processed: PGA Tour [17/23]
 🟡 Visiting detail page [21/23]: https://pogo.pk/events/norway-vs-denmark
-🟢 Successfully processed: Nations League [20/23]
-🟡 Visiting detail page [22/23]: https://pogo.pk/events/ireland-vs-kosovo
 🟢 Successfully processed: Nations League [19/23]
+🟡 Visiting detail page [22/23]: https://pogo.pk/events/ireland-vs-kosovo
+🟢 Successfully processed: Nations League [20/23]
 🟡 Visiting detail page [23/23]: https://pogo.pk/events/serbia-vs-greece
 🟢 Successfully processed: Nations League [21/23]
 🟢 Successfully processed: Nations League [22/23]

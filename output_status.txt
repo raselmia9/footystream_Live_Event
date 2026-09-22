@@ -2,50 +2,44 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 22
-🟡 Visiting detail page [3/22]: https://pogo.pk/events/benfica-vs-juventus
-🟡 Visiting detail page [1/22]: https://pogo.pk/events/arsenal-vs-k-ge
-🟡 Visiting detail page [2/22]: https://pogo.pk/events/real-madrid-vs-psg
-🟢 Successfully processed: Womens Champions League [2/22]
-🟡 Visiting detail page [4/22]: https://pogo.pk/events/red-sox-vs-guardians
-🟢 Successfully processed: Womens Champions League [3/22]
-🟡 Visiting detail page [5/22]: https://pogo.pk/events/astros-vs-mariners
-🟢 Successfully processed: MLB [4/22]
-🟡 Visiting detail page [6/22]: https://pogo.pk/events/azerbaijan-vs-tajikistan
-🟢 Successfully processed: MLB [5/22]
-🟡 Visiting detail page [7/22]: https://pogo.pk/events/australia-vs-brazil
-🟢 Successfully processed: Womens Champions League [1/22]
-🟡 Visiting detail page [8/22]: https://pogo.pk/events/india-vs-panama
-🟢 Successfully processed: Friendly [6/22]
-🟡 Visiting detail page [9/22]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: Friendly [7/22]
-🟡 Visiting detail page [10/22]: https://pogo.pk/events/usa-vs-peru
-🟢 Successfully processed: Friendly [8/22]
-🟡 Visiting detail page [11/22]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Friendly [9/22]
-🟡 Visiting detail page [12/22]: https://pogo.pk/events/barcelona-vs-paris-fc
-🟢 Successfully processed: Friendly [10/22]
-🟡 Visiting detail page [13/22]: https://pogo.pk/events/chelsea-vs-austria-wien
-🟢 Successfully processed: Friendly [11/22]
-🟡 Visiting detail page [14/22]: https://pogo.pk/events/f1-azerbaijan-grand-prix
-🟢 Successfully processed: Womens Champions League [12/22]
-🟡 Visiting detail page [15/22]: https://pogo.pk/events/open-de-france
-🟢 Successfully processed: Womens Champions League [13/22]
-🟡 Visiting detail page [16/22]: https://pogo.pk/events/presidents-cup
-🟢 Successfully processed: Formula 1 [14/22]
-🟡 Visiting detail page [17/22]: https://pogo.pk/events/malta-vs-andorra-live
-🟢 Successfully processed: PGA Tour [15/22]
-🟡 Visiting detail page [18/22]: https://pogo.pk/events/portugal-vs-wales
-🟢 Successfully processed: Nations League [17/22]
-🟡 Visiting detail page [19/22]: https://pogo.pk/events/germany-vs-netherlands
-🟢 Successfully processed: Nations League [18/22]
-🟡 Visiting detail page [20/22]: https://pogo.pk/events/norway-vs-denmark
-🟢 Successfully processed: PGA Tour [16/22]
-🟡 Visiting detail page [21/22]: https://pogo.pk/events/ireland-vs-kosovo
-🟢 Successfully processed: Nations League [19/22]
-🟡 Visiting detail page [22/22]: https://pogo.pk/events/serbia-vs-greece
-🟢 Successfully processed: Nations League [20/22]
-🟢 Successfully processed: Nations League [21/22]
-🟢 Successfully processed: Nations League [22/22]
+🟢 Total unique detail links to process in parallel: 19
+🟡 Visiting detail page [2/19]: https://pogo.pk/events/astros-vs-mariners
+🟡 Visiting detail page [3/19]: https://pogo.pk/events/azerbaijan-vs-tajikistan
+🟡 Visiting detail page [1/19]: https://pogo.pk/events/red-sox-vs-guardians
+🟢 Successfully processed: Friendly [3/19]
+🟡 Visiting detail page [4/19]: https://pogo.pk/events/australia-vs-brazil
+🟢 Successfully processed: Friendly [4/19]
+🟡 Visiting detail page [5/19]: https://pogo.pk/events/india-vs-panama
+🟢 Successfully processed: Friendly [5/19]
+🟡 Visiting detail page [6/19]: https://pogo.pk/events/colombia-vs-mexico
+🟢 Successfully processed: Friendly [6/19]
+🟡 Visiting detail page [7/19]: https://pogo.pk/events/usa-vs-peru
+🟢 Successfully processed: Friendly [7/19]
+🟡 Visiting detail page [8/19]: https://pogo.pk/events/canada-vs-chile
+🟢 Successfully processed: MLB [2/19]
+🟡 Visiting detail page [9/19]: https://pogo.pk/events/barcelona-vs-paris-fc
+🟢 Successfully processed: MLB [1/19]
+🟡 Visiting detail page [10/19]: https://pogo.pk/events/chelsea-vs-austria-wien
+🟢 Successfully processed: Friendly [8/19]
+🟡 Visiting detail page [11/19]: https://pogo.pk/events/f1-azerbaijan-grand-prix
+🟢 Successfully processed: Womens Champions League [9/19]
+🟡 Visiting detail page [12/19]: https://pogo.pk/events/open-de-france
+🟢 Successfully processed: Womens Champions League [10/19]
+🟡 Visiting detail page [13/19]: https://pogo.pk/events/presidents-cup
+🟢 Successfully processed: PGA Tour [12/19]
+🟡 Visiting detail page [14/19]: https://pogo.pk/events/malta-vs-andorra-live
+🟢 Successfully processed: Formula 1 [11/19]
+🟡 Visiting detail page [15/19]: https://pogo.pk/events/portugal-vs-wales
+🟢 Successfully processed: PGA Tour [13/19]
+🟡 Visiting detail page [16/19]: https://pogo.pk/events/germany-vs-netherlands
+🟢 Successfully processed: Nations League [14/19]
+🟡 Visiting detail page [17/19]: https://pogo.pk/events/norway-vs-denmark
+🟢 Successfully processed: Nations League [15/19]
+🟡 Visiting detail page [18/19]: https://pogo.pk/events/ireland-vs-kosovo
+🟢 Successfully processed: Nations League [16/19]
+🟡 Visiting detail page [19/19]: https://pogo.pk/events/serbia-vs-greece
+🟢 Successfully processed: Nations League [17/19]
+🟢 Successfully processed: Nations League [18/19]
+🟢 Successfully processed: Nations League [19/19]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 22
+🟢 Process completed successfully. Total collected events: 19

@@ -2,12 +2,12 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-09-22 22:45:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Bayern München",
+        "team1Title": "Event Ended",
+        "team2Title": "Manchester City",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Bayern%20M%C3%BCnchen/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Manchester%20City_vs_Bayern%20M%C3%BCnchen/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20City/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Manchester%20City/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/manchester-city-vs-bayern",
         "multiWatchPageLink": [
             {
@@ -23,12 +23,12 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-09-22 22:45:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Häcken",
+        "team1Title": "Event Ended",
+        "team2Title": "Inter Milan",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Inter%20Milan_vs_H%C3%A4cken/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Inter%20Milan_vs_H%C3%A4cken/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Inter%20Milan/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/inter-milano-vs-hacken",
         "multiWatchPageLink": [
             {

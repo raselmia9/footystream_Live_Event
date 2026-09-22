@@ -216,6 +216,42 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 02:00:00",
+        "team1Title": "Colombia",
+        "team2Title": "Mexico",
+        "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/colombia-vs-mexico",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 02:30:00",
+        "team1Title": "USA",
+        "team2Title": "Peru",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/usa-vs-peru",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 05:00:00",
+        "team1Title": "Canada",
+        "team2Title": "Chile",
+        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/canada-vs-chile",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-09-24 12:00:00",
         "team1Title": "F1 Azerbaijan Grand Prix",

@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
+🟡 Visiting detail page [3/19]: https://pogo.pk/events/azerbaijan-vs-tajikistan
 🟡 Visiting detail page [1/19]: https://pogo.pk/events/red-sox-vs-guardians
 🟡 Visiting detail page [2/19]: https://pogo.pk/events/astros-vs-mariners
-🟡 Visiting detail page [3/19]: https://pogo.pk/events/azerbaijan-vs-tajikistan
 🟢 Successfully processed: Friendly [3/19]
 🟡 Visiting detail page [4/19]: https://pogo.pk/events/australia-vs-brazil
 🟢 Successfully processed: Friendly [4/19]
@@ -34,12 +34,12 @@
 🟡 Visiting detail page [16/19]: https://pogo.pk/events/germany-vs-netherlands
 🟢 Successfully processed: Nations League [15/19]
 🟡 Visiting detail page [17/19]: https://pogo.pk/events/norway-vs-denmark
-🟢 Successfully processed: Nations League [16/19]
-🟡 Visiting detail page [18/19]: https://pogo.pk/events/ireland-vs-kosovo
 🟢 Successfully processed: PGA Tour [13/19]
-🟡 Visiting detail page [19/19]: https://pogo.pk/events/serbia-vs-greece
+🟡 Visiting detail page [18/19]: https://pogo.pk/events/ireland-vs-kosovo
 🟢 Successfully processed: Nations League [17/19]
+🟡 Visiting detail page [19/19]: https://pogo.pk/events/serbia-vs-greece
 🟢 Successfully processed: Nations League [18/19]
+🟢 Successfully processed: Nations League [16/19]
 🟢 Successfully processed: Nations League [19/19]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 19

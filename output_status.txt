@@ -2,32 +2,34 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 13
-🟡 Visiting detail page [3/13]: https://pogo.pk/events/salford-city-vs-sheffield-wednesday
-🟡 Visiting detail page [2/13]: https://pogo.pk/events/inter-milano-vs-hacken
-🟡 Visiting detail page [1/13]: https://pogo.pk/events/manchester-city-vs-bayern
-🟢 Successfully processed: EFL [3/13]
-🟡 Visiting detail page [4/13]: https://pogo.pk/events/arsenal-vs-k-ge
-🟢 Successfully processed: Womens Champions League [2/13]
-🟢 Successfully processed: Womens Champions League [1/13]
-🟡 Visiting detail page [5/13]: https://pogo.pk/events/real-madrid-vs-psg
-🟡 Visiting detail page [6/13]: https://pogo.pk/events/benfica-vs-juventus
-🟢 Successfully processed: Womens Champions League [4/13]
-🟡 Visiting detail page [7/13]: https://pogo.pk/events/barcelona-vs-paris-fc
-🟢 Successfully processed: Womens Champions League [5/13]
-🟡 Visiting detail page [8/13]: https://pogo.pk/events/chelsea-vs-austria-wien
-🟢 Successfully processed: Womens Champions League [6/13]
-🟡 Visiting detail page [9/13]: https://pogo.pk/events/red-sox-vs-guardians
-🟢 Successfully processed: Womens Champions League [8/13]
-🟢 Successfully processed: Womens Champions League [7/13]
-🟡 Visiting detail page [10/13]: https://pogo.pk/events/astros-vs-mariners
-🟡 Visiting detail page [11/13]: https://pogo.pk/events/azerbaijan-vs-tajikistan
-🟢 Successfully processed: Friendly [11/13]
-🟡 Visiting detail page [12/13]: https://pogo.pk/events/australia-vs-brazil
-🟢 Successfully processed: Friendly [12/13]
-🟡 Visiting detail page [13/13]: https://pogo.pk/events/india-vs-panama
-🟢 Successfully processed: Friendly [13/13]
-🟢 Successfully processed: MLB [9/13]
-🟢 Successfully processed: MLB [10/13]
+🟢 Total unique detail links to process in parallel: 14
+🟡 Visiting detail page [3/14]: https://pogo.pk/events/salford-city-vs-sheffield-wednesday
+🟡 Visiting detail page [2/14]: https://pogo.pk/events/inter-milano-vs-hacken
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/manchester-city-vs-bayern
+🟢 Successfully processed: Womens Champions League [2/14]
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/arsenal-vs-k-ge
+🟢 Successfully processed: EFL [3/14]
+🟡 Visiting detail page [5/14]: https://pogo.pk/events/real-madrid-vs-psg
+🟢 Successfully processed: Womens Champions League [1/14]
+🟡 Visiting detail page [6/14]: https://pogo.pk/events/benfica-vs-juventus
+🟢 Successfully processed: Womens Champions League [5/14]
+🟡 Visiting detail page [7/14]: https://pogo.pk/events/barcelona-vs-paris-fc
+🟢 Successfully processed: Womens Champions League [6/14]
+🟡 Visiting detail page [8/14]: https://pogo.pk/events/chelsea-vs-austria-wien
+🟢 Successfully processed: Womens Champions League [4/14]
+🟡 Visiting detail page [9/14]: https://pogo.pk/events/red-sox-vs-guardians
+🟢 Successfully processed: Womens Champions League [7/14]
+🟡 Visiting detail page [10/14]: https://pogo.pk/events/astros-vs-mariners
+🟢 Successfully processed: Womens Champions League [8/14]
+🟡 Visiting detail page [11/14]: https://pogo.pk/events/azerbaijan-vs-tajikistan
+🟢 Successfully processed: Friendly [11/14]
+🟡 Visiting detail page [12/14]: https://pogo.pk/events/australia-vs-brazil
+🟢 Successfully processed: Friendly [12/14]
+🟡 Visiting detail page [13/14]: https://pogo.pk/events/india-vs-panama
+🟢 Successfully processed: Friendly [13/14]
+🟡 Visiting detail page [14/14]: https://pogo.pk/events/f1-azerbaijan-grand-prix
+🟢 Successfully processed: MLB [9/14]
+🟢 Successfully processed: MLB [10/14]
+🟢 Successfully processed: Formula 1 [14/14]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 13
+🟢 Process completed successfully. Total collected events: 14

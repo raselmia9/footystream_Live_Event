@@ -214,5 +214,30 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/india-vs-panama",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-09-24 12:00:00",
+        "team1Title": "F1 Azerbaijan Grand Prix",
+        "team2Title": "Formula 1",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/f1-azerbaijan-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2191"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2192"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2193"
+            }
+        ]
     }
 ]

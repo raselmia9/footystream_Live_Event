@@ -140,5 +140,29 @@
         "streamLink": "",
         "detailsPage": "https://footystream.pk/events/azerbaijan-vs-tajikistan",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-25 16:00:00",
+        "team1Title": "Australia",
+        "team2Title": "Brazil",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/australia-vs-brazil",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-25 16:00:00",
+        "team1Title": "India",
+        "team2Title": "Panama",
+        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystream.pk/events/india-vs-panama",
+        "multiWatchPageLink": []
     }
 ]

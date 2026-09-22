@@ -8,7 +8,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/manchester-city-vs-bayern",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-bayern",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
@@ -29,7 +29,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/inter-milano-vs-hacken",
+        "detailsPage": "https://pogo.pk/events/inter-milano-vs-hacken",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
@@ -50,7 +50,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/koge/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/arsenal-vs-k-ge",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-k-ge",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
@@ -71,7 +71,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/real-madrid-vs-psg",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-psg",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
@@ -92,7 +92,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/benfica-vs-juventus",
+        "detailsPage": "https://pogo.pk/events/benfica-vs-juventus",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
@@ -109,7 +109,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/barcelona-vs-paris-fc",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-paris-fc",
         "multiWatchPageLink": []
     },
     {
@@ -121,7 +121,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/salford-city-vs-sheffield-wednesday",
+        "detailsPage": "https://pogo.pk/events/salford-city-vs-sheffield-wednesday",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
@@ -138,7 +138,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/azerbaijan-vs-tajikistan",
+        "detailsPage": "https://pogo.pk/events/azerbaijan-vs-tajikistan",
         "multiWatchPageLink": []
     },
     {
@@ -150,7 +150,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/australia-vs-brazil",
+        "detailsPage": "https://pogo.pk/events/australia-vs-brazil",
         "multiWatchPageLink": []
     },
     {
@@ -162,7 +162,7 @@
         "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystream.pk/events/india-vs-panama",
+        "detailsPage": "https://pogo.pk/events/india-vs-panama",
         "multiWatchPageLink": []
     }
 ]

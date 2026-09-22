@@ -163,6 +163,23 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-09-23 07:40:00",
+        "team1Title": "Houston Astros",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/astros-vs-mariners",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/astros-vs-mariners/2190"
+            }
+        ]
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-09-23 22:00:00",
         "team1Title": "Azerbaijan",

@@ -111,7 +111,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-austria-wien",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chelsea-vs-austria-wien/2200"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chelsea-vs-austria-wien/2201"
+            }
+        ]
     },
     {
         "eventTitle": "Formula 1",

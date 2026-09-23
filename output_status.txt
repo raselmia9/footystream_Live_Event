@@ -3,13 +3,13 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
-🟡 Visiting detail page [1/17]: https://pogo.pk/events/azerbaijan-vs-tajikistan
-🟡 Visiting detail page [3/17]: https://pogo.pk/events/india-vs-panama
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/australia-vs-brazil
+🟡 Visiting detail page [3/17]: https://pogo.pk/events/india-vs-panama
+🟡 Visiting detail page [1/17]: https://pogo.pk/events/azerbaijan-vs-tajikistan
 🟢 Successfully processed: Friendly [1/17]
+🟢 Successfully processed: Friendly [3/17]
 🟢 Successfully processed: Friendly [2/17]
 🟡 Visiting detail page [4/17]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: Friendly [3/17]
 🟡 Visiting detail page [5/17]: https://pogo.pk/events/usa-vs-peru
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/canada-vs-chile
 🟢 Successfully processed: Friendly [4/17]

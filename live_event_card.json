@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Tajikistan/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Tajikistan/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/azerbaijan-vs-tajikistan",
         "multiWatchPageLink": [
             {
@@ -17,6 +17,27 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/azerbaijan-vs-tajikistan/2197"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-24 01:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Paris FC",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-paris-fc",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/barcelona-vs-paris-fc/2198"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/barcelona-vs-paris-fc/2199"
             }
         ]
     },
@@ -38,6 +59,31 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/chelsea-vs-austria-wien/2201"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-09-24 12:00:00",
+        "team1Title": "F1 Azerbaijan Grand Prix",
+        "team2Title": "Formula 1",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/f1-azerbaijan-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2191"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2192"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2193"
             }
         ]
     },

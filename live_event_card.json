@@ -1,5 +1,47 @@
 [
     {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-24 01:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Paris FC",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Paris%20FC/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_Paris%20FC/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-paris-fc",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/barcelona-vs-paris-fc/2198"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/barcelona-vs-paris-fc/2199"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-24 01:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Austria Wien",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Austria%20Wien/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Austria%20Wien/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-austria-wien",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chelsea-vs-austria-wien/2200"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chelsea-vs-austria-wien/2201"
+            }
+        ]
+    },
+    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-09-24 12:00:00",
         "team1Title": "F1 Azerbaijan Grand Prix",
@@ -128,18 +170,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/serbia-vs-greece",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-25 16:00:00",
-        "team1Title": "Australia",
-        "team2Title": "Brazil",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/australia-vs-brazil",
         "multiWatchPageLink": []
     },
     {

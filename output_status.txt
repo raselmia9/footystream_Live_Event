@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [1/18]: https://pogo.pk/events/astros-vs-mariners
 🟡 Visiting detail page [3/18]: https://pogo.pk/events/australia-vs-brazil
 🟡 Visiting detail page [2/18]: https://pogo.pk/events/azerbaijan-vs-tajikistan
+🟡 Visiting detail page [1/18]: https://pogo.pk/events/astros-vs-mariners
+🟢 Successfully processed: Friendly [3/18]
 🟢 Successfully processed: Friendly [2/18]
 🟡 Visiting detail page [4/18]: https://pogo.pk/events/india-vs-panama
-🟢 Successfully processed: Friendly [3/18]
 🟡 Visiting detail page [5/18]: https://pogo.pk/events/colombia-vs-mexico
 🟢 Successfully processed: Friendly [4/18]
 🟡 Visiting detail page [6/18]: https://pogo.pk/events/usa-vs-peru
@@ -24,20 +24,20 @@
 🟡 Visiting detail page [11/18]: https://pogo.pk/events/open-de-france
 🟢 Successfully processed: Womens Champions League [9/18]
 🟡 Visiting detail page [12/18]: https://pogo.pk/events/presidents-cup
-🟢 Successfully processed: PGA Tour [11/18]
-🟡 Visiting detail page [13/18]: https://pogo.pk/events/malta-vs-andorra-live
 🟢 Successfully processed: Formula 1 [10/18]
+🟡 Visiting detail page [13/18]: https://pogo.pk/events/malta-vs-andorra-live
+🟢 Successfully processed: PGA Tour [11/18]
 🟡 Visiting detail page [14/18]: https://pogo.pk/events/portugal-vs-wales
 🟢 Successfully processed: PGA Tour [12/18]
 🟡 Visiting detail page [15/18]: https://pogo.pk/events/germany-vs-netherlands
+🟢 Successfully processed: Nations League [14/18]
 🟢 Successfully processed: Nations League [13/18]
 🟡 Visiting detail page [16/18]: https://pogo.pk/events/norway-vs-denmark
-🟢 Successfully processed: Nations League [14/18]
 🟡 Visiting detail page [17/18]: https://pogo.pk/events/ireland-vs-kosovo
 🟢 Successfully processed: Nations League [15/18]
 🟡 Visiting detail page [18/18]: https://pogo.pk/events/serbia-vs-greece
-🟢 Successfully processed: Nations League [16/18]
 🟢 Successfully processed: Nations League [17/18]
+🟢 Successfully processed: Nations League [16/18]
 🟢 Successfully processed: Nations League [18/18]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 18

@@ -4,27 +4,27 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 16
 🟡 Visiting detail page [3/16]: https://pogo.pk/events/f1-azerbaijan-grand-prix
-🟡 Visiting detail page [2/16]: https://pogo.pk/events/chelsea-vs-austria-wien
 🟡 Visiting detail page [1/16]: https://pogo.pk/events/barcelona-vs-paris-fc
-🟢 Successfully processed: Womens Champions League [2/16]
-🟡 Visiting detail page [4/16]: https://pogo.pk/events/open-de-france
-🟢 Successfully processed: Formula 1 [3/16]
-🟡 Visiting detail page [5/16]: https://pogo.pk/events/presidents-cup
-🟢 Successfully processed: PGA Tour [4/16]
-🟡 Visiting detail page [6/16]: https://pogo.pk/events/malta-vs-andorra-live
+🟡 Visiting detail page [2/16]: https://pogo.pk/events/chelsea-vs-austria-wien
 🟢 Successfully processed: Womens Champions League [1/16]
-🟡 Visiting detail page [7/16]: https://pogo.pk/events/portugal-vs-wales
+🟡 Visiting detail page [4/16]: https://pogo.pk/events/open-de-france
+🟢 Successfully processed: Womens Champions League [2/16]
+🟡 Visiting detail page [5/16]: https://pogo.pk/events/presidents-cup
+🟢 Successfully processed: Formula 1 [3/16]
+🟡 Visiting detail page [6/16]: https://pogo.pk/events/malta-vs-andorra-live
 🟢 Successfully processed: Nations League [6/16]
-🟡 Visiting detail page [8/16]: https://pogo.pk/events/germany-vs-netherlands
+🟡 Visiting detail page [7/16]: https://pogo.pk/events/portugal-vs-wales
 🟢 Successfully processed: Nations League [7/16]
-🟡 Visiting detail page [9/16]: https://pogo.pk/events/norway-vs-denmark
+🟡 Visiting detail page [8/16]: https://pogo.pk/events/germany-vs-netherlands
 🟢 Successfully processed: Nations League [8/16]
+🟡 Visiting detail page [9/16]: https://pogo.pk/events/norway-vs-denmark
+🟢 Successfully processed: PGA Tour [4/16]
 🟡 Visiting detail page [10/16]: https://pogo.pk/events/ireland-vs-kosovo
 🟢 Successfully processed: Nations League [9/16]
 🟡 Visiting detail page [11/16]: https://pogo.pk/events/serbia-vs-greece
-🟢 Successfully processed: PGA Tour [5/16]
-🟡 Visiting detail page [12/16]: https://pogo.pk/events/australia-vs-brazil
 🟢 Successfully processed: Nations League [10/16]
+🟡 Visiting detail page [12/16]: https://pogo.pk/events/australia-vs-brazil
+🟢 Successfully processed: PGA Tour [5/16]
 🟡 Visiting detail page [13/16]: https://pogo.pk/events/india-vs-panama
 🟢 Successfully processed: Nations League [11/16]
 🟡 Visiting detail page [14/16]: https://pogo.pk/events/colombia-vs-mexico

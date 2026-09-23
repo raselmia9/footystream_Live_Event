@@ -3,30 +3,30 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [3/18]: https://pogo.pk/events/australia-vs-brazil
 🟡 Visiting detail page [1/18]: https://pogo.pk/events/astros-vs-mariners
+🟡 Visiting detail page [3/18]: https://pogo.pk/events/australia-vs-brazil
 🟡 Visiting detail page [2/18]: https://pogo.pk/events/azerbaijan-vs-tajikistan
-🟢 Successfully processed: Friendly [3/18]
 🟢 Successfully processed: Friendly [2/18]
 🟡 Visiting detail page [4/18]: https://pogo.pk/events/india-vs-panama
+🟢 Successfully processed: Friendly [3/18]
 🟡 Visiting detail page [5/18]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: Friendly [5/18]
 🟢 Successfully processed: Friendly [4/18]
 🟡 Visiting detail page [6/18]: https://pogo.pk/events/usa-vs-peru
+🟢 Successfully processed: Friendly [5/18]
 🟡 Visiting detail page [7/18]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Friendly [6/18]
-🟢 Successfully processed: Friendly [7/18]
-🟡 Visiting detail page [8/18]: https://pogo.pk/events/barcelona-vs-paris-fc
-🟡 Visiting detail page [9/18]: https://pogo.pk/events/chelsea-vs-austria-wien
 🟢 Successfully processed: MLB [1/18]
+🟡 Visiting detail page [8/18]: https://pogo.pk/events/barcelona-vs-paris-fc
+🟢 Successfully processed: Friendly [6/18]
+🟡 Visiting detail page [9/18]: https://pogo.pk/events/chelsea-vs-austria-wien
+🟢 Successfully processed: Friendly [7/18]
 🟡 Visiting detail page [10/18]: https://pogo.pk/events/f1-azerbaijan-grand-prix
 🟢 Successfully processed: Womens Champions League [8/18]
 🟡 Visiting detail page [11/18]: https://pogo.pk/events/open-de-france
 🟢 Successfully processed: Womens Champions League [9/18]
 🟡 Visiting detail page [12/18]: https://pogo.pk/events/presidents-cup
-🟢 Successfully processed: Formula 1 [10/18]
-🟡 Visiting detail page [13/18]: https://pogo.pk/events/malta-vs-andorra-live
 🟢 Successfully processed: PGA Tour [11/18]
+🟡 Visiting detail page [13/18]: https://pogo.pk/events/malta-vs-andorra-live
+🟢 Successfully processed: Formula 1 [10/18]
 🟡 Visiting detail page [14/18]: https://pogo.pk/events/portugal-vs-wales
 🟢 Successfully processed: PGA Tour [12/18]
 🟡 Visiting detail page [15/18]: https://pogo.pk/events/germany-vs-netherlands

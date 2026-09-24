@@ -3,47 +3,62 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 21
-🟡 Visiting detail page [3/21]: https://pogo.pk/events/presidents-cup
-🟡 Visiting detail page [2/21]: https://pogo.pk/events/open-de-france
 🟡 Visiting detail page [1/21]: https://pogo.pk/events/f1-azerbaijan-grand-prix
-🟢 Successfully processed: PGA Tour [2/21]
-🟡 Visiting detail page [4/21]: https://pogo.pk/events/portugal-vs-wales
-🟢 Successfully processed: PGA Tour [3/21]
+🟡 Visiting detail page [2/21]: https://pogo.pk/events/open-de-france
+🟡 Visiting detail page [3/21]: https://pogo.pk/events/presidents-cup
+🔴 ERROR on detail page https://pogo.pk/events/open-de-france: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/open-de-france", waiting until "load"
+
+🔴 ERROR on detail page https://pogo.pk/events/presidents-cup: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/presidents-cup", waiting until "load"
+
 🟡 Visiting detail page [5/21]: https://pogo.pk/events/germany-vs-netherlands
+🟡 Visiting detail page [4/21]: https://pogo.pk/events/portugal-vs-wales
 🟢 Successfully processed: Formula 1 [1/21]
 🟡 Visiting detail page [6/21]: https://pogo.pk/events/norway-vs-denmark
 🟢 Successfully processed: Nations League [5/21]
 🟡 Visiting detail page [7/21]: https://pogo.pk/events/ireland-vs-kosovo
-🟢 Successfully processed: Nations League [6/21]
-🟡 Visiting detail page [8/21]: https://pogo.pk/events/serbia-vs-greece
-🟢 Successfully processed: Nations League [7/21]
-🟡 Visiting detail page [9/21]: https://pogo.pk/events/liechtenstein-vs-lithuania
 🟢 Successfully processed: Nations League [4/21]
+🟡 Visiting detail page [8/21]: https://pogo.pk/events/serbia-vs-greece
+🟢 Successfully processed: Nations League [6/21]
+🟡 Visiting detail page [9/21]: https://pogo.pk/events/liechtenstein-vs-lithuania
+🟢 Successfully processed: Nations League [7/21]
 🟡 Visiting detail page [10/21]: https://pogo.pk/events/austria-vs-israel
 🟢 Successfully processed: Nations League [8/21]
 🟡 Visiting detail page [11/21]: https://pogo.pk/events/australia-vs-brazil
 🟢 Successfully processed: Friendly [11/21]
 🟡 Visiting detail page [12/21]: https://pogo.pk/events/india-vs-panama
-🟢 Successfully processed: Nations League [10/21]
-🟡 Visiting detail page [13/21]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: Friendly [12/21]
-🟡 Visiting detail page [14/21]: https://pogo.pk/events/usa-vs-peru
-🟢 Successfully processed: Friendly [13/21]
-🟡 Visiting detail page [15/21]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Friendly [14/21]
-🟡 Visiting detail page [16/21]: https://pogo.pk/events/georgia-vs-northern-ireland
-🟢 Successfully processed: Friendly [15/21]
-🟡 Visiting detail page [17/21]: https://pogo.pk/events/armenia-vs-latvia
 🟢 Successfully processed: Nations League [9/21]
+🟡 Visiting detail page [13/21]: https://pogo.pk/events/colombia-vs-mexico
+🟢 Successfully processed: Nations League [10/21]
+🟡 Visiting detail page [14/21]: https://pogo.pk/events/usa-vs-peru
+🟢 Successfully processed: Friendly [12/21]
+🟡 Visiting detail page [15/21]: https://pogo.pk/events/canada-vs-chile
+🟢 Successfully processed: Friendly [13/21]
+🟡 Visiting detail page [16/21]: https://pogo.pk/events/georgia-vs-northern-ireland
+🟢 Successfully processed: Friendly [14/21]
+🟡 Visiting detail page [17/21]: https://pogo.pk/events/armenia-vs-latvia
+🟢 Successfully processed: Friendly [15/21]
 🟡 Visiting detail page [18/21]: https://pogo.pk/events/turkiye-vs-france
-🟢 Successfully processed: Nations League [16/21]
+🔴 ERROR on detail page https://pogo.pk/events/georgia-vs-northern-ireland: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/georgia-vs-northern-ireland", waiting until "load"
+
 🟡 Visiting detail page [19/21]: https://pogo.pk/events/sweden-vs-romania
-🟢 Successfully processed: Nations League [17/21]
+🔴 ERROR on detail page https://pogo.pk/events/armenia-vs-latvia: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/armenia-vs-latvia", waiting until "load"
+
 🟡 Visiting detail page [20/21]: https://pogo.pk/events/bosnia-vs-poland
-🟢 Successfully processed: Nations League [18/21]
+🔴 ERROR on detail page https://pogo.pk/events/turkiye-vs-france: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/turkiye-vs-france", waiting until "load"
+
 🟡 Visiting detail page [21/21]: https://pogo.pk/events/hungary-vs-ukraine
 🟢 Successfully processed: Nations League [19/21]
 🟢 Successfully processed: Nations League [20/21]
 🟢 Successfully processed: Nations League [21/21]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 21
+🟢 Process completed successfully. Total collected events: 16

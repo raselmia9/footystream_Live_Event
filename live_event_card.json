@@ -42,23 +42,6 @@
         ]
     },
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-24 22:30:00",
-        "team1Title": "Presidents Cup",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/presidents-cup",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/presidents-cup/2195"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-24 22:00:00",
         "team1Title": "Malta",
@@ -129,6 +112,23 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/serbia-vs-greece",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-09-24 22:30:00",
+        "team1Title": "Presidents Cup",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/presidents-cup",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/presidents-cup/2195"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

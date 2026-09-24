@@ -49,7 +49,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/malta/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
         "isHot": true,
-        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Malta_vs_Andorra/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Malta_vs_Andorra/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Malta_vs_Andorra/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/malta-vs-andorra-live",
         "multiWatchPageLink": [
             {
@@ -87,7 +87,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/portugal-vs-wales",
         "multiWatchPageLink": [
             {
@@ -108,7 +108,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Netherlands/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/germany-vs-netherlands",
         "multiWatchPageLink": [
             {
@@ -125,7 +125,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Norway_vs_Denmark/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/norway-vs-denmark",
         "multiWatchPageLink": [
             {
@@ -142,7 +142,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Ireland_vs_Kosovo/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/ireland-vs-kosovo",
         "multiWatchPageLink": [
             {
@@ -185,6 +185,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/australia-vs-brazil",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-25 16:00:00",
+        "team1Title": "India",
+        "team2Title": "Panama",
+        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/india-vs-panama",
         "multiWatchPageLink": []
     },
     {

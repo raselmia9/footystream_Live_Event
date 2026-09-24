@@ -72,7 +72,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/portugal-vs-wales",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/portugal-vs-wales/2204"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/portugal-vs-wales/2205"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

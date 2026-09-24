@@ -66,7 +66,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/portugal-vs-wales",
         "multiWatchPageLink": [
             {
@@ -95,7 +95,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Netherlands/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Netherlands/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Netherlands/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/germany-vs-netherlands",
         "multiWatchPageLink": [
             {
@@ -145,12 +145,33 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-25 00:45:00",
+        "team1Title": "Serbia",
+        "team2Title": "Greece",
+        "team1Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Serbia_vs_Greece/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Serbia_vs_Greece/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/serbia-vs-greece",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/serbia-vs-greece/2213"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/serbia-vs-greece/2214"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
         "team1Title": "Liechtenstein",
         "team2Title": "Lithuania",
         "team1Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Liechtenstein_vs_Lithuania/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://pogo.pk/events/liechtenstein-vs-lithuania",
         "multiWatchPageLink": [
             {
@@ -294,6 +315,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bosnia-vs-poland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Hungary",
+        "team2Title": "Ukraine",
+        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hungary-vs-ukraine",
         "multiWatchPageLink": []
     }
 ]

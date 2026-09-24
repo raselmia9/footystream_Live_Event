@@ -51,7 +51,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/malta-vs-andorra-live",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/malta-vs-andorra-live/2202"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/malta-vs-andorra-live/2203"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

@@ -8,11 +8,11 @@
 🟡 Visiting detail page [3/15]: https://pogo.pk/events/malta-vs-andorra-live
 🟢 Successfully processed: PGA Tour [2/15]
 🟡 Visiting detail page [4/15]: https://pogo.pk/events/presidents-cup
-🟢 Successfully processed: Nations League [3/15]
-🟡 Visiting detail page [5/15]: https://pogo.pk/events/portugal-vs-wales
 🟢 Successfully processed: Formula 1 [1/15]
-🟡 Visiting detail page [6/15]: https://pogo.pk/events/germany-vs-netherlands
+🟡 Visiting detail page [5/15]: https://pogo.pk/events/portugal-vs-wales
 🟢 Successfully processed: PGA Tour [4/15]
+🟡 Visiting detail page [6/15]: https://pogo.pk/events/germany-vs-netherlands
+🟢 Successfully processed: Nations League [3/15]
 🟡 Visiting detail page [7/15]: https://pogo.pk/events/norway-vs-denmark
 🟢 Successfully processed: Nations League [5/15]
 🟡 Visiting detail page [8/15]: https://pogo.pk/events/ireland-vs-kosovo
@@ -20,18 +20,21 @@
 🟡 Visiting detail page [9/15]: https://pogo.pk/events/serbia-vs-greece
 🟢 Successfully processed: Nations League [9/15]
 🟡 Visiting detail page [10/15]: https://pogo.pk/events/liechtenstein-vs-lithuania
-🟢 Successfully processed: Nations League [7/15]
-🟡 Visiting detail page [11/15]: https://pogo.pk/events/australia-vs-brazil
 🟢 Successfully processed: Nations League [10/15]
-🟡 Visiting detail page [12/15]: https://pogo.pk/events/india-vs-panama
+🟡 Visiting detail page [11/15]: https://pogo.pk/events/australia-vs-brazil
 🟢 Successfully processed: Friendly [11/15]
-🟡 Visiting detail page [13/15]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: Friendly [13/15]
-🟡 Visiting detail page [14/15]: https://pogo.pk/events/usa-vs-peru
+🟡 Visiting detail page [12/15]: https://pogo.pk/events/india-vs-panama
 🟢 Successfully processed: Nations League [8/15]
-🟡 Visiting detail page [15/15]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Friendly [12/15]
+🟡 Visiting detail page [13/15]: https://pogo.pk/events/colombia-vs-mexico
+🟢 Successfully processed: Nations League [7/15]
+🟡 Visiting detail page [14/15]: https://pogo.pk/events/usa-vs-peru
 🟢 Successfully processed: Friendly [14/15]
+🟡 Visiting detail page [15/15]: https://pogo.pk/events/canada-vs-chile
 🟢 Successfully processed: Friendly [15/15]
+🔴 ERROR on detail page https://pogo.pk/events/india-vs-panama: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/india-vs-panama", waiting until "load"
+
+🟢 Successfully processed: Friendly [13/15]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 15
+🟢 Process completed successfully. Total collected events: 14

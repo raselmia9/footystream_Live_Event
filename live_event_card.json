@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Azerbaijan%20Grand%20Prix_vs_Formula%201/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Azerbaijan%20Grand%20Prix_vs_Formula%201/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Azerbaijan%20Grand%20Prix_vs_Formula%201/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Azerbaijan%20Grand%20Prix_vs_Formula%201/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Azerbaijan%20Grand%20Prix_vs_Formula%201/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/f1-azerbaijan-grand-prix",
         "multiWatchPageLink": [
             {
@@ -176,6 +176,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 00:45:00",
+        "team1Title": "Austria",
+        "team2Title": "Israel",
+        "team1Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/austria-vs-israel",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-09-25 16:00:00",
         "team1Title": "Australia",
@@ -233,6 +245,78 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/canada-vs-chile",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 22:00:00",
+        "team1Title": "Georgia",
+        "team2Title": "Northern Ireland",
+        "team1Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/georgia-vs-northern-ireland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 22:00:00",
+        "team1Title": "Armenia",
+        "team2Title": "Latvia",
+        "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/armenia-vs-latvia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Turkiye",
+        "team2Title": "France",
+        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/turkiye-vs-france",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Sweden",
+        "team2Title": "Romania",
+        "team1Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sweden-vs-romania",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Bosnia and Herzegovina",
+        "team2Title": "Poland",
+        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bosnia-vs-poland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Hungary",
+        "team2Title": "Ukraine",
+        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hungary-vs-ukraine",
         "multiWatchPageLink": []
     }
 ]

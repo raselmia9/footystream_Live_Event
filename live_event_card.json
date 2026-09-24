@@ -42,27 +42,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-24 22:00:00",
-        "team1Title": "Malta",
-        "team2Title": "Andorra",
-        "team1Logo": "https://cdn.img4every1.org/team/malta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Malta_vs_Andorra/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Malta_vs_Andorra/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/malta-vs-andorra-live",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/malta-vs-andorra-live/2202"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/malta-vs-andorra-live/2203"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-24 22:30:00",
         "team1Title": "Presidents Cup",
@@ -171,9 +150,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Serbia_vs_Greece/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Serbia_vs_Greece/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/serbia-vs-greece",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/serbia-vs-greece/2213"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/serbia-vs-greece/2214"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

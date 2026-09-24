@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [2/14]: https://pogo.pk/events/open-de-france
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/f1-azerbaijan-grand-prix
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/malta-vs-andorra-live
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/f1-azerbaijan-grand-prix
+🟡 Visiting detail page [2/14]: https://pogo.pk/events/open-de-france
 🟢 Successfully processed: PGA Tour [2/14]
 🟡 Visiting detail page [4/14]: https://pogo.pk/events/portugal-vs-wales
-🟢 Successfully processed: Formula 1 [1/14]
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/germany-vs-netherlands
 🟢 Successfully processed: Nations League [4/14]
+🟡 Visiting detail page [5/14]: https://pogo.pk/events/germany-vs-netherlands
 🟢 Successfully processed: Nations League [5/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/norway-vs-denmark
+🟢 Successfully processed: Formula 1 [1/14]
 🟡 Visiting detail page [7/14]: https://pogo.pk/events/ireland-vs-kosovo
-🟢 Successfully processed: Nations League [6/14]
-🟢 Successfully processed: Nations League [7/14]
-🟡 Visiting detail page [8/14]: https://pogo.pk/events/serbia-vs-greece
-🟡 Visiting detail page [9/14]: https://pogo.pk/events/presidents-cup
 🟢 Successfully processed: Nations League [3/14]
+🟡 Visiting detail page [8/14]: https://pogo.pk/events/serbia-vs-greece
+🟢 Successfully processed: Nations League [6/14]
+🟡 Visiting detail page [9/14]: https://pogo.pk/events/presidents-cup
+🟢 Successfully processed: Nations League [7/14]
 🟡 Visiting detail page [10/14]: https://pogo.pk/events/australia-vs-brazil
 🟢 Successfully processed: Nations League [8/14]
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/india-vs-panama

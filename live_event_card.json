@@ -87,7 +87,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Wales/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/portugal-vs-wales",
         "multiWatchPageLink": [
             {
@@ -97,6 +97,14 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/portugal-vs-wales/2205"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/portugal-vs-wales/2209"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/portugal-vs-wales/2210"
             }
         ]
     },
@@ -108,12 +116,16 @@
         "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Netherlands/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Netherlands/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Netherlands/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/germany-vs-netherlands",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/germany-vs-netherlands/2206"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/germany-vs-netherlands/2211"
             }
         ]
     },

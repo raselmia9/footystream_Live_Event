@@ -2,30 +2,32 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 12
-🟡 Visiting detail page [2/12]: https://pogo.pk/events/open-de-france
-🟡 Visiting detail page [3/12]: https://pogo.pk/events/presidents-cup
-🟡 Visiting detail page [1/12]: https://pogo.pk/events/f1-azerbaijan-grand-prix
-🟢 Successfully processed: PGA Tour [3/12]
-🟡 Visiting detail page [4/12]: https://pogo.pk/events/georgia-vs-northern-ireland
-🟢 Successfully processed: Nations League [4/12]
-🟡 Visiting detail page [5/12]: https://pogo.pk/events/armenia-vs-latvia
-🟢 Successfully processed: Formula 1 [1/12]
-🟡 Visiting detail page [6/12]: https://pogo.pk/events/turkiye-vs-france
-🟢 Successfully processed: PGA Tour [2/12]
-🟡 Visiting detail page [7/12]: https://pogo.pk/events/sweden-vs-romania
-🟢 Successfully processed: Nations League [5/12]
-🟡 Visiting detail page [8/12]: https://pogo.pk/events/bosnia-vs-poland
-🟢 Successfully processed: Nations League [7/12]
-🟡 Visiting detail page [9/12]: https://pogo.pk/events/hungary-vs-ukraine
-🟢 Successfully processed: Nations League [8/12]
-🟡 Visiting detail page [10/12]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: Friendly [10/12]
-🟡 Visiting detail page [11/12]: https://pogo.pk/events/usa-vs-peru
-🟢 Successfully processed: Nations League [6/12]
-🟡 Visiting detail page [12/12]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Friendly [11/12]
-🟢 Successfully processed: Friendly [12/12]
-🟢 Successfully processed: Nations League [9/12]
+🟢 Total unique detail links to process in parallel: 13
+🟡 Visiting detail page [2/13]: https://pogo.pk/events/open-de-france
+🟡 Visiting detail page [1/13]: https://pogo.pk/events/f1-azerbaijan-grand-prix
+🟡 Visiting detail page [3/13]: https://pogo.pk/events/presidents-cup
+🟢 Successfully processed: PGA Tour [2/13]
+🟢 Successfully processed: PGA Tour [3/13]
+🟡 Visiting detail page [4/13]: https://pogo.pk/events/india-vs-panama
+🟡 Visiting detail page [5/13]: https://pogo.pk/events/georgia-vs-northern-ireland
+🟢 Successfully processed: Formula 1 [1/13]
+🟡 Visiting detail page [6/13]: https://pogo.pk/events/armenia-vs-latvia
+🟢 Successfully processed: Nations League [5/13]
+🟡 Visiting detail page [7/13]: https://pogo.pk/events/turkiye-vs-france
+🟢 Successfully processed: Friendly [4/13]
+🟡 Visiting detail page [8/13]: https://pogo.pk/events/sweden-vs-romania
+🟢 Successfully processed: Nations League [6/13]
+🟡 Visiting detail page [9/13]: https://pogo.pk/events/bosnia-vs-poland
+🟢 Successfully processed: Nations League [8/13]
+🟡 Visiting detail page [10/13]: https://pogo.pk/events/hungary-vs-ukraine
+🟢 Successfully processed: Nations League [9/13]
+🟡 Visiting detail page [11/13]: https://pogo.pk/events/colombia-vs-mexico
+🟢 Successfully processed: Friendly [11/13]
+🟡 Visiting detail page [12/13]: https://pogo.pk/events/usa-vs-peru
+🟢 Successfully processed: Nations League [10/13]
+🟡 Visiting detail page [13/13]: https://pogo.pk/events/canada-vs-chile
+🟢 Successfully processed: Friendly [12/13]
+🟢 Successfully processed: Friendly [13/13]
+🟢 Successfully processed: Nations League [7/13]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 12
+🟢 Process completed successfully. Total collected events: 13

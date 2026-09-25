@@ -59,6 +59,27 @@
         ]
     },
     {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-25 20:00:00",
+        "team1Title": "India",
+        "team2Title": "Panama",
+        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/India_vs_Panama/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/india-vs-panama",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/india-vs-panama/2225"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/india-vs-panama/2226"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-25 22:00:00",
         "team1Title": "Georgia",

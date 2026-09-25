@@ -156,6 +156,23 @@
         ]
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Edinburgh",
+        "team2Title": "Ulster",
+        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Edinburgh_vs_Ulster/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/edinburgh-vs-ulster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/edinburgh-vs-ulster/2236"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-26 00:45:00",
         "team1Title": "Italy",
@@ -185,40 +202,6 @@
             {
                 "channel": "Link 5",
                 "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2231"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-09-26 00:45:00",
-        "team1Title": "Edinburgh",
-        "team2Title": "Ulster",
-        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Edinburgh_vs_Ulster/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/edinburgh-vs-ulster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/edinburgh-vs-ulster/2236"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-09-26 00:45:00",
-        "team1Title": "Stormers",
-        "team2Title": "Connacht",
-        "team1Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Stormers_vs_Connacht/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/stormers-vs-connacht",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/stormers-vs-connacht/2235"
             }
         ]
     },
@@ -257,6 +240,23 @@
         ]
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Stormers",
+        "team2Title": "Connacht",
+        "team1Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Stormers_vs_Connacht/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/stormers-vs-connacht",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/stormers-vs-connacht/2235"
+            }
+        ]
+    },
+    {
         "eventTitle": "Super League",
         "matchTime": "2026-09-26 01:00:00",
         "team1Title": "Leeds Rhinos",
@@ -276,6 +276,78 @@
                 "url": "https://pogo.pk/alpha/leeds-rhinos-vs-warrington-wolves/2242"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 19:00:00",
+        "team1Title": "Scotland",
+        "team2Title": "Slovenia",
+        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/scotland-vs-slovenia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "Bulgaria",
+        "team2Title": "Luxembourg",
+        "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulgaria-vs-luxembourg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "Faroe Islands",
+        "team2Title": "Kazakhstan",
+        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "Iceland",
+        "team2Title": "Estonia",
+        "team1Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/iceland-vs-estonia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "Finland",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/finland-vs-san-marino",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-27 00:45:00",
+        "team1Title": "England",
+        "team2Title": "Spain",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-spain",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Friendly",

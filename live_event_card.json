@@ -160,7 +160,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sweden-vs-romania",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/sweden-vs-romania/2232"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -172,7 +177,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bosnia-vs-poland",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bosnia-vs-poland/2233"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -184,7 +194,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/hungary-vs-ukraine",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/hungary-vs-ukraine/2234"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

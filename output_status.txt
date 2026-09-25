@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
-🟡 Visiting detail page [1/23]: https://pogo.pk/events/f1-azerbaijan-grand-prix
-🟡 Visiting detail page [3/23]: https://pogo.pk/events/presidents-cup
 🟡 Visiting detail page [2/23]: https://pogo.pk/events/open-de-france
+🟡 Visiting detail page [3/23]: https://pogo.pk/events/presidents-cup
+🟡 Visiting detail page [1/23]: https://pogo.pk/events/f1-azerbaijan-grand-prix
 🟢 Successfully processed: PGA Tour [3/23]
-🟢 Successfully processed: PGA Tour [2/23]
 🟡 Visiting detail page [4/23]: https://pogo.pk/events/turkiye-vs-france
+🟢 Successfully processed: PGA Tour [2/23]
 🟡 Visiting detail page [5/23]: https://pogo.pk/events/sweden-vs-romania
 🟢 Successfully processed: Formula 1 [1/23]
 🟡 Visiting detail page [6/23]: https://pogo.pk/events/bosnia-vs-poland
@@ -32,9 +32,9 @@
 🟡 Visiting detail page [15/23]: https://pogo.pk/events/scotland-vs-slovenia
 🟢 Successfully processed: Nations League [15/23]
 🟡 Visiting detail page [16/23]: https://pogo.pk/events/bulgaria-vs-luxembourg
-🟢 Successfully processed: Nations League [16/23]
-🟡 Visiting detail page [17/23]: https://pogo.pk/events/faroe-islands-vs-kazakhstan
 🟢 Successfully processed: United Rugby [13/23]
+🟡 Visiting detail page [17/23]: https://pogo.pk/events/faroe-islands-vs-kazakhstan
+🟢 Successfully processed: Nations League [16/23]
 🟡 Visiting detail page [18/23]: https://pogo.pk/events/iceland-vs-estonia
 🟢 Successfully processed: Super League [14/23]
 🟡 Visiting detail page [19/23]: https://pogo.pk/events/finland-vs-san-marino

@@ -66,9 +66,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Northern%20Ireland/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Northern%20Ireland/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/georgia-vs-northern-ireland",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/georgia-vs-northern-ireland/2219"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/georgia-vs-northern-ireland/2220"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -78,9 +87,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Armenia_vs_Latvia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Armenia_vs_Latvia/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/armenia-vs-latvia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/armenia-vs-latvia/2217"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/armenia-vs-latvia/2218"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -92,7 +110,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/turkiye-vs-france",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/turkiye-vs-france/2221"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/turkiye-vs-france/2222"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/turkiye-vs-france/2223"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/turkiye-vs-france/2224"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

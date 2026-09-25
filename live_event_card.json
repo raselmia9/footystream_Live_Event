@@ -59,27 +59,6 @@
         ]
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-25 20:00:00",
-        "team1Title": "India",
-        "team2Title": "Panama",
-        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/India_vs_Panama/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/India_vs_Panama/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/india-vs-panama",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/india-vs-panama/2225"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/india-vs-panama/2226"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-25 22:00:00",
         "team1Title": "Georgia",
@@ -198,6 +177,51 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/hungary-vs-ukraine/2234"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Montenegro",
+        "team2Title": "Cyprus",
+        "team1Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/montenegro-vs-cyprus",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Italy",
+        "team2Title": "Belgium",
+        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/italy-vs-belgium-live-stream",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2227"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2228"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2229"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2230"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://pogo.pk/alpha/italy-vs-belgium-live-stream/2231"
             }
         ]
     },

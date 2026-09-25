@@ -146,9 +146,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Montenegro_vs_Cyprus/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/montenegro-vs-cyprus",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/montenegro-vs-cyprus/2240"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -225,7 +230,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-red-bulls/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Northampton%20Saints_vs_Newcastle%20Red%20Bulls/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://pogo.pk/events/northampton-vs-newcastle",
         "multiWatchPageLink": [
             {

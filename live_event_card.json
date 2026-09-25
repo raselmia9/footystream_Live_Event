@@ -121,18 +121,6 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-25 22:00:00",
-        "team1Title": "Georgia",
-        "team2Title": "Northern Ireland",
-        "team1Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/georgia-vs-northern-ireland",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-25 22:00:00",
         "team1Title": "Armenia",
         "team2Title": "Latvia",
         "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",

@@ -1,35 +1,26 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-24 17:30:00",
-        "team1Title": "Open de France",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-09-24 12:00:00",
+        "team1Title": "F1 Azerbaijan Grand Prix",
+        "team2Title": "Formula 1",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Open%20de%20France_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/open-de-france",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Azerbaijan%20Grand%20Prix_vs_Formula%201/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Azerbaijan%20Grand%20Prix_vs_Formula%201/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/F1%20Azerbaijan%20Grand%20Prix_vs_Formula%201/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/f1-azerbaijan-grand-prix",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/open-de-france/2194"
-            }
-        ]
-    },
-    {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-24 22:30:00",
-        "team1Title": "Presidents Cup",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Presidents%20Cup_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/presidents-cup",
-        "multiWatchPageLink": [
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2191"
+            },
             {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/presidents-cup/2195"
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2192"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/f1-azerbaijan-grand-prix/2193"
             }
         ]
     },
@@ -43,6 +34,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/australia-vs-brazil",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-25 16:00:00",
+        "team1Title": "India",
+        "team2Title": "Panama",
+        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/india-vs-panama",
         "multiWatchPageLink": []
     },
     {
@@ -127,6 +130,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/colombia-vs-mexico",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 02:30:00",
+        "team1Title": "USA",
+        "team2Title": "Peru",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/usa-vs-peru",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 05:00:00",
+        "team1Title": "Canada",
+        "team2Title": "Chile",
+        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/canada-vs-chile",
         "multiWatchPageLink": []
     }
 ]

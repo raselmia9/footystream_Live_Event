@@ -132,6 +132,18 @@
     },
     {
         "eventTitle": "Nations League",
+        "matchTime": "2026-09-25 22:00:00",
+        "team1Title": "Armenia",
+        "team2Title": "Latvia",
+        "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/armenia-vs-latvia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
         "matchTime": "2026-09-26 00:45:00",
         "team1Title": "Turkiye",
         "team2Title": "France",

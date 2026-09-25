@@ -119,6 +119,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 00:45:00",
+        "team1Title": "Hungary",
+        "team2Title": "Ukraine",
+        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hungary-vs-ukraine",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-09-27 02:00:00",
         "team1Title": "Colombia",

@@ -2,38 +2,40 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 16
-🟡 Visiting detail page [2/16]: https://pogo.pk/events/open-de-france
-🟡 Visiting detail page [1/16]: https://pogo.pk/events/f1-azerbaijan-grand-prix
-🟡 Visiting detail page [3/16]: https://pogo.pk/events/presidents-cup
-🟢 Successfully processed: PGA Tour [2/16]
-🟡 Visiting detail page [4/16]: https://pogo.pk/events/turkiye-vs-france
-🟢 Successfully processed: PGA Tour [3/16]
-🟡 Visiting detail page [5/16]: https://pogo.pk/events/sweden-vs-romania
-🟢 Successfully processed: Formula 1 [1/16]
-🟡 Visiting detail page [6/16]: https://pogo.pk/events/bosnia-vs-poland
-🟢 Successfully processed: Nations League [6/16]
-🟡 Visiting detail page [7/16]: https://pogo.pk/events/hungary-vs-ukraine
-🟢 Successfully processed: Nations League [4/16]
-🟡 Visiting detail page [8/16]: https://pogo.pk/events/montenegro-vs-cyprus
-🟢 Successfully processed: Nations League [5/16]
-🟡 Visiting detail page [9/16]: https://pogo.pk/events/italy-vs-belgium-live-stream
-🟢 Successfully processed: Nations League [7/16]
-🟡 Visiting detail page [10/16]: https://pogo.pk/events/edinburgh-vs-ulster
-🟢 Successfully processed: Nations League [8/16]
-🟡 Visiting detail page [11/16]: https://pogo.pk/events/stormers-vs-connacht
-🟢 Successfully processed: United Rugby [10/16]
-🟡 Visiting detail page [12/16]: https://pogo.pk/events/northampton-vs-newcastle
-🟢 Successfully processed: Nations League [9/16]
-🟡 Visiting detail page [13/16]: https://pogo.pk/events/bath-rugby-vs-harlequins
-🟢 Successfully processed: United Rugby [11/16]
-🟡 Visiting detail page [14/16]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: Friendly [14/16]
-🟡 Visiting detail page [15/16]: https://pogo.pk/events/usa-vs-peru
-🟢 Successfully processed: Friendly [15/16]
-🟡 Visiting detail page [16/16]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Premiership Rugby [13/16]
-🟢 Successfully processed: Friendly [16/16]
-🟢 Successfully processed: Premiership Rugby [12/16]
+🟢 Total unique detail links to process in parallel: 17
+🟡 Visiting detail page [2/17]: https://pogo.pk/events/open-de-france
+🟡 Visiting detail page [3/17]: https://pogo.pk/events/presidents-cup
+🟡 Visiting detail page [1/17]: https://pogo.pk/events/f1-azerbaijan-grand-prix
+🟢 Successfully processed: PGA Tour [2/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/turkiye-vs-france
+🟢 Successfully processed: Formula 1 [1/17]
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/sweden-vs-romania
+🟢 Successfully processed: PGA Tour [3/17]
+🟡 Visiting detail page [6/17]: https://pogo.pk/events/bosnia-vs-poland
+🟢 Successfully processed: Nations League [4/17]
+🟡 Visiting detail page [7/17]: https://pogo.pk/events/hungary-vs-ukraine
+🟢 Successfully processed: Nations League [5/17]
+🟡 Visiting detail page [8/17]: https://pogo.pk/events/montenegro-vs-cyprus
+🟢 Successfully processed: Nations League [6/17]
+🟡 Visiting detail page [9/17]: https://pogo.pk/events/italy-vs-belgium-live-stream
+🟢 Successfully processed: Nations League [8/17]
+🟡 Visiting detail page [10/17]: https://pogo.pk/events/edinburgh-vs-ulster
+🟢 Successfully processed: Nations League [7/17]
+🟡 Visiting detail page [11/17]: https://pogo.pk/events/stormers-vs-connacht
+🟢 Successfully processed: Nations League [9/17]
+🟡 Visiting detail page [12/17]: https://pogo.pk/events/northampton-vs-newcastle
+🟢 Successfully processed: United Rugby [10/17]
+🟡 Visiting detail page [13/17]: https://pogo.pk/events/bath-rugby-vs-harlequins
+🟢 Successfully processed: United Rugby [11/17]
+🟡 Visiting detail page [14/17]: https://pogo.pk/events/leeds-rhinos-vs-warrington-wolves
+🟢 Successfully processed: Premiership Rugby [12/17]
+🟡 Visiting detail page [15/17]: https://pogo.pk/events/colombia-vs-mexico
+🟢 Successfully processed: Friendly [15/17]
+🟡 Visiting detail page [16/17]: https://pogo.pk/events/usa-vs-peru
+🟢 Successfully processed: Friendly [16/17]
+🟡 Visiting detail page [17/17]: https://pogo.pk/events/canada-vs-chile
+🟢 Successfully processed: Premiership Rugby [13/17]
+🟢 Successfully processed: Super League [14/17]
+🟢 Successfully processed: Friendly [17/17]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 16
+🟢 Process completed successfully. Total collected events: 17

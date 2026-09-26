@@ -127,6 +127,23 @@
         ]
     },
     {
+        "eventTitle": "NRL",
+        "matchTime": "2026-09-27 12:00:00",
+        "team1Title": "Newcastle Knights",
+        "team2Title": "Penrith Panthers",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-knights/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/penrith-panthers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/newcastle-knights-vs-penrith-panthers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/newcastle-knights-vs-penrith-panthers/2293"
+            }
+        ]
+    },
+    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-09-27 15:45:00",
         "team1Title": "South Africa",

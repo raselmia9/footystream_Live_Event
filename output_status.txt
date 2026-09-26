@@ -4,25 +4,25 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 22
 🟡 Visiting detail page [2/22]: https://pogo.pk/events/presidents-cup
-🟡 Visiting detail page [1/22]: https://pogo.pk/events/open-de-france
 🟡 Visiting detail page [3/22]: https://pogo.pk/events/laver-cup
-🟢 Successfully processed: ATP Tour [3/22]
-🟡 Visiting detail page [4/22]: https://pogo.pk/events/usa-vs-peru
+🟡 Visiting detail page [1/22]: https://pogo.pk/events/open-de-france
 🟢 Successfully processed: PGA Tour [2/22]
-🟡 Visiting detail page [5/22]: https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos
 🟢 Successfully processed: PGA Tour [1/22]
+🟡 Visiting detail page [4/22]: https://pogo.pk/events/usa-vs-peru
+🟢 Successfully processed: ATP Tour [3/22]
+🟡 Visiting detail page [5/22]: https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos
 🟡 Visiting detail page [6/22]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Friendly [4/22]
-🟡 Visiting detail page [7/22]: https://pogo.pk/events/colombia-vs-mexico
 🟢 Successfully processed: UFC [5/22]
+🟡 Visiting detail page [7/22]: https://pogo.pk/events/colombia-vs-mexico
+🟢 Successfully processed: Friendly [4/22]
 🟡 Visiting detail page [8/22]: https://pogo.pk/events/south-africa-vs-australia
 🟢 Successfully processed: Rugby Union [8/22]
 🟡 Visiting detail page [9/22]: https://pogo.pk/events/azerbaijan-vs-lithuania
 🟢 Successfully processed: Nations League [9/22]
 🟡 Visiting detail page [10/22]: https://pogo.pk/events/wales-vs-denmark
-🟢 Successfully processed: Friendly [6/22]
-🟡 Visiting detail page [11/22]: https://pogo.pk/events/netherlands-vs-serbia
 🟢 Successfully processed: Nations League [10/22]
+🟡 Visiting detail page [11/22]: https://pogo.pk/events/netherlands-vs-serbia
+🟢 Successfully processed: Friendly [6/22]
 🟡 Visiting detail page [12/22]: https://pogo.pk/events/kosovo-vs-austria
 🟢 Successfully processed: Nations League [11/22]
 🟡 Visiting detail page [13/22]: https://pogo.pk/events/gibraltar-vs-andorra

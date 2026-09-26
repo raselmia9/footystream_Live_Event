@@ -122,23 +122,6 @@
         ]
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-09-26 22:30:00",
-        "team1Title": "Bristol Bears",
-        "team2Title": "Sale Sharks",
-        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-sale-sharks",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bristol-bears-vs-sale-sharks/2251"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-09-26 20:00:00",
         "team1Title": "Cambridge United",
@@ -152,6 +135,135 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/cambridge-united-vs-afc-wimbledon/2257"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 20:00:00",
+        "team1Title": "Ospreys",
+        "team2Title": "Sale Sharks",
+        "team1Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Ospreys_vs_Sale%20Sharks/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/ospreys-vs-sharks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/ospreys-vs-sharks/2246"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "Bulgaria",
+        "team2Title": "Luxembourg",
+        "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulgaria-vs-luxembourg",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2260"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2261"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "Faroe Islands",
+        "team2Title": "Kazakhstan",
+        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "Iceland",
+        "team2Title": "Estonia",
+        "team1Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/iceland-vs-estonia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/iceland-vs-estonia/2264"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "Finland",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/finland-vs-san-marino",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-27 00:45:00",
+        "team1Title": "England",
+        "team2Title": "Spain",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-spain",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-27 00:45:00",
+        "team1Title": "Czechia",
+        "team2Title": "Croatia",
+        "team1Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/czechia-vs-croatia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/czechia-vs-croatia/2265"
+            }
+        ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "London City Lionesses",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/london-lionesses-vs-brighton",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2258"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2259"
             }
         ]
     },
@@ -173,19 +285,40 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-09-26 20:00:00",
-        "team1Title": "Ospreys",
-        "team2Title": "Sale Sharks",
-        "team1Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "eventTitle": "Super League",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Title": "Wigan Warriors",
+        "team2Title": "Wakefield Trinity",
+        "team1Logo": "https://cdn.img4every1.org/team/wigan-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Ospreys_vs_Sale%20Sharks/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/ospreys-vs-sharks",
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/ospreys-vs-sharks/2246"
+                "url": "https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2252"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2253"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Title": "Bristol Bears",
+        "team2Title": "Sale Sharks",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-sale-sharks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bristol-bears-vs-sale-sharks/2251"
             }
         ]
     },
@@ -237,129 +370,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Bulgaria",
-        "team2Title": "Luxembourg",
-        "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bulgaria-vs-luxembourg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2260"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2261"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Faroe Islands",
-        "team2Title": "Kazakhstan",
-        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Iceland",
-        "team2Title": "Estonia",
-        "team1Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/iceland-vs-estonia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Finland",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/finland-vs-san-marino",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Title": "England",
-        "team2Title": "Spain",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-spain",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Title": "Czechia",
-        "team2Title": "Croatia",
-        "team1Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/czechia-vs-croatia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "London City Lionesses",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/london-lionesses-vs-brighton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2258"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2259"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Super League",
-        "matchTime": "2026-09-26 22:30:00",
-        "team1Title": "Wigan Warriors",
-        "team2Title": "Wakefield Trinity",
-        "team1Logo": "https://cdn.img4every1.org/team/wigan-warriors/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2252"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2253"
             }
         ]
     },

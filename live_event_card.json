@@ -55,23 +55,6 @@
         ]
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-27 02:30:00",
-        "team1Title": "USA",
-        "team2Title": "Peru",
-        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/USA_vs_Peru/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/usa-vs-peru",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/usa-vs-peru/2292"
-            }
-        ]
-    },
-    {
         "eventTitle": "UFC",
         "matchTime": "2026-09-27 04:00:00",
         "team1Title": "Raul Rosas Jr",
@@ -85,6 +68,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2244"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-27 02:30:00",
+        "team1Title": "Event Ended",
+        "team2Title": "USA",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_USA/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/usa-vs-peru",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/usa-vs-peru/2292"
             }
         ]
     },

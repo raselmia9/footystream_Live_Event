@@ -311,7 +311,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/colombia-vs-mexico",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/colombia-vs-mexico/2291"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",
@@ -416,6 +421,18 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-09-27 23:00:00",
+        "team1Title": "Indianapolis Colts",
+        "team2Title": "Houston Texans",
+        "team1Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/indianapolis-colts-vs-houston-texans",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-27 23:00:00",
         "team1Title": "Carolina Panthers",
         "team2Title": "Cleveland Browns",
         "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
@@ -423,6 +440,63 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/panthers-vs-browns",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-27 23:00:00",
+        "team1Title": "New York Giants",
+        "team2Title": "Tennessee Titans",
+        "team1Logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/giants-vs-titans",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-27 23:00:00",
+        "team1Title": "Buffalo Bills",
+        "team2Title": "Los Angeles Chargers",
+        "team1Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bills-vs-chargers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bills-vs-chargers/2286"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/bills-vs-chargers/2287"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-27 23:00:00",
+        "team1Title": "Miami Dolphins",
+        "team2Title": "Kansas City Chiefs",
+        "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/dolphins-vs-chiefs",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-27 23:00:00",
+        "team1Title": "Jacksonville Jaguars",
+        "team2Title": "New England Patriots",
+        "team1Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/jaguars-vs-patriots",
         "multiWatchPageLink": []
     }
 ]

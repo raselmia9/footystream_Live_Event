@@ -2,54 +2,64 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 24
-🟡 Visiting detail page [3/24]: https://pogo.pk/events/presidents-cup
-🟡 Visiting detail page [2/24]: https://pogo.pk/events/open-de-france
-🟡 Visiting detail page [1/24]: https://pogo.pk/events/england-vs-spain
-🟢 Successfully processed: Nations League [1/24]
-🟢 Successfully processed: PGA Tour [2/24]
-🟡 Visiting detail page [4/24]: https://pogo.pk/events/laver-cup
-🟡 Visiting detail page [5/24]: https://pogo.pk/events/oldham-athletic-vs-salford-city
-🟢 Successfully processed: PGA Tour [3/24]
-🟡 Visiting detail page [6/24]: https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity
-🟢 Successfully processed: Super League [6/24]
-🟢 Successfully processed: EFL [5/24]
-🟡 Visiting detail page [7/24]: https://pogo.pk/events/bristol-bears-vs-sale-sharks
-🟡 Visiting detail page [8/24]: https://pogo.pk/events/glasgow-warriors-vs-munster
-🟢 Successfully processed: ATP Tour [4/24]
-🟡 Visiting detail page [9/24]: https://pogo.pk/events/bulls-vs-zebre
-🟢 Successfully processed: Premiership Rugby [7/24]
-🟡 Visiting detail page [10/24]: https://pogo.pk/events/czechia-vs-croatia
-🟢 Successfully processed: United Rugby [8/24]
-🟡 Visiting detail page [11/24]: https://pogo.pk/events/switzerland-vs-north-macedonia
-🟢 Successfully processed: United Rugby [9/24]
-🟡 Visiting detail page [12/24]: https://pogo.pk/events/albania-vs-belarus
-🟢 Successfully processed: Nations League [12/24]
-🟢 Successfully processed: Nations League [10/24]
-🟢 Successfully processed: Nations League [11/24]
-🟡 Visiting detail page [13/24]: https://pogo.pk/events/slovakia-vs-moldova
-🟡 Visiting detail page [14/24]: https://pogo.pk/events/azerbaijan-vs-lithuania
-🟡 Visiting detail page [15/24]: https://pogo.pk/events/wales-vs-denmark
-🟢 Successfully processed: Nations League [14/24]
-🟡 Visiting detail page [16/24]: https://pogo.pk/events/scarlets-vs-cardiff-rugby
-🟢 Successfully processed: Nations League [15/24]
-🟡 Visiting detail page [17/24]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: Friendly [17/24]
-🟡 Visiting detail page [18/24]: https://pogo.pk/events/usa-vs-peru
-🟢 Successfully processed: Friendly [18/24]
-🟡 Visiting detail page [19/24]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Nations League [13/24]
-🟡 Visiting detail page [20/24]: https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos
-🟢 Successfully processed: United Rugby [16/24]
-🟡 Visiting detail page [21/24]: https://pogo.pk/events/south-africa-vs-australia
-🟢 Successfully processed: Rugby Union [21/24]
-🟡 Visiting detail page [22/24]: https://pogo.pk/events/leicester-tigers-vs-saracens
-🟢 Successfully processed: Friendly [19/24]
-🟡 Visiting detail page [23/24]: https://pogo.pk/events/chelsea-vs-arsenal
-🟢 Successfully processed: UFC [20/24]
-🟡 Visiting detail page [24/24]: https://pogo.pk/events/panthers-vs-browns
-🟢 Successfully processed: NFL [24/24]
-🟢 Successfully processed: Premiership Rugby [22/24]
-🟢 Successfully processed: WSL [23/24]
+🟢 Total unique detail links to process in parallel: 29
+🟡 Visiting detail page [3/29]: https://pogo.pk/events/presidents-cup
+🟡 Visiting detail page [1/29]: https://pogo.pk/events/england-vs-spain
+🟡 Visiting detail page [2/29]: https://pogo.pk/events/open-de-france
+🟢 Successfully processed: PGA Tour [3/29]
+🟡 Visiting detail page [4/29]: https://pogo.pk/events/laver-cup
+🟢 Successfully processed: PGA Tour [2/29]
+🟡 Visiting detail page [5/29]: https://pogo.pk/events/oldham-athletic-vs-salford-city
+🟢 Successfully processed: Nations League [1/29]
+🟡 Visiting detail page [6/29]: https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity
+🟢 Successfully processed: ATP Tour [4/29]
+🟡 Visiting detail page [7/29]: https://pogo.pk/events/bristol-bears-vs-sale-sharks
+🟢 Successfully processed: EFL [5/29]
+🟡 Visiting detail page [8/29]: https://pogo.pk/events/glasgow-warriors-vs-munster
+🟢 Successfully processed: Super League [6/29]
+🟡 Visiting detail page [9/29]: https://pogo.pk/events/bulls-vs-zebre
+🟢 Successfully processed: Premiership Rugby [7/29]
+🟡 Visiting detail page [10/29]: https://pogo.pk/events/czechia-vs-croatia
+🟢 Successfully processed: United Rugby [8/29]
+🟡 Visiting detail page [11/29]: https://pogo.pk/events/switzerland-vs-north-macedonia
+🟢 Successfully processed: United Rugby [9/29]
+🟡 Visiting detail page [12/29]: https://pogo.pk/events/albania-vs-belarus
+🟢 Successfully processed: Nations League [10/29]
+🟡 Visiting detail page [13/29]: https://pogo.pk/events/slovakia-vs-moldova
+🟢 Successfully processed: Nations League [11/29]
+🟡 Visiting detail page [14/29]: https://pogo.pk/events/azerbaijan-vs-lithuania
+🟢 Successfully processed: Nations League [12/29]
+🟡 Visiting detail page [15/29]: https://pogo.pk/events/wales-vs-denmark
+🟢 Successfully processed: Nations League [14/29]
+🟡 Visiting detail page [16/29]: https://pogo.pk/events/scarlets-vs-cardiff-rugby
+🟢 Successfully processed: Nations League [15/29]
+🟡 Visiting detail page [17/29]: https://pogo.pk/events/colombia-vs-mexico
+🟢 Successfully processed: Nations League [13/29]
+🟡 Visiting detail page [18/29]: https://pogo.pk/events/usa-vs-peru
+🟢 Successfully processed: Friendly [18/29]
+🟡 Visiting detail page [19/29]: https://pogo.pk/events/canada-vs-chile
+🟢 Successfully processed: United Rugby [16/29]
+🟡 Visiting detail page [20/29]: https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos
+🟢 Successfully processed: Friendly [17/29]
+🟡 Visiting detail page [21/29]: https://pogo.pk/events/south-africa-vs-australia
+🟢 Successfully processed: Rugby Union [21/29]
+🟡 Visiting detail page [22/29]: https://pogo.pk/events/leicester-tigers-vs-saracens
+🟢 Successfully processed: Friendly [19/29]
+🟡 Visiting detail page [23/29]: https://pogo.pk/events/chelsea-vs-arsenal
+🟢 Successfully processed: UFC [20/29]
+🟡 Visiting detail page [24/29]: https://pogo.pk/events/indianapolis-colts-vs-houston-texans
+🟢 Successfully processed: NFL [24/29]
+🟡 Visiting detail page [25/29]: https://pogo.pk/events/panthers-vs-browns
+🟢 Successfully processed: NFL [25/29]
+🟡 Visiting detail page [26/29]: https://pogo.pk/events/giants-vs-titans
+🟢 Successfully processed: NFL [26/29]
+🟡 Visiting detail page [27/29]: https://pogo.pk/events/bills-vs-chargers
+🟢 Successfully processed: Premiership Rugby [22/29]
+🟡 Visiting detail page [28/29]: https://pogo.pk/events/dolphins-vs-chiefs
+🟢 Successfully processed: NFL [28/29]
+🟡 Visiting detail page [29/29]: https://pogo.pk/events/jaguars-vs-patriots
+🟢 Successfully processed: WSL [23/29]
+🟢 Successfully processed: NFL [29/29]
+🟢 Successfully processed: NFL [27/29]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 24
+🟢 Process completed successfully. Total collected events: 29

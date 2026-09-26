@@ -232,6 +232,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/czechia-vs-croatia/2274"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/czechia-vs-croatia/2275"
             }
         ]
     },
@@ -396,7 +400,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/canada-vs-chile",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/canada-vs-chile/2278"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/canada-vs-chile/2281"
+            }
+        ]
     },
     {
         "eventTitle": "UFC",

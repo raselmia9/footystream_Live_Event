@@ -12,9 +12,9 @@
 🟡 Visiting detail page [5/12]: https://pogo.pk/events/bulgaria-vs-luxembourg
 🟢 Successfully processed: PGA Tour [2/12]
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/faroe-islands-vs-kazakhstan
-🟢 Successfully processed: Nations League [5/12]
-🟡 Visiting detail page [7/12]: https://pogo.pk/events/iceland-vs-estonia
 🟢 Successfully processed: Nations League [4/12]
+🟡 Visiting detail page [7/12]: https://pogo.pk/events/iceland-vs-estonia
+🟢 Successfully processed: Nations League [5/12]
 🟡 Visiting detail page [8/12]: https://pogo.pk/events/finland-vs-san-marino
 🟢 Successfully processed: Nations League [6/12]
 🟡 Visiting detail page [9/12]: https://pogo.pk/events/england-vs-spain
@@ -24,8 +24,8 @@
 🟡 Visiting detail page [11/12]: https://pogo.pk/events/usa-vs-peru
 🟢 Successfully processed: Nations League [9/12]
 🟡 Visiting detail page [12/12]: https://pogo.pk/events/canada-vs-chile
-🟢 Successfully processed: Friendly [11/12]
 🟢 Successfully processed: Friendly [10/12]
+🟢 Successfully processed: Friendly [11/12]
 🟢 Successfully processed: Friendly [12/12]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 12

@@ -178,7 +178,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bulgaria-vs-luxembourg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2260"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -264,6 +269,23 @@
     },
     {
         "eventTitle": "EFL",
+        "matchTime": "2026-09-26 20:00:00",
+        "team1Title": "Cambridge United",
+        "team2Title": "AFC Wimbledon",
+        "team1Logo": "https://cdn.img4every1.org/team/cambridge-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cambridge-united-vs-afc-wimbledon",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/cambridge-united-vs-afc-wimbledon/2257"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
         "matchTime": "2026-09-26 22:30:00",
         "team1Title": "Oldham Athletic",
         "team2Title": "Salford City",
@@ -276,6 +298,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/oldham-athletic-vs-salford-city/2250"
+            }
+        ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-26 22:00:00",
+        "team1Title": "London City Lionesses",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/london-lionesses-vs-brighton",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2258"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2259"
             }
         ]
     },

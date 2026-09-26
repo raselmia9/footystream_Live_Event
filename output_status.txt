@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 25
+🟡 Visiting detail page [3/25]: https://pogo.pk/events/presidents-cup
 🟡 Visiting detail page [1/25]: https://pogo.pk/events/f1-azerbaijan-grand-prix
 🟡 Visiting detail page [2/25]: https://pogo.pk/events/open-de-france
-🟡 Visiting detail page [3/25]: https://pogo.pk/events/presidents-cup
 🟢 Successfully processed: PGA Tour [2/25]
-🟢 Successfully processed: PGA Tour [3/25]
 🟡 Visiting detail page [4/25]: https://pogo.pk/events/lions-vs-leinster
-🟡 Visiting detail page [5/25]: https://pogo.pk/events/scotland-vs-slovenia
 🟢 Successfully processed: Formula 1 [1/25]
+🟡 Visiting detail page [5/25]: https://pogo.pk/events/scotland-vs-slovenia
+🟢 Successfully processed: PGA Tour [3/25]
 🟡 Visiting detail page [6/25]: https://pogo.pk/events/gloucester-vs-exeter
 🟢 Successfully processed: United Rugby [4/25]
 🟡 Visiting detail page [7/25]: https://pogo.pk/events/bristol-bears-vs-sale-sharks
@@ -20,9 +20,9 @@
 🟡 Visiting detail page [9/25]: https://pogo.pk/events/oldham-athletic-vs-salford-city
 🟢 Successfully processed: EFL [8/25]
 🟡 Visiting detail page [10/25]: https://pogo.pk/events/ospreys-vs-sharks
-🟢 Successfully processed: United Rugby [10/25]
-🟡 Visiting detail page [11/25]: https://pogo.pk/events/glasgow-warriors-vs-munster
 🟢 Successfully processed: Premiership Rugby [7/25]
+🟡 Visiting detail page [11/25]: https://pogo.pk/events/glasgow-warriors-vs-munster
+🟢 Successfully processed: United Rugby [10/25]
 🟡 Visiting detail page [12/25]: https://pogo.pk/events/bulls-vs-zebre
 🟢 Successfully processed: EFL [9/25]
 🟡 Visiting detail page [13/25]: https://pogo.pk/events/scarlets-vs-cardiff-rugby

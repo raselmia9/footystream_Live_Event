@@ -62,12 +62,16 @@
         "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Raul%20Rosas%20Jr_vs_Raoni%20Barcelos/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Raul%20Rosas%20Jr_vs_Raoni%20Barcelos/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Raul%20Rosas%20Jr_vs_Raoni%20Barcelos/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2244"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2294"
             }
         ]
     },
@@ -123,6 +127,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/newcastle-knights-vs-penrith-panthers/2293"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/newcastle-knights-vs-penrith-panthers/2295"
             }
         ]
     },
@@ -136,7 +144,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/south-africa-vs-australia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/south-africa-vs-australia/2296"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/south-africa-vs-australia/2297"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

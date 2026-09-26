@@ -63,6 +63,91 @@
         ]
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 17:30:00",
+        "team1Title": "Lions",
+        "team2Title": "Leinster",
+        "team1Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Lions_vs_Leinster/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/lions-vs-leinster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/lions-vs-leinster/2245"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 20:00:00",
+        "team1Title": "Ospreys",
+        "team2Title": "Sale Sharks",
+        "team1Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ospreys-vs-sharks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/ospreys-vs-sharks/2246"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Title": "Glasgow Warriors",
+        "team2Title": "Munster",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-munster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/glasgow-warriors-vs-munster/2248"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Title": "Bulls",
+        "team2Title": "Zebre",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulls-vs-zebre",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bulls-vs-zebre/2249"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-27 00:45:00",
+        "team1Title": "Scarlets",
+        "team2Title": "Cardiff Blues",
+        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/scarlets-vs-cardiff-rugby",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-26 19:00:00",
         "team1Title": "Scotland",
@@ -72,7 +157,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/scotland-vs-slovenia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/scotland-vs-slovenia/2255"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/scotland-vs-slovenia/2256"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -135,6 +229,78 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-09-26 20:00:00",
+        "team1Title": "Gloucester Rugby",
+        "team2Title": "Exeter Chiefs",
+        "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/gloucester-vs-exeter",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/gloucester-vs-exeter/2247"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Title": "Bristol Bears",
+        "team2Title": "Sale Sharks",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-sale-sharks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bristol-bears-vs-sale-sharks/2251"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Title": "Oldham Athletic",
+        "team2Title": "Salford City",
+        "team1Logo": "https://cdn.img4every1.org/team/oldham-athletic/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/oldham-athletic-vs-salford-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/oldham-athletic-vs-salford-city/2250"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Super League",
+        "matchTime": "2026-09-26 22:30:00",
+        "team1Title": "Wigan Warriors",
+        "team2Title": "Wakefield Trinity",
+        "team1Logo": "https://cdn.img4every1.org/team/wigan-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2252"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/wigan-warriors-vs-wakefield-trinity/2253"
+            }
+        ]
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-09-27 02:00:00",
         "team1Title": "Colombia",
@@ -169,5 +335,22 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/canada-vs-chile",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-09-27 04:00:00",
+        "team1Title": "Raul Rosas Jr",
+        "team2Title": "Raoni Barcelos",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2244"
+            }
+        ]
     }
 ]

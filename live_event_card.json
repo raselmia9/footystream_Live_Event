@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%206.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/england-vs-spain",
         "multiWatchPageLink": [
             {
@@ -206,6 +206,23 @@
         ]
     },
     {
+        "eventTitle": "UFC",
+        "matchTime": "2026-09-27 04:00:00",
+        "team1Title": "Raul Rosas Jr",
+        "team2Title": "Raoni Barcelos",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Raul%20Rosas%20Jr_vs_Raoni%20Barcelos/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2244"
+            }
+        ]
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-09-27 05:00:00",
         "team1Title": "Canada",
@@ -240,23 +257,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/colombia-vs-mexico/2291"
-            }
-        ]
-    },
-    {
-        "eventTitle": "UFC",
-        "matchTime": "2026-09-27 04:00:00",
-        "team1Title": "Raul Rosas Jr",
-        "team2Title": "Raoni Barcelos",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/raul-rosas-jr-vs-raoni-barcelos/2244"
             }
         ]
     },

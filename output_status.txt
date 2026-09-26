@@ -6,15 +6,15 @@
 🟡 Visiting detail page [3/28]: https://pogo.pk/events/presidents-cup
 🟡 Visiting detail page [2/28]: https://pogo.pk/events/open-de-france
 🟡 Visiting detail page [1/28]: https://pogo.pk/events/england-vs-spain
-🟢 Successfully processed: PGA Tour [3/28]
-🟡 Visiting detail page [4/28]: https://pogo.pk/events/laver-cup
-🟢 Successfully processed: PGA Tour [2/28]
-🟡 Visiting detail page [5/28]: https://pogo.pk/events/czechia-vs-croatia
 🟢 Successfully processed: Nations League [1/28]
+🟡 Visiting detail page [4/28]: https://pogo.pk/events/laver-cup
+🟢 Successfully processed: PGA Tour [3/28]
+🟡 Visiting detail page [5/28]: https://pogo.pk/events/czechia-vs-croatia
+🟢 Successfully processed: PGA Tour [2/28]
 🟡 Visiting detail page [6/28]: https://pogo.pk/events/switzerland-vs-north-macedonia
-🟢 Successfully processed: Nations League [5/28]
-🟡 Visiting detail page [7/28]: https://pogo.pk/events/albania-vs-belarus
 🟢 Successfully processed: ATP Tour [4/28]
+🟡 Visiting detail page [7/28]: https://pogo.pk/events/albania-vs-belarus
+🟢 Successfully processed: Nations League [5/28]
 🟡 Visiting detail page [8/28]: https://pogo.pk/events/slovakia-vs-moldova
 🟢 Successfully processed: Nations League [6/28]
 🟡 Visiting detail page [9/28]: https://pogo.pk/events/scarlets-vs-cardiff-rugby
@@ -38,13 +38,13 @@
 🟡 Visiting detail page [18/28]: https://pogo.pk/events/kosovo-vs-austria
 🟢 Successfully processed: Nations League [17/28]
 🟡 Visiting detail page [19/28]: https://pogo.pk/events/gibraltar-vs-andorra
-🟢 Successfully processed: Nations League [19/28]
-🟡 Visiting detail page [20/28]: https://pogo.pk/events/portugal-vs-norway
 🟢 Successfully processed: Nations League [18/28]
+🟡 Visiting detail page [20/28]: https://pogo.pk/events/portugal-vs-norway
+🟢 Successfully processed: Nations League [19/28]
 🟡 Visiting detail page [21/28]: https://pogo.pk/events/leicester-tigers-vs-saracens
-🟢 Successfully processed: UFC [13/28]
-🟡 Visiting detail page [22/28]: https://pogo.pk/events/chelsea-vs-arsenal
 🟢 Successfully processed: Nations League [20/28]
+🟡 Visiting detail page [22/28]: https://pogo.pk/events/chelsea-vs-arsenal
+🟢 Successfully processed: UFC [13/28]
 🟡 Visiting detail page [23/28]: https://pogo.pk/events/indianapolis-colts-vs-houston-texans
 🟢 Successfully processed: NFL [23/28]
 🟡 Visiting detail page [24/28]: https://pogo.pk/events/panthers-vs-browns
@@ -52,11 +52,11 @@
 🟡 Visiting detail page [25/28]: https://pogo.pk/events/giants-vs-titans
 🟢 Successfully processed: NFL [25/28]
 🟡 Visiting detail page [26/28]: https://pogo.pk/events/bills-vs-chargers
-🟢 Successfully processed: WSL [22/28]
-🟡 Visiting detail page [27/28]: https://pogo.pk/events/dolphins-vs-chiefs
 🟢 Successfully processed: Premiership Rugby [21/28]
-🟡 Visiting detail page [28/28]: https://pogo.pk/events/jaguars-vs-patriots
+🟡 Visiting detail page [27/28]: https://pogo.pk/events/dolphins-vs-chiefs
 🟢 Successfully processed: NFL [27/28]
+🟢 Successfully processed: WSL [22/28]
+🟡 Visiting detail page [28/28]: https://pogo.pk/events/jaguars-vs-patriots
 🟢 Successfully processed: NFL [28/28]
 🟢 Successfully processed: NFL [26/28]
 🟢 Browser closed successfully.

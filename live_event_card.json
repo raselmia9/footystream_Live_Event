@@ -55,57 +55,6 @@
         ]
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-09-26 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Gloucester Rugby",
-        "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Gloucester%20Rugby/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/gloucester-vs-exeter",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/gloucester-vs-exeter/2247"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-09-26 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Cambridge United",
-        "team1Logo": "https://cdn.img4every1.org/team/cambridge-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Cambridge%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/cambridge-united-vs-afc-wimbledon",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/cambridge-united-vs-afc-wimbledon/2257"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-09-26 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Ospreys",
-        "team1Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Ospreys/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/ospreys-vs-sharks",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/ospreys-vs-sharks/2246"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-26 22:00:00",
         "team1Title": "Bulgaria",
@@ -288,23 +237,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Title": "Scarlets",
-        "team2Title": "Cardiff Blues",
-        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/scarlets-vs-cardiff-rugby",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-27 00:45:00",
         "team1Title": "England",
@@ -432,6 +364,23 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/azerbaijan-vs-lithuania",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-09-27 00:45:00",
+        "team1Title": "Scarlets",
+        "team2Title": "Cardiff Blues",
+        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/scarlets-vs-cardiff-rugby",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/scarlets-vs-cardiff-rugby/2254"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

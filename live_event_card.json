@@ -1,5 +1,42 @@
 [
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-27 00:45:00",
+        "team1Title": "England",
+        "team2Title": "Spain",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%206.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/england-vs-spain",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2268"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2269"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2270"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2271"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2272"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2273"
+            }
+        ]
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-24 17:30:00",
         "team1Title": "Open de France",
@@ -51,99 +88,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/laver-cup/2263"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Bulgaria",
-        "team2Title": "Luxembourg",
-        "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bulgaria_vs_Luxembourg/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bulgaria_vs_Luxembourg/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/bulgaria-vs-luxembourg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2260"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/bulgaria-vs-luxembourg/2261"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Faroe Islands",
-        "team2Title": "Kazakhstan",
-        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Faroe%20Islands_vs_Kazakhstan/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/faroe-islands-vs-kazakhstan/2266"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Iceland",
-        "team2Title": "Estonia",
-        "team1Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Iceland_vs_Estonia/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/iceland-vs-estonia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/iceland-vs-estonia/2264"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Finland",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Finland_vs_Team%202/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/finland-vs-san-marino",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/finland-vs-san-marino/2267"
-            }
-        ]
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "London City Lionesses",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/London%20City%20Lionesses_vs_Brighton%20%26%20Hove%20Albion/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/London%20City%20Lionesses_vs_Brighton%20%26%20Hove%20Albion/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/london-lionesses-vs-brighton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2258"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/london-lionesses-vs-brighton/2259"
             }
         ]
     },
@@ -233,43 +177,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/bulls-vs-zebre/2249"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-27 00:45:00",
-        "team1Title": "England",
-        "team2Title": "Spain",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%205.m3u8|Referer=https://bhalocast.pro/,)Link 6,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Spain/Link%206.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/england-vs-spain",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/england-vs-spain/2268"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/england-vs-spain/2269"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/england-vs-spain/2270"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://pogo.pk/alpha/england-vs-spain/2271"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://pogo.pk/alpha/england-vs-spain/2272"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://pogo.pk/alpha/england-vs-spain/2273"
             }
         ]
     },
@@ -366,6 +273,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-27 22:00:00",
+        "team1Title": "Wales",
+        "team2Title": "Denmark",
+        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wales-vs-denmark",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-09-27 00:45:00",
         "team1Title": "Scarlets",
@@ -454,6 +373,56 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/south-africa-vs-australia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-09-27 20:00:00",
+        "team1Title": "Leicester Tigers",
+        "team2Title": "Saracens",
+        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-saracens",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/leicester-tigers-vs-saracens/2282"
+            }
+        ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-27 21:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Arsenal",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-arsenal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chelsea-vs-arsenal/2283"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chelsea-vs-arsenal/2284"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-27 23:00:00",
+        "team1Title": "Carolina Panthers",
+        "team2Title": "Cleveland Browns",
+        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/panthers-vs-browns",
         "multiWatchPageLink": []
     }
 ]

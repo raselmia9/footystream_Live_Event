@@ -85,18 +85,6 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-26 22:00:00",
-        "team1Title": "Faroe Islands",
-        "team2Title": "Kazakhstan",
-        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 22:00:00",
         "team1Title": "Iceland",
         "team2Title": "Estonia",
         "team1Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",

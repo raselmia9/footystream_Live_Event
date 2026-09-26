@@ -57,12 +57,12 @@
     {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-09-26 20:00:00",
-        "team1Title": "Gloucester Rugby",
-        "team2Title": "Exeter Chiefs",
+        "team1Title": "Event Ended",
+        "team2Title": "Gloucester Rugby",
         "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Gloucester%20Rugby_vs_Exeter%20Chiefs/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Gloucester%20Rugby/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/gloucester-vs-exeter",
         "multiWatchPageLink": [
             {
@@ -74,12 +74,12 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-09-26 20:00:00",
-        "team1Title": "Cambridge United",
-        "team2Title": "AFC Wimbledon",
+        "team1Title": "Event Ended",
+        "team2Title": "Cambridge United",
         "team1Logo": "https://cdn.img4every1.org/team/cambridge-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/afc-wimbledon/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Cambridge%20United_vs_AFC%20Wimbledon/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Cambridge%20United/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/cambridge-united-vs-afc-wimbledon",
         "multiWatchPageLink": [
             {
@@ -91,12 +91,12 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-09-26 20:00:00",
-        "team1Title": "Ospreys",
-        "team2Title": "Sale Sharks",
+        "team1Title": "Event Ended",
+        "team2Title": "Ospreys",
         "team1Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Ospreys_vs_Sale%20Sharks/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Ospreys/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/ospreys-vs-sharks",
         "multiWatchPageLink": [
             {

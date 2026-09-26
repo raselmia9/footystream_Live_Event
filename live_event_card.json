@@ -55,27 +55,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-26 19:00:00",
-        "team1Title": "Scotland",
-        "team2Title": "Slovenia",
-        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Scotland_vs_Slovenia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Scotland_vs_Slovenia/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/scotland-vs-slovenia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/scotland-vs-slovenia/2255"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/scotland-vs-slovenia/2256"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-09-26 20:00:00",
         "team1Title": "Gloucester Rugby",
@@ -246,7 +225,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/oldham-athletic/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Oldham%20Athletic_vs_Salford%20City/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/oldham-athletic-vs-salford-city",
         "multiWatchPageLink": [
             {
@@ -263,7 +242,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/wigan-warriors/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wigan%20Warriors_vs_Wakefield%20Trinity/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wigan%20Warriors_vs_Wakefield%20Trinity/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity",
         "multiWatchPageLink": [
             {
@@ -284,7 +263,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bristol%20Bears_vs_Sale%20Sharks/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/bristol-bears-vs-sale-sharks",
         "multiWatchPageLink": [
             {
@@ -301,7 +280,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Glasgow%20Warriors_vs_Munster/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-munster",
         "multiWatchPageLink": [
             {
@@ -318,7 +297,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bulls_vs_Zebre/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/bulls-vs-zebre",
         "multiWatchPageLink": [
             {

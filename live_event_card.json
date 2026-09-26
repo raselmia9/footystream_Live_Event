@@ -134,9 +134,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Faroe%20Islands_vs_Kazakhstan/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/faroe-islands-vs-kazakhstan/2266"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -163,9 +168,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Finland_vs_Team%202/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/finland-vs-san-marino",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/finland-vs-san-marino/2267"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -177,7 +187,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/england-vs-spain",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2268"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2269"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2270"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2271"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2272"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://pogo.pk/alpha/england-vs-spain/2273"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -193,6 +228,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/czechia-vs-croatia/2265"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/czechia-vs-croatia/2274"
             }
         ]
     },

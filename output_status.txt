@@ -6,45 +6,45 @@
 🟡 Visiting detail page [2/24]: https://pogo.pk/events/presidents-cup
 🟡 Visiting detail page [1/24]: https://pogo.pk/events/open-de-france
 🟡 Visiting detail page [3/24]: https://pogo.pk/events/laver-cup
-🟢 Successfully processed: ATP Tour [3/24]
-🟡 Visiting detail page [4/24]: https://pogo.pk/events/gloucester-vs-exeter
 🟢 Successfully processed: PGA Tour [1/24]
+🟡 Visiting detail page [4/24]: https://pogo.pk/events/gloucester-vs-exeter
 🟢 Successfully processed: PGA Tour [2/24]
-🟡 Visiting detail page [6/24]: https://pogo.pk/events/ospreys-vs-sharks
 🟡 Visiting detail page [5/24]: https://pogo.pk/events/cambridge-united-vs-afc-wimbledon
-🟢 Successfully processed: Premiership Rugby [4/24]
+🟢 Successfully processed: ATP Tour [3/24]
+🟡 Visiting detail page [6/24]: https://pogo.pk/events/ospreys-vs-sharks
 🟢 Successfully processed: EFL [5/24]
 🟡 Visiting detail page [7/24]: https://pogo.pk/events/bulgaria-vs-luxembourg
-🟡 Visiting detail page [8/24]: https://pogo.pk/events/faroe-islands-vs-kazakhstan
 🟢 Successfully processed: United Rugby [6/24]
+🟡 Visiting detail page [8/24]: https://pogo.pk/events/faroe-islands-vs-kazakhstan
+🟢 Successfully processed: Premiership Rugby [4/24]
 🟡 Visiting detail page [9/24]: https://pogo.pk/events/iceland-vs-estonia
 🟢 Successfully processed: Nations League [8/24]
 🟡 Visiting detail page [10/24]: https://pogo.pk/events/finland-vs-san-marino
-🟢 Successfully processed: Nations League [10/24]
-🟡 Visiting detail page [11/24]: https://pogo.pk/events/england-vs-spain
-🟢 Successfully processed: Nations League [11/24]
-🟡 Visiting detail page [12/24]: https://pogo.pk/events/czechia-vs-croatia
-🟢 Successfully processed: Nations League [7/24]
 🟢 Successfully processed: Nations League [9/24]
+🟡 Visiting detail page [11/24]: https://pogo.pk/events/england-vs-spain
+🟢 Successfully processed: Nations League [7/24]
+🟡 Visiting detail page [12/24]: https://pogo.pk/events/czechia-vs-croatia
+🟢 Successfully processed: Nations League [10/24]
 🟡 Visiting detail page [13/24]: https://pogo.pk/events/london-lionesses-vs-brighton
-🟡 Visiting detail page [14/24]: https://pogo.pk/events/oldham-athletic-vs-salford-city
-🟢 Successfully processed: EFL [14/24]
-🟡 Visiting detail page [15/24]: https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity
 🟢 Successfully processed: WSL [13/24]
-🟡 Visiting detail page [16/24]: https://pogo.pk/events/bristol-bears-vs-sale-sharks
-🟢 Successfully processed: Super League [15/24]
-🟡 Visiting detail page [17/24]: https://pogo.pk/events/glasgow-warriors-vs-munster
+🟡 Visiting detail page [14/24]: https://pogo.pk/events/oldham-athletic-vs-salford-city
+🟢 Successfully processed: Nations League [11/24]
+🟡 Visiting detail page [15/24]: https://pogo.pk/events/wigan-warriors-vs-wakefield-trinity
 🟢 Successfully processed: Nations League [12/24]
+🟡 Visiting detail page [16/24]: https://pogo.pk/events/bristol-bears-vs-sale-sharks
+🟢 Successfully processed: EFL [14/24]
+🟡 Visiting detail page [17/24]: https://pogo.pk/events/glasgow-warriors-vs-munster
+🟢 Successfully processed: Super League [15/24]
 🟡 Visiting detail page [18/24]: https://pogo.pk/events/bulls-vs-zebre
 🟢 Successfully processed: Premiership Rugby [16/24]
 🟡 Visiting detail page [19/24]: https://pogo.pk/events/scarlets-vs-cardiff-rugby
 🟢 Successfully processed: United Rugby [17/24]
 🟡 Visiting detail page [20/24]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: United Rugby [18/24]
-🟡 Visiting detail page [21/24]: https://pogo.pk/events/usa-vs-peru
 🟢 Successfully processed: Friendly [20/24]
-🟡 Visiting detail page [22/24]: https://pogo.pk/events/canada-vs-chile
+🟡 Visiting detail page [21/24]: https://pogo.pk/events/usa-vs-peru
 🟢 Successfully processed: Friendly [21/24]
+🟡 Visiting detail page [22/24]: https://pogo.pk/events/canada-vs-chile
+🟢 Successfully processed: United Rugby [18/24]
 🟡 Visiting detail page [23/24]: https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos
 🟢 Successfully processed: Friendly [22/24]
 🟡 Visiting detail page [24/24]: https://pogo.pk/events/south-africa-vs-australia

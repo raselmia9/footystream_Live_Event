@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
-🟡 Visiting detail page [2/23]: https://pogo.pk/events/presidents-cup
 🟡 Visiting detail page [1/23]: https://pogo.pk/events/open-de-france
+🟡 Visiting detail page [2/23]: https://pogo.pk/events/presidents-cup
 🟡 Visiting detail page [3/23]: https://pogo.pk/events/laver-cup
-🟢 Successfully processed: PGA Tour [1/23]
-🟡 Visiting detail page [4/23]: https://pogo.pk/events/usa-vs-peru
-🟢 Successfully processed: ATP Tour [3/23]
-🟡 Visiting detail page [5/23]: https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos
 🟢 Successfully processed: PGA Tour [2/23]
+🟡 Visiting detail page [4/23]: https://pogo.pk/events/usa-vs-peru
+🟢 Successfully processed: PGA Tour [1/23]
+🟡 Visiting detail page [5/23]: https://pogo.pk/events/raul-rosas-jr-vs-raoni-barcelos
+🟢 Successfully processed: ATP Tour [3/23]
 🟡 Visiting detail page [6/23]: https://pogo.pk/events/canada-vs-chile
 🟢 Successfully processed: Friendly [4/23]
 🟡 Visiting detail page [7/23]: https://pogo.pk/events/colombia-vs-mexico
-🟢 Successfully processed: UFC [5/23]
-🟡 Visiting detail page [8/23]: https://pogo.pk/events/newcastle-knights-vs-penrith-panthers
 🟢 Successfully processed: Friendly [6/23]
+🟡 Visiting detail page [8/23]: https://pogo.pk/events/newcastle-knights-vs-penrith-panthers
+🟢 Successfully processed: UFC [5/23]
 🟡 Visiting detail page [9/23]: https://pogo.pk/events/south-africa-vs-australia
 🟢 Successfully processed: Rugby Union [9/23]
 🟡 Visiting detail page [10/23]: https://pogo.pk/events/azerbaijan-vs-lithuania
@@ -27,8 +27,8 @@
 🟢 Successfully processed: Nations League [12/23]
 🟡 Visiting detail page [13/23]: https://pogo.pk/events/kosovo-vs-austria
 🟢 Successfully processed: Friendly [7/23]
-🟢 Successfully processed: NRL [8/23]
 🟡 Visiting detail page [14/23]: https://pogo.pk/events/gibraltar-vs-andorra
+🟢 Successfully processed: NRL [8/23]
 🟡 Visiting detail page [15/23]: https://pogo.pk/events/portugal-vs-norway
 🟢 Successfully processed: Nations League [13/23]
 🟡 Visiting detail page [16/23]: https://pogo.pk/events/leicester-tigers-vs-saracens

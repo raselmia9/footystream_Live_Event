@@ -58,23 +58,6 @@
         ]
     },
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-24 22:30:00",
-        "team1Title": "Presidents Cup",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Presidents%20Cup_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/presidents-cup",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/presidents-cup/2195"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-27 22:30:00",
         "team1Title": "NFL Redzone",
@@ -188,7 +171,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Jacksonville%20Jaguars_vs_New%20England%20Patriots/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/jaguars-vs-patriots",
         "multiWatchPageLink": [
             {
@@ -298,7 +281,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/San%20Francisco%2049ers_vs_Arizona%20Cardinals/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/49ers-vs-cardinals",
         "multiWatchPageLink": [
             {
@@ -315,7 +298,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Baltimore%20Ravens_vs_Dallas%20Cowboys/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Baltimore%20Ravens_vs_Dallas%20Cowboys/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/ravens-vs-cowboys",
         "multiWatchPageLink": [
             {
@@ -336,7 +319,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20Orleans%20Saints_vs_Las%20Vegas%20Raiders/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/saints-vs-raiders",
         "multiWatchPageLink": [
             {

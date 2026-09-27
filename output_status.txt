@@ -2,34 +2,28 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [2/14]: https://pogo.pk/events/buccaneers-vs-vikings
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/nfl-redzone
-🟡 Visiting detail page [3/14]: https://pogo.pk/events/49ers-vs-cardinals
-🟢 Successfully processed: NFL [1/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/ravens-vs-cowboys
-🟢 Successfully processed: NFL [2/14]
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/saints-vs-raiders
-🟢 Successfully processed: NFL [3/14]
-🟡 Visiting detail page [6/14]: https://pogo.pk/events/rams-vs-broncos
-🟢 Successfully processed: NFL [4/14]
-🟡 Visiting detail page [7/14]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: NFL [5/14]
-🟡 Visiting detail page [8/14]: https://pogo.pk/events/bangladesh-vs-singapore
-🟢 Successfully processed: NFL [6/14]
-🟡 Visiting detail page [9/14]: https://pogo.pk/events/armenia-vs-montenegro
-🟢 Successfully processed: Nations League [9/14]
-🟡 Visiting detail page [10/14]: https://pogo.pk/events/latvia-vs-cyprus
-🟢 Successfully processed: Nations League [10/14]
-🟡 Visiting detail page [11/14]: https://pogo.pk/events/georgia-vs-ukraine
-🟢 Successfully processed: Nations League [11/14]
-🟡 Visiting detail page [12/14]: https://pogo.pk/events/turkey-vs-italy
-🟢 Successfully processed: Nations League [12/14]
-🟡 Visiting detail page [13/14]: https://pogo.pk/events/northern-ireland-vs-hungary
-🟢 Successfully processed: Snooker [7/14]
-🟡 Visiting detail page [14/14]: https://pogo.pk/events/bosnia-vs-romania
-🟢 Successfully processed: Nations League [13/14]
-🟢 Successfully processed: FIFA ASEAN Cup [8/14]
-🟢 Successfully processed: Nations League [14/14]
+🟢 Total unique detail links to process in parallel: 11
+🟡 Visiting detail page [2/11]: https://pogo.pk/events/saints-vs-raiders
+🟡 Visiting detail page [3/11]: https://pogo.pk/events/rams-vs-broncos
+🟡 Visiting detail page [1/11]: https://pogo.pk/events/ravens-vs-cowboys
+🟢 Successfully processed: NFL [2/11]
+🟡 Visiting detail page [4/11]: https://pogo.pk/events/shenzhen-open-snooker
+🟢 Successfully processed: NFL [1/11]
+🟡 Visiting detail page [5/11]: https://pogo.pk/events/bangladesh-vs-singapore
+🟢 Successfully processed: NFL [3/11]
+🟡 Visiting detail page [6/11]: https://pogo.pk/events/armenia-vs-montenegro
+🟢 Successfully processed: Nations League [6/11]
+🟡 Visiting detail page [7/11]: https://pogo.pk/events/latvia-vs-cyprus
+🟢 Successfully processed: Nations League [7/11]
+🟡 Visiting detail page [8/11]: https://pogo.pk/events/georgia-vs-ukraine
+🟢 Successfully processed: Nations League [8/11]
+🟡 Visiting detail page [9/11]: https://pogo.pk/events/turkey-vs-italy
+🟢 Successfully processed: Nations League [9/11]
+🟡 Visiting detail page [10/11]: https://pogo.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Snooker [4/11]
+🟡 Visiting detail page [11/11]: https://pogo.pk/events/bosnia-vs-romania
+🟢 Successfully processed: FIFA ASEAN Cup [5/11]
+🟢 Successfully processed: Nations League [11/11]
+🟢 Successfully processed: Nations League [10/11]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 14
+🟢 Process completed successfully. Total collected events: 11

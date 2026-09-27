@@ -1,64 +1,13 @@
 [
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-09-27 22:30:00",
-        "team1Title": "NFL Redzone",
-        "team2Title": "NFL",
-        "team1Logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/NFL%20Redzone_vs_NFL/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/nfl-redzone",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/nfl-redzone/2325"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:05:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Tampa Bay Buccaneers",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Tampa%20Bay%20Buccaneers/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/buccaneers-vs-vikings",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/buccaneers-vs-vikings/2323"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:05:00",
-        "team1Title": "Event Ended",
-        "team2Title": "San Francisco 49ers",
-        "team1Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_San%20Francisco%2049ers/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/49ers-vs-cardinals",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/49ers-vs-cardinals/2288"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
         "matchTime": "2026-09-28 02:25:00",
         "team1Title": "Baltimore Ravens",
         "team2Title": "Dallas Cowboys",
         "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Baltimore%20Ravens_vs_Dallas%20Cowboys/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Baltimore%20Ravens_vs_Dallas%20Cowboys/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Baltimore%20Ravens_vs_Dallas%20Cowboys/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/ravens-vs-cowboys",
         "multiWatchPageLink": [
             {
@@ -79,7 +28,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20Orleans%20Saints_vs_Las%20Vegas%20Raiders/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://pogo.pk/events/saints-vs-raiders",
         "multiWatchPageLink": [
             {
@@ -96,7 +45,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Los%20Angeles%20Rams_vs_Denver%20Broncos/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Los%20Angeles%20Rams_vs_Denver%20Broncos/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Los%20Angeles%20Rams_vs_Denver%20Broncos/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Los%20Angeles%20Rams_vs_Denver%20Broncos/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/rams-vs-broncos",
         "multiWatchPageLink": [
             {

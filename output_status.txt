@@ -3,46 +3,43 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
-🟡 Visiting detail page [1/19]: https://pogo.pk/events/open-de-france
-🟡 Visiting detail page [3/19]: https://pogo.pk/events/laver-cup
 🟡 Visiting detail page [2/19]: https://pogo.pk/events/presidents-cup
+🟡 Visiting detail page [3/19]: https://pogo.pk/events/laver-cup
+🟡 Visiting detail page [1/19]: https://pogo.pk/events/open-de-france
 🟢 Successfully processed: PGA Tour [1/19]
-🟡 Visiting detail page [4/19]: https://pogo.pk/events/azerbaijan-vs-lithuania
 🟢 Successfully processed: PGA Tour [2/19]
-🟢 Successfully processed: ATP Tour [3/19]
+🟡 Visiting detail page [4/19]: https://pogo.pk/events/azerbaijan-vs-lithuania
 🟡 Visiting detail page [5/19]: https://pogo.pk/events/leicester-tigers-vs-saracens
+🟢 Successfully processed: ATP Tour [3/19]
 🟡 Visiting detail page [6/19]: https://pogo.pk/events/chelsea-vs-arsenal
 🟢 Successfully processed: Premiership Rugby [5/19]
+🟡 Visiting detail page [7/19]: https://pogo.pk/events/wales-vs-denmark
 🟢 Successfully processed: Nations League [4/19]
 🟡 Visiting detail page [8/19]: https://pogo.pk/events/netherlands-vs-serbia
-🟡 Visiting detail page [7/19]: https://pogo.pk/events/wales-vs-denmark
-🟢 Successfully processed: Nations League [7/19]
-🟡 Visiting detail page [9/19]: https://pogo.pk/events/kosovo-vs-austria
-🟢 Successfully processed: Nations League [9/19]
-🟡 Visiting detail page [10/19]: https://pogo.pk/events/gibraltar-vs-andorra
 🟢 Successfully processed: WSL [6/19]
-🟡 Visiting detail page [11/19]: https://pogo.pk/events/portugal-vs-norway
-🟢 Successfully processed: Nations League [10/19]
-🟡 Visiting detail page [12/19]: https://pogo.pk/events/germany-vs-greece
+🟡 Visiting detail page [9/19]: https://pogo.pk/events/kosovo-vs-austria
+🟢 Successfully processed: Nations League [7/19]
 🟢 Successfully processed: Nations League [8/19]
+🟡 Visiting detail page [10/19]: https://pogo.pk/events/gibraltar-vs-andorra
+🟡 Visiting detail page [11/19]: https://pogo.pk/events/portugal-vs-norway
+🟢 Successfully processed: Nations League [9/19]
+🟡 Visiting detail page [12/19]: https://pogo.pk/events/germany-vs-greece
+🟢 Successfully processed: Nations League [11/19]
 🟡 Visiting detail page [13/19]: https://pogo.pk/events/indianapolis-colts-vs-houston-texans
-🟢 Successfully processed: NFL [13/19]
+🟢 Successfully processed: Nations League [10/19]
 🟡 Visiting detail page [14/19]: https://pogo.pk/events/panthers-vs-browns
 🟢 Successfully processed: NFL [14/19]
 🟡 Visiting detail page [15/19]: https://pogo.pk/events/giants-vs-titans
-🟢 Successfully processed: Nations League [11/19]
+🟢 Successfully processed: NFL [13/19]
 🟡 Visiting detail page [16/19]: https://pogo.pk/events/bills-vs-chargers
-🟢 Successfully processed: NFL [15/19]
-🟡 Visiting detail page [17/19]: https://pogo.pk/events/dolphins-vs-chiefs
 🟢 Successfully processed: Nations League [12/19]
+🟡 Visiting detail page [17/19]: https://pogo.pk/events/dolphins-vs-chiefs
+🟢 Successfully processed: NFL [15/19]
 🟡 Visiting detail page [18/19]: https://pogo.pk/events/jaguars-vs-patriots
-🟢 Successfully processed: NFL [18/19]
+🟢 Successfully processed: NFL [17/19]
 🟡 Visiting detail page [19/19]: https://pogo.pk/events/bangladesh-vs-singapore
+🟢 Successfully processed: NFL [18/19]
 🟢 Successfully processed: FIFA ASEAN Cup [19/19]
 🟢 Successfully processed: NFL [16/19]
-🔴 ERROR on detail page https://pogo.pk/events/dolphins-vs-chiefs: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/dolphins-vs-chiefs", waiting until "load"
-
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 18
+🟢 Process completed successfully. Total collected events: 19

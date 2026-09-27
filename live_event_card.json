@@ -62,7 +62,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Lithuania/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Lithuania/Link%202.m3u8|Referer=https://playerr03.com/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Lithuania/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Lithuania/Link%202.m3u8|Referer=https://playerr03.com/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Lithuania/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/azerbaijan-vs-lithuania",
         "multiWatchPageLink": [
             {
@@ -72,6 +72,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2302"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2308"
             }
         ]
     },
@@ -123,7 +127,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/wales-vs-denmark",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/wales-vs-denmark/2305"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/wales-vs-denmark/2306"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/wales-vs-denmark/2307"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -143,6 +160,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/netherlands-vs-serbia/2303"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/netherlands-vs-serbia/2309"
             }
         ]
     },
@@ -156,7 +177,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/kosovo-vs-austria",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/kosovo-vs-austria/2313"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -168,7 +194,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/gibraltar-vs-andorra",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/gibraltar-vs-andorra/2314"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -184,6 +215,18 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/portugal-vs-norway/2304"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/portugal-vs-norway/2310"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/portugal-vs-norway/2311"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/portugal-vs-norway/2312"
             }
         ]
     },
@@ -260,6 +303,18 @@
                 "url": "https://pogo.pk/alpha/bills-vs-chargers/2287"
             }
         ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-09-27 23:00:00",
+        "team1Title": "Miami Dolphins",
+        "team2Title": "Kansas City Chiefs",
+        "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/dolphins-vs-chiefs",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "NFL",

@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Open%20de%20France_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://pogo.pk/events/open-de-france",
         "multiWatchPageLink": [
             {
@@ -62,12 +62,54 @@
         "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Lithuania/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Lithuania/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Lithuania/Link%202.m3u8|Referer=https://playerr03.com/",
         "detailsPage": "https://pogo.pk/events/azerbaijan-vs-lithuania",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2298"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2302"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-09-27 20:00:00",
+        "team1Title": "Leicester Tigers",
+        "team2Title": "Saracens",
+        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leicester%20Tigers_vs_Saracens/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-saracens",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/leicester-tigers-vs-saracens/2282"
+            }
+        ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-09-27 21:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Arsenal",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-arsenal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chelsea-vs-arsenal/2283"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chelsea-vs-arsenal/2284"
             }
         ]
     },
@@ -137,40 +179,19 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-09-27 20:00:00",
-        "team1Title": "Leicester Tigers",
-        "team2Title": "Saracens",
-        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leicester%20Tigers_vs_Saracens/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-saracens",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/leicester-tigers-vs-saracens/2282"
-            }
-        ]
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-09-27 21:30:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Arsenal",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-28 00:45:00",
+        "team1Title": "Germany",
+        "team2Title": "Greece",
+        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-arsenal",
+        "detailsPage": "https://pogo.pk/events/germany-vs-greece",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/chelsea-vs-arsenal/2283"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/chelsea-vs-arsenal/2284"
+                "url": "https://pogo.pk/alpha/germany-vs-greece/2300"
             }
         ]
     },
@@ -253,6 +274,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/jaguars-vs-patriots",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Asia Cup",
+        "matchTime": "2025-06-10 19:00:00",
+        "team1Title": "Bangladesh",
+        "team2Title": "Singapore",
+        "team1Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bangladesh-vs-singapore",
         "multiWatchPageLink": []
     }
 ]

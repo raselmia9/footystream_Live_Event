@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Norway/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Norway/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Norway/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Norway/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Norway/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Norway/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Portugal_vs_Norway/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/portugal-vs-norway",
         "multiWatchPageLink": [
             {
@@ -36,7 +36,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Greece/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Greece/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Greece/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Greece/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Greece/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Greece/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Greece/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/germany-vs-greece",
         "multiWatchPageLink": [
             {
@@ -65,33 +65,12 @@
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Presidents%20Cup_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://pogo.pk/events/presidents-cup",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/presidents-cup/2195"
-            }
-        ]
-    },
-    {
-        "eventTitle": "ATP Tour",
-        "matchTime": "2026-09-26 18:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Laver Cup",
-        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Laver%20Cup/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Laver%20Cup/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/laver-cup",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/laver-cup/2262"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/laver-cup/2263"
             }
         ]
     },
@@ -103,7 +82,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/NFL%20Redzone_vs_NFL/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://pogo.pk/events/nfl-redzone",
         "multiWatchPageLink": [
             {
@@ -171,7 +150,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Buffalo%20Bills_vs_Los%20Angeles%20Chargers/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Buffalo%20Bills_vs_Los%20Angeles%20Chargers/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Buffalo%20Bills_vs_Los%20Angeles%20Chargers/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/bills-vs-chargers",
         "multiWatchPageLink": [
             {
@@ -260,7 +239,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pittsburgh%20Steelers_vs_Cincinnati%20Bengals/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pittsburgh%20Steelers_vs_Cincinnati%20Bengals/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pittsburgh%20Steelers_vs_Cincinnati%20Bengals/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/steelers-vs-bengals",
         "multiWatchPageLink": [
             {
@@ -389,8 +368,8 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:25:00",
+        "eventTitle": "Live Event",
+        "matchTime": "Web server is returning an unknown errorError code 520Visitcloudflare.comfor more information.2026-09-27 18:47:42 UTCYouBrowserWorkingAshburnCloudflareWorkingpogo.pkHostErrorWhat happened?There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.What can I do?If you are a visitor of this website:Please try again in a few minutes.If you are the owner of this website:There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).Additional troubleshooting resources.Cloudflare Ray ID:a41cad5d1ac155d0•Your IP:Click to reveal172.174.157.128•Performance & security byCloudflare",
         "team1Title": "Baltimore Ravens",
         "team2Title": "Dallas Cowboys",
         "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
@@ -398,16 +377,7 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ravens-vs-cowboys",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/ravens-vs-cowboys/2289"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/ravens-vs-cowboys/2290"
-            }
-        ]
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "NFL",

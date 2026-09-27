@@ -4,17 +4,17 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/buccaneers-vs-vikings
-🟡 Visiting detail page [3/14]: https://pogo.pk/events/49ers-vs-cardinals
 🟡 Visiting detail page [1/14]: https://pogo.pk/events/nfl-redzone
-🟢 Successfully processed: NFL [3/14]
+🟡 Visiting detail page [3/14]: https://pogo.pk/events/49ers-vs-cardinals
+🟢 Successfully processed: NFL [1/14]
 🟡 Visiting detail page [4/14]: https://pogo.pk/events/ravens-vs-cowboys
 🟢 Successfully processed: NFL [2/14]
-🟢 Successfully processed: NFL [1/14]
 🟡 Visiting detail page [5/14]: https://pogo.pk/events/saints-vs-raiders
+🟢 Successfully processed: NFL [3/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/rams-vs-broncos
-🟢 Successfully processed: NFL [5/14]
-🟡 Visiting detail page [7/14]: https://pogo.pk/events/shenzhen-open-snooker
 🟢 Successfully processed: NFL [4/14]
+🟡 Visiting detail page [7/14]: https://pogo.pk/events/shenzhen-open-snooker
+🟢 Successfully processed: NFL [5/14]
 🟡 Visiting detail page [8/14]: https://pogo.pk/events/bangladesh-vs-singapore
 🟢 Successfully processed: NFL [6/14]
 🟡 Visiting detail page [9/14]: https://pogo.pk/events/armenia-vs-montenegro
@@ -24,12 +24,12 @@
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/georgia-vs-ukraine
 🟢 Successfully processed: Nations League [11/14]
 🟡 Visiting detail page [12/14]: https://pogo.pk/events/turkey-vs-italy
-🟢 Successfully processed: Snooker [7/14]
-🟡 Visiting detail page [13/14]: https://pogo.pk/events/northern-ireland-vs-hungary
-🟢 Successfully processed: FIFA ASEAN Cup [8/14]
 🟢 Successfully processed: Nations League [12/14]
+🟡 Visiting detail page [13/14]: https://pogo.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Snooker [7/14]
 🟡 Visiting detail page [14/14]: https://pogo.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [13/14]
+🟢 Successfully processed: FIFA ASEAN Cup [8/14]
 🟢 Successfully processed: Nations League [14/14]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 14

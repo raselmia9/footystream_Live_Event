@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [3/18]: https://pogo.pk/events/laver-cup
-🟡 Visiting detail page [2/18]: https://pogo.pk/events/presidents-cup
 🟡 Visiting detail page [1/18]: https://pogo.pk/events/open-de-france
+🟡 Visiting detail page [2/18]: https://pogo.pk/events/presidents-cup
+🟡 Visiting detail page [3/18]: https://pogo.pk/events/laver-cup
+🟢 Successfully processed: PGA Tour [2/18]
 🟢 Successfully processed: PGA Tour [1/18]
 🟡 Visiting detail page [4/18]: https://pogo.pk/events/south-africa-vs-australia
-🟢 Successfully processed: PGA Tour [2/18]
 🟡 Visiting detail page [5/18]: https://pogo.pk/events/azerbaijan-vs-lithuania
 🟢 Successfully processed: ATP Tour [3/18]
 🟡 Visiting detail page [6/18]: https://pogo.pk/events/wales-vs-denmark
 🟢 Successfully processed: Nations League [5/18]
-🟡 Visiting detail page [7/18]: https://pogo.pk/events/netherlands-vs-serbia
 🟢 Successfully processed: Nations League [6/18]
+🟡 Visiting detail page [7/18]: https://pogo.pk/events/netherlands-vs-serbia
 🟡 Visiting detail page [8/18]: https://pogo.pk/events/kosovo-vs-austria
 🟢 Successfully processed: Nations League [7/18]
-🟢 Successfully processed: Nations League [8/18]
 🟡 Visiting detail page [9/18]: https://pogo.pk/events/gibraltar-vs-andorra
+🟢 Successfully processed: Nations League [8/18]
 🟡 Visiting detail page [10/18]: https://pogo.pk/events/portugal-vs-norway
 🟢 Successfully processed: Rugby Union [4/18]
 🟡 Visiting detail page [11/18]: https://pogo.pk/events/leicester-tigers-vs-saracens

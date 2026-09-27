@@ -100,7 +100,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wales_vs_Denmark/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wales_vs_Denmark/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wales_vs_Denmark/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wales_vs_Denmark/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wales_vs_Denmark/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/wales-vs-denmark",
         "multiWatchPageLink": [
             {
@@ -161,6 +161,52 @@
     },
     {
         "eventTitle": "Nations League",
+        "matchTime": "2026-09-27 22:00:00",
+        "team1Title": "Gibraltar",
+        "team2Title": "Andorra",
+        "team1Logo": "https://cdn.img4every1.org/team/gibraltar/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Gibraltar_vs_Andorra/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/gibraltar-vs-andorra",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/gibraltar-vs-andorra/2314"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-28 00:45:00",
+        "team1Title": "Portugal",
+        "team2Title": "Norway",
+        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/portugal-vs-norway",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/portugal-vs-norway/2304"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/portugal-vs-norway/2310"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/portugal-vs-norway/2311"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/portugal-vs-norway/2312"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
         "matchTime": "2026-09-28 00:45:00",
         "team1Title": "Germany",
         "team2Title": "Greece",
@@ -201,7 +247,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Indianapolis%20Colts_vs_Houston%20Texans/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/indianapolis-colts-vs-houston-texans",
         "multiWatchPageLink": [
             {
@@ -218,7 +264,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Carolina%20Panthers_vs_Cleveland%20Browns/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/panthers-vs-browns",
         "multiWatchPageLink": [
             {
@@ -235,7 +281,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20York%20Giants_vs_Tennessee%20Titans/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/giants-vs-titans",
         "multiWatchPageLink": [
             {
@@ -252,7 +298,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Buffalo%20Bills_vs_Los%20Angeles%20Chargers/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Buffalo%20Bills_vs_Los%20Angeles%20Chargers/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/bills-vs-chargers",
         "multiWatchPageLink": [
             {
@@ -273,12 +319,37 @@
         "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Miami%20Dolphins_vs_Kansas%20City%20Chiefs/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/dolphins-vs-chiefs",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/dolphins-vs-chiefs/2319"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Snooker",
+        "matchTime": "2026-09-28 12:00:00",
+        "team1Title": "Shenzhen Open Snooker",
+        "team2Title": "Snooker",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/shenzhen-open-snooker",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2330"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2331"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2332"
             }
         ]
     },
@@ -292,6 +363,11 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bangladesh-vs-singapore",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bangladesh-vs-singapore/2329"
+            }
+        ]
     }
 ]

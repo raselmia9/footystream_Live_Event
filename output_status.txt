@@ -8,36 +8,42 @@
 🟡 Visiting detail page [2/18]: https://pogo.pk/events/presidents-cup
 🟢 Successfully processed: PGA Tour [2/18]
 🟡 Visiting detail page [4/18]: https://pogo.pk/events/leicester-tigers-vs-saracens
-🟢 Successfully processed: PGA Tour [1/18]
 🟢 Successfully processed: ATP Tour [3/18]
 🟡 Visiting detail page [5/18]: https://pogo.pk/events/chelsea-vs-arsenal
-🟡 Visiting detail page [6/18]: https://pogo.pk/events/wales-vs-denmark
 🟢 Successfully processed: Premiership Rugby [4/18]
-🟡 Visiting detail page [7/18]: https://pogo.pk/events/netherlands-vs-serbia
-🟢 Successfully processed: Nations League [6/18]
+🟡 Visiting detail page [6/18]: https://pogo.pk/events/wales-vs-denmark
 🟢 Successfully processed: WSL [5/18]
+🟡 Visiting detail page [7/18]: https://pogo.pk/events/netherlands-vs-serbia
+🟢 Successfully processed: PGA Tour [1/18]
 🟡 Visiting detail page [8/18]: https://pogo.pk/events/kosovo-vs-austria
+🟢 Successfully processed: Nations League [8/18]
 🟡 Visiting detail page [9/18]: https://pogo.pk/events/gibraltar-vs-andorra
 🟢 Successfully processed: Nations League [7/18]
 🟡 Visiting detail page [10/18]: https://pogo.pk/events/portugal-vs-norway
-🟢 Successfully processed: Nations League [9/18]
+🟢 Successfully processed: Nations League [6/18]
 🟡 Visiting detail page [11/18]: https://pogo.pk/events/germany-vs-greece
-🟢 Successfully processed: Nations League [8/18]
-🟡 Visiting detail page [12/18]: https://pogo.pk/events/indianapolis-colts-vs-houston-texans
-🟢 Successfully processed: Nations League [10/18]
-🟢 Successfully processed: Nations League [11/18]
-🟡 Visiting detail page [13/18]: https://pogo.pk/events/panthers-vs-browns
+🔴 ERROR on detail page https://pogo.pk/events/gibraltar-vs-andorra: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/gibraltar-vs-andorra", waiting until "load"
+
+🟡 Visiting detail page [12/18]: https://pogo.pk/events/nfl-redzone
+🔴 ERROR on detail page https://pogo.pk/events/portugal-vs-norway: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/portugal-vs-norway", waiting until "load"
+
+🟡 Visiting detail page [13/18]: https://pogo.pk/events/indianapolis-colts-vs-houston-texans
 🟢 Successfully processed: NFL [12/18]
-🟡 Visiting detail page [14/18]: https://pogo.pk/events/giants-vs-titans
-🟡 Visiting detail page [15/18]: https://pogo.pk/events/bills-vs-chargers
-🟢 Successfully processed: NFL [14/18]
-🟢 Successfully processed: NFL [13/18]
+🟡 Visiting detail page [14/18]: https://pogo.pk/events/panthers-vs-browns
+🟢 Successfully processed: Nations League [11/18]
+🟡 Visiting detail page [15/18]: https://pogo.pk/events/giants-vs-titans
 🟢 Successfully processed: NFL [15/18]
-🟡 Visiting detail page [16/18]: https://pogo.pk/events/dolphins-vs-chiefs
-🟡 Visiting detail page [17/18]: https://pogo.pk/events/jaguars-vs-patriots
+🟡 Visiting detail page [16/18]: https://pogo.pk/events/bills-vs-chargers
+🟢 Successfully processed: NFL [13/18]
+🟡 Visiting detail page [17/18]: https://pogo.pk/events/dolphins-vs-chiefs
+🟢 Successfully processed: NFL [14/18]
 🟡 Visiting detail page [18/18]: https://pogo.pk/events/bangladesh-vs-singapore
 🟢 Successfully processed: FIFA ASEAN Cup [18/18]
 🟢 Successfully processed: NFL [17/18]
 🟢 Successfully processed: NFL [16/18]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 18
+🟢 Process completed successfully. Total collected events: 16

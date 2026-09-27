@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Open%20de%20France_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/open-de-france",
         "multiWatchPageLink": [
             {
@@ -139,6 +139,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/netherlands-vs-serbia/2299"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/netherlands-vs-serbia/2303"
             }
         ]
     },
@@ -176,7 +180,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/portugal-vs-norway",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/portugal-vs-norway/2304"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -255,18 +264,6 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-09-27 23:00:00",
-        "team1Title": "Miami Dolphins",
-        "team2Title": "Kansas City Chiefs",
-        "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/dolphins-vs-chiefs",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-27 23:00:00",
         "team1Title": "Jacksonville Jaguars",
         "team2Title": "New England Patriots",
         "team1Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
@@ -277,8 +274,8 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Asia Cup",
-        "matchTime": "2025-06-10 19:00:00",
+        "eventTitle": "FIFA ASEAN Cup",
+        "matchTime": "2026-09-28 14:00:00",
         "team1Title": "Bangladesh",
         "team2Title": "Singapore",
         "team1Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",

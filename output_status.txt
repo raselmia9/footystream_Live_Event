@@ -6,38 +6,38 @@
 🟡 Visiting detail page [1/18]: https://pogo.pk/events/open-de-france
 🟡 Visiting detail page [3/18]: https://pogo.pk/events/laver-cup
 🟡 Visiting detail page [2/18]: https://pogo.pk/events/presidents-cup
-🟢 Successfully processed: PGA Tour [1/18]
-🟡 Visiting detail page [4/18]: https://pogo.pk/events/south-africa-vs-australia
 🟢 Successfully processed: PGA Tour [2/18]
+🟡 Visiting detail page [4/18]: https://pogo.pk/events/south-africa-vs-australia
+🟢 Successfully processed: PGA Tour [1/18]
 🟡 Visiting detail page [5/18]: https://pogo.pk/events/azerbaijan-vs-lithuania
-🟢 Successfully processed: ATP Tour [3/18]
-🟡 Visiting detail page [6/18]: https://pogo.pk/events/wales-vs-denmark
 🟢 Successfully processed: Nations League [5/18]
+🟡 Visiting detail page [6/18]: https://pogo.pk/events/wales-vs-denmark
+🟢 Successfully processed: ATP Tour [3/18]
 🟡 Visiting detail page [7/18]: https://pogo.pk/events/netherlands-vs-serbia
-🟢 Successfully processed: Nations League [6/18]
-🟡 Visiting detail page [8/18]: https://pogo.pk/events/kosovo-vs-austria
 🟢 Successfully processed: Nations League [7/18]
-🟡 Visiting detail page [9/18]: https://pogo.pk/events/gibraltar-vs-andorra
+🟡 Visiting detail page [8/18]: https://pogo.pk/events/kosovo-vs-austria
 🟢 Successfully processed: Nations League [8/18]
-🟡 Visiting detail page [10/18]: https://pogo.pk/events/portugal-vs-norway
+🟡 Visiting detail page [9/18]: https://pogo.pk/events/gibraltar-vs-andorra
 🟢 Successfully processed: Rugby Union [4/18]
-🟡 Visiting detail page [11/18]: https://pogo.pk/events/leicester-tigers-vs-saracens
+🟡 Visiting detail page [10/18]: https://pogo.pk/events/portugal-vs-norway
 🟢 Successfully processed: Nations League [9/18]
-🟡 Visiting detail page [12/18]: https://pogo.pk/events/chelsea-vs-arsenal
+🟡 Visiting detail page [11/18]: https://pogo.pk/events/leicester-tigers-vs-saracens
 🟢 Successfully processed: Nations League [10/18]
+🟡 Visiting detail page [12/18]: https://pogo.pk/events/chelsea-vs-arsenal
+🟢 Successfully processed: Nations League [6/18]
 🟡 Visiting detail page [13/18]: https://pogo.pk/events/indianapolis-colts-vs-houston-texans
 🟢 Successfully processed: NFL [13/18]
 🟡 Visiting detail page [14/18]: https://pogo.pk/events/panthers-vs-browns
 🟢 Successfully processed: NFL [14/18]
 🟡 Visiting detail page [15/18]: https://pogo.pk/events/giants-vs-titans
-🟢 Successfully processed: NFL [15/18]
-🟡 Visiting detail page [16/18]: https://pogo.pk/events/bills-vs-chargers
 🟢 Successfully processed: Premiership Rugby [11/18]
+🟡 Visiting detail page [16/18]: https://pogo.pk/events/bills-vs-chargers
+🟢 Successfully processed: NFL [15/18]
 🟡 Visiting detail page [17/18]: https://pogo.pk/events/dolphins-vs-chiefs
 🟢 Successfully processed: WSL [12/18]
 🟡 Visiting detail page [18/18]: https://pogo.pk/events/jaguars-vs-patriots
 🟢 Successfully processed: NFL [17/18]
-🟢 Successfully processed: NFL [18/18]
 🟢 Successfully processed: NFL [16/18]
+🟢 Successfully processed: NFL [18/18]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 18

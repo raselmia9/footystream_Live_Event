@@ -7,7 +7,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Open%20de%20France_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/open-de-france",
         "multiWatchPageLink": [
             {
@@ -41,7 +41,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Laver%20Cup_vs_ATP%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Laver%20Cup_vs_ATP%20Tour/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/laver-cup",
         "multiWatchPageLink": [
             {
@@ -51,27 +51,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/laver-cup/2263"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-09-27 15:45:00",
-        "team1Title": "South Africa",
-        "team2Title": "Australia",
-        "team1Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/South%20Africa_vs_Australia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/South%20Africa_vs_Australia/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/south-africa-vs-australia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/south-africa-vs-australia/2296"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/south-africa-vs-australia/2297"
             }
         ]
     },

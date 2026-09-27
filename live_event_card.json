@@ -55,23 +55,6 @@
         ]
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-09-27 20:00:00",
-        "team1Title": "Leicester Tigers",
-        "team2Title": "Saracens",
-        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Leicester%20Tigers_vs_Saracens/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-saracens",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/leicester-tigers-vs-saracens/2282"
-            }
-        ]
-    },
-    {
         "eventTitle": "WSL",
         "matchTime": "2026-09-27 21:30:00",
         "team1Title": "Chelsea",
@@ -218,7 +201,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Carolina%20Panthers_vs_Cleveland%20Browns/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "",
         "detailsPage": "https://pogo.pk/events/panthers-vs-browns",
         "multiWatchPageLink": [
             {

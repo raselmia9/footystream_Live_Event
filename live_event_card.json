@@ -1,22 +1,5 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-09-24 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Presidents Cup",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Presidents%20Cup/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/presidents-cup",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/presidents-cup/2195"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-27 22:30:00",
         "team1Title": "NFL Redzone",
@@ -64,44 +47,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/49ers-vs-cardinals/2288"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:25:00",
-        "team1Title": "Baltimore Ravens",
-        "team2Title": "Dallas Cowboys",
-        "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Baltimore%20Ravens_vs_Dallas%20Cowboys/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Baltimore%20Ravens_vs_Dallas%20Cowboys/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/ravens-vs-cowboys",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/ravens-vs-cowboys/2289"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/ravens-vs-cowboys/2290"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:25:00",
-        "team1Title": "New Orleans Saints",
-        "team2Title": "Las Vegas Raiders",
-        "team1Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20Orleans%20Saints_vs_Las%20Vegas%20Raiders/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/saints-vs-raiders",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/saints-vs-raiders/2324"
             }
         ]
     },
@@ -182,18 +127,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/armenia-vs-montenegro",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-28 22:00:00",
-        "team1Title": "Latvia",
-        "team2Title": "Cyprus",
-        "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/latvia-vs-cyprus",
         "multiWatchPageLink": []
     },
     {

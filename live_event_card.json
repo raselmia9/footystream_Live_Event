@@ -45,7 +45,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Arsenal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Arsenal/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Arsenal/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-arsenal",
         "multiWatchPageLink": [
             {
@@ -91,7 +91,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Netherlands_vs_Serbia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Netherlands_vs_Serbia/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Netherlands_vs_Serbia/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Netherlands_vs_Serbia/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Netherlands_vs_Serbia/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/netherlands-vs-serbia",
         "multiWatchPageLink": [
             {
@@ -441,8 +441,8 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-09-28 02:05:00",
+        "eventTitle": "Live Event",
+        "matchTime": "Web server is returning an unknown errorError code 520Visitcloudflare.comfor more information.2026-09-27 17:18:14 UTCYouBrowserWorkingAshburnCloudflareWorkingpogo.pkHostErrorWhat happened?There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.What can I do?If you are a visitor of this website:Please try again in a few minutes.If you are the owner of this website:There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).Additional troubleshooting resources.Cloudflare Ray ID:a41c2a7c1bd6b135•Your IP:Click to reveal145.132.99.98•Performance & security byCloudflare",
         "team1Title": "San Francisco 49ers",
         "team2Title": "Arizona Cardinals",
         "team1Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
@@ -450,12 +450,7 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/49ers-vs-cardinals",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/49ers-vs-cardinals/2288"
-            }
-        ]
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "NFL",

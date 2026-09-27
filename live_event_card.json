@@ -2,12 +2,12 @@
     {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-09-24 22:30:00",
-        "team1Title": "Presidents Cup",
-        "team2Title": "PGA Tour",
+        "team1Title": "Event Ended",
+        "team2Title": "Presidents Cup",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Presidents%20Cup/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/presidents-cup",
         "multiWatchPageLink": [
             {
@@ -96,7 +96,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/New%20Orleans%20Saints_vs_Las%20Vegas%20Raiders/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/saints-vs-raiders",
         "multiWatchPageLink": [
             {

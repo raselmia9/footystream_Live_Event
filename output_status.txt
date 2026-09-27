@@ -6,11 +6,11 @@
 🟡 Visiting detail page [3/17]: https://pogo.pk/events/laver-cup
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/presidents-cup
 🟡 Visiting detail page [1/17]: https://pogo.pk/events/open-de-france
-🟢 Successfully processed: ATP Tour [3/17]
-🟡 Visiting detail page [4/17]: https://pogo.pk/events/azerbaijan-vs-lithuania
-🟢 Successfully processed: PGA Tour [1/17]
-🟡 Visiting detail page [5/17]: https://pogo.pk/events/wales-vs-denmark
 🟢 Successfully processed: PGA Tour [2/17]
+🟢 Successfully processed: PGA Tour [1/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/azerbaijan-vs-lithuania
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/wales-vs-denmark
+🟢 Successfully processed: ATP Tour [3/17]
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/netherlands-vs-serbia
 🟢 Successfully processed: Nations League [5/17]
 🟡 Visiting detail page [7/17]: https://pogo.pk/events/kosovo-vs-austria
@@ -22,20 +22,20 @@
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/leicester-tigers-vs-saracens
 🟢 Successfully processed: Nations League [9/17]
 🟡 Visiting detail page [11/17]: https://pogo.pk/events/chelsea-vs-arsenal
-🟢 Successfully processed: Nations League [6/17]
+🟢 Successfully processed: Premiership Rugby [10/17]
 🟡 Visiting detail page [12/17]: https://pogo.pk/events/indianapolis-colts-vs-houston-texans
 🟢 Successfully processed: NFL [12/17]
 🟡 Visiting detail page [13/17]: https://pogo.pk/events/panthers-vs-browns
-🟢 Successfully processed: NFL [13/17]
+🟢 Successfully processed: Nations League [6/17]
 🟡 Visiting detail page [14/17]: https://pogo.pk/events/giants-vs-titans
-🟢 Successfully processed: Premiership Rugby [10/17]
+🟢 Successfully processed: NFL [13/17]
 🟡 Visiting detail page [15/17]: https://pogo.pk/events/bills-vs-chargers
 🟢 Successfully processed: NFL [14/17]
 🟡 Visiting detail page [16/17]: https://pogo.pk/events/dolphins-vs-chiefs
-🟢 Successfully processed: WSL [11/17]
-🟡 Visiting detail page [17/17]: https://pogo.pk/events/jaguars-vs-patriots
 🟢 Successfully processed: NFL [16/17]
+🟡 Visiting detail page [17/17]: https://pogo.pk/events/jaguars-vs-patriots
 🟢 Successfully processed: NFL [17/17]
+🟢 Successfully processed: WSL [11/17]
 🟢 Successfully processed: NFL [15/17]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 17

@@ -76,6 +76,64 @@
     },
     {
         "eventTitle": "Nations League",
+        "matchTime": "2026-09-28 22:00:00",
+        "team1Title": "Georgia",
+        "team2Title": "Ukraine",
+        "team1Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Ukraine/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Ukraine/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Ukraine/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Ukraine/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/georgia-vs-ukraine",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2342"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2344"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2345"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2352"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-29 00:45:00",
+        "team1Title": "France",
+        "team2Title": "Belgium",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/France_vs_Belgium/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/France_vs_Belgium/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/France_vs_Belgium/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/France_vs_Belgium/Link%204.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/france-vs-belgium",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/france-vs-belgium/2346"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/france-vs-belgium/2347"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/france-vs-belgium/2348"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/france-vs-belgium/2357"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
         "matchTime": "2026-09-29 00:45:00",
         "team1Title": "Turkiye",
         "team2Title": "Italy",
@@ -159,6 +217,18 @@
         ]
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-29 22:00:00",
+        "team1Title": "Finland",
+        "team2Title": "Belarus",
+        "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/finland-vs-belarus",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-29 06:15:00",
         "team1Title": "Chicago Bears",
@@ -182,5 +252,17 @@
                 "url": "https://pogo.pk/alpha/chicago-bears-vs-philadelphia-eagles/2341"
             }
         ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-29 16:00:00",
+        "team1Title": "Australia",
+        "team2Title": "Brazil",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-brazil",
+        "multiWatchPageLink": []
     }
 ]

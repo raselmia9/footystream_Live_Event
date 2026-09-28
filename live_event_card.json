@@ -135,35 +135,6 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-29 00:45:00",
-        "team1Title": "Turkiye",
-        "team2Title": "Italy",
-        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/turkey-vs-italy",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/turkey-vs-italy/2358"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/turkey-vs-italy/2359"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/turkey-vs-italy/2360"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://pogo.pk/alpha/turkey-vs-italy/2361"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-29 00:45:00",
         "team1Title": "Northern Ireland",
         "team2Title": "Hungary",
         "team1Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",

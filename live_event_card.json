@@ -159,18 +159,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-29 22:00:00",
-        "team1Title": "Finland",
-        "team2Title": "Belarus",
-        "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/finland-vs-belarus",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-09-29 06:15:00",
         "team1Title": "Chicago Bears",
@@ -194,17 +182,5 @@
                 "url": "https://pogo.pk/alpha/chicago-bears-vs-philadelphia-eagles/2341"
             }
         ]
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-29 16:00:00",
-        "team1Title": "Australia",
-        "team2Title": "Brazil",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/australia-vs-brazil",
-        "multiWatchPageLink": []
     }
 ]

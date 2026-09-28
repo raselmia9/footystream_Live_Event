@@ -3,21 +3,21 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 8
-🟡 Visiting detail page [2/8]: https://pogo.pk/events/bangladesh-vs-singapore
 🟡 Visiting detail page [1/8]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [2/8]: https://pogo.pk/events/bangladesh-vs-singapore
 🟡 Visiting detail page [3/8]: https://pogo.pk/events/armenia-vs-montenegro
 🟢 Successfully processed: Nations League [3/8]
 🟡 Visiting detail page [4/8]: https://pogo.pk/events/latvia-vs-cyprus
 🟢 Successfully processed: Nations League [4/8]
 🟡 Visiting detail page [5/8]: https://pogo.pk/events/georgia-vs-ukraine
-🟢 Successfully processed: Nations League [5/8]
-🟡 Visiting detail page [6/8]: https://pogo.pk/events/turkey-vs-italy
-🟢 Successfully processed: Nations League [6/8]
-🟡 Visiting detail page [7/8]: https://pogo.pk/events/northern-ireland-vs-hungary
-🟢 Successfully processed: Nations League [7/8]
-🟡 Visiting detail page [8/8]: https://pogo.pk/events/bosnia-vs-romania
-🟢 Successfully processed: FIFA ASEAN Cup [2/8]
 🟢 Successfully processed: Snooker [1/8]
+🟡 Visiting detail page [6/8]: https://pogo.pk/events/turkey-vs-italy
+🟢 Successfully processed: Nations League [5/8]
+🟡 Visiting detail page [7/8]: https://pogo.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Nations League [6/8]
+🟡 Visiting detail page [8/8]: https://pogo.pk/events/bosnia-vs-romania
+🟢 Successfully processed: Nations League [7/8]
 🟢 Successfully processed: Nations League [8/8]
+🟢 Successfully processed: FIFA ASEAN Cup [2/8]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 8

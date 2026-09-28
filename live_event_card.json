@@ -76,71 +76,13 @@
     },
     {
         "eventTitle": "Nations League",
-        "matchTime": "2026-09-28 22:00:00",
-        "team1Title": "Georgia",
-        "team2Title": "Ukraine",
-        "team1Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Ukraine/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Ukraine/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Ukraine/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Georgia_vs_Ukraine/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/georgia-vs-ukraine",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2342"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2344"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2345"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://pogo.pk/alpha/georgia-vs-ukraine/2352"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-29 00:45:00",
-        "team1Title": "France",
-        "team2Title": "Belgium",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/france-vs-belgium",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/france-vs-belgium/2346"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/france-vs-belgium/2347"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/france-vs-belgium/2348"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://pogo.pk/alpha/france-vs-belgium/2357"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
         "matchTime": "2026-09-29 00:45:00",
         "team1Title": "Turkiye",
         "team2Title": "Italy",
         "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Turkiye_vs_Italy/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Turkiye_vs_Italy/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Turkiye_vs_Italy/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Turkiye_vs_Italy/Link%204.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/turkey-vs-italy",
         "multiWatchPageLink": [
             {
@@ -169,7 +111,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Northern%20Ireland_vs_Hungary/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/northern-ireland-vs-hungary",
         "multiWatchPageLink": [
             {
@@ -186,7 +128,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bosnia%20and%20Herzegovina_vs_Romania/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/bosnia-vs-romania",
         "multiWatchPageLink": [
             {
@@ -203,7 +145,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Poland_vs_Sweden/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Poland_vs_Sweden/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/poland-vs-sweden",
         "multiWatchPageLink": [
             {

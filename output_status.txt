@@ -3,21 +3,21 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 9
-🟡 Visiting detail page [2/9]: https://pogo.pk/events/armenia-vs-montenegro
 🟡 Visiting detail page [1/9]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [2/9]: https://pogo.pk/events/armenia-vs-montenegro
 🟡 Visiting detail page [3/9]: https://pogo.pk/events/latvia-vs-cyprus
-🟢 Successfully processed: Nations League [3/9]
 🟢 Successfully processed: Nations League [2/9]
 🟡 Visiting detail page [4/9]: https://pogo.pk/events/georgia-vs-ukraine
-🟡 Visiting detail page [5/9]: https://pogo.pk/events/france-vs-belgium
 🟢 Successfully processed: Snooker [1/9]
+🟢 Successfully processed: Nations League [3/9]
+🟡 Visiting detail page [5/9]: https://pogo.pk/events/france-vs-belgium
 🟡 Visiting detail page [6/9]: https://pogo.pk/events/turkey-vs-italy
 🟢 Successfully processed: Nations League [4/9]
 🟡 Visiting detail page [7/9]: https://pogo.pk/events/northern-ireland-vs-hungary
 🟢 Successfully processed: Nations League [6/9]
 🟢 Successfully processed: Nations League [5/9]
-🟡 Visiting detail page [9/9]: https://pogo.pk/events/australia-vs-brazil
 🟡 Visiting detail page [8/9]: https://pogo.pk/events/chicago-bears-vs-philadelphia-eagles
+🟡 Visiting detail page [9/9]: https://pogo.pk/events/australia-vs-brazil
 🟢 Successfully processed: Friendly [9/9]
 🟢 Successfully processed: Nations League [7/9]
 🟢 Successfully processed: NFL [8/9]

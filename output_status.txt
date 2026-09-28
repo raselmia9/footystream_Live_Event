@@ -6,29 +6,29 @@
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/france-vs-belgium
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/turkey-vs-italy
 🟡 Visiting detail page [1/14]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: Nations League [2/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/northern-ireland-vs-hungary
 🟢 Successfully processed: Snooker [1/14]
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/bosnia-vs-romania
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Nations League [2/14]
 🟢 Successfully processed: Nations League [3/14]
+🟡 Visiting detail page [5/14]: https://pogo.pk/events/bosnia-vs-romania
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/poland-vs-sweden
 🟢 Successfully processed: Nations League [5/14]
-🟡 Visiting detail page [7/14]: https://pogo.pk/events/chicago-bears-vs-philadelphia-eagles
-🟢 Successfully processed: Nations League [4/14]
-🟡 Visiting detail page [8/14]: https://pogo.pk/events/australia-vs-brazil
-🟢 Successfully processed: Friendly [8/14]
-🟡 Visiting detail page [9/14]: https://pogo.pk/events/finland-vs-belarus
 🟢 Successfully processed: Nations League [6/14]
-🟡 Visiting detail page [10/14]: https://pogo.pk/events/moldova-vs-faroe-islands
+🟢 Successfully processed: Nations League [4/14]
+🟡 Visiting detail page [7/14]: https://pogo.pk/events/chicago-bears-vs-philadelphia-eagles
+🟡 Visiting detail page [8/14]: https://pogo.pk/events/australia-vs-brazil
+🟡 Visiting detail page [9/14]: https://pogo.pk/events/finland-vs-belarus
 🟢 Successfully processed: Nations League [9/14]
+🟢 Successfully processed: Friendly [8/14]
+🟡 Visiting detail page [10/14]: https://pogo.pk/events/moldova-vs-faroe-islands
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/spain-vs-croatia
-🟢 Successfully processed: Nations League [10/14]
-🟡 Visiting detail page [12/14]: https://pogo.pk/events/england-vs-czechia
 🟢 Successfully processed: Nations League [11/14]
+🟡 Visiting detail page [12/14]: https://pogo.pk/events/england-vs-czechia
+🟢 Successfully processed: Nations League [10/14]
 🟡 Visiting detail page [13/14]: https://pogo.pk/events/scotland-vs-switzerland
 🟢 Successfully processed: Nations League [12/14]
-🟡 Visiting detail page [14/14]: https://pogo.pk/events/slovakia-vs-kazakhstan
 🟢 Successfully processed: Nations League [13/14]
+🟡 Visiting detail page [14/14]: https://pogo.pk/events/slovakia-vs-kazakhstan
 🟢 Successfully processed: Nations League [14/14]
 🟢 Successfully processed: NFL [7/14]
 🟢 Browser closed successfully.

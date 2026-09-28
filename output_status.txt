@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 8
+🟡 Visiting detail page [2/8]: https://pogo.pk/events/bangladesh-vs-singapore
 🟡 Visiting detail page [3/8]: https://pogo.pk/events/armenia-vs-montenegro
 🟡 Visiting detail page [1/8]: https://pogo.pk/events/shenzhen-open-snooker
-🟡 Visiting detail page [2/8]: https://pogo.pk/events/bangladesh-vs-singapore
 🟢 Successfully processed: Nations League [3/8]
 🟡 Visiting detail page [4/8]: https://pogo.pk/events/latvia-vs-cyprus
 🟢 Successfully processed: Nations League [4/8]

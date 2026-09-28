@@ -17,7 +17,7 @@
 🟢 Successfully processed: Nations League [6/8]
 🟡 Visiting detail page [8/8]: https://pogo.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [7/8]
-🟢 Successfully processed: Nations League [8/8]
 🟢 Successfully processed: FIFA ASEAN Cup [2/8]
+🟢 Successfully processed: Nations League [8/8]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 8

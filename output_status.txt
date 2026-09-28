@@ -4,11 +4,11 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 7
 🟡 Visiting detail page [2/7]: https://pogo.pk/events/armenia-vs-montenegro
-🟡 Visiting detail page [3/7]: https://pogo.pk/events/latvia-vs-cyprus
 🟡 Visiting detail page [1/7]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: Nations League [3/7]
+🟡 Visiting detail page [3/7]: https://pogo.pk/events/latvia-vs-cyprus
 🟢 Successfully processed: Nations League [2/7]
 🟡 Visiting detail page [4/7]: https://pogo.pk/events/georgia-vs-ukraine
+🟢 Successfully processed: Nations League [3/7]
 🟡 Visiting detail page [5/7]: https://pogo.pk/events/turkey-vs-italy
 🟢 Successfully processed: Nations League [4/7]
 🟡 Visiting detail page [6/7]: https://pogo.pk/events/northern-ireland-vs-hungary
@@ -16,9 +16,6 @@
 🟡 Visiting detail page [7/7]: https://pogo.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [7/7]
 🟢 Successfully processed: Nations League [6/7]
-🔴 ERROR on detail page https://pogo.pk/events/shenzhen-open-snooker: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/shenzhen-open-snooker", waiting until "load"
-
+🟢 Successfully processed: Snooker [1/7]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 6
+🟢 Process completed successfully. Total collected events: 7

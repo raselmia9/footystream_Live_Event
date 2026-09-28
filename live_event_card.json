@@ -100,5 +100,17 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/northern-ireland-vs-hungary",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-09-29 00:45:00",
+        "team1Title": "Bosnia and Herzegovina",
+        "team2Title": "Romania",
+        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bosnia-vs-romania",
+        "multiWatchPageLink": []
     }
 ]

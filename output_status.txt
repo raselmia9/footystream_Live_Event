@@ -10,16 +10,16 @@
 🟡 Visiting detail page [4/9]: https://pogo.pk/events/armenia-vs-montenegro
 🟢 Successfully processed: Nations League [4/9]
 🟡 Visiting detail page [5/9]: https://pogo.pk/events/latvia-vs-cyprus
-🟢 Successfully processed: Snooker [2/9]
-🟢 Successfully processed: Nations League [5/9]
+🟢 Successfully processed: FIFA ASEAN Cup [3/9]
 🟡 Visiting detail page [6/9]: https://pogo.pk/events/georgia-vs-ukraine
+🟢 Successfully processed: Nations League [5/9]
 🟡 Visiting detail page [7/9]: https://pogo.pk/events/turkey-vs-italy
-🟢 Successfully processed: Nations League [7/9]
+🟢 Successfully processed: Snooker [2/9]
 🟡 Visiting detail page [8/9]: https://pogo.pk/events/northern-ireland-vs-hungary
 🟢 Successfully processed: Nations League [6/9]
 🟡 Visiting detail page [9/9]: https://pogo.pk/events/bosnia-vs-romania
-🟢 Successfully processed: FIFA ASEAN Cup [3/9]
-🟢 Successfully processed: Nations League [9/9]
+🟢 Successfully processed: Nations League [7/9]
 🟢 Successfully processed: Nations League [8/9]
+🟢 Successfully processed: Nations League [9/9]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 9

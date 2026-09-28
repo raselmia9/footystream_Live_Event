@@ -10,9 +10,9 @@
 🟡 Visiting detail page [4/7]: https://pogo.pk/events/georgia-vs-ukraine
 🟢 Successfully processed: Nations League [3/7]
 🟡 Visiting detail page [5/7]: https://pogo.pk/events/turkey-vs-italy
-🟢 Successfully processed: Nations League [4/7]
-🟡 Visiting detail page [6/7]: https://pogo.pk/events/northern-ireland-vs-hungary
 🟢 Successfully processed: Nations League [5/7]
+🟡 Visiting detail page [6/7]: https://pogo.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Nations League [4/7]
 🟡 Visiting detail page [7/7]: https://pogo.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [6/7]
 🟢 Successfully processed: Nations League [7/7]

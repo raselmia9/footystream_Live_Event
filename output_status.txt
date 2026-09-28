@@ -1,25 +1,7 @@
 🟢 Process Started...
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
-🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 9
-🟡 Visiting detail page [2/9]: https://pogo.pk/events/shenzhen-open-snooker
-🟡 Visiting detail page [1/9]: https://pogo.pk/events/rams-vs-broncos
-🟡 Visiting detail page [3/9]: https://pogo.pk/events/bangladesh-vs-singapore
-🟢 Successfully processed: NFL [1/9]
-🟡 Visiting detail page [4/9]: https://pogo.pk/events/armenia-vs-montenegro
-🟢 Successfully processed: Nations League [4/9]
-🟡 Visiting detail page [5/9]: https://pogo.pk/events/latvia-vs-cyprus
-🟢 Successfully processed: FIFA ASEAN Cup [3/9]
-🟡 Visiting detail page [6/9]: https://pogo.pk/events/georgia-vs-ukraine
-🟢 Successfully processed: Snooker [2/9]
-🟡 Visiting detail page [7/9]: https://pogo.pk/events/turkey-vs-italy
-🟢 Successfully processed: Nations League [5/9]
-🟡 Visiting detail page [8/9]: https://pogo.pk/events/northern-ireland-vs-hungary
-🟢 Successfully processed: Nations League [6/9]
-🟡 Visiting detail page [9/9]: https://pogo.pk/events/bosnia-vs-romania
-🟢 Successfully processed: Nations League [7/9]
-🟢 Successfully processed: Nations League [8/9]
-🟢 Successfully processed: Nations League [9/9]
-🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 9
+🔴 CRITICAL_ERROR: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://footystream.pk/", waiting until "load"
+

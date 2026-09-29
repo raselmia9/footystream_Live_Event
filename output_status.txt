@@ -7,8 +7,8 @@
 🟡 Visiting detail page [1/7]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/7]: https://pogo.pk/events/moldova-vs-faroe-islands
 🟢 Successfully processed: Nations League [3/7]
-🟢 Successfully processed: Nations League [2/7]
 🟡 Visiting detail page [4/7]: https://pogo.pk/events/spain-vs-croatia
+🟢 Successfully processed: Nations League [2/7]
 🟡 Visiting detail page [5/7]: https://pogo.pk/events/england-vs-czechia
 🟢 Successfully processed: Nations League [4/7]
 🟡 Visiting detail page [6/7]: https://pogo.pk/events/scotland-vs-switzerland

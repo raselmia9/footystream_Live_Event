@@ -76,7 +76,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/spain-vs-croatia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/spain-vs-croatia/2369"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/spain-vs-croatia/2370"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/spain-vs-croatia/2371"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/spain-vs-croatia/2372"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -112,6 +129,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/slovakia-vs-kazakhstan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-30 06:00:00",
+        "team1Title": "USA",
+        "team2Title": "Chile",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/usa-vs-chile",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-30 07:00:00",
+        "team1Title": "Mexico",
+        "team2Title": "Peru",
+        "team1Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/mexico-vs-peru",
         "multiWatchPageLink": []
     }
 ]

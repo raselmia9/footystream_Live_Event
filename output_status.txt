@@ -16,8 +16,8 @@
 🟡 Visiting detail page [7/8]: https://pogo.pk/events/scotland-vs-switzerland
 🟢 Successfully processed: Snooker [1/8]
 🟡 Visiting detail page [8/8]: https://pogo.pk/events/slovakia-vs-kazakhstan
-🟢 Successfully processed: Nations League [6/8]
 🟢 Successfully processed: Nations League [7/8]
+🟢 Successfully processed: Nations League [6/8]
 🟢 Successfully processed: Nations League [8/8]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 8

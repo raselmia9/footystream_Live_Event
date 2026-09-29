@@ -53,9 +53,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Moldova_vs_Faroe%20Islands/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Moldova_vs_Faroe%20Islands/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/moldova-vs-faroe-islands",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/moldova-vs-faroe-islands/2367"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/moldova-vs-faroe-islands/2368"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

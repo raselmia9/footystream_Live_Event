@@ -7,17 +7,17 @@
 🟡 Visiting detail page [2/8]: https://pogo.pk/events/australia-vs-brazil
 🟡 Visiting detail page [1/8]: https://pogo.pk/events/shenzhen-open-snooker
 🟢 Successfully processed: Friendly [2/8]
-🟢 Successfully processed: Nations League [3/8]
 🟡 Visiting detail page [4/8]: https://pogo.pk/events/moldova-vs-faroe-islands
+🟢 Successfully processed: Nations League [3/8]
 🟡 Visiting detail page [5/8]: https://pogo.pk/events/spain-vs-croatia
-🟢 Successfully processed: Nations League [4/8]
-🟡 Visiting detail page [6/8]: https://pogo.pk/events/england-vs-czechia
 🟢 Successfully processed: Nations League [5/8]
+🟡 Visiting detail page [6/8]: https://pogo.pk/events/england-vs-czechia
+🟢 Successfully processed: Nations League [4/8]
 🟡 Visiting detail page [7/8]: https://pogo.pk/events/scotland-vs-switzerland
-🟢 Successfully processed: Nations League [6/8]
-🟡 Visiting detail page [8/8]: https://pogo.pk/events/slovakia-vs-kazakhstan
-🟢 Successfully processed: Nations League [7/8]
 🟢 Successfully processed: Snooker [1/8]
+🟡 Visiting detail page [8/8]: https://pogo.pk/events/slovakia-vs-kazakhstan
+🟢 Successfully processed: Nations League [6/8]
+🟢 Successfully processed: Nations League [7/8]
 🟢 Successfully processed: Nations League [8/8]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 8

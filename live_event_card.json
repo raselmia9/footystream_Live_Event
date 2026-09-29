@@ -159,7 +159,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/slovakia-vs-kazakhstan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/slovakia-vs-kazakhstan/2380"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -171,7 +176,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/albania-vs-san-marino",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/albania-vs-san-marino/2381"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

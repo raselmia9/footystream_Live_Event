@@ -7,8 +7,8 @@
 🟡 Visiting detail page [2/27]: https://pogo.pk/events/astros-vs-white-sox
 🟡 Visiting detail page [3/27]: https://pogo.pk/events/usa-vs-chile
 🟢 Successfully processed: MLB [2/27]
-🟡 Visiting detail page [4/27]: https://pogo.pk/events/mexico-vs-peru
 🟢 Successfully processed: Snooker [1/27]
+🟡 Visiting detail page [4/27]: https://pogo.pk/events/mexico-vs-peru
 🟡 Visiting detail page [5/27]: https://pogo.pk/events/argentina-vs-bolivia
 🟢 Successfully processed: Friendly [3/27]
 🟡 Visiting detail page [6/27]: https://pogo.pk/events/yankees-vs-red-sox
@@ -26,11 +26,11 @@
 🟡 Visiting detail page [12/27]: https://pogo.pk/events/paris-vs-arsenal
 🟢 Successfully processed: Womens Champions League [12/27]
 🟡 Visiting detail page [13/27]: https://pogo.pk/events/hacken-vs-juventus
-🟢 Successfully processed: Womens Champions League [13/27]
-🟡 Visiting detail page [14/27]: https://pogo.pk/events/benfica-vs-bayern-munchen
-🟢 Successfully processed: Womens Champions League [14/27]
-🟡 Visiting detail page [15/27]: https://pogo.pk/events/chelsea-vs-lyon
 🟢 Successfully processed: MLB [9/27]
+🟡 Visiting detail page [14/27]: https://pogo.pk/events/benfica-vs-bayern-munchen
+🟢 Successfully processed: Womens Champions League [13/27]
+🟡 Visiting detail page [15/27]: https://pogo.pk/events/chelsea-vs-lyon
+🟢 Successfully processed: Womens Champions League [14/27]
 🟡 Visiting detail page [16/27]: https://pogo.pk/events/inter-milano-vs-austria-wien
 🟢 Successfully processed: Womens Champions League [15/27]
 🟡 Visiting detail page [17/27]: https://pogo.pk/events/bangladesh-vs-indonesia
@@ -38,9 +38,9 @@
 🟡 Visiting detail page [18/27]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟢 Successfully processed: Nations League [18/27]
 🟡 Visiting detail page [19/27]: https://pogo.pk/events/germany-vs-serbia
-🟢 Successfully processed: ATP Tour [10/27]
-🟡 Visiting detail page [20/27]: https://pogo.pk/events/netherlands-vs-greece
 🟢 Successfully processed: Nations League [19/27]
+🟡 Visiting detail page [20/27]: https://pogo.pk/events/netherlands-vs-greece
+🟢 Successfully processed: ATP Tour [10/27]
 🟡 Visiting detail page [21/27]: https://pogo.pk/events/wales-vs-norway
 🟢 Successfully processed: Nations League [20/27]
 🟡 Visiting detail page [22/27]: https://pogo.pk/events/ireland-vs-austria

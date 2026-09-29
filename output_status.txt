@@ -4,11 +4,11 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 8
 🟡 Visiting detail page [2/8]: https://pogo.pk/events/australia-vs-brazil
-🟡 Visiting detail page [1/8]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/8]: https://pogo.pk/events/finland-vs-belarus
-🟢 Successfully processed: Friendly [2/8]
-🟡 Visiting detail page [4/8]: https://pogo.pk/events/moldova-vs-faroe-islands
+🟡 Visiting detail page [1/8]: https://pogo.pk/events/shenzhen-open-snooker
 🟢 Successfully processed: Nations League [3/8]
+🟡 Visiting detail page [4/8]: https://pogo.pk/events/moldova-vs-faroe-islands
+🟢 Successfully processed: Friendly [2/8]
 🟡 Visiting detail page [5/8]: https://pogo.pk/events/spain-vs-croatia
 🟢 Successfully processed: Nations League [4/8]
 🟡 Visiting detail page [6/8]: https://pogo.pk/events/england-vs-czechia

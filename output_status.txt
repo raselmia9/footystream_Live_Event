@@ -2,32 +2,44 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 13
-🟡 Visiting detail page [2/13]: https://pogo.pk/events/finland-vs-belarus
-🟡 Visiting detail page [1/13]: https://pogo.pk/events/shenzhen-open-snooker
-🟡 Visiting detail page [3/13]: https://pogo.pk/events/moldova-vs-faroe-islands
-🟢 Successfully processed: Nations League [2/13]
-🟡 Visiting detail page [4/13]: https://pogo.pk/events/braves-vs-phillies
-🟢 Successfully processed: Nations League [3/13]
-🟡 Visiting detail page [5/13]: https://pogo.pk/events/astros-vs-white-sox
-🟢 Successfully processed: Snooker [1/13]
-🟡 Visiting detail page [6/13]: https://pogo.pk/events/spain-vs-croatia
-🟢 Successfully processed: MLB [4/13]
-🟡 Visiting detail page [7/13]: https://pogo.pk/events/england-vs-czechia
-🟢 Successfully processed: Nations League [6/13]
-🟡 Visiting detail page [8/13]: https://pogo.pk/events/scotland-vs-switzerland
-🟢 Successfully processed: Nations League [7/13]
-🟡 Visiting detail page [9/13]: https://pogo.pk/events/slovakia-vs-kazakhstan
-🟢 Successfully processed: Nations League [8/13]
-🟡 Visiting detail page [10/13]: https://pogo.pk/events/albania-vs-san-marino
-🟢 Successfully processed: MLB [5/13]
-🟡 Visiting detail page [11/13]: https://pogo.pk/events/luxembourg-vs-iceland
-🟢 Successfully processed: Nations League [9/13]
-🟡 Visiting detail page [12/13]: https://pogo.pk/events/usa-vs-chile
-🟢 Successfully processed: Nations League [10/13]
-🟡 Visiting detail page [13/13]: https://pogo.pk/events/mexico-vs-peru
-🟢 Successfully processed: Friendly [12/13]
-🟢 Successfully processed: Nations League [11/13]
-🟢 Successfully processed: Friendly [13/13]
+🟢 Total unique detail links to process in parallel: 19
+🟡 Visiting detail page [1/19]: https://pogo.pk/events/spain-vs-croatia
+🟡 Visiting detail page [3/19]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [2/19]: https://pogo.pk/events/england-vs-czechia
+🟢 Successfully processed: Nations League [2/19]
+🟢 Successfully processed: Snooker [3/19]
+🟢 Successfully processed: Nations League [1/19]
+🟡 Visiting detail page [4/19]: https://pogo.pk/events/finland-vs-belarus
+🟡 Visiting detail page [5/19]: https://pogo.pk/events/moldova-vs-faroe-islands
+🟡 Visiting detail page [6/19]: https://pogo.pk/events/braves-vs-phillies
+🟢 Successfully processed: Nations League [4/19]
+🟢 Successfully processed: Nations League [5/19]
+🟡 Visiting detail page [7/19]: https://pogo.pk/events/scotland-vs-switzerland
+🟡 Visiting detail page [8/19]: https://pogo.pk/events/slovakia-vs-kazakhstan
+🟢 Successfully processed: MLB [6/19]
+🟡 Visiting detail page [9/19]: https://pogo.pk/events/albania-vs-san-marino
+🟢 Successfully processed: Nations League [8/19]
+🟡 Visiting detail page [10/19]: https://pogo.pk/events/luxembourg-vs-iceland
+🟢 Successfully processed: Nations League [7/19]
+🟢 Successfully processed: Nations League [9/19]
+🟡 Visiting detail page [11/19]: https://pogo.pk/events/bulgaria-vs-estonia
+🟡 Visiting detail page [12/19]: https://pogo.pk/events/slovenia-vs-north-macedonia
+🟢 Successfully processed: Nations League [10/19]
+🟡 Visiting detail page [13/19]: https://pogo.pk/events/astros-vs-white-sox
+🟢 Successfully processed: Nations League [11/19]
+🟡 Visiting detail page [14/19]: https://pogo.pk/events/yankees-vs-red-sox
+🟢 Successfully processed: Nations League [12/19]
+🟡 Visiting detail page [15/19]: https://pogo.pk/events/cubs-vs-padres
+🟢 Successfully processed: MLB [13/19]
+🟢 Successfully processed: MLB [14/19]
+🟡 Visiting detail page [16/19]: https://pogo.pk/events/philadelphia-phillies-vs-braves
+🟡 Visiting detail page [17/19]: https://pogo.pk/events/chicago-white-sox-vs-astros
+🟢 Successfully processed: MLB [15/19]
+🟡 Visiting detail page [18/19]: https://pogo.pk/events/usa-vs-chile
+🟢 Successfully processed: Friendly [18/19]
+🟡 Visiting detail page [19/19]: https://pogo.pk/events/mexico-vs-peru
+🟢 Successfully processed: Friendly [19/19]
+🟢 Successfully processed: MLB [16/19]
+🟢 Successfully processed: MLB [17/19]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 13
+🟢 Process completed successfully. Total collected events: 19

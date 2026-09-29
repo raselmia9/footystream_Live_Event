@@ -27,12 +27,12 @@
     {
         "eventTitle": "Friendly",
         "matchTime": "2026-09-29 16:00:00",
-        "team1Title": "Australia",
-        "team2Title": "Brazil",
+        "team1Title": "Event Ended",
+        "team2Title": "Australia",
         "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Australia_vs_Brazil/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Australia/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/australia-vs-brazil",
         "multiWatchPageLink": [
             {

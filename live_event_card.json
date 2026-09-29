@@ -1,67 +1,5 @@
 [
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-30 00:45:00",
-        "team1Title": "Spain",
-        "team2Title": "Croatia",
-        "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Spain_vs_Croatia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Spain_vs_Croatia/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Spain_vs_Croatia/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Spain_vs_Croatia/Link%204.m3u8|Referer=https://bhalocast.pro/,)Link 5,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Spain_vs_Croatia/Link%205.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/spain-vs-croatia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/spain-vs-croatia/2369"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/spain-vs-croatia/2370"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/spain-vs-croatia/2371"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://pogo.pk/alpha/spain-vs-croatia/2372"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://pogo.pk/alpha/spain-vs-croatia/2373"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-30 00:45:00",
-        "team1Title": "England",
-        "team2Title": "Czechia",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Czechia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Czechia/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Czechia/Link%203.m3u8|Referer=https://bhalocast.pro/,)Link 4,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/England_vs_Czechia/Link%204.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/england-vs-czechia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/england-vs-czechia/2374"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/england-vs-czechia/2375"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/england-vs-czechia/2376"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://pogo.pk/alpha/england-vs-czechia/2377"
-            }
-        ]
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-09-28 12:00:00",
         "team1Title": "Shenzhen Open Snooker",
@@ -88,133 +26,6 @@
     },
     {
         "eventTitle": "MLB",
-        "matchTime": "2026-09-30 00:00:00",
-        "team1Title": "Atlanta Braves",
-        "team2Title": "Philadelphia Phillies",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atlanta%20Braves_vs_Philadelphia%20Phillies/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/braves-vs-phillies",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/braves-vs-phillies/2388"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-30 00:45:00",
-        "team1Title": "Scotland",
-        "team2Title": "Switzerland",
-        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Scotland_vs_Switzerland/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Scotland_vs_Switzerland/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Scotland_vs_Switzerland/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/scotland-vs-switzerland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/scotland-vs-switzerland/2378"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/scotland-vs-switzerland/2379"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/scotland-vs-switzerland/2384"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-30 00:45:00",
-        "team1Title": "Slovakia",
-        "team2Title": "Kazakhstan",
-        "team1Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Slovakia_vs_Kazakhstan/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/slovakia-vs-kazakhstan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/slovakia-vs-kazakhstan/2380"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-30 00:45:00",
-        "team1Title": "Albania",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Albania_vs_Team%202/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/albania-vs-san-marino",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/albania-vs-san-marino/2381"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-30 00:45:00",
-        "team1Title": "Luxembourg",
-        "team2Title": "Iceland",
-        "team1Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Luxembourg_vs_Iceland/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/luxembourg-vs-iceland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/luxembourg-vs-iceland/2385"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-30 00:45:00",
-        "team1Title": "Bulgaria",
-        "team2Title": "Estonia",
-        "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bulgaria_vs_Estonia/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/bulgaria-vs-estonia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bulgaria-vs-estonia/2382"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-09-30 00:45:00",
-        "team1Title": "Slovenia",
-        "team2Title": "North Macedonia",
-        "team1Logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/north-macedonia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Slovenia_vs_North%20Macedonia/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/slovenia-vs-north-macedonia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/slovenia-vs-north-macedonia/2383"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
         "matchTime": "2026-09-30 03:00:00",
         "team1Title": "Houston Astros",
         "team2Title": "Chicago White Sox",
@@ -231,6 +42,65 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/astros-vs-white-sox/2387"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-30 06:00:00",
+        "team1Title": "USA",
+        "team2Title": "Chile",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/usa-vs-chile",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/usa-vs-chile/2407"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-09-30 07:00:00",
+        "team1Title": "Mexico",
+        "team2Title": "Peru",
+        "team1Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/mexico-vs-peru",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/mexico-vs-peru/2408"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-10-01 06:00:00",
+        "team1Title": "Argentina",
+        "team2Title": "Bolivia",
+        "team1Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bolivia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/argentina-vs-bolivia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2410"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2411"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2412"
             }
         ]
     },
@@ -307,65 +177,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2394"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-30 06:00:00",
-        "team1Title": "USA",
-        "team2Title": "Chile",
-        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/usa-vs-chile",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/usa-vs-chile/2407"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-09-30 07:00:00",
-        "team1Title": "Mexico",
-        "team2Title": "Peru",
-        "team1Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/mexico-vs-peru",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/mexico-vs-peru/2408"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-01 06:00:00",
-        "team1Title": "Argentina",
-        "team2Title": "Bolivia",
-        "team1Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bolivia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/argentina-vs-bolivia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2410"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2411"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2412"
             }
         ]
     },

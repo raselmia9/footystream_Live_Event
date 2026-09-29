@@ -2,76 +2,78 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 35
-🟡 Visiting detail page [2/35]: https://pogo.pk/events/england-vs-czechia
-🟡 Visiting detail page [1/35]: https://pogo.pk/events/spain-vs-croatia
-🟡 Visiting detail page [3/35]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: Nations League [2/35]
-🟢 Successfully processed: Nations League [1/35]
-🟡 Visiting detail page [4/35]: https://pogo.pk/events/braves-vs-phillies
-🟡 Visiting detail page [5/35]: https://pogo.pk/events/scotland-vs-switzerland
-🟢 Successfully processed: Snooker [3/35]
-🟡 Visiting detail page [6/35]: https://pogo.pk/events/slovakia-vs-kazakhstan
-🟢 Successfully processed: MLB [4/35]
-🟡 Visiting detail page [7/35]: https://pogo.pk/events/albania-vs-san-marino
-🟢 Successfully processed: Nations League [5/35]
-🟡 Visiting detail page [8/35]: https://pogo.pk/events/luxembourg-vs-iceland
-🟢 Successfully processed: Nations League [6/35]
-🟡 Visiting detail page [9/35]: https://pogo.pk/events/bulgaria-vs-estonia
-🟢 Successfully processed: Nations League [8/35]
-🟡 Visiting detail page [10/35]: https://pogo.pk/events/slovenia-vs-north-macedonia
-🟢 Successfully processed: Nations League [7/35]
-🟡 Visiting detail page [11/35]: https://pogo.pk/events/astros-vs-white-sox
-🟢 Successfully processed: Nations League [9/35]
-🟡 Visiting detail page [12/35]: https://pogo.pk/events/yankees-vs-red-sox
-🟢 Successfully processed: Nations League [10/35]
-🟡 Visiting detail page [13/35]: https://pogo.pk/events/cubs-vs-padres
-🟢 Successfully processed: MLB [11/35]
-🟡 Visiting detail page [14/35]: https://pogo.pk/events/philadelphia-phillies-vs-braves
-🟢 Successfully processed: MLB [12/35]
-🟡 Visiting detail page [15/35]: https://pogo.pk/events/chicago-white-sox-vs-astros
-🟢 Successfully processed: MLB [13/35]
-🟡 Visiting detail page [16/35]: https://pogo.pk/events/usa-vs-chile
-🟢 Successfully processed: MLB [14/35]
-🟡 Visiting detail page [17/35]: https://pogo.pk/events/mexico-vs-peru
-🟢 Successfully processed: MLB [15/35]
-🟡 Visiting detail page [18/35]: https://pogo.pk/events/argentina-vs-bolivia
-🟢 Successfully processed: Friendly [16/35]
-🟡 Visiting detail page [19/35]: https://pogo.pk/events/japan-open-tennis-championships
-🟢 Successfully processed: Friendly [17/35]
-🟡 Visiting detail page [20/35]: https://pogo.pk/events/barcelona-vs-roma
-🟢 Successfully processed: Womens Champions League [20/35]
-🟡 Visiting detail page [21/35]: https://pogo.pk/events/paris-vs-arsenal
-🟢 Successfully processed: Womens Champions League [21/35]
-🟡 Visiting detail page [22/35]: https://pogo.pk/events/hacken-vs-juventus
-🟢 Successfully processed: Womens Champions League [22/35]
-🟡 Visiting detail page [23/35]: https://pogo.pk/events/benfica-vs-bayern-munchen
-🟢 Successfully processed: Friendly [18/35]
-🟡 Visiting detail page [24/35]: https://pogo.pk/events/chelsea-vs-lyon
-🟢 Successfully processed: Womens Champions League [23/35]
-🟡 Visiting detail page [25/35]: https://pogo.pk/events/inter-milano-vs-austria-wien
-🟢 Successfully processed: Womens Champions League [24/35]
-🟡 Visiting detail page [26/35]: https://pogo.pk/events/bangladesh-vs-indonesia
-🟢 Successfully processed: Womens Champions League [25/35]
-🟡 Visiting detail page [27/35]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
-🟢 Successfully processed: Nations League [27/35]
-🟡 Visiting detail page [28/35]: https://pogo.pk/events/germany-vs-serbia
-🟢 Successfully processed: ATP Tour [19/35]
-🟡 Visiting detail page [29/35]: https://pogo.pk/events/netherlands-vs-greece
-🟢 Successfully processed: Nations League [28/35]
-🟡 Visiting detail page [30/35]: https://pogo.pk/events/wales-vs-norway
-🟢 Successfully processed: Nations League [29/35]
-🟡 Visiting detail page [31/35]: https://pogo.pk/events/ireland-vs-austria
-🟢 Successfully processed: Nations League [30/35]
-🟡 Visiting detail page [32/35]: https://pogo.pk/events/kosovo-vs-israel
-🟢 Successfully processed: Nations League [31/35]
-🟡 Visiting detail page [33/35]: https://pogo.pk/events/steelers-vs-browns
-🟢 Successfully processed: Nations League [32/35]
-🟡 Visiting detail page [34/35]: https://pogo.pk/events/commanders-vs-colts
-🟢 Successfully processed: FIFA ASEAN Cup [26/35]
-🟡 Visiting detail page [35/35]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: NFL [33/35]
-🟢 Successfully processed: NFL [34/35]
-🟢 Successfully processed: Formula 1 [35/35]
+🟢 Total unique detail links to process in parallel: 36
+🟡 Visiting detail page [2/36]: https://pogo.pk/events/england-vs-czechia
+🟡 Visiting detail page [3/36]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [1/36]: https://pogo.pk/events/spain-vs-croatia
+🟢 Successfully processed: Nations League [2/36]
+🟢 Successfully processed: Nations League [1/36]
+🟢 Successfully processed: Snooker [3/36]
+🟡 Visiting detail page [4/36]: https://pogo.pk/events/braves-vs-phillies
+🟡 Visiting detail page [5/36]: https://pogo.pk/events/scotland-vs-switzerland
+🟡 Visiting detail page [6/36]: https://pogo.pk/events/slovakia-vs-kazakhstan
+🟢 Successfully processed: MLB [4/36]
+🟡 Visiting detail page [7/36]: https://pogo.pk/events/albania-vs-san-marino
+🟢 Successfully processed: Nations League [6/36]
+🟢 Successfully processed: Nations League [5/36]
+🟡 Visiting detail page [8/36]: https://pogo.pk/events/luxembourg-vs-iceland
+🟡 Visiting detail page [9/36]: https://pogo.pk/events/bulgaria-vs-estonia
+🟢 Successfully processed: Nations League [7/36]
+🟡 Visiting detail page [10/36]: https://pogo.pk/events/slovenia-vs-north-macedonia
+🟢 Successfully processed: Nations League [9/36]
+🟡 Visiting detail page [11/36]: https://pogo.pk/events/astros-vs-white-sox
+🟢 Successfully processed: Nations League [8/36]
+🟡 Visiting detail page [12/36]: https://pogo.pk/events/yankees-vs-red-sox
+🟢 Successfully processed: Nations League [10/36]
+🟡 Visiting detail page [13/36]: https://pogo.pk/events/cubs-vs-padres
+🟢 Successfully processed: MLB [11/36]
+🟡 Visiting detail page [14/36]: https://pogo.pk/events/philadelphia-phillies-vs-braves
+🟢 Successfully processed: MLB [12/36]
+🟡 Visiting detail page [15/36]: https://pogo.pk/events/chicago-white-sox-vs-astros
+🟢 Successfully processed: MLB [13/36]
+🟡 Visiting detail page [16/36]: https://pogo.pk/events/usa-vs-chile
+🟢 Successfully processed: MLB [14/36]
+🟡 Visiting detail page [17/36]: https://pogo.pk/events/mexico-vs-peru
+🟢 Successfully processed: MLB [15/36]
+🟡 Visiting detail page [18/36]: https://pogo.pk/events/argentina-vs-bolivia
+🟢 Successfully processed: Friendly [16/36]
+🟡 Visiting detail page [19/36]: https://pogo.pk/events/japan-open-tennis-championships
+🟢 Successfully processed: Friendly [17/36]
+🟡 Visiting detail page [20/36]: https://pogo.pk/events/barcelona-vs-roma
+🟢 Successfully processed: Womens Champions League [20/36]
+🟡 Visiting detail page [21/36]: https://pogo.pk/events/paris-vs-arsenal
+🟢 Successfully processed: Womens Champions League [21/36]
+🟡 Visiting detail page [22/36]: https://pogo.pk/events/hacken-vs-juventus
+🟢 Successfully processed: Womens Champions League [22/36]
+🟢 Successfully processed: Friendly [18/36]
+🟡 Visiting detail page [24/36]: https://pogo.pk/events/chelsea-vs-lyon
+🟡 Visiting detail page [23/36]: https://pogo.pk/events/benfica-vs-bayern-munchen
+🟢 Successfully processed: Womens Champions League [24/36]
+🟡 Visiting detail page [25/36]: https://pogo.pk/events/inter-milano-vs-austria-wien
+🟢 Successfully processed: Womens Champions League [23/36]
+🟡 Visiting detail page [26/36]: https://pogo.pk/events/bangladesh-vs-indonesia
+🟢 Successfully processed: Womens Champions League [25/36]
+🟡 Visiting detail page [27/36]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
+🟢 Successfully processed: Nations League [27/36]
+🟡 Visiting detail page [28/36]: https://pogo.pk/events/germany-vs-serbia
+🟢 Successfully processed: ATP Tour [19/36]
+🟡 Visiting detail page [29/36]: https://pogo.pk/events/netherlands-vs-greece
+🟢 Successfully processed: Nations League [28/36]
+🟡 Visiting detail page [30/36]: https://pogo.pk/events/wales-vs-norway
+🟢 Successfully processed: Nations League [29/36]
+🟡 Visiting detail page [31/36]: https://pogo.pk/events/ireland-vs-austria
+🟢 Successfully processed: Nations League [30/36]
+🟡 Visiting detail page [32/36]: https://pogo.pk/events/kosovo-vs-israel
+🟢 Successfully processed: Nations League [31/36]
+🟡 Visiting detail page [33/36]: https://pogo.pk/events/japanese-gp
+🟢 Successfully processed: Nations League [32/36]
+🟡 Visiting detail page [34/36]: https://pogo.pk/events/steelers-vs-browns
+🟢 Successfully processed: FIFA ASEAN Cup [26/36]
+🟡 Visiting detail page [35/36]: https://pogo.pk/events/commanders-vs-colts
+🟢 Successfully processed: MotoGP [33/36]
+🟡 Visiting detail page [36/36]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: NFL [34/36]
+🟢 Successfully processed: NFL [35/36]
+🟢 Successfully processed: Formula 1 [36/36]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 35
+🟢 Process completed successfully. Total collected events: 36

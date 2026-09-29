@@ -89,12 +89,12 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-29 22:00:00",
-        "team1Title": "Finland",
-        "team2Title": "Belarus",
+        "team1Title": "Event Ended",
+        "team2Title": "Finland",
         "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Finland_vs_Belarus/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Finland_vs_Belarus/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Finland/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Finland/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/finland-vs-belarus",
         "multiWatchPageLink": [
             {
@@ -110,12 +110,12 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-09-29 22:00:00",
-        "team1Title": "Moldova",
-        "team2Title": "Faroe Islands",
+        "team1Title": "Event Ended",
+        "team2Title": "Moldova",
         "team1Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Moldova_vs_Faroe%20Islands/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Moldova_vs_Faroe%20Islands/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Moldova/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Moldova/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/moldova-vs-faroe-islands",
         "multiWatchPageLink": [
             {
@@ -375,5 +375,101 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/mexico-vs-peru",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "ATP Tour",
+        "matchTime": "2026-09-30 08:00:00",
+        "team1Title": "Japan Open Tennis Championships",
+        "team2Title": "ATP Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/japan-open-tennis-championships",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2395"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2396"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2397"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-02 06:15:00",
+        "team1Title": "Pittsburgh Steelers",
+        "team2Title": "Cleveland Browns",
+        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/steelers-vs-browns",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/steelers-vs-browns/2402"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/steelers-vs-browns/2403"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/steelers-vs-browns/2404"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-04 19:30:00",
+        "team1Title": "Washington Commanders",
+        "team2Title": "Indianapolis Colts",
+        "team1Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/commanders-vs-colts",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/commanders-vs-colts/2405"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/commanders-vs-colts/2406"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-10-02 09:00:00",
+        "team1Title": "f1 Bahrain Grand Prix",
+        "team2Title": "Formula 1",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/f1-bahrain-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2399"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2400"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2401"
+            }
+        ]
     }
 ]

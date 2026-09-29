@@ -320,7 +320,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/usa-vs-chile",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/usa-vs-chile/2407"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",
@@ -332,7 +337,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/mexico-vs-peru",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/mexico-vs-peru/2408"
+            }
+        ]
     },
     {
         "eventTitle": "ATP Tour",
@@ -358,6 +368,78 @@
                 "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2397"
             }
         ]
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-30 22:45:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "AS Roma",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-roma",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-30 22:45:00",
+        "team1Title": "Paris FC",
+        "team2Title": "Arsenal",
+        "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/paris-vs-arsenal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-30 22:45:00",
+        "team1Title": "Häcken",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hacken-vs-juventus",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-01 01:00:00",
+        "team1Title": "Benfica",
+        "team2Title": "Bayern München",
+        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/benfica-vs-bayern-munchen",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-01 01:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Olympique Lyonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-lyon",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-02 01:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Real Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-real-madrid",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "NFL",

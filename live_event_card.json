@@ -25,6 +25,31 @@
         ]
     },
     {
+        "eventTitle": "ATP Tour",
+        "matchTime": "2026-09-30 08:00:00",
+        "team1Title": "Japan Open Tennis Championships",
+        "team2Title": "ATP Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Japan%20Open%20Tennis%20Championships_vs_ATP%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Japan%20Open%20Tennis%20Championships_vs_ATP%20Tour/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Japan%20Open%20Tennis%20Championships_vs_ATP%20Tour/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/japan-open-tennis-championships",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2395"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2396"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2397"
+            }
+        ]
+    },
+    {
         "eventTitle": "MLB",
         "matchTime": "2026-09-30 09:00:00",
         "team1Title": "Chicago Cubs",
@@ -44,6 +69,18 @@
                 "url": "https://pogo.pk/alpha/cubs-vs-padres/2391"
             }
         ]
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-09-30 22:45:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "AS Roma",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-roma",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Womens Champions League",

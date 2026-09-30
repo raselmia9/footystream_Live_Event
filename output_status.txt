@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
 🟡 Visiting detail page [1/23]: https://pogo.pk/events/shenzhen-open-snooker
-🟡 Visiting detail page [3/23]: https://pogo.pk/events/cubs-vs-padres
 🟡 Visiting detail page [2/23]: https://pogo.pk/events/japan-open-tennis-championships
-🟢 Successfully processed: Snooker [1/23]
-🟢 Successfully processed: ATP Tour [2/23]
+🟡 Visiting detail page [3/23]: https://pogo.pk/events/cubs-vs-padres
 🟢 Successfully processed: MLB [3/23]
+🟢 Successfully processed: Snooker [1/23]
 🟡 Visiting detail page [4/23]: https://pogo.pk/events/barcelona-vs-roma
 🟡 Visiting detail page [5/23]: https://pogo.pk/events/paris-vs-arsenal
+🟢 Successfully processed: ATP Tour [2/23]
 🟡 Visiting detail page [6/23]: https://pogo.pk/events/hacken-vs-juventus
 🟢 Successfully processed: Womens Champions League [4/23]
 🟡 Visiting detail page [7/23]: https://pogo.pk/events/benfica-vs-bayern-munchen
@@ -31,16 +31,16 @@
 🟢 Successfully processed: Friendly [12/23]
 🟡 Visiting detail page [15/23]: https://pogo.pk/events/germany-vs-serbia
 🟢 Successfully processed: Nations League [14/23]
-🟡 Visiting detail page [16/23]: https://pogo.pk/events/netherlands-vs-greece
 🟢 Successfully processed: Nations League [15/23]
+🟡 Visiting detail page [16/23]: https://pogo.pk/events/netherlands-vs-greece
 🟡 Visiting detail page [17/23]: https://pogo.pk/events/wales-vs-norway
-🟢 Successfully processed: Nations League [16/23]
-🟡 Visiting detail page [18/23]: https://pogo.pk/events/ireland-vs-austria
 🟢 Successfully processed: Nations League [17/23]
+🟢 Successfully processed: Nations League [16/23]
 🟡 Visiting detail page [19/23]: https://pogo.pk/events/kosovo-vs-israel
-🟢 Successfully processed: Nations League [18/23]
-🟡 Visiting detail page [20/23]: https://pogo.pk/events/japanese-gp
+🟡 Visiting detail page [18/23]: https://pogo.pk/events/ireland-vs-austria
 🟢 Successfully processed: Nations League [19/23]
+🟡 Visiting detail page [20/23]: https://pogo.pk/events/japanese-gp
+🟢 Successfully processed: Nations League [18/23]
 🟡 Visiting detail page [21/23]: https://pogo.pk/events/steelers-vs-browns
 🟢 Successfully processed: FIFA ASEAN Cup [13/23]
 🟡 Visiting detail page [22/23]: https://pogo.pk/events/commanders-vs-colts

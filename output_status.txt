@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [3/18]: https://pogo.pk/events/chicago-white-sox-vs-astros
-🟡 Visiting detail page [2/18]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [1/18]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [2/18]: https://pogo.pk/events/japan-open-tennis-championships
+🟡 Visiting detail page [3/18]: https://pogo.pk/events/chicago-white-sox-vs-astros
 🟢 Successfully processed: MLB [3/18]
-🟢 Successfully processed: Snooker [1/18]
 🟡 Visiting detail page [4/18]: https://pogo.pk/events/argentina-vs-bolivia
 🟢 Successfully processed: ATP Tour [2/18]
 🟡 Visiting detail page [5/18]: https://pogo.pk/events/bangladesh-vs-indonesia
+🟢 Successfully processed: Snooker [1/18]
 🟡 Visiting detail page [6/18]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟢 Successfully processed: Nations League [6/18]
 🟡 Visiting detail page [7/18]: https://pogo.pk/events/germany-vs-serbia
@@ -18,21 +18,21 @@
 🟡 Visiting detail page [8/18]: https://pogo.pk/events/netherlands-vs-greece
 🟢 Successfully processed: Nations League [8/18]
 🟡 Visiting detail page [9/18]: https://pogo.pk/events/wales-vs-norway
-🟢 Successfully processed: Nations League [9/18]
-🟡 Visiting detail page [10/18]: https://pogo.pk/events/ireland-vs-austria
-🟢 Successfully processed: Nations League [10/18]
-🟡 Visiting detail page [11/18]: https://pogo.pk/events/kosovo-vs-israel
-🟢 Successfully processed: Nations League [11/18]
-🟡 Visiting detail page [12/18]: https://pogo.pk/events/inter-milano-vs-austria-wien
-🟢 Successfully processed: Womens Champions League [12/18]
-🟡 Visiting detail page [13/18]: https://pogo.pk/events/manchester-city-vs-real-madrid
-🟢 Successfully processed: FIFA ASEAN Cup [5/18]
-🟡 Visiting detail page [14/18]: https://pogo.pk/events/psg-vs-oh-leuven
 🟢 Successfully processed: Friendly [4/18]
-🟡 Visiting detail page [15/18]: https://pogo.pk/events/japanese-gp
+🟡 Visiting detail page [10/18]: https://pogo.pk/events/ireland-vs-austria
+🟢 Successfully processed: Nations League [9/18]
+🟡 Visiting detail page [11/18]: https://pogo.pk/events/kosovo-vs-israel
+🟢 Successfully processed: Nations League [10/18]
+🟡 Visiting detail page [12/18]: https://pogo.pk/events/inter-milano-vs-austria-wien
+🟢 Successfully processed: Nations League [11/18]
+🟡 Visiting detail page [13/18]: https://pogo.pk/events/manchester-city-vs-real-madrid
+🟢 Successfully processed: Womens Champions League [12/18]
+🟡 Visiting detail page [14/18]: https://pogo.pk/events/psg-vs-oh-leuven
 🟢 Successfully processed: Womens Champions League [13/18]
-🟡 Visiting detail page [16/18]: https://pogo.pk/events/steelers-vs-browns
+🟡 Visiting detail page [15/18]: https://pogo.pk/events/japanese-gp
 🟢 Successfully processed: Womens Champions League [14/18]
+🟡 Visiting detail page [16/18]: https://pogo.pk/events/steelers-vs-browns
+🟢 Successfully processed: FIFA ASEAN Cup [5/18]
 🟡 Visiting detail page [17/18]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: MotoGP [15/18]
 🟡 Visiting detail page [18/18]: https://pogo.pk/events/f1-bahrain-grand-prix

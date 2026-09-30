@@ -122,27 +122,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-01 03:00:00",
-        "team1Title": "Chicago White Sox",
-        "team2Title": "Houston Astros",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chicago-white-sox-vs-astros",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2393"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2394"
-            }
-        ]
-    },
-    {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-10-01 01:00:00",
         "team1Title": "Benfica",
@@ -219,6 +198,27 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psg-vs-oh-leuven",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-01 03:00:00",
+        "team1Title": "Chicago White Sox",
+        "team2Title": "Houston Astros",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chicago-white-sox-vs-astros",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2393"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2394"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

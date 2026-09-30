@@ -152,7 +152,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/benfica-vs-bayern-munchen",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/benfica-vs-bayern-munchen/2419"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/benfica-vs-bayern-munchen/2420"
+            }
+        ]
     },
     {
         "eventTitle": "Womens Champions League",
@@ -164,7 +173,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-lyon",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chelsea-vs-lyon/2421"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chelsea-vs-lyon/2422"
+            }
+        ]
     },
     {
         "eventTitle": "Womens Champions League",

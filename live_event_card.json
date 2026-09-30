@@ -52,12 +52,12 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-09-30 22:45:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "AS Roma",
+        "team1Title": "Event Ended",
+        "team2Title": "FC Barcelona",
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_AS%20Roma/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_AS%20Roma/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_FC%20Barcelona/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_FC%20Barcelona/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-roma",
         "multiWatchPageLink": [
             {
@@ -73,12 +73,12 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-09-30 22:45:00",
-        "team1Title": "Paris FC",
-        "team2Title": "Arsenal",
+        "team1Title": "Event Ended",
+        "team2Title": "Paris FC",
         "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Paris%20FC_vs_Arsenal/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Paris%20FC/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/paris-vs-arsenal",
         "multiWatchPageLink": [
             {
@@ -90,12 +90,12 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-09-30 22:45:00",
-        "team1Title": "Häcken",
-        "team2Title": "Juventus",
+        "team1Title": "Event Ended",
+        "team2Title": "Häcken",
         "team1Logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/H%C3%A4cken_vs_Juventus/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_H%C3%A4cken/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/hacken-vs-juventus",
         "multiWatchPageLink": [
             {

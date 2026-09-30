@@ -57,9 +57,18 @@
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_AS%20Roma/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/FC%20Barcelona_vs_AS%20Roma/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-roma",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/barcelona-vs-roma/2415"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/barcelona-vs-roma/2416"
+            }
+        ]
     },
     {
         "eventTitle": "Womens Champions League",
@@ -69,9 +78,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Paris%20FC_vs_Arsenal/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/paris-vs-arsenal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/paris-vs-arsenal/2417"
+            }
+        ]
     },
     {
         "eventTitle": "Womens Champions League",
@@ -81,9 +95,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/hacken/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/H%C3%A4cken_vs_Juventus/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/hacken-vs-juventus",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/hacken-vs-juventus/2418"
+            }
+        ]
     },
     {
         "eventTitle": "Womens Champions League",

@@ -51,65 +51,6 @@
     },
     {
         "eventTitle": "MLB",
-        "matchTime": "2026-10-01 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Atlanta Braves",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Event%20Ended_vs_Atlanta%20Braves/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/philadelphia-phillies-vs-braves",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/philadelphia-phillies-vs-braves/2392"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-01 01:00:00",
-        "team1Title": "Benfica",
-        "team2Title": "Bayern München",
-        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Benfica_vs_Bayern%20M%C3%BCnchen/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Benfica_vs_Bayern%20M%C3%BCnchen/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/benfica-vs-bayern-munchen",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/benfica-vs-bayern-munchen/2419"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/benfica-vs-bayern-munchen/2420"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-01 01:00:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Olympique Lyonnais",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Olympique%20Lyonnais/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chelsea_vs_Olympique%20Lyonnais/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-lyon",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/chelsea-vs-lyon/2421"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/chelsea-vs-lyon/2422"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
         "matchTime": "2026-10-01 03:00:00",
         "team1Title": "Chicago White Sox",
         "team2Title": "Houston Astros",

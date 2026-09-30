@@ -50,27 +50,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-09-30 09:00:00",
-        "team1Title": "Chicago Cubs",
-        "team2Title": "San Diego Padres",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chicago%20Cubs_vs_San%20Diego%20Padres/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Chicago%20Cubs_vs_San%20Diego%20Padres/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/cubs-vs-padres",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/cubs-vs-padres/2390"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/cubs-vs-padres/2391"
-            }
-        ]
-    },
-    {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-09-30 22:45:00",
         "team1Title": "FC Barcelona",

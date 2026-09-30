@@ -105,6 +105,44 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-01 00:00:00",
+        "team1Title": "Atlanta Braves",
+        "team2Title": "Philadelphia Phillies",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atlanta%20Braves_vs_Philadelphia%20Phillies/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/philadelphia-phillies-vs-braves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/philadelphia-phillies-vs-braves/2392"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-01 03:00:00",
+        "team1Title": "Chicago White Sox",
+        "team2Title": "Houston Astros",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chicago-white-sox-vs-astros",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2393"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2394"
+            }
+        ]
+    },
+    {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-10-01 01:00:00",
         "team1Title": "Benfica",
@@ -141,42 +179,28 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-01 00:00:00",
-        "team1Title": "Atlanta Braves",
-        "team2Title": "Philadelphia Phillies",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-02 01:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Real Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/philadelphia-phillies-vs-braves",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/philadelphia-phillies-vs-braves/2392"
-            }
-        ]
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-real-madrid",
+        "multiWatchPageLink": []
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-01 03:00:00",
-        "team1Title": "Chicago White Sox",
-        "team2Title": "Houston Astros",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-02 01:00:00",
+        "team1Title": "PSG",
+        "team2Title": "Oud-Heverlee Leuven",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chicago-white-sox-vs-astros",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2393"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2394"
-            }
-        ]
+        "detailsPage": "https://pogo.pk/events/psg-vs-oh-leuven",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Friendly",

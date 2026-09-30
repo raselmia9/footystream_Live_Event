@@ -7,10 +7,10 @@
 🟡 Visiting detail page [1/18]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/18]: https://pogo.pk/events/chicago-white-sox-vs-astros
 🟢 Successfully processed: MLB [3/18]
-🟢 Successfully processed: Snooker [1/18]
 🟡 Visiting detail page [4/18]: https://pogo.pk/events/argentina-vs-bolivia
-🟢 Successfully processed: ATP Tour [2/18]
+🟢 Successfully processed: Snooker [1/18]
 🟡 Visiting detail page [5/18]: https://pogo.pk/events/bangladesh-vs-indonesia
+🟢 Successfully processed: ATP Tour [2/18]
 🟡 Visiting detail page [6/18]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟢 Successfully processed: Nations League [6/18]
 🟡 Visiting detail page [7/18]: https://pogo.pk/events/germany-vs-serbia
@@ -35,8 +35,8 @@
 🟢 Successfully processed: FIFA ASEAN Cup [5/18]
 🟡 Visiting detail page [17/18]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: MotoGP [15/18]
-🟢 Successfully processed: NFL [16/18]
 🟡 Visiting detail page [18/18]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: NFL [16/18]
 🟢 Successfully processed: NFL [17/18]
 🟢 Successfully processed: Formula 1 [18/18]
 🟢 Browser closed successfully.

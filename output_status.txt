@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 27
-🟡 Visiting detail page [2/27]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [1/27]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/27]: https://pogo.pk/events/bank-of-utah-championship
-🟢 Successfully processed: PGA Tour [3/27]
+🟡 Visiting detail page [2/27]: https://pogo.pk/events/japan-open-tennis-championships
 🟢 Successfully processed: Snooker [1/27]
-🟢 Successfully processed: ATP Tour [2/27]
-🟡 Visiting detail page [5/27]: https://pogo.pk/events/lpga-lotte-championship
 🟡 Visiting detail page [4/27]: https://pogo.pk/events/chicago-white-sox-vs-astros
+🟢 Successfully processed: PGA Tour [3/27]
+🟡 Visiting detail page [5/27]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: ATP Tour [2/27]
 🟡 Visiting detail page [6/27]: https://pogo.pk/events/alfred-dunhill-championship
 🟢 Successfully processed: MLB [4/27]
 🟡 Visiting detail page [7/27]: https://pogo.pk/events/yankees-vs-red-sox
@@ -34,9 +34,9 @@
 🟡 Visiting detail page [16/27]: https://pogo.pk/events/benetton-treviso-vs-connacht
 🟢 Successfully processed: United Rugby [14/27]
 🟡 Visiting detail page [17/27]: https://pogo.pk/events/turkey-vs-belgium
-🟢 Successfully processed: Nations League [17/27]
-🟡 Visiting detail page [18/27]: https://pogo.pk/events/ukraine-vs-northern-ireland
 🟢 Successfully processed: United Rugby [15/27]
+🟡 Visiting detail page [18/27]: https://pogo.pk/events/ukraine-vs-northern-ireland
+🟢 Successfully processed: Nations League [17/27]
 🟡 Visiting detail page [19/27]: https://pogo.pk/events/hungary-vs-georgia
 🟢 Successfully processed: Nations League [18/27]
 🟡 Visiting detail page [20/27]: https://pogo.pk/events/poland-vs-romania
@@ -48,9 +48,9 @@
 🟡 Visiting detail page [23/27]: https://pogo.pk/events/bath-vs-exeter
 🟢 Successfully processed: Nations League [22/27]
 🟡 Visiting detail page [24/27]: https://pogo.pk/events/india-vs-brazil
-🟢 Successfully processed: United Rugby [16/27]
-🟡 Visiting detail page [25/27]: https://pogo.pk/events/canada-vs-peru
 🟢 Successfully processed: Friendly [24/27]
+🟡 Visiting detail page [25/27]: https://pogo.pk/events/canada-vs-peru
+🟢 Successfully processed: United Rugby [16/27]
 🟡 Visiting detail page [26/27]: https://pogo.pk/events/argentina-vs-burkina-faso
 🟢 Successfully processed: Friendly [25/27]
 🟡 Visiting detail page [27/27]: https://pogo.pk/events/usa-vs-mexico

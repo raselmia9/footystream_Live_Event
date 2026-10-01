@@ -63,27 +63,6 @@
         ]
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-01 22:45:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Austria Wien",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Inter%20Milan_vs_Austria%20Wien/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Inter%20Milan_vs_Austria%20Wien/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/inter-milano-vs-austria-wien",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/inter-milano-vs-austria-wien/2425"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/inter-milano-vs-austria-wien/2426"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-02 00:00:00",
         "team1Title": "Atlanta Braves",
@@ -220,6 +199,31 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/malta-vs-gibraltar",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-02 00:45:00",
+        "team1Title": "Denmark",
+        "team2Title": "Portugal",
+        "team1Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Denmark_vs_Portugal/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Denmark_vs_Portugal/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Denmark_vs_Portugal/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/denmark-vs-portugal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/denmark-vs-portugal/2431"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/denmark-vs-portugal/2432"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/denmark-vs-portugal/2433"
+            }
+        ]
     },
     {
         "eventTitle": "Womens Champions League",
@@ -511,6 +515,78 @@
                 "url": "https://pogo.pk/alpha/benetton-treviso-vs-connacht/2455"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Turkiye",
+        "team2Title": "Belgium",
+        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/turkey-vs-belgium",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Ukraine",
+        "team2Title": "Northern Ireland",
+        "team1Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ukraine-vs-northern-ireland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Hungary",
+        "team2Title": "Georgia",
+        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hungary-vs-georgia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Poland",
+        "team2Title": "Romania",
+        "team1Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/poland-vs-romania",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Bosnia and Herzegovina",
+        "team2Title": "Sweden",
+        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bosnia-vs-sweden",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Faroe Islands",
+        "team2Title": "Slovakia",
+        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-slovakia",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premiership Rugby",

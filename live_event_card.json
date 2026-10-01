@@ -46,27 +46,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-01 22:00:00",
-        "team1Title": "Azerbaijan",
-        "team2Title": "Liechtenstein",
-        "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Liechtenstein/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Azerbaijan_vs_Liechtenstein/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/azerbaijan-vs-liechtenstein",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/azerbaijan-vs-liechtenstein/2423"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/azerbaijan-vs-liechtenstein/2424"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-01 22:00:00",
         "team1Title": "Bank of Utah Championship",
@@ -118,65 +97,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/philadelphia-phillies-vs-braves/2445"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-02 03:00:00",
-        "team1Title": "Chicago White Sox",
-        "team2Title": "Houston Astros",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chicago-white-sox-vs-astros",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2446"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2447"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-02 06:00:00",
-        "team1Title": "New York Yankees",
-        "team2Title": "Boston Red Sox",
-        "team1Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/yankees-vs-red-sox",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/yankees-vs-red-sox/2448"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-02 08:00:00",
-        "team1Title": "Chicago Cubs",
-        "team2Title": "San Diego Padres",
-        "team1Logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cubs-vs-padres",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/cubs-vs-padres/2450"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/cubs-vs-padres/2451"
             }
         ]
     },
@@ -339,6 +259,65 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-02 03:00:00",
+        "team1Title": "Chicago White Sox",
+        "team2Title": "Houston Astros",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chicago-white-sox-vs-astros",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2446"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2447"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-02 06:00:00",
+        "team1Title": "New York Yankees",
+        "team2Title": "Boston Red Sox",
+        "team1Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/yankees-vs-red-sox",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/yankees-vs-red-sox/2448"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-02 08:00:00",
+        "team1Title": "Chicago Cubs",
+        "team2Title": "San Diego Padres",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cubs-vs-padres",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/cubs-vs-padres/2450"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/cubs-vs-padres/2451"
+            }
+        ]
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-02 06:00:00",
         "team1Title": "LPGA Lotte Championship",
@@ -457,6 +436,74 @@
             {
                 "channel": "Link 3",
                 "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2401"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-02 20:45:00",
+        "team1Title": "Cardiff Blues",
+        "team2Title": "Zebre",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cardiff-blues-vs-zebre",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/cardiff-blues-vs-zebre/2453"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Stormers",
+        "team2Title": "Edinburgh",
+        "team1Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/stormers-vs-edinburgh",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/stormers-vs-edinburgh/2454"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Benetton",
+        "team2Title": "Connacht",
+        "team1Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/benetton-treviso-vs-connacht",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/benetton-treviso-vs-connacht/2455"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Bath Rugby",
+        "team2Title": "Exeter Chiefs",
+        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bath-vs-exeter",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bath-vs-exeter/2456"
             }
         ]
     }

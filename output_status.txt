@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 27
-🟡 Visiting detail page [2/27]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [1/27]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/27]: https://pogo.pk/events/bank-of-utah-championship
+🟡 Visiting detail page [2/27]: https://pogo.pk/events/japan-open-tennis-championships
 🟢 Successfully processed: PGA Tour [3/27]
-🟡 Visiting detail page [4/27]: https://pogo.pk/events/chicago-white-sox-vs-astros
-🟢 Successfully processed: ATP Tour [2/27]
 🟢 Successfully processed: Snooker [1/27]
+🟡 Visiting detail page [4/27]: https://pogo.pk/events/chicago-white-sox-vs-astros
 🟡 Visiting detail page [5/27]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: ATP Tour [2/27]
 🟡 Visiting detail page [6/27]: https://pogo.pk/events/alfred-dunhill-championship
-🟢 Successfully processed: PGA Tour [5/27]
-🟡 Visiting detail page [7/27]: https://pogo.pk/events/yankees-vs-red-sox
 🟢 Successfully processed: MLB [4/27]
+🟡 Visiting detail page [7/27]: https://pogo.pk/events/yankees-vs-red-sox
+🟢 Successfully processed: PGA Tour [5/27]
 🟡 Visiting detail page [8/27]: https://pogo.pk/events/cubs-vs-padres
 🟢 Successfully processed: MLB [7/27]
 🟡 Visiting detail page [9/27]: https://pogo.pk/events/japanese-gp
@@ -22,9 +22,9 @@
 🟡 Visiting detail page [10/27]: https://pogo.pk/events/steelers-vs-browns
 🟢 Successfully processed: PGA Tour [6/27]
 🟡 Visiting detail page [11/27]: https://pogo.pk/events/commanders-vs-colts
-🟢 Successfully processed: MLB [8/27]
-🟡 Visiting detail page [12/27]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: NFL [10/27]
+🟡 Visiting detail page [12/27]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: MLB [8/27]
 🟡 Visiting detail page [13/27]: https://pogo.pk/events/pakistan-vs-vietnam
 🟢 Successfully processed: NFL [11/27]
 🟡 Visiting detail page [14/27]: https://pogo.pk/events/cardiff-blues-vs-zebre
@@ -40,19 +40,19 @@
 🟡 Visiting detail page [19/27]: https://pogo.pk/events/hungary-vs-georgia
 🟢 Successfully processed: Nations League [19/27]
 🟡 Visiting detail page [20/27]: https://pogo.pk/events/poland-vs-romania
-🟢 Successfully processed: Nations League [20/27]
-🟡 Visiting detail page [21/27]: https://pogo.pk/events/bosnia-vs-sweden
 🟢 Successfully processed: United Rugby [15/27]
-🟡 Visiting detail page [22/27]: https://pogo.pk/events/faroe-islands-vs-slovakia
-🟢 Successfully processed: Nations League [21/27]
-🟡 Visiting detail page [23/27]: https://pogo.pk/events/bath-vs-exeter
-🟢 Successfully processed: Nations League [22/27]
-🟡 Visiting detail page [24/27]: https://pogo.pk/events/india-vs-brazil
-🟢 Successfully processed: Friendly [24/27]
-🟡 Visiting detail page [25/27]: https://pogo.pk/events/canada-vs-peru
-🟢 Successfully processed: Friendly [25/27]
-🟡 Visiting detail page [26/27]: https://pogo.pk/events/argentina-vs-burkina-faso
+🟡 Visiting detail page [21/27]: https://pogo.pk/events/bosnia-vs-sweden
 🟢 Successfully processed: United Rugby [16/27]
+🟡 Visiting detail page [22/27]: https://pogo.pk/events/faroe-islands-vs-slovakia
+🟢 Successfully processed: Nations League [20/27]
+🟡 Visiting detail page [23/27]: https://pogo.pk/events/bath-vs-exeter
+🟢 Successfully processed: Nations League [21/27]
+🟡 Visiting detail page [24/27]: https://pogo.pk/events/india-vs-brazil
+🟢 Successfully processed: Nations League [22/27]
+🟡 Visiting detail page [25/27]: https://pogo.pk/events/canada-vs-peru
+🟢 Successfully processed: Friendly [24/27]
+🟡 Visiting detail page [26/27]: https://pogo.pk/events/argentina-vs-burkina-faso
+🟢 Successfully processed: Friendly [25/27]
 🟡 Visiting detail page [27/27]: https://pogo.pk/events/usa-vs-mexico
 🟢 Successfully processed: Friendly [26/27]
 🟢 Successfully processed: Friendly [27/27]

@@ -6,17 +6,17 @@
 🟡 Visiting detail page [2/16]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [1/16]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/16]: https://pogo.pk/events/bangladesh-vs-indonesia
-🟢 Successfully processed: FIFA ASEAN Cup [3/16]
-🟡 Visiting detail page [4/16]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
-🟢 Successfully processed: Snooker [1/16]
 🟢 Successfully processed: ATP Tour [2/16]
+🟢 Successfully processed: Snooker [1/16]
+🟡 Visiting detail page [4/16]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟡 Visiting detail page [5/16]: https://pogo.pk/events/germany-vs-serbia
-🟡 Visiting detail page [6/16]: https://pogo.pk/events/netherlands-vs-greece
 🟢 Successfully processed: Nations League [4/16]
-🟡 Visiting detail page [7/16]: https://pogo.pk/events/wales-vs-norway
+🟡 Visiting detail page [6/16]: https://pogo.pk/events/netherlands-vs-greece
 🟢 Successfully processed: Nations League [5/16]
-🟢 Successfully processed: Nations League [6/16]
+🟡 Visiting detail page [7/16]: https://pogo.pk/events/wales-vs-norway
+🟢 Successfully processed: FIFA ASEAN Cup [3/16]
 🟡 Visiting detail page [8/16]: https://pogo.pk/events/ireland-vs-austria
+🟢 Successfully processed: Nations League [6/16]
 🟡 Visiting detail page [9/16]: https://pogo.pk/events/kosovo-vs-israel
 🟢 Successfully processed: Nations League [7/16]
 🟡 Visiting detail page [10/16]: https://pogo.pk/events/inter-milano-vs-austria-wien

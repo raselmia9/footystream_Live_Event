@@ -3,49 +3,37 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 16
-🟡 Visiting detail page [3/16]: https://pogo.pk/events/bangladesh-vs-indonesia
 🟡 Visiting detail page [1/16]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [2/16]: https://pogo.pk/events/japan-open-tennis-championships
+🟡 Visiting detail page [3/16]: https://pogo.pk/events/bangladesh-vs-indonesia
 🟢 Successfully processed: ATP Tour [2/16]
-🟡 Visiting detail page [4/16]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
-🟢 Successfully processed: Nations League [4/16]
-🟡 Visiting detail page [5/16]: https://pogo.pk/events/germany-vs-serbia
 🟢 Successfully processed: Snooker [1/16]
+🟡 Visiting detail page [5/16]: https://pogo.pk/events/germany-vs-serbia
+🟡 Visiting detail page [4/16]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
+🟢 Successfully processed: Nations League [5/16]
+🟢 Successfully processed: Nations League [4/16]
 🟡 Visiting detail page [6/16]: https://pogo.pk/events/netherlands-vs-greece
-🔴 ERROR on detail page https://pogo.pk/events/bangladesh-vs-indonesia: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/bangladesh-vs-indonesia", waiting until "load"
-
 🟡 Visiting detail page [7/16]: https://pogo.pk/events/wales-vs-norway
 🟢 Successfully processed: Nations League [6/16]
-🟡 Visiting detail page [8/16]: https://pogo.pk/events/ireland-vs-austria
-🟢 Successfully processed: Nations League [8/16]
-🟡 Visiting detail page [9/16]: https://pogo.pk/events/kosovo-vs-israel
-🟢 Successfully processed: Nations League [9/16]
-🟡 Visiting detail page [10/16]: https://pogo.pk/events/inter-milano-vs-austria-wien
-🔴 ERROR on detail page https://pogo.pk/events/germany-vs-serbia: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/germany-vs-serbia", waiting until "load"
-
-🟡 Visiting detail page [11/16]: https://pogo.pk/events/manchester-city-vs-real-madrid
 🟢 Successfully processed: Nations League [7/16]
+🟡 Visiting detail page [8/16]: https://pogo.pk/events/ireland-vs-austria
+🟡 Visiting detail page [9/16]: https://pogo.pk/events/kosovo-vs-israel
+🟢 Successfully processed: FIFA ASEAN Cup [3/16]
+🟡 Visiting detail page [10/16]: https://pogo.pk/events/inter-milano-vs-austria-wien
+🟢 Successfully processed: Nations League [8/16]
+🟢 Successfully processed: Nations League [9/16]
+🟡 Visiting detail page [11/16]: https://pogo.pk/events/manchester-city-vs-real-madrid
 🟡 Visiting detail page [12/16]: https://pogo.pk/events/psg-vs-oh-leuven
-🟢 Successfully processed: Womens Champions League [12/16]
+🟢 Successfully processed: Womens Champions League [10/16]
 🟡 Visiting detail page [13/16]: https://pogo.pk/events/japanese-gp
-🔴 ERROR on detail page https://pogo.pk/events/inter-milano-vs-austria-wien: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/inter-milano-vs-austria-wien", waiting until "load"
-
+🟢 Successfully processed: Womens Champions League [12/16]
+🟢 Successfully processed: Womens Champions League [11/16]
 🟡 Visiting detail page [14/16]: https://pogo.pk/events/steelers-vs-browns
-🔴 ERROR on detail page https://pogo.pk/events/manchester-city-vs-real-madrid: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/manchester-city-vs-real-madrid", waiting until "load"
-
 🟡 Visiting detail page [15/16]: https://pogo.pk/events/commanders-vs-colts
-🟢 Successfully processed: NFL [14/16]
-🟡 Visiting detail page [16/16]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: MotoGP [13/16]
+🟡 Visiting detail page [16/16]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: NFL [15/16]
+🟢 Successfully processed: NFL [14/16]
 🟢 Successfully processed: Formula 1 [16/16]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 12
+🟢 Process completed successfully. Total collected events: 16

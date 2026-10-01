@@ -50,6 +50,23 @@
         ]
     },
     {
+        "eventTitle": "FIFA ASEAN Cup",
+        "matchTime": "2026-10-01 17:30:00",
+        "team1Title": "Bangladesh",
+        "team2Title": "Indonesia",
+        "team1Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/indonesia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bangladesh-vs-indonesia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bangladesh-vs-indonesia/2409"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-01 22:00:00",
         "team1Title": "Azerbaijan",
@@ -59,6 +76,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/azerbaijan-vs-liechtenstein",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-02 00:45:00",
+        "team1Title": "Germany",
+        "team2Title": "Serbia",
+        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/germany-vs-serbia",
         "multiWatchPageLink": []
     },
     {
@@ -107,6 +136,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/kosovo-vs-israel",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-01 22:45:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Austria Wien",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milano-vs-austria-wien",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-02 01:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Real Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-real-madrid",
         "multiWatchPageLink": []
     },
     {

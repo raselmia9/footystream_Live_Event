@@ -2,38 +2,48 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 16
-🟡 Visiting detail page [2/16]: https://pogo.pk/events/japan-open-tennis-championships
-🟡 Visiting detail page [1/16]: https://pogo.pk/events/shenzhen-open-snooker
-🟡 Visiting detail page [3/16]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
-🟢 Successfully processed: Nations League [3/16]
-🟢 Successfully processed: Snooker [1/16]
-🟢 Successfully processed: ATP Tour [2/16]
-🟡 Visiting detail page [4/16]: https://pogo.pk/events/inter-milano-vs-austria-wien
-🟡 Visiting detail page [5/16]: https://pogo.pk/events/germany-vs-serbia
-🟡 Visiting detail page [6/16]: https://pogo.pk/events/netherlands-vs-greece
-🟢 Successfully processed: Nations League [6/16]
-🟡 Visiting detail page [7/16]: https://pogo.pk/events/wales-vs-norway
-🟢 Successfully processed: Nations League [5/16]
-🟡 Visiting detail page [8/16]: https://pogo.pk/events/ireland-vs-austria
-🟢 Successfully processed: Nations League [7/16]
-🟡 Visiting detail page [9/16]: https://pogo.pk/events/kosovo-vs-israel
-🟢 Successfully processed: Nations League [8/16]
-🟡 Visiting detail page [10/16]: https://pogo.pk/events/malta-vs-gibraltar
-🟢 Successfully processed: Womens Champions League [4/16]
-🟡 Visiting detail page [11/16]: https://pogo.pk/events/manchester-city-vs-real-madrid
-🟢 Successfully processed: Nations League [9/16]
-🟡 Visiting detail page [12/16]: https://pogo.pk/events/psg-vs-oh-leuven
-🟢 Successfully processed: Nations League [10/16]
-🟡 Visiting detail page [13/16]: https://pogo.pk/events/japanese-gp
-🟢 Successfully processed: Womens Champions League [11/16]
-🟡 Visiting detail page [14/16]: https://pogo.pk/events/steelers-vs-browns
-🟢 Successfully processed: MotoGP [13/16]
-🟡 Visiting detail page [15/16]: https://pogo.pk/events/commanders-vs-colts
-🟢 Successfully processed: Womens Champions League [12/16]
-🟡 Visiting detail page [16/16]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: NFL [14/16]
-🟢 Successfully processed: NFL [15/16]
-🟢 Successfully processed: Formula 1 [16/16]
+🟢 Total unique detail links to process in parallel: 21
+🟡 Visiting detail page [3/21]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
+🟡 Visiting detail page [2/21]: https://pogo.pk/events/japan-open-tennis-championships
+🟡 Visiting detail page [1/21]: https://pogo.pk/events/shenzhen-open-snooker
+🟢 Successfully processed: Snooker [1/21]
+🟢 Successfully processed: Nations League [3/21]
+🟡 Visiting detail page [4/21]: https://pogo.pk/events/bank-of-utah-championship
+🟢 Successfully processed: ATP Tour [2/21]
+🟡 Visiting detail page [5/21]: https://pogo.pk/events/inter-milano-vs-austria-wien
+🟡 Visiting detail page [6/21]: https://pogo.pk/events/philadelphia-phillies-vs-braves
+🟢 Successfully processed: MLB [6/21]
+🟡 Visiting detail page [7/21]: https://pogo.pk/events/chicago-white-sox-vs-astros
+🟢 Successfully processed: Womens Champions League [5/21]
+🟡 Visiting detail page [8/21]: https://pogo.pk/events/yankees-vs-red-sox
+🟢 Successfully processed: PGA Tour [4/21]
+🟡 Visiting detail page [9/21]: https://pogo.pk/events/germany-vs-serbia
+🟢 Successfully processed: Nations League [9/21]
+🟡 Visiting detail page [10/21]: https://pogo.pk/events/netherlands-vs-greece
+🟢 Successfully processed: MLB [7/21]
+🟡 Visiting detail page [11/21]: https://pogo.pk/events/wales-vs-norway
+🟢 Successfully processed: Nations League [10/21]
+🟡 Visiting detail page [12/21]: https://pogo.pk/events/ireland-vs-austria
+🟢 Successfully processed: Nations League [11/21]
+🟡 Visiting detail page [13/21]: https://pogo.pk/events/kosovo-vs-israel
+🟢 Successfully processed: Nations League [12/21]
+🟡 Visiting detail page [14/21]: https://pogo.pk/events/malta-vs-gibraltar
+🟢 Successfully processed: MLB [8/21]
+🟡 Visiting detail page [15/21]: https://pogo.pk/events/manchester-city-vs-real-madrid
+🟢 Successfully processed: Nations League [13/21]
+🟡 Visiting detail page [16/21]: https://pogo.pk/events/psg-vs-oh-leuven
+🟢 Successfully processed: Nations League [14/21]
+🟡 Visiting detail page [17/21]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: Womens Champions League [16/21]
+🟡 Visiting detail page [18/21]: https://pogo.pk/events/japanese-gp
+🟢 Successfully processed: Womens Champions League [15/21]
+🟡 Visiting detail page [19/21]: https://pogo.pk/events/steelers-vs-browns
+🟢 Successfully processed: PGA Tour [17/21]
+🟡 Visiting detail page [20/21]: https://pogo.pk/events/commanders-vs-colts
+🟢 Successfully processed: MotoGP [18/21]
+🟡 Visiting detail page [21/21]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: NFL [20/21]
+🟢 Successfully processed: NFL [19/21]
+🟢 Successfully processed: Formula 1 [21/21]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 16
+🟢 Process completed successfully. Total collected events: 21

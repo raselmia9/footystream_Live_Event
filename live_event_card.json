@@ -71,6 +71,23 @@
         ]
     },
     {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-01 22:00:00",
+        "team1Title": "Bank of Utah Championship",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Bank%20of%20Utah%20Championship_vs_PGA%20Tour/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/bank-of-utah-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bank-of-utah-championship/2444"
+            }
+        ]
+    },
+    {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-10-01 22:45:00",
         "team1Title": "Inter Milan",
@@ -92,6 +109,61 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-02 00:00:00",
+        "team1Title": "Atlanta Braves",
+        "team2Title": "Philadelphia Phillies",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-phillies/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Atlanta%20Braves_vs_Philadelphia%20Phillies/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/philadelphia-phillies-vs-braves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/philadelphia-phillies-vs-braves/2445"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-02 03:00:00",
+        "team1Title": "Chicago White Sox",
+        "team2Title": "Houston Astros",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chicago-white-sox-vs-astros",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2446"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chicago-white-sox-vs-astros/2447"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-02 06:00:00",
+        "team1Title": "New York Yankees",
+        "team2Title": "Boston Red Sox",
+        "team1Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/yankees-vs-red-sox",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/yankees-vs-red-sox/2448"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-02 00:45:00",
         "team1Title": "Germany",
@@ -99,9 +171,22 @@
         "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Serbia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Serbia/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Germany_vs_Serbia/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/germany-vs-serbia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/germany-vs-serbia/2434"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/germany-vs-serbia/2435"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/germany-vs-serbia/2436"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -111,9 +196,22 @@
         "team1Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Netherlands_vs_Greece/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Netherlands_vs_Greece/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Netherlands_vs_Greece/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/netherlands-vs-greece",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/netherlands-vs-greece/2437"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/netherlands-vs-greece/2438"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/netherlands-vs-greece/2439"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -123,9 +221,22 @@
         "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wales_vs_Norway/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wales_vs_Norway/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Wales_vs_Norway/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/wales-vs-norway",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/wales-vs-norway/2440"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/wales-vs-norway/2441"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/wales-vs-norway/2442"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -135,9 +246,14 @@
         "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Ireland_vs_Austria/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/ireland-vs-austria",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/ireland-vs-austria/2443"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -202,6 +318,23 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/psg-vs-oh-leuven/2428"
+            }
+        ]
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-02 06:00:00",
+        "team1Title": "LPGA Lotte Championship",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lpga-lotte-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/lpga-lotte-championship/2449"
             }
         ]
     },

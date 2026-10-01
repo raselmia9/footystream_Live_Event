@@ -50,31 +50,6 @@
         ]
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-01 06:00:00",
-        "team1Title": "Argentina",
-        "team2Title": "Bolivia",
-        "team1Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bolivia/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Argentina_vs_Bolivia/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Argentina_vs_Bolivia/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Argentina_vs_Bolivia/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/argentina-vs-bolivia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2410"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2411"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/argentina-vs-bolivia/2412"
-            }
-        ]
-    },
-    {
         "eventTitle": "FIFA ASEAN Cup",
         "matchTime": "2026-10-01 17:30:00",
         "team1Title": "Bangladesh",

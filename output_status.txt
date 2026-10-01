@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
-🟡 Visiting detail page [1/17]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/japan-open-tennis-championships
+🟡 Visiting detail page [1/17]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/17]: https://pogo.pk/events/argentina-vs-bolivia
-🟢 Successfully processed: Snooker [1/17]
-🟢 Successfully processed: ATP Tour [2/17]
-🟡 Visiting detail page [4/17]: https://pogo.pk/events/bangladesh-vs-indonesia
-🟡 Visiting detail page [5/17]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟢 Successfully processed: Friendly [3/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/bangladesh-vs-indonesia
+🟢 Successfully processed: Snooker [1/17]
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
+🟢 Successfully processed: ATP Tour [2/17]
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/germany-vs-serbia
 🟢 Successfully processed: Nations League [5/17]
 🟡 Visiting detail page [7/17]: https://pogo.pk/events/netherlands-vs-greece
@@ -20,17 +20,17 @@
 🟡 Visiting detail page [9/17]: https://pogo.pk/events/ireland-vs-austria
 🟢 Successfully processed: Nations League [8/17]
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/kosovo-vs-israel
+🟢 Successfully processed: Nations League [10/17]
 🟢 Successfully processed: Nations League [9/17]
 🟡 Visiting detail page [11/17]: https://pogo.pk/events/inter-milano-vs-austria-wien
-🟢 Successfully processed: Nations League [10/17]
 🟡 Visiting detail page [12/17]: https://pogo.pk/events/manchester-city-vs-real-madrid
 🟢 Successfully processed: Womens Champions League [11/17]
 🟡 Visiting detail page [13/17]: https://pogo.pk/events/psg-vs-oh-leuven
 🟢 Successfully processed: Womens Champions League [12/17]
 🟡 Visiting detail page [14/17]: https://pogo.pk/events/japanese-gp
-🟢 Successfully processed: FIFA ASEAN Cup [4/17]
-🟡 Visiting detail page [15/17]: https://pogo.pk/events/steelers-vs-browns
 🟢 Successfully processed: Womens Champions League [13/17]
+🟡 Visiting detail page [15/17]: https://pogo.pk/events/steelers-vs-browns
+🟢 Successfully processed: FIFA ASEAN Cup [4/17]
 🟡 Visiting detail page [16/17]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: MotoGP [14/17]
 🟡 Visiting detail page [17/17]: https://pogo.pk/events/f1-bahrain-grand-prix

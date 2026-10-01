@@ -3,13 +3,13 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 16
-🟡 Visiting detail page [2/16]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [1/16]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [2/16]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [3/16]: https://pogo.pk/events/bangladesh-vs-indonesia
 🟢 Successfully processed: FIFA ASEAN Cup [3/16]
 🟡 Visiting detail page [4/16]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
-🟢 Successfully processed: Snooker [1/16]
 🟢 Successfully processed: ATP Tour [2/16]
+🟢 Successfully processed: Snooker [1/16]
 🟡 Visiting detail page [5/16]: https://pogo.pk/events/germany-vs-serbia
 🟡 Visiting detail page [6/16]: https://pogo.pk/events/netherlands-vs-greece
 🟢 Successfully processed: Nations League [4/16]
@@ -31,8 +31,8 @@
 🟢 Successfully processed: Womens Champions League [12/16]
 🟡 Visiting detail page [15/16]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: MotoGP [13/16]
-🟢 Successfully processed: NFL [14/16]
 🟡 Visiting detail page [16/16]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: NFL [14/16]
 🟢 Successfully processed: NFL [15/16]
 🟢 Successfully processed: Formula 1 [16/16]
 🟢 Browser closed successfully.

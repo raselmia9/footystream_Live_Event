@@ -92,48 +92,6 @@
         ]
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-02 01:00:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Real Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-city-vs-real-madrid",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/manchester-city-vs-real-madrid/2429"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/manchester-city-vs-real-madrid/2430"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-02 01:00:00",
-        "team1Title": "PSG",
-        "team2Title": "Oud-Heverlee Leuven",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-oh-leuven",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/psg-vs-oh-leuven/2427"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/psg-vs-oh-leuven/2428"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-02 00:45:00",
         "team1Title": "Germany",
@@ -204,6 +162,48 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/malta-vs-gibraltar",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-02 01:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Real Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-real-madrid",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/manchester-city-vs-real-madrid/2429"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/manchester-city-vs-real-madrid/2430"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-02 01:00:00",
+        "team1Title": "PSG",
+        "team2Title": "Oud-Heverlee Leuven",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/oud-heverlee-leuven/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-oh-leuven",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/psg-vs-oh-leuven/2427"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/psg-vs-oh-leuven/2428"
+            }
+        ]
     },
     {
         "eventTitle": "MotoGP",

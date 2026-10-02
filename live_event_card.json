@@ -140,27 +140,6 @@
     },
     {
         "eventTitle": "Nations League",
-        "matchTime": "2026-10-02 20:00:00",
-        "team1Title": "Kazakhstan",
-        "team2Title": "Moldova",
-        "team1Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Kazakhstan_vs_Moldova/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Kazakhstan_vs_Moldova/Link%202.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/kazakhstan-vs-moldova",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/kazakhstan-vs-moldova/2459"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/kazakhstan-vs-moldova/2460"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
         "matchTime": "2026-10-02 22:00:00",
         "team1Title": "Armenia",
         "team2Title": "Cyprus",

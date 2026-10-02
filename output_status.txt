@@ -7,15 +7,15 @@
 🟡 Visiting detail page [2/26]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [3/26]: https://pogo.pk/events/bank-of-utah-championship
 🟢 Successfully processed: Snooker [1/26]
-🟡 Visiting detail page [4/26]: https://pogo.pk/events/lpga-lotte-championship
-🟢 Successfully processed: ATP Tour [2/26]
 🟢 Successfully processed: PGA Tour [3/26]
+🟢 Successfully processed: ATP Tour [2/26]
+🟡 Visiting detail page [4/26]: https://pogo.pk/events/lpga-lotte-championship
 🟡 Visiting detail page [5/26]: https://pogo.pk/events/yankees-vs-red-sox
 🟡 Visiting detail page [6/26]: https://pogo.pk/events/japanese-gp
-🟢 Successfully processed: MLB [5/26]
-🟢 Successfully processed: MotoGP [6/26]
-🟡 Visiting detail page [7/26]: https://pogo.pk/events/steelers-vs-browns
 🟢 Successfully processed: PGA Tour [4/26]
+🟡 Visiting detail page [7/26]: https://pogo.pk/events/steelers-vs-browns
+🟢 Successfully processed: MotoGP [6/26]
+🟢 Successfully processed: MLB [5/26]
 🟡 Visiting detail page [8/26]: https://pogo.pk/events/cubs-vs-padres
 🟡 Visiting detail page [9/26]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: NFL [7/26]
@@ -34,11 +34,11 @@
 🟡 Visiting detail page [16/26]: https://pogo.pk/events/ukraine-vs-northern-ireland
 🟢 Successfully processed: Nations League [16/26]
 🟡 Visiting detail page [17/26]: https://pogo.pk/events/hungary-vs-georgia
-🟢 Successfully processed: Nations League [17/26]
+🟢 Successfully processed: United Rugby [13/26]
 🟡 Visiting detail page [18/26]: https://pogo.pk/events/poland-vs-romania
 🟢 Successfully processed: United Rugby [14/26]
 🟡 Visiting detail page [19/26]: https://pogo.pk/events/bosnia-vs-sweden
-🟢 Successfully processed: United Rugby [13/26]
+🟢 Successfully processed: Nations League [17/26]
 🟡 Visiting detail page [20/26]: https://pogo.pk/events/faroe-islands-vs-slovakia
 🟢 Successfully processed: Nations League [18/26]
 🟡 Visiting detail page [21/26]: https://pogo.pk/events/bath-vs-exeter

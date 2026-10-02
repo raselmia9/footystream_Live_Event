@@ -182,6 +182,27 @@
     },
     {
         "eventTitle": "Nations League",
+        "matchTime": "2026-10-02 22:00:00",
+        "team1Title": "Latvia",
+        "team2Title": "Montenegro",
+        "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/latvia-vs-montenegro",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/latvia-vs-montenegro/2463"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/latvia-vs-montenegro/2464"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
         "matchTime": "2026-10-03 00:45:00",
         "team1Title": "Turkiye",
         "team2Title": "Belgium",
@@ -190,7 +211,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/turkey-vs-belgium",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/turkey-vs-belgium/2465"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/turkey-vs-belgium/2466"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/turkey-vs-belgium/2470"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -202,7 +236,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ukraine-vs-northern-ireland",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/ukraine-vs-northern-ireland/2471"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/ukraine-vs-northern-ireland/2472"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/ukraine-vs-northern-ireland/2473"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -214,19 +261,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/hungary-vs-georgia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Poland",
-        "team2Title": "Romania",
-        "team1Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/poland-vs-romania",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/hungary-vs-georgia/2474"
+            }
+        ]
     },
     {
         "eventTitle": "United Rugby",

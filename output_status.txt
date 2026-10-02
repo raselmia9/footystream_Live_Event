@@ -4,17 +4,17 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 24
 🟡 Visiting detail page [2/24]: https://pogo.pk/events/japan-open-tennis-championships
-🟡 Visiting detail page [1/24]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/24]: https://pogo.pk/events/bank-of-utah-championship
-🟢 Successfully processed: ATP Tour [2/24]
-🟢 Successfully processed: Snooker [1/24]
-🟡 Visiting detail page [4/24]: https://pogo.pk/events/lpga-lotte-championship
+🟡 Visiting detail page [1/24]: https://pogo.pk/events/shenzhen-open-snooker
 🟢 Successfully processed: PGA Tour [3/24]
+🟢 Successfully processed: ATP Tour [2/24]
+🟡 Visiting detail page [4/24]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: Snooker [1/24]
 🟡 Visiting detail page [5/24]: https://pogo.pk/events/japanese-gp
 🟡 Visiting detail page [6/24]: https://pogo.pk/events/cubs-vs-padres
-🟢 Successfully processed: PGA Tour [4/24]
-🟡 Visiting detail page [7/24]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: MotoGP [5/24]
+🟡 Visiting detail page [7/24]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: PGA Tour [4/24]
 🟢 Successfully processed: MLB [6/24]
 🟡 Visiting detail page [8/24]: https://pogo.pk/events/pakistan-vs-vietnam
 🟡 Visiting detail page [9/24]: https://pogo.pk/events/alfred-dunhill-championship
@@ -35,8 +35,8 @@
 🟢 Successfully processed: Nations League [16/24]
 🟡 Visiting detail page [17/24]: https://pogo.pk/events/bosnia-vs-sweden
 🟢 Successfully processed: United Rugby [11/24]
-🟢 Successfully processed: United Rugby [12/24]
 🟡 Visiting detail page [18/24]: https://pogo.pk/events/faroe-islands-vs-slovakia
+🟢 Successfully processed: United Rugby [12/24]
 🟡 Visiting detail page [19/24]: https://pogo.pk/events/bath-vs-exeter
 🟢 Successfully processed: Nations League [17/24]
 🟡 Visiting detail page [20/24]: https://pogo.pk/events/india-vs-brazil

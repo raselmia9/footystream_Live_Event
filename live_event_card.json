@@ -167,7 +167,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Armenia_vs_Cyprus/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Armenia_vs_Cyprus/Link%202.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/armenia-vs-cyprus",
         "multiWatchPageLink": [
             {
@@ -188,7 +188,7 @@
         "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Latvia_vs_Montenegro/Link%201.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/latvia-vs-montenegro",
         "multiWatchPageLink": [
             {
@@ -355,6 +355,23 @@
     },
     {
         "eventTitle": "Friendly",
+        "matchTime": "2026-10-03 06:00:00",
+        "team1Title": "Colombia",
+        "team2Title": "Paraguay",
+        "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/paraguay/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/colombia-vs-paraguay",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/colombia-vs-paraguay/2484"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Friendly",
         "matchTime": "2026-10-03 20:00:00",
         "team1Title": "India",
         "team2Title": "Brazil",
@@ -363,7 +380,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/india-vs-brazil",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/india-vs-brazil/2485"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/india-vs-brazil/2486"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/india-vs-brazil/2487"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/india-vs-brazil/2488"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",
@@ -400,6 +434,78 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/usa-vs-mexico",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-03 17:30:00",
+        "team1Title": "Chesterfield",
+        "team2Title": "Tranmere Rovers",
+        "team1Logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tranmere-rovers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chesterfield-vs-tranmere-rovers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/chesterfield-vs-tranmere-rovers/2481"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/chesterfield-vs-tranmere-rovers/2482"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Title": "Burton Albion",
+        "team2Title": "Huddersfield Town",
+        "team1Logo": "https://cdn.img4every1.org/team/burton-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/huddersfield-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/burton-albion-vs-huddersfield-town",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/burton-albion-vs-huddersfield-town/2479"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Title": "Bradford City",
+        "team2Title": "Reading",
+        "team1Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bradford-city-vs-reading",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bradford-city-vs-reading/2480"
+            }
+        ]
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-10-03 18:30:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Liverpool",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/man-united-vs-liverpool",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/man-united-vs-liverpool/2483"
+            }
+        ]
     },
     {
         "eventTitle": "NFL",

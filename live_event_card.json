@@ -140,6 +140,48 @@
     },
     {
         "eventTitle": "Nations League",
+        "matchTime": "2026-10-02 20:00:00",
+        "team1Title": "Kazakhstan",
+        "team2Title": "Moldova",
+        "team1Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Kazakhstan_vs_Moldova/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Kazakhstan_vs_Moldova/Link%202.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/kazakhstan-vs-moldova",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/kazakhstan-vs-moldova/2459"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/kazakhstan-vs-moldova/2460"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-02 22:00:00",
+        "team1Title": "Armenia",
+        "team2Title": "Cyprus",
+        "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/armenia-vs-cyprus",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/armenia-vs-cyprus/2461"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/armenia-vs-cyprus/2462"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
         "matchTime": "2026-10-03 00:45:00",
         "team1Title": "Turkiye",
         "team2Title": "Belgium",
@@ -148,6 +190,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/turkey-vs-belgium",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Ukraine",
+        "team2Title": "Northern Ireland",
+        "team1Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ukraine-vs-northern-ireland",
         "multiWatchPageLink": []
     },
     {
@@ -172,30 +226,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/poland-vs-romania",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Bosnia and Herzegovina",
-        "team2Title": "Sweden",
-        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bosnia-vs-sweden",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Faroe Islands",
-        "team2Title": "Slovakia",
-        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-slovakia",
         "multiWatchPageLink": []
     },
     {

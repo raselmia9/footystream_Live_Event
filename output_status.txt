@@ -4,29 +4,29 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 29
 🟡 Visiting detail page [2/29]: https://pogo.pk/events/japan-open-tennis-championships
-🟡 Visiting detail page [3/29]: https://pogo.pk/events/bank-of-utah-championship
 🟡 Visiting detail page [1/29]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: PGA Tour [3/29]
-🟡 Visiting detail page [4/29]: https://pogo.pk/events/lpga-lotte-championship
+🟡 Visiting detail page [3/29]: https://pogo.pk/events/bank-of-utah-championship
 🟢 Successfully processed: Snooker [1/29]
-🟡 Visiting detail page [5/29]: https://pogo.pk/events/japanese-gp
+🟡 Visiting detail page [4/29]: https://pogo.pk/events/lpga-lotte-championship
 🟢 Successfully processed: ATP Tour [2/29]
+🟢 Successfully processed: PGA Tour [3/29]
+🟡 Visiting detail page [5/29]: https://pogo.pk/events/japanese-gp
 🟡 Visiting detail page [6/29]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: MotoGP [5/29]
-🟡 Visiting detail page [7/29]: https://pogo.pk/events/alfred-dunhill-championship
 🟢 Successfully processed: PGA Tour [4/29]
-🟡 Visiting detail page [8/29]: https://pogo.pk/events/armenia-vs-cyprus
+🟡 Visiting detail page [7/29]: https://pogo.pk/events/alfred-dunhill-championship
 🟢 Successfully processed: Formula 1 [6/29]
+🟢 Successfully processed: MotoGP [5/29]
 🟡 Visiting detail page [9/29]: https://pogo.pk/events/latvia-vs-montenegro
+🟡 Visiting detail page [8/29]: https://pogo.pk/events/armenia-vs-cyprus
 🟢 Successfully processed: PGA Tour [7/29]
 🟡 Visiting detail page [10/29]: https://pogo.pk/events/turkey-vs-belgium
 🟢 Successfully processed: Nations League [8/29]
 🟡 Visiting detail page [11/29]: https://pogo.pk/events/ukraine-vs-northern-ireland
 🟢 Successfully processed: Nations League [9/29]
 🟡 Visiting detail page [12/29]: https://pogo.pk/events/hungary-vs-georgia
-🟢 Successfully processed: Nations League [11/29]
-🟡 Visiting detail page [13/29]: https://pogo.pk/events/poland-vs-romania
 🟢 Successfully processed: Nations League [10/29]
+🟡 Visiting detail page [13/29]: https://pogo.pk/events/poland-vs-romania
+🟢 Successfully processed: Nations League [11/29]
 🟡 Visiting detail page [14/29]: https://pogo.pk/events/bosnia-vs-sweden
 🟢 Successfully processed: Nations League [12/29]
 🟡 Visiting detail page [15/29]: https://pogo.pk/events/faroe-islands-vs-slovakia
@@ -46,13 +46,13 @@
 🟡 Visiting detail page [22/29]: https://pogo.pk/events/canada-vs-peru
 🟢 Successfully processed: Friendly [22/29]
 🟡 Visiting detail page [23/29]: https://pogo.pk/events/argentina-vs-burkina-faso
-🟢 Successfully processed: Friendly [20/29]
-🟡 Visiting detail page [24/29]: https://pogo.pk/events/usa-vs-mexico
-🟢 Successfully processed: Friendly [21/29]
-🟡 Visiting detail page [25/29]: https://pogo.pk/events/chesterfield-vs-tranmere-rovers
-🟢 Successfully processed: Friendly [24/29]
-🟡 Visiting detail page [26/29]: https://pogo.pk/events/burton-albion-vs-huddersfield-town
 🟢 Successfully processed: Friendly [23/29]
+🟡 Visiting detail page [24/29]: https://pogo.pk/events/usa-vs-mexico
+🟢 Successfully processed: Friendly [24/29]
+🟡 Visiting detail page [25/29]: https://pogo.pk/events/chesterfield-vs-tranmere-rovers
+🟢 Successfully processed: Friendly [20/29]
+🟡 Visiting detail page [26/29]: https://pogo.pk/events/burton-albion-vs-huddersfield-town
+🟢 Successfully processed: Friendly [21/29]
 🟡 Visiting detail page [27/29]: https://pogo.pk/events/bradford-city-vs-reading
 🟢 Successfully processed: EFL [25/29]
 🟡 Visiting detail page [28/29]: https://pogo.pk/events/man-united-vs-liverpool

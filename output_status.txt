@@ -2,50 +2,55 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 22
-🟡 Visiting detail page [3/22]: https://pogo.pk/events/bank-of-utah-championship
-🟡 Visiting detail page [1/22]: https://pogo.pk/events/shenzhen-open-snooker
-🟡 Visiting detail page [2/22]: https://pogo.pk/events/japan-open-tennis-championships
-🟢 Successfully processed: PGA Tour [3/22]
-🟡 Visiting detail page [4/22]: https://pogo.pk/events/lpga-lotte-championship
-🟢 Successfully processed: Snooker [1/22]
-🟡 Visiting detail page [5/22]: https://pogo.pk/events/japanese-gp
-🟢 Successfully processed: ATP Tour [2/22]
-🟡 Visiting detail page [6/22]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: MotoGP [5/22]
-🟡 Visiting detail page [7/22]: https://pogo.pk/events/alfred-dunhill-championship
-🟢 Successfully processed: PGA Tour [4/22]
-🟡 Visiting detail page [8/22]: https://pogo.pk/events/kazakhstan-vs-moldova
-🟢 Successfully processed: Formula 1 [6/22]
-🟡 Visiting detail page [9/22]: https://pogo.pk/events/armenia-vs-cyprus
-🟢 Successfully processed: Nations League [8/22]
-🟡 Visiting detail page [10/22]: https://pogo.pk/events/latvia-vs-montenegro
-🟢 Successfully processed: PGA Tour [7/22]
-🟡 Visiting detail page [11/22]: https://pogo.pk/events/turkey-vs-belgium
-🟢 Successfully processed: Nations League [9/22]
-🟡 Visiting detail page [12/22]: https://pogo.pk/events/ukraine-vs-northern-ireland
-🟢 Successfully processed: Nations League [10/22]
-🟡 Visiting detail page [13/22]: https://pogo.pk/events/hungary-vs-georgia
-🟢 Successfully processed: Nations League [11/22]
-🟡 Visiting detail page [14/22]: https://pogo.pk/events/stormers-vs-edinburgh
-🟢 Successfully processed: Nations League [12/22]
-🟡 Visiting detail page [15/22]: https://pogo.pk/events/benetton-treviso-vs-connacht
-🟢 Successfully processed: Nations League [13/22]
-🟡 Visiting detail page [16/22]: https://pogo.pk/events/cardiff-blues-vs-zebre
-🟢 Successfully processed: United Rugby [14/22]
-🟡 Visiting detail page [17/22]: https://pogo.pk/events/bath-vs-exeter
-🟢 Successfully processed: United Rugby [15/22]
-🟡 Visiting detail page [18/22]: https://pogo.pk/events/india-vs-brazil
-🟢 Successfully processed: Friendly [18/22]
-🟡 Visiting detail page [19/22]: https://pogo.pk/events/canada-vs-peru
-🟢 Successfully processed: Friendly [19/22]
-🟡 Visiting detail page [20/22]: https://pogo.pk/events/argentina-vs-burkina-faso
-🟢 Successfully processed: United Rugby [16/22]
-🟡 Visiting detail page [21/22]: https://pogo.pk/events/usa-vs-mexico
-🟢 Successfully processed: Premiership Rugby [17/22]
-🟡 Visiting detail page [22/22]: https://pogo.pk/events/commanders-vs-colts
-🟢 Successfully processed: Friendly [20/22]
-🟢 Successfully processed: Friendly [21/22]
-🟢 Successfully processed: NFL [22/22]
+🟢 Total unique detail links to process in parallel: 23
+🟡 Visiting detail page [2/23]: https://pogo.pk/events/japan-open-tennis-championships
+🟡 Visiting detail page [1/23]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [3/23]: https://pogo.pk/events/bank-of-utah-championship
+🟢 Successfully processed: PGA Tour [3/23]
+🟡 Visiting detail page [4/23]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: ATP Tour [2/23]
+🟡 Visiting detail page [5/23]: https://pogo.pk/events/japanese-gp
+🟢 Successfully processed: PGA Tour [4/23]
+🟡 Visiting detail page [6/23]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: Snooker [1/23]
+🟡 Visiting detail page [7/23]: https://pogo.pk/events/alfred-dunhill-championship
+🟢 Successfully processed: MotoGP [5/23]
+🟡 Visiting detail page [8/23]: https://pogo.pk/events/kazakhstan-vs-moldova
+🟢 Successfully processed: PGA Tour [7/23]
+🟡 Visiting detail page [9/23]: https://pogo.pk/events/armenia-vs-cyprus
+🟢 Successfully processed: Formula 1 [6/23]
+🟡 Visiting detail page [10/23]: https://pogo.pk/events/latvia-vs-montenegro
+🟢 Successfully processed: Nations League [9/23]
+🟡 Visiting detail page [11/23]: https://pogo.pk/events/turkey-vs-belgium
+🔴 ERROR on detail page https://pogo.pk/events/kazakhstan-vs-moldova: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/kazakhstan-vs-moldova", waiting until "load"
+
+🟡 Visiting detail page [12/23]: https://pogo.pk/events/ukraine-vs-northern-ireland
+🟢 Successfully processed: Nations League [10/23]
+🟡 Visiting detail page [13/23]: https://pogo.pk/events/hungary-vs-georgia
+🟢 Successfully processed: Nations League [11/23]
+🟡 Visiting detail page [14/23]: https://pogo.pk/events/poland-vs-romania
+🟢 Successfully processed: Nations League [12/23]
+🟡 Visiting detail page [15/23]: https://pogo.pk/events/stormers-vs-edinburgh
+🟢 Successfully processed: Nations League [13/23]
+🟡 Visiting detail page [16/23]: https://pogo.pk/events/benetton-treviso-vs-connacht
+🟢 Successfully processed: Nations League [14/23]
+🟡 Visiting detail page [17/23]: https://pogo.pk/events/cardiff-blues-vs-zebre
+🟢 Successfully processed: United Rugby [15/23]
+🟡 Visiting detail page [18/23]: https://pogo.pk/events/bath-vs-exeter
+🟢 Successfully processed: United Rugby [16/23]
+🟡 Visiting detail page [19/23]: https://pogo.pk/events/india-vs-brazil
+🟢 Successfully processed: Friendly [19/23]
+🟡 Visiting detail page [20/23]: https://pogo.pk/events/canada-vs-peru
+🟢 Successfully processed: Friendly [20/23]
+🟡 Visiting detail page [21/23]: https://pogo.pk/events/argentina-vs-burkina-faso
+🟢 Successfully processed: Friendly [21/23]
+🟡 Visiting detail page [22/23]: https://pogo.pk/events/usa-vs-mexico
+🟢 Successfully processed: Friendly [22/23]
+🟡 Visiting detail page [23/23]: https://pogo.pk/events/commanders-vs-colts
+🟢 Successfully processed: United Rugby [17/23]
+🟢 Successfully processed: Premiership Rugby [18/23]
+🟢 Successfully processed: NFL [23/23]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 22

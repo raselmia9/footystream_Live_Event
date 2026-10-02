@@ -139,57 +139,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-02 20:45:00",
-        "team1Title": "Cardiff Blues",
-        "team2Title": "Zebre",
-        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cardiff-blues-vs-zebre",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/cardiff-blues-vs-zebre/2453"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Stormers",
-        "team2Title": "Edinburgh",
-        "team1Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/stormers-vs-edinburgh",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/stormers-vs-edinburgh/2454"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Benetton",
-        "team2Title": "Connacht",
-        "team1Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/benetton-treviso-vs-connacht",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/benetton-treviso-vs-connacht/2455"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 00:45:00",
         "team1Title": "Turkiye",
@@ -199,18 +148,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/turkey-vs-belgium",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Ukraine",
-        "team2Title": "Northern Ireland",
-        "team1Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ukraine-vs-northern-ireland",
         "multiWatchPageLink": []
     },
     {
@@ -260,6 +197,57 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/faroe-islands-vs-slovakia",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Stormers",
+        "team2Title": "Edinburgh",
+        "team1Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/stormers-vs-edinburgh",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/stormers-vs-edinburgh/2454"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Benetton",
+        "team2Title": "Connacht",
+        "team1Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/benetton-treviso-vs-connacht",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/benetton-treviso-vs-connacht/2455"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Cardiff Blues",
+        "team2Title": "Zebre",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cardiff-blues-vs-zebre",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/cardiff-blues-vs-zebre/2453"
+            }
+        ]
     },
     {
         "eventTitle": "Premiership Rugby",

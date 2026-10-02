@@ -297,6 +297,18 @@
     },
     {
         "eventTitle": "Friendly",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Title": "India",
+        "team2Title": "Brazil",
+        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/india-vs-brazil",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
         "matchTime": "2026-10-04 00:00:00",
         "team1Title": "Canada",
         "team2Title": "Peru",

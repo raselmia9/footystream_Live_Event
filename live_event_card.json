@@ -97,31 +97,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-02 06:15:00",
-        "team1Title": "Pittsburgh Steelers",
-        "team2Title": "Cleveland Browns",
-        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pittsburgh%20Steelers_vs_Cleveland%20Browns/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pittsburgh%20Steelers_vs_Cleveland%20Browns/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Pittsburgh%20Steelers_vs_Cleveland%20Browns/Link%203.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/steelers-vs-browns",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/steelers-vs-browns/2402"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/steelers-vs-browns/2403"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/steelers-vs-browns/2404"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-02 08:00:00",
         "team1Title": "Chicago Cubs",

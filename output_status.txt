@@ -3,26 +3,26 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
-🟡 Visiting detail page [1/23]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/23]: https://pogo.pk/events/bank-of-utah-championship
+🟡 Visiting detail page [1/23]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [2/23]: https://pogo.pk/events/japan-open-tennis-championships
-🟢 Successfully processed: Live Event [1/23]
 🟢 Successfully processed: Live Event [3/23]
+🟢 Successfully processed: Live Event [1/23]
 🟡 Visiting detail page [4/23]: https://pogo.pk/events/lpga-lotte-championship
 🟡 Visiting detail page [5/23]: https://pogo.pk/events/japanese-gp
 🟢 Successfully processed: Live Event [2/23]
 🟡 Visiting detail page [6/23]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: Live Event [4/23]
-🟢 Successfully processed: Live Event [5/23]
 🟡 Visiting detail page [7/23]: https://pogo.pk/events/alfred-dunhill-championship
-🟡 Visiting detail page [8/23]: https://pogo.pk/events/colombia-vs-paraguay
 🟢 Successfully processed: Live Event [6/23]
+🟡 Visiting detail page [8/23]: https://pogo.pk/events/colombia-vs-paraguay
+🟢 Successfully processed: Live Event [5/23]
 🟡 Visiting detail page [9/23]: https://pogo.pk/events/india-vs-brazil
 🟢 Successfully processed: Live Event [7/23]
 🟡 Visiting detail page [10/23]: https://pogo.pk/events/canada-vs-peru
-🟢 Successfully processed: Live Event [9/23]
-🟡 Visiting detail page [11/23]: https://pogo.pk/events/argentina-vs-burkina-faso
 🟢 Successfully processed: Live Event [8/23]
+🟡 Visiting detail page [11/23]: https://pogo.pk/events/argentina-vs-burkina-faso
+🟢 Successfully processed: Live Event [9/23]
 🟡 Visiting detail page [12/23]: https://pogo.pk/events/usa-vs-mexico
 🟢 Successfully processed: Live Event [10/23]
 🟡 Visiting detail page [13/23]: https://pogo.pk/events/chesterfield-vs-tranmere-rovers
@@ -30,9 +30,9 @@
 🟡 Visiting detail page [14/23]: https://pogo.pk/events/burton-albion-vs-huddersfield-town
 🟢 Successfully processed: Live Event [12/23]
 🟡 Visiting detail page [15/23]: https://pogo.pk/events/bradford-city-vs-reading
-🟢 Successfully processed: Live Event [14/23]
-🟡 Visiting detail page [16/23]: https://pogo.pk/events/man-united-vs-liverpool
 🟢 Successfully processed: Live Event [13/23]
+🟡 Visiting detail page [16/23]: https://pogo.pk/events/man-united-vs-liverpool
+🟢 Successfully processed: Live Event [14/23]
 🟡 Visiting detail page [17/23]: https://pogo.pk/events/albania-vs-finland
 🟢 Successfully processed: Live Event [15/23]
 🟡 Visiting detail page [18/23]: https://pogo.pk/events/england-vs-croatia
@@ -45,8 +45,8 @@
 🟢 Successfully processed: Live Event [19/23]
 🟡 Visiting detail page [22/23]: https://pogo.pk/events/spain-vs-czechia
 🟢 Successfully processed: Live Event [20/23]
-🟡 Visiting detail page [23/23]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: Live Event [21/23]
+🟡 Visiting detail page [23/23]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: Live Event [22/23]
 🟢 Successfully processed: Live Event [23/23]
 🟢 Browser closed successfully.

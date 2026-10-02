@@ -164,6 +164,40 @@
         ]
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Stormers",
+        "team2Title": "Edinburgh",
+        "team1Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Stormers_vs_Edinburgh/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/stormers-vs-edinburgh",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/stormers-vs-edinburgh/2454"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Benetton",
+        "team2Title": "Connacht",
+        "team1Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Benetton_vs_Connacht/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/benetton-treviso-vs-connacht",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/benetton-treviso-vs-connacht/2455"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 00:45:00",
         "team1Title": "Ukraine",
@@ -256,53 +290,27 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "United Rugby",
+        "eventTitle": "Nations League",
         "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Stormers",
-        "team2Title": "Edinburgh",
-        "team1Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team1Title": "Italy",
+        "team2Title": "France",
+        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Stormers_vs_Edinburgh/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/stormers-vs-edinburgh",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Italy_vs_France/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Italy_vs_France/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Italy_vs_France/Link%203.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/italy-vs-france",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/stormers-vs-edinburgh/2454"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Benetton",
-        "team2Title": "Connacht",
-        "team1Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Benetton_vs_Connacht/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/benetton-treviso-vs-connacht",
-        "multiWatchPageLink": [
+                "url": "https://pogo.pk/alpha/italy-vs-france/2467"
+            },
             {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/benetton-treviso-vs-connacht/2455"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Cardiff Blues",
-        "team2Title": "Zebre",
-        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "isHot": true,
-        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Cardiff%20Blues_vs_Zebre/Link%201.m3u8|Referer=https://bhalocast.pro/",
-        "detailsPage": "https://pogo.pk/events/cardiff-blues-vs-zebre",
-        "multiWatchPageLink": [
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/italy-vs-france/2468"
+            },
             {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/cardiff-blues-vs-zebre/2453"
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/italy-vs-france/2469"
             }
         ]
     },
@@ -320,6 +328,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/bath-vs-exeter/2456"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Cardiff Blues",
+        "team2Title": "Zebre",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "isHot": true,
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/Cardiff%20Blues_vs_Zebre/Link%201.m3u8|Referer=https://bhalocast.pro/",
+        "detailsPage": "https://pogo.pk/events/cardiff-blues-vs-zebre",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/cardiff-blues-vs-zebre/2453"
             }
         ]
     },
@@ -476,6 +501,78 @@
                 "url": "https://pogo.pk/alpha/man-united-vs-liverpool/2483"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 19:00:00",
+        "team1Title": "Albania",
+        "team2Title": "Finland",
+        "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/albania-vs-finland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 22:00:00",
+        "team1Title": "England",
+        "team2Title": "Croatia",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-croatia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 22:00:00",
+        "team1Title": "Belarus",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/belarus-vs-san-marino",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 22:00:00",
+        "team1Title": "Estonia",
+        "team2Title": "Luxembourg",
+        "team1Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/estonia-vs-luxembourg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 22:00:00",
+        "team1Title": "Iceland",
+        "team2Title": "Bulgaria",
+        "team1Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/iceland-vs-bulgaria",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-04 00:45:00",
+        "team1Title": "Spain",
+        "team2Title": "Czechia",
+        "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/spain-vs-czechia",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "NFL",

@@ -286,6 +286,18 @@
         ]
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 00:45:00",
+        "team1Title": "Faroe Islands",
+        "team2Title": "Slovakia",
+        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-slovakia",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-03 00:45:00",
         "team1Title": "Stormers",

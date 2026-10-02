@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 22
-🟡 Visiting detail page [2/22]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [1/22]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [2/22]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [3/22]: https://pogo.pk/events/bank-of-utah-championship
 🟢 Successfully processed: PGA Tour [3/22]
-🟢 Successfully processed: ATP Tour [2/22]
-🟡 Visiting detail page [4/22]: https://pogo.pk/events/lpga-lotte-championship
 🟢 Successfully processed: Snooker [1/22]
+🟡 Visiting detail page [4/22]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: ATP Tour [2/22]
 🟡 Visiting detail page [5/22]: https://pogo.pk/events/japanese-gp
 🟡 Visiting detail page [6/22]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: PGA Tour [4/22]
 🟡 Visiting detail page [7/22]: https://pogo.pk/events/alfred-dunhill-championship
 🟢 Successfully processed: MotoGP [5/22]
 🟡 Visiting detail page [8/22]: https://pogo.pk/events/cardiff-blues-vs-zebre
-🟢 Successfully processed: PGA Tour [7/22]
-🟡 Visiting detail page [9/22]: https://pogo.pk/events/stormers-vs-edinburgh
 🟢 Successfully processed: Formula 1 [6/22]
+🟡 Visiting detail page [9/22]: https://pogo.pk/events/stormers-vs-edinburgh
+🟢 Successfully processed: PGA Tour [7/22]
 🟡 Visiting detail page [10/22]: https://pogo.pk/events/benetton-treviso-vs-connacht
 🟢 Successfully processed: United Rugby [8/22]
 🟡 Visiting detail page [11/22]: https://pogo.pk/events/turkey-vs-belgium
@@ -32,9 +32,9 @@
 🟡 Visiting detail page [15/22]: https://pogo.pk/events/bosnia-vs-sweden
 🟢 Successfully processed: Nations League [14/22]
 🟡 Visiting detail page [16/22]: https://pogo.pk/events/faroe-islands-vs-slovakia
-🟢 Successfully processed: Nations League [15/22]
-🟡 Visiting detail page [17/22]: https://pogo.pk/events/bath-vs-exeter
 🟢 Successfully processed: United Rugby [10/22]
+🟡 Visiting detail page [17/22]: https://pogo.pk/events/bath-vs-exeter
+🟢 Successfully processed: Nations League [15/22]
 🟡 Visiting detail page [18/22]: https://pogo.pk/events/india-vs-brazil
 🟢 Successfully processed: Nations League [16/22]
 🟡 Visiting detail page [19/22]: https://pogo.pk/events/canada-vs-peru
@@ -45,7 +45,7 @@
 🟢 Successfully processed: Friendly [20/22]
 🟡 Visiting detail page [22/22]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: Friendly [21/22]
-🟢 Successfully processed: NFL [22/22]
 🟢 Successfully processed: Premiership Rugby [17/22]
+🟢 Successfully processed: NFL [22/22]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 22

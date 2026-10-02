@@ -167,7 +167,7 @@
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "isHot": true,
-        "streamLink": "",
+        "streamLink": "Link 1,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/f1%20Bahrain%20Grand%20Prix_vs_Formula%201/Link%201.m3u8|Referer=https://bhalocast.pro/,)Link 2,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/f1%20Bahrain%20Grand%20Prix_vs_Formula%201/Link%202.m3u8|Referer=https://bhalocast.pro/,)Link 3,,https://raw.githubusercontent.com/raselmia9/footystream_Live_Event/main/all_event/f1%20Bahrain%20Grand%20Prix_vs_Formula%201/Link%203.m3u8|Referer=https://bhalocast.pro/",
         "detailsPage": "https://pogo.pk/events/f1-bahrain-grand-prix",
         "multiWatchPageLink": [
             {
@@ -291,18 +291,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ukraine-vs-northern-ireland",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 00:45:00",
-        "team1Title": "Hungary",
-        "team2Title": "Georgia",
-        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hungary-vs-georgia",
         "multiWatchPageLink": []
     },
     {

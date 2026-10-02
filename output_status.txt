@@ -7,22 +7,22 @@
 🟡 Visiting detail page [1/23]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/23]: https://pogo.pk/events/bank-of-utah-championship
 🟢 Successfully processed: PGA Tour [3/23]
-🟢 Successfully processed: ATP Tour [2/23]
 🟡 Visiting detail page [4/23]: https://pogo.pk/events/lpga-lotte-championship
 🟢 Successfully processed: Snooker [1/23]
+🟢 Successfully processed: ATP Tour [2/23]
 🟡 Visiting detail page [5/23]: https://pogo.pk/events/japanese-gp
 🟡 Visiting detail page [6/23]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: PGA Tour [4/23]
-🟢 Successfully processed: Formula 1 [6/23]
 🟡 Visiting detail page [7/23]: https://pogo.pk/events/pakistan-vs-vietnam
-🟡 Visiting detail page [8/23]: https://pogo.pk/events/alfred-dunhill-championship
+🟢 Successfully processed: Formula 1 [6/23]
 🟢 Successfully processed: MotoGP [5/23]
+🟡 Visiting detail page [8/23]: https://pogo.pk/events/alfred-dunhill-championship
 🟡 Visiting detail page [9/23]: https://pogo.pk/events/cardiff-blues-vs-zebre
 🟢 Successfully processed: FIFA ASEAN Cup [7/23]
 🟡 Visiting detail page [10/23]: https://pogo.pk/events/stormers-vs-edinburgh
-🟢 Successfully processed: PGA Tour [8/23]
-🟡 Visiting detail page [11/23]: https://pogo.pk/events/benetton-treviso-vs-connacht
 🟢 Successfully processed: United Rugby [9/23]
+🟡 Visiting detail page [11/23]: https://pogo.pk/events/benetton-treviso-vs-connacht
+🟢 Successfully processed: PGA Tour [8/23]
 🟡 Visiting detail page [12/23]: https://pogo.pk/events/turkey-vs-belgium
 🟢 Successfully processed: Nations League [12/23]
 🟡 Visiting detail page [13/23]: https://pogo.pk/events/ukraine-vs-northern-ireland

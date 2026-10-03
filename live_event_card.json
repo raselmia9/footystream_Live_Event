@@ -229,18 +229,6 @@
     },
     {
         "eventTitle": "Nations League",
-        "matchTime": "2026-10-04 19:00:00",
-        "team1Title": "Azerbaijan",
-        "team2Title": "Lithuania",
-        "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/azerbaijan-vs-lithuania",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
         "matchTime": "2026-10-04 22:00:00",
         "team1Title": "Kosovo",
         "team2Title": "Austria",

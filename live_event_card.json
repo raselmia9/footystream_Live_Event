@@ -122,23 +122,6 @@
         ]
     },
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-02 16:00:00",
-        "team1Title": "Alfred Dunhill Championship",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alfred-dunhill-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/alfred-dunhill-championship/2452"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-03 17:30:00",
         "team1Title": "Chesterfield",
@@ -370,23 +353,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/dragons-vs-scarlets/2491"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-03 22:30:00",
-        "team1Title": "Glasgow Warriors",
-        "team2Title": "Ulster",
-        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-ulster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/glasgow-warriors-vs-ulster/2493"
             }
         ]
     },

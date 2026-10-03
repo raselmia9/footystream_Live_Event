@@ -177,23 +177,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-04 00:45:00",
-        "team1Title": "Bulls",
-        "team2Title": "Munster",
-        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bulls-vs-munster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bulls-vs-munster/2496"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-03 23:00:00",
         "team1Title": "Cleveland Guardians",
@@ -357,6 +340,23 @@
             {
                 "channel": "Link 3",
                 "url": "https://pogo.pk/alpha/switzerland-vs-slovenia/2519"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-04 00:45:00",
+        "team1Title": "Bulls",
+        "team2Title": "Munster",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulls-vs-munster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bulls-vs-munster/2496"
             }
         ]
     },

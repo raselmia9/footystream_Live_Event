@@ -6,23 +6,23 @@
 🟡 Visiting detail page [2/21]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [3/21]: https://pogo.pk/events/bank-of-utah-championship
 🟡 Visiting detail page [1/21]: https://pogo.pk/events/alfred-dunhill-championship
-🟢 Successfully processed: PGA Tour [1/21]
-🟢 Successfully processed: ATP Tour [2/21]
 🟢 Successfully processed: PGA Tour [3/21]
 🟡 Visiting detail page [4/21]: https://pogo.pk/events/gloucester-vs-harlequins
-🟡 Visiting detail page [5/21]: https://pogo.pk/events/glasgow-warriors-vs-ulster
+🟢 Successfully processed: ATP Tour [2/21]
+🟢 Successfully processed: PGA Tour [1/21]
 🟡 Visiting detail page [6/21]: https://pogo.pk/events/guardians-vs-white-sox
-🟢 Successfully processed: MLB [6/21]
+🟡 Visiting detail page [5/21]: https://pogo.pk/events/glasgow-warriors-vs-ulster
+🟢 Successfully processed: Premiership Rugby [4/21]
 🟡 Visiting detail page [7/21]: https://pogo.pk/events/canada-vs-peru
 🟢 Successfully processed: United Rugby [5/21]
 🟡 Visiting detail page [8/21]: https://pogo.pk/events/spain-vs-czechia
-🟢 Successfully processed: Premiership Rugby [4/21]
+🟢 Successfully processed: MLB [6/21]
 🟡 Visiting detail page [9/21]: https://pogo.pk/events/scotland-vs-north-macedonia
-🟢 Successfully processed: Friendly [7/21]
-🟡 Visiting detail page [10/21]: https://pogo.pk/events/switzerland-vs-slovenia
 🟢 Successfully processed: Nations League [8/21]
-🟡 Visiting detail page [11/21]: https://pogo.pk/events/bulls-vs-munster
+🟡 Visiting detail page [10/21]: https://pogo.pk/events/switzerland-vs-slovenia
 🟢 Successfully processed: Nations League [9/21]
+🟡 Visiting detail page [11/21]: https://pogo.pk/events/bulls-vs-munster
+🟢 Successfully processed: Friendly [7/21]
 🟡 Visiting detail page [12/21]: https://pogo.pk/events/braves-vs-dodgers
 🟢 Successfully processed: Nations League [10/21]
 🟡 Visiting detail page [13/21]: https://pogo.pk/events/rays-vs-yankees

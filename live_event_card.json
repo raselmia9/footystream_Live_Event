@@ -61,8 +61,8 @@
     {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-03 22:30:00",
-        "team1Title": "Gloucester Rugby",
-        "team2Title": "Harlequins",
+        "team1Title": "Event Ended",
+        "team2Title": "Gloucester Rugby",
         "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
         "isHot": true,
@@ -78,8 +78,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-03 22:30:00",
-        "team1Title": "Glasgow Warriors",
-        "team2Title": "Ulster",
+        "team1Title": "Event Ended",
+        "team2Title": "Glasgow Warriors",
         "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
         "isHot": true,

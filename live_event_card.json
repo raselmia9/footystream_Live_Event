@@ -2,8 +2,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "England",
-        "team2Title": "Croatia",
+        "team1Title": "Event Ended",
+        "team2Title": "England",
         "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
         "isHot": true,
@@ -69,8 +69,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "Belarus",
-        "team2Title": "Team 2",
+        "team1Title": "Event Ended",
+        "team2Title": "Belarus",
         "team1Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
         "isHot": true,
@@ -90,8 +90,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "Estonia",
-        "team2Title": "Luxembourg",
+        "team1Title": "Event Ended",
+        "team2Title": "Estonia",
         "team1Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
         "isHot": true,
@@ -111,8 +111,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "Iceland",
-        "team2Title": "Bulgaria",
+        "team1Title": "Event Ended",
+        "team2Title": "Iceland",
         "team1Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
         "isHot": true,

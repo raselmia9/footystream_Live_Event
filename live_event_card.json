@@ -98,8 +98,8 @@
     {
         "eventTitle": "WSL",
         "matchTime": "2026-10-03 18:30:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Liverpool",
+        "team1Title": "Event Ended",
+        "team2Title": "Manchester United",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "isHot": true,

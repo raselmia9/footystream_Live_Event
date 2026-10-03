@@ -96,27 +96,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 19:00:00",
-        "team1Title": "Albania",
-        "team2Title": "Finland",
-        "team1Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/albania-vs-finland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/albania-vs-finland/2489"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/albania-vs-finland/2490"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-03 20:00:00",
         "team1Title": "Burton Albion",

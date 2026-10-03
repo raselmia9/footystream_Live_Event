@@ -59,40 +59,6 @@
         ]
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-03 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Gloucester Rugby",
-        "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/gloucester-vs-harlequins",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/gloucester-vs-harlequins/2494"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-03 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Glasgow Warriors",
-        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-ulster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/glasgow-warriors-vs-ulster/2493"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-03 23:00:00",
         "team1Title": "Cleveland Guardians",
@@ -185,6 +151,23 @@
         ]
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-04 00:45:00",
+        "team1Title": "Bulls",
+        "team2Title": "Munster",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulls-vs-munster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bulls-vs-munster/2496"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-04 00:45:00",
         "team1Title": "Switzerland",
@@ -206,23 +189,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://pogo.pk/alpha/switzerland-vs-slovenia/2519"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-04 00:45:00",
-        "team1Title": "Bulls",
-        "team2Title": "Munster",
-        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bulls-vs-munster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bulls-vs-munster/2496"
             }
         ]
     },

@@ -59,27 +59,6 @@
         ]
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-04 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Canada",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/canada-vs-peru",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/canada-vs-peru/2513"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/canada-vs-peru/2514"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-04 00:45:00",
         "team1Title": "Spain",

@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 32
-🟡 Visiting detail page [2/32]: https://pogo.pk/events/japan-open-tennis-championships
-🟡 Visiting detail page [3/32]: https://pogo.pk/events/bank-of-utah-championship
 🟡 Visiting detail page [1/32]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [3/32]: https://pogo.pk/events/bank-of-utah-championship
+🟡 Visiting detail page [2/32]: https://pogo.pk/events/japan-open-tennis-championships
 🟢 Successfully processed: PGA Tour [3/32]
-🟢 Successfully processed: Snooker [1/32]
 🟡 Visiting detail page [4/32]: https://pogo.pk/events/lpga-lotte-championship
-🟡 Visiting detail page [5/32]: https://pogo.pk/events/japanese-gp
 🟢 Successfully processed: ATP Tour [2/32]
+🟡 Visiting detail page [5/32]: https://pogo.pk/events/japanese-gp
+🟢 Successfully processed: Snooker [1/32]
 🟡 Visiting detail page [6/32]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: Formula 1 [6/32]
-🟡 Visiting detail page [7/32]: https://pogo.pk/events/alfred-dunhill-championship
 🟢 Successfully processed: PGA Tour [4/32]
-🟡 Visiting detail page [8/32]: https://pogo.pk/events/chesterfield-vs-tranmere-rovers
+🟡 Visiting detail page [7/32]: https://pogo.pk/events/alfred-dunhill-championship
 🟢 Successfully processed: MotoGP [5/32]
+🟡 Visiting detail page [8/32]: https://pogo.pk/events/chesterfield-vs-tranmere-rovers
+🟢 Successfully processed: Formula 1 [6/32]
 🟡 Visiting detail page [9/32]: https://pogo.pk/events/man-united-vs-liverpool
 🟢 Successfully processed: PGA Tour [7/32]
 🟡 Visiting detail page [10/32]: https://pogo.pk/events/albania-vs-finland
@@ -26,13 +26,13 @@
 🟡 Visiting detail page [12/32]: https://pogo.pk/events/canada-vs-peru
 🟢 Successfully processed: Friendly [12/32]
 🟡 Visiting detail page [13/32]: https://pogo.pk/events/argentina-vs-burkina-faso
-🟢 Successfully processed: Nations League [10/32]
-🟡 Visiting detail page [14/32]: https://pogo.pk/events/usa-vs-mexico
 🟢 Successfully processed: Friendly [13/32]
+🟡 Visiting detail page [14/32]: https://pogo.pk/events/usa-vs-mexico
+🟢 Successfully processed: Nations League [10/32]
 🟡 Visiting detail page [15/32]: https://pogo.pk/events/burton-albion-vs-huddersfield-town
-🟢 Successfully processed: Friendly [14/32]
-🟡 Visiting detail page [16/32]: https://pogo.pk/events/bradford-city-vs-reading
 🟢 Successfully processed: Friendly [11/32]
+🟡 Visiting detail page [16/32]: https://pogo.pk/events/bradford-city-vs-reading
+🟢 Successfully processed: Friendly [14/32]
 🟡 Visiting detail page [17/32]: https://pogo.pk/events/dragons-vs-scarlets
 🟢 Successfully processed: EFL [15/32]
 🟡 Visiting detail page [18/32]: https://pogo.pk/events/glasgow-warriors-vs-ulster
@@ -50,19 +50,19 @@
 🟡 Visiting detail page [24/32]: https://pogo.pk/events/estonia-vs-luxembourg
 🟢 Successfully processed: Premiership Rugby [20/32]
 🟡 Visiting detail page [25/32]: https://pogo.pk/events/iceland-vs-bulgaria
-🟢 Successfully processed: Nations League [24/32]
-🟡 Visiting detail page [26/32]: https://pogo.pk/events/spain-vs-czechia
 🟢 Successfully processed: Nations League [25/32]
+🟡 Visiting detail page [26/32]: https://pogo.pk/events/spain-vs-czechia
+🟢 Successfully processed: Premiership Rugby [21/32]
 🟡 Visiting detail page [27/32]: https://pogo.pk/events/scotland-vs-north-macedonia
-🟢 Successfully processed: Nations League [26/32]
+🟢 Successfully processed: Nations League [24/32]
 🟡 Visiting detail page [28/32]: https://pogo.pk/events/guardians-vs-white-sox
 🟢 Successfully processed: Nations League [27/32]
 🟡 Visiting detail page [29/32]: https://pogo.pk/events/braves-vs-dodgers
-🟢 Successfully processed: Premiership Rugby [21/32]
+🟢 Successfully processed: Nations League [26/32]
 🟡 Visiting detail page [30/32]: https://pogo.pk/events/rays-vs-yankees
 🟢 Successfully processed: MLB [28/32]
-🟡 Visiting detail page [31/32]: https://pogo.pk/events/natalia-silva-vs-wang-cong
 🟢 Successfully processed: MLB [29/32]
+🟡 Visiting detail page [31/32]: https://pogo.pk/events/natalia-silva-vs-wang-cong
 🟡 Visiting detail page [32/32]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: MLB [30/32]
 🟢 Successfully processed: UFC [31/32]

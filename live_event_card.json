@@ -1,34 +1,5 @@
 [
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Title": "India",
-        "team2Title": "Brazil",
-        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/india-vs-brazil",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/india-vs-brazil/2485"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/india-vs-brazil/2486"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/india-vs-brazil/2487"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://pogo.pk/alpha/india-vs-brazil/2488"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 22:00:00",
         "team1Title": "England",
@@ -92,74 +63,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2397"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Title": "Burton Albion",
-        "team2Title": "Huddersfield Town",
-        "team1Logo": "https://cdn.img4every1.org/team/burton-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/huddersfield-town/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/burton-albion-vs-huddersfield-town",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/burton-albion-vs-huddersfield-town/2479"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Title": "Bradford City",
-        "team2Title": "Reading",
-        "team1Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bradford-city-vs-reading",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bradford-city-vs-reading/2480"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Title": "Dragons",
-        "team2Title": "Scarlets",
-        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/dragons-vs-scarlets",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/dragons-vs-scarlets/2491"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Title": "Bristol Bears",
-        "team2Title": "Northampton Saints",
-        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-northampton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bristol-bears-vs-northampton/2492"
             }
         ]
     },

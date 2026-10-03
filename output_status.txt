@@ -6,29 +6,29 @@
 🟡 Visiting detail page [1/30]: https://pogo.pk/events/india-vs-brazil
 🟡 Visiting detail page [2/30]: https://pogo.pk/events/england-vs-croatia
 🟡 Visiting detail page [3/30]: https://pogo.pk/events/alfred-dunhill-championship
-🟢 Successfully processed: PGA Tour [3/30]
-🟢 Successfully processed: Friendly [1/30]
 🟢 Successfully processed: Nations League [2/30]
+🟢 Successfully processed: PGA Tour [3/30]
 🟡 Visiting detail page [5/30]: https://pogo.pk/events/burton-albion-vs-huddersfield-town
 🟡 Visiting detail page [4/30]: https://pogo.pk/events/japan-open-tennis-championships
+🟢 Successfully processed: Friendly [1/30]
 🟡 Visiting detail page [6/30]: https://pogo.pk/events/bradford-city-vs-reading
-🟢 Successfully processed: EFL [6/30]
-🟡 Visiting detail page [7/30]: https://pogo.pk/events/dragons-vs-scarlets
 🟢 Successfully processed: ATP Tour [4/30]
 🟢 Successfully processed: EFL [5/30]
+🟡 Visiting detail page [7/30]: https://pogo.pk/events/dragons-vs-scarlets
 🟡 Visiting detail page [8/30]: https://pogo.pk/events/bristol-bears-vs-northampton
+🟢 Successfully processed: EFL [6/30]
 🟡 Visiting detail page [9/30]: https://pogo.pk/events/belarus-vs-san-marino
+🟢 Successfully processed: Premiership Rugby [8/30]
 🟢 Successfully processed: United Rugby [7/30]
 🟡 Visiting detail page [10/30]: https://pogo.pk/events/estonia-vs-luxembourg
-🟢 Successfully processed: Nations League [9/30]
 🟡 Visiting detail page [11/30]: https://pogo.pk/events/iceland-vs-bulgaria
-🟢 Successfully processed: Nations League [10/30]
+🟢 Successfully processed: Nations League [9/30]
 🟡 Visiting detail page [12/30]: https://pogo.pk/events/spain-vs-czechia
-🟢 Successfully processed: Nations League [11/30]
+🟢 Successfully processed: Nations League [10/30]
 🟡 Visiting detail page [13/30]: https://pogo.pk/events/scotland-vs-north-macedonia
-🟢 Successfully processed: Nations League [13/30]
+🟢 Successfully processed: Nations League [11/30]
 🟡 Visiting detail page [14/30]: https://pogo.pk/events/switzerland-vs-slovenia
-🟢 Successfully processed: Premiership Rugby [8/30]
+🟢 Successfully processed: Nations League [13/30]
 🟡 Visiting detail page [15/30]: https://pogo.pk/events/bank-of-utah-championship
 🟢 Successfully processed: Nations League [12/30]
 🟡 Visiting detail page [16/30]: https://pogo.pk/events/lpga-lotte-championship

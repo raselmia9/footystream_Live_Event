@@ -1,5 +1,34 @@
 [
     {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Title": "India",
+        "team2Title": "Brazil",
+        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/india-vs-brazil",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/india-vs-brazil/2485"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/india-vs-brazil/2486"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/india-vs-brazil/2487"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://pogo.pk/alpha/india-vs-brazil/2488"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 22:00:00",
         "team1Title": "England",
@@ -164,44 +193,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-03 17:30:00",
-        "team1Title": "Chesterfield",
-        "team2Title": "Tranmere Rovers",
-        "team1Logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tranmere-rovers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chesterfield-vs-tranmere-rovers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/chesterfield-vs-tranmere-rovers/2481"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/chesterfield-vs-tranmere-rovers/2482"
-            }
-        ]
-    },
-    {
-        "eventTitle": "WSL",
-        "matchTime": "2026-10-03 18:30:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Liverpool",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/man-united-vs-liverpool",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/man-united-vs-liverpool/2483"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 19:00:00",
         "team1Title": "Albania",
@@ -221,76 +212,6 @@
                 "url": "https://pogo.pk/alpha/albania-vs-finland/2490"
             }
         ]
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Title": "India",
-        "team2Title": "Brazil",
-        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/india-vs-brazil",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/india-vs-brazil/2485"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/india-vs-brazil/2486"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/india-vs-brazil/2487"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://pogo.pk/alpha/india-vs-brazil/2488"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-04 00:00:00",
-        "team1Title": "Canada",
-        "team2Title": "Peru",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/canada-vs-peru",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-04 06:00:00",
-        "team1Title": "Argentina",
-        "team2Title": "Burkina Faso",
-        "team1Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/burkina-faso/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/argentina-vs-burkina-faso",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/argentina-vs-burkina-faso/2502"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-04 08:00:00",
-        "team1Title": "USA",
-        "team2Title": "Mexico",
-        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/usa-vs-mexico",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "EFL",
@@ -421,7 +342,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/belarus-vs-san-marino",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/belarus-vs-san-marino/2511"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -433,7 +359,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/estonia-vs-luxembourg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/estonia-vs-luxembourg/2509"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/estonia-vs-luxembourg/2510"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -445,7 +380,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/iceland-vs-bulgaria",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/iceland-vs-bulgaria/2506"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -481,7 +421,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/switzerland-vs-slovenia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/switzerland-vs-slovenia/2507"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/switzerland-vs-slovenia/2508"
+            }
+        ]
     },
     {
         "eventTitle": "MLB",
@@ -533,6 +482,35 @@
                 "url": "https://pogo.pk/alpha/rays-vs-yankees/2500"
             }
         ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-10-04 06:00:00",
+        "team1Title": "Argentina",
+        "team2Title": "Burkina Faso",
+        "team1Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/burkina-faso/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/argentina-vs-burkina-faso",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/argentina-vs-burkina-faso/2502"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-10-04 08:00:00",
+        "team1Title": "USA",
+        "team2Title": "Mexico",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/usa-vs-mexico",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "UFC",

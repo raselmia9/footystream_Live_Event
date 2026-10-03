@@ -3,33 +3,30 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 32
-🟡 Visiting detail page [1/32]: https://pogo.pk/events/india-vs-brazil
 🟡 Visiting detail page [2/32]: https://pogo.pk/events/england-vs-croatia
 🟡 Visiting detail page [3/32]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [1/32]: https://pogo.pk/events/india-vs-brazil
+🟢 Successfully processed: Nations League [2/32]
 🟢 Successfully processed: Friendly [1/32]
 🟡 Visiting detail page [4/32]: https://pogo.pk/events/japan-open-tennis-championships
-🟢 Successfully processed: Nations League [2/32]
 🟡 Visiting detail page [5/32]: https://pogo.pk/events/bank-of-utah-championship
 🟢 Successfully processed: Snooker [3/32]
 🟡 Visiting detail page [6/32]: https://pogo.pk/events/lpga-lotte-championship
 🟢 Successfully processed: PGA Tour [5/32]
 🟡 Visiting detail page [7/32]: https://pogo.pk/events/japanese-gp
-🟢 Successfully processed: PGA Tour [6/32]
-🟡 Visiting detail page [8/32]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: ATP Tour [4/32]
+🟡 Visiting detail page [8/32]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: PGA Tour [6/32]
 🟡 Visiting detail page [9/32]: https://pogo.pk/events/alfred-dunhill-championship
 🟢 Successfully processed: MotoGP [7/32]
 🟡 Visiting detail page [10/32]: https://pogo.pk/events/man-united-vs-liverpool
-🟢 Successfully processed: Formula 1 [8/32]
-🟡 Visiting detail page [11/32]: https://pogo.pk/events/albania-vs-finland
 🟢 Successfully processed: PGA Tour [9/32]
+🟡 Visiting detail page [11/32]: https://pogo.pk/events/albania-vs-finland
+🟢 Successfully processed: Formula 1 [8/32]
 🟡 Visiting detail page [12/32]: https://pogo.pk/events/burton-albion-vs-huddersfield-town
-🟢 Successfully processed: Nations League [11/32]
+🟢 Successfully processed: WSL [10/32]
 🟡 Visiting detail page [13/32]: https://pogo.pk/events/bradford-city-vs-reading
-🔴 ERROR on detail page https://pogo.pk/events/man-united-vs-liverpool: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/man-united-vs-liverpool", waiting until "load"
-
+🟢 Successfully processed: Nations League [11/32]
 🟡 Visiting detail page [14/32]: https://pogo.pk/events/dragons-vs-scarlets
 🟢 Successfully processed: EFL [12/32]
 🟡 Visiting detail page [15/32]: https://pogo.pk/events/glasgow-warriors-vs-ulster
@@ -47,31 +44,28 @@ Call log:
 🟡 Visiting detail page [21/32]: https://pogo.pk/events/iceland-vs-bulgaria
 🟢 Successfully processed: Nations League [19/32]
 🟡 Visiting detail page [22/32]: https://pogo.pk/events/spain-vs-czechia
-🟢 Successfully processed: Nations League [22/32]
+🟢 Successfully processed: Nations League [20/32]
 🟡 Visiting detail page [23/32]: https://pogo.pk/events/scotland-vs-north-macedonia
 🟢 Successfully processed: Nations League [23/32]
 🟡 Visiting detail page [24/32]: https://pogo.pk/events/switzerland-vs-slovenia
 🟢 Successfully processed: Nations League [21/32]
 🟡 Visiting detail page [25/32]: https://pogo.pk/events/guardians-vs-white-sox
-🟢 Successfully processed: Nations League [20/32]
+🟢 Successfully processed: Nations League [22/32]
 🟡 Visiting detail page [26/32]: https://pogo.pk/events/braves-vs-dodgers
-🟢 Successfully processed: MLB [25/32]
-🟡 Visiting detail page [27/32]: https://pogo.pk/events/rays-vs-yankees
 🟢 Successfully processed: Nations League [24/32]
+🟡 Visiting detail page [27/32]: https://pogo.pk/events/rays-vs-yankees
+🟢 Successfully processed: MLB [25/32]
 🟡 Visiting detail page [28/32]: https://pogo.pk/events/canada-vs-peru
 🟢 Successfully processed: MLB [26/32]
 🟡 Visiting detail page [29/32]: https://pogo.pk/events/argentina-vs-burkina-faso
 🟢 Successfully processed: MLB [27/32]
 🟡 Visiting detail page [30/32]: https://pogo.pk/events/usa-vs-mexico
-🟢 Successfully processed: Friendly [29/32]
-🟡 Visiting detail page [31/32]: https://pogo.pk/events/natalia-silva-vs-wang-cong
 🟢 Successfully processed: Friendly [30/32]
+🟡 Visiting detail page [31/32]: https://pogo.pk/events/natalia-silva-vs-wang-cong
+🟢 Successfully processed: Friendly [28/32]
 🟡 Visiting detail page [32/32]: https://pogo.pk/events/commanders-vs-colts
-🔴 ERROR on detail page https://pogo.pk/events/canada-vs-peru: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/canada-vs-peru", waiting until "load"
-
+🟢 Successfully processed: Friendly [29/32]
 🟢 Successfully processed: UFC [31/32]
 🟢 Successfully processed: NFL [32/32]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 30
+🟢 Process completed successfully. Total collected events: 32

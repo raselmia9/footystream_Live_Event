@@ -194,40 +194,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-04 02:00:00",
-        "team1Title": "Atlanta Braves",
-        "team2Title": "Los Angeles Dodgers",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/braves-vs-dodgers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/braves-vs-dodgers/2499"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-04 04:30:00",
-        "team1Title": "Tampa Bay Rays",
-        "team2Title": "New York Yankees",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/rays-vs-yankees/2500"
-            }
-        ]
-    },
-    {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-04 00:00:00",
         "team1Title": "Canada",
@@ -316,7 +282,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/scotland-vs-north-macedonia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/scotland-vs-north-macedonia/2520"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/scotland-vs-north-macedonia/2521"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/scotland-vs-north-macedonia/2522"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -357,6 +336,40 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/bulls-vs-munster/2496"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-04 02:00:00",
+        "team1Title": "Atlanta Braves",
+        "team2Title": "Los Angeles Dodgers",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/braves-vs-dodgers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/braves-vs-dodgers/2499"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-04 04:30:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "New York Yankees",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/rays-vs-yankees/2500"
             }
         ]
     },

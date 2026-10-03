@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 23
 🟡 Visiting detail page [1/23]: https://pogo.pk/events/alfred-dunhill-championship
-🟡 Visiting detail page [2/23]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [3/23]: https://pogo.pk/events/bank-of-utah-championship
-🟢 Successfully processed: PGA Tour [3/23]
-🟡 Visiting detail page [4/23]: https://pogo.pk/events/canada-vs-peru
+🟡 Visiting detail page [2/23]: https://pogo.pk/events/japan-open-tennis-championships
 🟢 Successfully processed: PGA Tour [1/23]
+🟢 Successfully processed: PGA Tour [3/23]
 🟢 Successfully processed: ATP Tour [2/23]
+🟡 Visiting detail page [4/23]: https://pogo.pk/events/canada-vs-peru
 🟡 Visiting detail page [5/23]: https://pogo.pk/events/spain-vs-czechia
 🟡 Visiting detail page [6/23]: https://pogo.pk/events/scotland-vs-north-macedonia
 🟢 Successfully processed: Friendly [4/23]
 🟡 Visiting detail page [7/23]: https://pogo.pk/events/bulls-vs-munster
-🟢 Successfully processed: Nations League [5/23]
-🟡 Visiting detail page [8/23]: https://pogo.pk/events/switzerland-vs-slovenia
 🟢 Successfully processed: Nations League [6/23]
+🟡 Visiting detail page [8/23]: https://pogo.pk/events/switzerland-vs-slovenia
+🟢 Successfully processed: Nations League [5/23]
 🟡 Visiting detail page [9/23]: https://pogo.pk/events/braves-vs-dodgers
 🟢 Successfully processed: United Rugby [7/23]
 🟡 Visiting detail page [10/23]: https://pogo.pk/events/natalia-silva-vs-wang-cong
@@ -41,12 +41,12 @@
 🟡 Visiting detail page [19/23]: https://pogo.pk/events/kosovo-vs-austria
 🟡 Visiting detail page [20/23]: https://pogo.pk/events/malta-vs-andorra-live
 🟢 Successfully processed: Nations League [19/23]
-🟢 Successfully processed: Nations League [20/23]
 🟡 Visiting detail page [21/23]: https://pogo.pk/events/portugal-vs-norway
+🟢 Successfully processed: Nations League [20/23]
 🟡 Visiting detail page [22/23]: https://pogo.pk/events/germany-vs-greece
 🟢 Successfully processed: Nations League [21/23]
-🟢 Successfully processed: Nations League [22/23]
 🟡 Visiting detail page [23/23]: https://pogo.pk/events/commanders-vs-colts
+🟢 Successfully processed: Nations League [22/23]
 🟢 Successfully processed: Snooker [17/23]
 🟢 Successfully processed: NFL [23/23]
 🟢 Browser closed successfully.

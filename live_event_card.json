@@ -59,23 +59,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-03 23:00:00",
-        "team1Title": "Cleveland Guardians",
-        "team2Title": "Chicago White Sox",
-        "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/guardians-vs-white-sox",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/guardians-vs-white-sox/2495"
-            }
-        ]
-    },
-    {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-04 00:00:00",
         "team1Title": "Canada",
@@ -210,23 +193,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-04 04:30:00",
-        "team1Title": "Tampa Bay Rays",
-        "team2Title": "New York Yankees",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/rays-vs-yankees/2500"
-            }
-        ]
-    },
-    {
         "eventTitle": "UFC",
         "matchTime": "2026-10-04 04:00:00",
         "team1Title": "Natalia Silva",
@@ -240,6 +206,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://pogo.pk/alpha/natalia-silva-vs-wang-cong/2498"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-04 04:30:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "New York Yankees",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/rays-vs-yankees/2500"
             }
         ]
     },
@@ -351,6 +334,66 @@
                 "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2332"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-04 19:00:00",
+        "team1Title": "Azerbaijan",
+        "team2Title": "Lithuania",
+        "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/azerbaijan-vs-lithuania",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-04 22:00:00",
+        "team1Title": "Kosovo",
+        "team2Title": "Austria",
+        "team1Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/kosovo-vs-austria",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-04 22:00:00",
+        "team1Title": "Malta",
+        "team2Title": "Andorra",
+        "team1Logo": "https://cdn.img4every1.org/team/malta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/malta-vs-andorra-live",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 00:45:00",
+        "team1Title": "Portugal",
+        "team2Title": "Norway",
+        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/portugal-vs-norway",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 00:45:00",
+        "team1Title": "Germany",
+        "team2Title": "Greece",
+        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/germany-vs-greece",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "NFL",

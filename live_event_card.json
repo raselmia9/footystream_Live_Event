@@ -357,6 +357,159 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Title": "Dragons",
+        "team2Title": "Scarlets",
+        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/dragons-vs-scarlets",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/dragons-vs-scarlets/2491"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-03 22:30:00",
+        "team1Title": "Glasgow Warriors",
+        "team2Title": "Ulster",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-ulster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/glasgow-warriors-vs-ulster/2493"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-04 00:45:00",
+        "team1Title": "Bulls",
+        "team2Title": "Munster",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulls-vs-munster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bulls-vs-munster/2496"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Title": "Bristol Bears",
+        "team2Title": "Northampton Saints",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-northampton",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bristol-bears-vs-northampton/2492"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-03 22:30:00",
+        "team1Title": "Gloucester Rugby",
+        "team2Title": "Harlequins",
+        "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/gloucester-vs-harlequins",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/gloucester-vs-harlequins/2494"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-03 23:00:00",
+        "team1Title": "Cleveland Guardians",
+        "team2Title": "Chicago White Sox",
+        "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/guardians-vs-white-sox",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/guardians-vs-white-sox/2495"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-04 02:00:00",
+        "team1Title": "Atlanta Braves",
+        "team2Title": "Los Angeles Dodgers",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/braves-vs-dodgers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/braves-vs-dodgers/2499"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-04 04:30:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "New York Yankees",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/rays-vs-yankees/2500"
+            }
+        ]
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-10-04 04:00:00",
+        "team1Title": "Natalia Silva",
+        "team2Title": "Wang Cong",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/natalia-silva-vs-wang-cong",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/natalia-silva-vs-wang-cong/2498"
+            }
+        ]
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-04 19:30:00",
         "team1Title": "Washington Commanders",

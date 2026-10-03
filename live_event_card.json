@@ -1,30 +1,5 @@
 [
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "England",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-croatia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/england-vs-croatia/2503"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/england-vs-croatia/2504"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/england-vs-croatia/2505"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-02 16:00:00",
         "team1Title": "Alfred Dunhill Championship",
@@ -63,65 +38,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://pogo.pk/alpha/japan-open-tennis-championships/2397"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Belarus",
-        "team1Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/belarus-vs-san-marino",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/belarus-vs-san-marino/2511"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/belarus-vs-san-marino/2512"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Estonia",
-        "team1Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/estonia-vs-luxembourg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/estonia-vs-luxembourg/2509"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/estonia-vs-luxembourg/2510"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Iceland",
-        "team1Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/iceland-vs-bulgaria",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/iceland-vs-bulgaria/2506"
             }
         ]
     },

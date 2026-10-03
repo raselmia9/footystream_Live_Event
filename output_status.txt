@@ -2,56 +2,48 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 25
-🟡 Visiting detail page [2/25]: https://pogo.pk/events/alfred-dunhill-championship
-🟡 Visiting detail page [3/25]: https://pogo.pk/events/japan-open-tennis-championships
-🟡 Visiting detail page [1/25]: https://pogo.pk/events/england-vs-croatia
-🟢 Successfully processed: ATP Tour [3/25]
-🟢 Successfully processed: PGA Tour [2/25]
-🟢 Successfully processed: Nations League [1/25]
-🟡 Visiting detail page [4/25]: https://pogo.pk/events/belarus-vs-san-marino
-🟡 Visiting detail page [5/25]: https://pogo.pk/events/estonia-vs-luxembourg
-🟡 Visiting detail page [6/25]: https://pogo.pk/events/iceland-vs-bulgaria
-🟢 Successfully processed: Nations League [6/25]
-🟢 Successfully processed: Nations League [5/25]
-🟡 Visiting detail page [7/25]: https://pogo.pk/events/bank-of-utah-championship
-🟡 Visiting detail page [8/25]: https://pogo.pk/events/gloucester-vs-harlequins
-🟢 Successfully processed: Nations League [4/25]
-🟡 Visiting detail page [9/25]: https://pogo.pk/events/glasgow-warriors-vs-ulster
-🟢 Successfully processed: United Rugby [9/25]
-🟡 Visiting detail page [10/25]: https://pogo.pk/events/guardians-vs-white-sox
-🟢 Successfully processed: Premiership Rugby [8/25]
-🟡 Visiting detail page [11/25]: https://pogo.pk/events/canada-vs-peru
-🟢 Successfully processed: PGA Tour [7/25]
-🟡 Visiting detail page [12/25]: https://pogo.pk/events/spain-vs-czechia
-🟢 Successfully processed: MLB [10/25]
-🟡 Visiting detail page [13/25]: https://pogo.pk/events/scotland-vs-north-macedonia
-🟢 Successfully processed: Friendly [11/25]
-🟡 Visiting detail page [14/25]: https://pogo.pk/events/switzerland-vs-slovenia
-🟢 Successfully processed: Nations League [12/25]
-🟡 Visiting detail page [15/25]: https://pogo.pk/events/bulls-vs-munster
-🟢 Successfully processed: United Rugby [15/25]
-🟡 Visiting detail page [16/25]: https://pogo.pk/events/braves-vs-dodgers
-🟢 Successfully processed: Nations League [13/25]
-🟡 Visiting detail page [17/25]: https://pogo.pk/events/rays-vs-yankees
-🟢 Successfully processed: Nations League [14/25]
-🟡 Visiting detail page [18/25]: https://pogo.pk/events/natalia-silva-vs-wang-cong
-🟢 Successfully processed: MLB [16/25]
-🟡 Visiting detail page [19/25]: https://pogo.pk/events/lpga-lotte-championship
-🟢 Successfully processed: MLB [17/25]
-🟡 Visiting detail page [20/25]: https://pogo.pk/events/argentina-vs-burkina-faso
-🟢 Successfully processed: UFC [18/25]
-🟡 Visiting detail page [21/25]: https://pogo.pk/events/usa-vs-mexico
-🟢 Successfully processed: Friendly [21/25]
-🟡 Visiting detail page [22/25]: https://pogo.pk/events/japanese-gp
-🟢 Successfully processed: PGA Tour [19/25]
-🟡 Visiting detail page [23/25]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: Friendly [20/25]
-🟡 Visiting detail page [24/25]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: MotoGP [22/25]
-🟡 Visiting detail page [25/25]: https://pogo.pk/events/commanders-vs-colts
-🟢 Successfully processed: Formula 1 [23/25]
-🟢 Successfully processed: Snooker [24/25]
-🟢 Successfully processed: NFL [25/25]
+🟢 Total unique detail links to process in parallel: 21
+🟡 Visiting detail page [2/21]: https://pogo.pk/events/japan-open-tennis-championships
+🟡 Visiting detail page [3/21]: https://pogo.pk/events/bank-of-utah-championship
+🟡 Visiting detail page [1/21]: https://pogo.pk/events/alfred-dunhill-championship
+🟢 Successfully processed: PGA Tour [1/21]
+🟢 Successfully processed: ATP Tour [2/21]
+🟢 Successfully processed: PGA Tour [3/21]
+🟡 Visiting detail page [4/21]: https://pogo.pk/events/gloucester-vs-harlequins
+🟡 Visiting detail page [5/21]: https://pogo.pk/events/glasgow-warriors-vs-ulster
+🟡 Visiting detail page [6/21]: https://pogo.pk/events/guardians-vs-white-sox
+🟢 Successfully processed: MLB [6/21]
+🟡 Visiting detail page [7/21]: https://pogo.pk/events/canada-vs-peru
+🟢 Successfully processed: United Rugby [5/21]
+🟡 Visiting detail page [8/21]: https://pogo.pk/events/spain-vs-czechia
+🟢 Successfully processed: Premiership Rugby [4/21]
+🟡 Visiting detail page [9/21]: https://pogo.pk/events/scotland-vs-north-macedonia
+🟢 Successfully processed: Friendly [7/21]
+🟡 Visiting detail page [10/21]: https://pogo.pk/events/switzerland-vs-slovenia
+🟢 Successfully processed: Nations League [8/21]
+🟡 Visiting detail page [11/21]: https://pogo.pk/events/bulls-vs-munster
+🟢 Successfully processed: Nations League [9/21]
+🟡 Visiting detail page [12/21]: https://pogo.pk/events/braves-vs-dodgers
+🟢 Successfully processed: Nations League [10/21]
+🟡 Visiting detail page [13/21]: https://pogo.pk/events/rays-vs-yankees
+🟢 Successfully processed: United Rugby [11/21]
+🟡 Visiting detail page [14/21]: https://pogo.pk/events/natalia-silva-vs-wang-cong
+🟢 Successfully processed: MLB [12/21]
+🟡 Visiting detail page [15/21]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: MLB [13/21]
+🟡 Visiting detail page [16/21]: https://pogo.pk/events/argentina-vs-burkina-faso
+🟢 Successfully processed: UFC [14/21]
+🟡 Visiting detail page [17/21]: https://pogo.pk/events/usa-vs-mexico
+🟢 Successfully processed: PGA Tour [15/21]
+🟡 Visiting detail page [18/21]: https://pogo.pk/events/japanese-gp
+🟢 Successfully processed: Friendly [17/21]
+🟡 Visiting detail page [19/21]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: Friendly [16/21]
+🟡 Visiting detail page [20/21]: https://pogo.pk/events/shenzhen-open-snooker
+🟢 Successfully processed: MotoGP [18/21]
+🟡 Visiting detail page [21/21]: https://pogo.pk/events/commanders-vs-colts
+🟢 Successfully processed: Formula 1 [19/21]
+🟢 Successfully processed: Snooker [20/21]
+🟢 Successfully processed: NFL [21/21]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 25
+🟢 Process completed successfully. Total collected events: 21

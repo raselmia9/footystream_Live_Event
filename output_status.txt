@@ -3,62 +3,56 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
-🟡 Visiting detail page [2/31]: https://pogo.pk/events/japan-open-tennis-championships
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [3/31]: https://pogo.pk/events/bank-of-utah-championship
+🟡 Visiting detail page [2/31]: https://pogo.pk/events/japan-open-tennis-championships
 🟢 Successfully processed: Snooker [1/31]
-🟢 Successfully processed: PGA Tour [3/31]
 🟡 Visiting detail page [4/31]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: PGA Tour [3/31]
 🟡 Visiting detail page [5/31]: https://pogo.pk/events/japanese-gp
 🟢 Successfully processed: ATP Tour [2/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/f1-bahrain-grand-prix
 🟢 Successfully processed: PGA Tour [4/31]
 🟡 Visiting detail page [7/31]: https://pogo.pk/events/alfred-dunhill-championship
-🟢 Successfully processed: Formula 1 [6/31]
-🟡 Visiting detail page [8/31]: https://pogo.pk/events/chesterfield-vs-tranmere-rovers
 🟢 Successfully processed: MotoGP [5/31]
+🟡 Visiting detail page [8/31]: https://pogo.pk/events/chesterfield-vs-tranmere-rovers
+🟢 Successfully processed: Formula 1 [6/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/man-united-vs-liverpool
-🟢 Successfully processed: EFL [8/31]
+🟢 Successfully processed: PGA Tour [7/31]
 🟡 Visiting detail page [10/31]: https://pogo.pk/events/albania-vs-finland
-🟢 Successfully processed: WSL [9/31]
+🟢 Successfully processed: EFL [8/31]
 🟡 Visiting detail page [11/31]: https://pogo.pk/events/england-vs-croatia
-🔴 ERROR on detail page https://pogo.pk/events/alfred-dunhill-championship: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/alfred-dunhill-championship", waiting until "load"
-
-🟡 Visiting detail page [12/31]: https://pogo.pk/events/belarus-vs-san-marino
 🟢 Successfully processed: Nations League [11/31]
-🟡 Visiting detail page [13/31]: https://pogo.pk/events/estonia-vs-luxembourg
+🟡 Visiting detail page [12/31]: https://pogo.pk/events/belarus-vs-san-marino
 🟢 Successfully processed: Nations League [12/31]
-🟡 Visiting detail page [14/31]: https://pogo.pk/events/iceland-vs-bulgaria
+🟡 Visiting detail page [13/31]: https://pogo.pk/events/estonia-vs-luxembourg
 🟢 Successfully processed: Nations League [13/31]
-🟡 Visiting detail page [15/31]: https://pogo.pk/events/spain-vs-czechia
+🟡 Visiting detail page [14/31]: https://pogo.pk/events/iceland-vs-bulgaria
 🟢 Successfully processed: Nations League [14/31]
+🟡 Visiting detail page [15/31]: https://pogo.pk/events/spain-vs-czechia
+🟢 Successfully processed: WSL [9/31]
 🟡 Visiting detail page [16/31]: https://pogo.pk/events/india-vs-brazil
-🟢 Successfully processed: Nations League [15/31]
-🟡 Visiting detail page [17/31]: https://pogo.pk/events/canada-vs-peru
 🟢 Successfully processed: Nations League [10/31]
+🟡 Visiting detail page [17/31]: https://pogo.pk/events/canada-vs-peru
+🟢 Successfully processed: Nations League [15/31]
 🟡 Visiting detail page [18/31]: https://pogo.pk/events/argentina-vs-burkina-faso
 🟢 Successfully processed: Friendly [17/31]
-🟢 Successfully processed: Friendly [18/31]
 🟡 Visiting detail page [19/31]: https://pogo.pk/events/usa-vs-mexico
+🟢 Successfully processed: Friendly [18/31]
 🟡 Visiting detail page [20/31]: https://pogo.pk/events/burton-albion-vs-huddersfield-town
 🟢 Successfully processed: Friendly [19/31]
 🟡 Visiting detail page [21/31]: https://pogo.pk/events/bradford-city-vs-reading
 🟢 Successfully processed: Friendly [16/31]
 🟡 Visiting detail page [22/31]: https://pogo.pk/events/dragons-vs-scarlets
-🟢 Successfully processed: EFL [20/31]
-🟡 Visiting detail page [23/31]: https://pogo.pk/events/glasgow-warriors-vs-ulster
 🟢 Successfully processed: EFL [21/31]
-🟡 Visiting detail page [24/31]: https://pogo.pk/events/bulls-vs-munster
+🟡 Visiting detail page [23/31]: https://pogo.pk/events/glasgow-warriors-vs-ulster
 🟢 Successfully processed: United Rugby [22/31]
+🟡 Visiting detail page [24/31]: https://pogo.pk/events/bulls-vs-munster
+🟢 Successfully processed: EFL [20/31]
 🟡 Visiting detail page [25/31]: https://pogo.pk/events/bristol-bears-vs-northampton
-🟢 Successfully processed: United Rugby [24/31]
+🟢 Successfully processed: United Rugby [23/31]
 🟡 Visiting detail page [26/31]: https://pogo.pk/events/gloucester-vs-harlequins
-🔴 ERROR on detail page https://pogo.pk/events/glasgow-warriors-vs-ulster: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/glasgow-warriors-vs-ulster", waiting until "load"
-
+🟢 Successfully processed: United Rugby [24/31]
 🟡 Visiting detail page [27/31]: https://pogo.pk/events/guardians-vs-white-sox
 🟢 Successfully processed: Premiership Rugby [25/31]
 🟡 Visiting detail page [28/31]: https://pogo.pk/events/braves-vs-dodgers
@@ -72,4 +66,4 @@ Call log:
 🟢 Successfully processed: UFC [30/31]
 🟢 Successfully processed: NFL [31/31]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 29
+🟢 Process completed successfully. Total collected events: 31

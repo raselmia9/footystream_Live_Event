@@ -1,5 +1,30 @@
 [
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-03 22:00:00",
+        "team1Title": "England",
+        "team2Title": "Croatia",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-croatia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/england-vs-croatia/2503"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/england-vs-croatia/2504"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://pogo.pk/alpha/england-vs-croatia/2505"
+            }
+        ]
+    },
+    {
         "eventTitle": "Snooker",
         "matchTime": "2026-09-28 12:00:00",
         "team1Title": "Shenzhen Open Snooker",
@@ -248,7 +273,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/argentina-vs-burkina-faso",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/argentina-vs-burkina-faso/2502"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",
@@ -384,18 +414,6 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "England",
-        "team2Title": "Croatia",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-croatia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-03 22:00:00",
         "team1Title": "Belarus",
         "team2Title": "Team 2",
         "team1Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
@@ -451,6 +469,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/scotland-vs-north-macedonia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-04 00:45:00",
+        "team1Title": "Switzerland",
+        "team2Title": "Slovenia",
+        "team1Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/switzerland-vs-slovenia",
         "multiWatchPageLink": []
     },
     {

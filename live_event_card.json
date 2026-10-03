@@ -160,40 +160,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Title": "Burton Albion",
-        "team2Title": "Huddersfield Town",
-        "team1Logo": "https://cdn.img4every1.org/team/burton-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/huddersfield-town/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/burton-albion-vs-huddersfield-town",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/burton-albion-vs-huddersfield-town/2479"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-03 20:00:00",
-        "team1Title": "Bradford City",
-        "team2Title": "Reading",
-        "team1Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bradford-city-vs-reading",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/bradford-city-vs-reading/2480"
-            }
-        ]
-    },
-    {
         "eventTitle": "WSL",
         "matchTime": "2026-10-03 18:30:00",
         "team1Title": "Manchester United",
@@ -355,6 +321,40 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/usa-vs-mexico",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Title": "Burton Albion",
+        "team2Title": "Huddersfield Town",
+        "team1Logo": "https://cdn.img4every1.org/team/burton-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/huddersfield-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/burton-albion-vs-huddersfield-town",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/burton-albion-vs-huddersfield-town/2479"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-03 20:00:00",
+        "team1Title": "Bradford City",
+        "team2Title": "Reading",
+        "team1Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bradford-city-vs-reading",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/bradford-city-vs-reading/2480"
+            }
+        ]
     },
     {
         "eventTitle": "United Rugby",

@@ -86,18 +86,6 @@
     {
         "eventTitle": "Live Event",
         "matchTime": "",
-        "team1Title": "Colombia",
-        "team2Title": "Paraguay",
-        "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/paraguay/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/colombia-vs-paraguay",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Live Event",
-        "matchTime": "",
         "team1Title": "Chesterfield",
         "team2Title": "Tranmere Rovers",
         "team1Logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",

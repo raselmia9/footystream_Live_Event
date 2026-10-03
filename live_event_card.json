@@ -63,23 +63,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-04 02:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Atlanta Braves",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/braves-vs-dodgers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/braves-vs-dodgers/2499"
-            }
-        ]
-    },
-    {
         "eventTitle": "UFC",
         "matchTime": "2026-10-04 04:00:00",
         "team1Title": "Natalia Silva",

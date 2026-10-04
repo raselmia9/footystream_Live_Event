@@ -1,63 +1,5 @@
 [
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Portugal",
-        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/portugal-vs-norway",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/portugal-vs-norway/2539"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/portugal-vs-norway/2540"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/portugal-vs-norway/2541"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/portugal-vs-norway/2542"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Germany",
-        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/germany-vs-greece",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/germany-vs-greece/2543"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/germany-vs-greece/2544"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/germany-vs-greece/2545"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/germany-vs-greece/2546"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-03 22:00:00",
         "team1Title": "Bank of Utah Championship",
@@ -88,65 +30,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/lpga-lotte-championship/2449"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Wales",
-        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/wales-vs-denmark",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/wales-vs-denmark/2548"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/wales-vs-denmark/2549"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Ireland",
-        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ireland-vs-israel",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ireland-vs-israel/2547"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Netherlands",
-        "team1Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/netherlands-vs-serbia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/netherlands-vs-serbia/2550"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/netherlands-vs-serbia/2551"
             }
         ]
     },

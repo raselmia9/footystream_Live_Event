@@ -36,8 +36,8 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-10-05 02:05:00",
-        "team1Title": "Minnesota Vikings",
-        "team2Title": "Miami Dolphins",
+        "team1Title": "Event Ended",
+        "team2Title": "Minnesota Vikings",
         "team1Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
         "isHot": true,

@@ -106,7 +106,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/azerbaijan-vs-lithuania",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2526"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2527"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

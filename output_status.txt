@@ -6,11 +6,11 @@
 🟡 Visiting detail page [2/28]: https://pogo.pk/events/germany-vs-greece
 🟡 Visiting detail page [3/28]: https://pogo.pk/events/bank-of-utah-championship
 🟡 Visiting detail page [1/28]: https://pogo.pk/events/portugal-vs-norway
-🟢 Successfully processed: PGA Tour [3/28]
-🟡 Visiting detail page [4/28]: https://pogo.pk/events/lpga-lotte-championship
-🟢 Successfully processed: Nations League [2/28]
-🟡 Visiting detail page [5/28]: https://pogo.pk/events/bills-vs-patriots-live
 🟢 Successfully processed: Nations League [1/28]
+🟡 Visiting detail page [4/28]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: PGA Tour [3/28]
+🟡 Visiting detail page [5/28]: https://pogo.pk/events/bills-vs-patriots-live
+🟢 Successfully processed: Nations League [2/28]
 🟡 Visiting detail page [6/28]: https://pogo.pk/events/bengals-vs-jaguars
 🟢 Successfully processed: PGA Tour [4/28]
 🟡 Visiting detail page [7/28]: https://pogo.pk/events/los-angeles-rams-vs-eagles-live-stream
@@ -46,9 +46,9 @@
 🟡 Visiting detail page [22/28]: https://pogo.pk/events/georgia-vs-northern-ireland
 🟢 Successfully processed: NFL [16/28]
 🟡 Visiting detail page [23/28]: https://pogo.pk/events/france-vs-belgium
-🟢 Successfully processed: NFL [17/28]
-🟡 Visiting detail page [24/28]: https://pogo.pk/events/india-vs-uruguay
 🟢 Successfully processed: Nations League [22/28]
+🟡 Visiting detail page [24/28]: https://pogo.pk/events/india-vs-uruguay
+🟢 Successfully processed: NFL [17/28]
 🟡 Visiting detail page [25/28]: https://pogo.pk/events/argentina-vs-benin
 🟢 Successfully processed: Nations League [23/28]
 🟡 Visiting detail page [26/28]: https://pogo.pk/events/colombia-vs-peru

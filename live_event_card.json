@@ -36,8 +36,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-04 22:00:00",
-        "team1Title": "Kosovo",
-        "team2Title": "Austria",
+        "team1Title": "Event Ended",
+        "team2Title": "Kosovo",
         "team1Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
         "isHot": true,
@@ -57,8 +57,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-04 22:00:00",
-        "team1Title": "Malta",
-        "team2Title": "Andorra",
+        "team1Title": "Event Ended",
+        "team2Title": "Malta",
         "team1Logo": "https://cdn.img4every1.org/team/malta/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
         "isHot": true,
@@ -305,6 +305,78 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/latvia-vs-cyprus",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-05 02:05:00",
+        "team1Title": "Minnesota Vikings",
+        "team2Title": "Miami Dolphins",
+        "team1Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/vikings-vs-dolphins",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/vikings-vs-dolphins/2552"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-05 02:25:00",
+        "team1Title": "San Francisco 49ers",
+        "team2Title": "Denver Broncos",
+        "team1Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/49ers-vs-broncos",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/49ers-vs-broncos/2553"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-05 02:25:00",
+        "team1Title": "Los Angeles Chargers",
+        "team2Title": "Seattle Seahawks",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chargers-vs-seahawks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chargers-vs-seahawks/2556"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-05 02:25:00",
+        "team1Title": "Kansas City Chiefs",
+        "team2Title": "Las Vegas Raiders",
+        "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chiefs-vs-raiders-live",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chiefs-vs-raiders-live/2554"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/chiefs-vs-raiders-live/2555"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

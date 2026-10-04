@@ -2,41 +2,34 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 16
-🟡 Visiting detail page [1/16]: https://pogo.pk/events/japan-open-tennis-championships
-🟡 Visiting detail page [2/16]: https://pogo.pk/events/bank-of-utah-championship
-🟡 Visiting detail page [3/16]: https://pogo.pk/events/natalia-silva-vs-wang-cong
-🟢 Successfully processed: PGA Tour [2/16]
-🟢 Successfully processed: UFC [3/16]
-🟢 Successfully processed: ATP Tour [1/16]
-🟡 Visiting detail page [5/16]: https://pogo.pk/events/japanese-gp
-🟡 Visiting detail page [4/16]: https://pogo.pk/events/lpga-lotte-championship
-🟡 Visiting detail page [6/16]: https://pogo.pk/events/usa-vs-mexico
-🟢 Successfully processed: MotoGP [5/16]
-🟡 Visiting detail page [7/16]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: Friendly [6/16]
-🟡 Visiting detail page [8/16]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: Formula 1 [7/16]
-🟡 Visiting detail page [9/16]: https://pogo.pk/events/alfred-dunhill-championship
-🟢 Successfully processed: Snooker [8/16]
-🟡 Visiting detail page [10/16]: https://pogo.pk/events/azerbaijan-vs-lithuania
-🟢 Successfully processed: PGA Tour [4/16]
-🟡 Visiting detail page [11/16]: https://pogo.pk/events/kosovo-vs-austria
-🟢 Successfully processed: Nations League [10/16]
-🟡 Visiting detail page [12/16]: https://pogo.pk/events/malta-vs-andorra-live
-🟢 Successfully processed: Nations League [11/16]
-🟡 Visiting detail page [13/16]: https://pogo.pk/events/wales-vs-denmark
-🟢 Successfully processed: Nations League [12/16]
-🟡 Visiting detail page [14/16]: https://pogo.pk/events/portugal-vs-norway
-🟢 Successfully processed: Nations League [13/16]
-🟡 Visiting detail page [15/16]: https://pogo.pk/events/germany-vs-greece
-🟢 Successfully processed: Nations League [14/16]
-🟡 Visiting detail page [16/16]: https://pogo.pk/events/commanders-vs-colts
-🟢 Successfully processed: Nations League [15/16]
-🟢 Successfully processed: NFL [16/16]
-🔴 ERROR on detail page https://pogo.pk/events/alfred-dunhill-championship: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/alfred-dunhill-championship", waiting until "load"
-
+🟢 Total unique detail links to process in parallel: 14
+🟡 Visiting detail page [2/14]: https://pogo.pk/events/bank-of-utah-championship
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/japan-open-tennis-championships
+🟡 Visiting detail page [3/14]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: ATP Tour [1/14]
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/japanese-gp
+🟢 Successfully processed: PGA Tour [2/14]
+🟡 Visiting detail page [5/14]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: PGA Tour [3/14]
+🟡 Visiting detail page [6/14]: https://pogo.pk/events/shenzhen-open-snooker
+🟢 Successfully processed: Formula 1 [5/14]
+🟡 Visiting detail page [7/14]: https://pogo.pk/events/alfred-dunhill-championship
+🟢 Successfully processed: Snooker [6/14]
+🟡 Visiting detail page [8/14]: https://pogo.pk/events/azerbaijan-vs-lithuania
+🟢 Successfully processed: Nations League [8/14]
+🟡 Visiting detail page [9/14]: https://pogo.pk/events/kosovo-vs-austria
+🟢 Successfully processed: Nations League [9/14]
+🟡 Visiting detail page [10/14]: https://pogo.pk/events/malta-vs-andorra-live
+🟢 Successfully processed: Nations League [10/14]
+🟡 Visiting detail page [11/14]: https://pogo.pk/events/wales-vs-denmark
+🟢 Successfully processed: Nations League [11/14]
+🟡 Visiting detail page [12/14]: https://pogo.pk/events/portugal-vs-norway
+🟢 Successfully processed: Nations League [12/14]
+🟡 Visiting detail page [13/14]: https://pogo.pk/events/germany-vs-greece
+🟢 Successfully processed: MotoGP [4/14]
+🟡 Visiting detail page [14/14]: https://pogo.pk/events/commanders-vs-colts
+🟢 Successfully processed: PGA Tour [7/14]
+🟢 Successfully processed: Nations League [13/14]
+🟢 Successfully processed: NFL [14/14]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 15
+🟢 Process completed successfully. Total collected events: 14

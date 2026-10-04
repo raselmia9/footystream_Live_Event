@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/lpga-lotte-championship
-🟡 Visiting detail page [3/17]: https://pogo.pk/events/shenzhen-open-snooker
 🟡 Visiting detail page [1/17]: https://pogo.pk/events/bank-of-utah-championship
-🟢 Successfully processed: PGA Tour [2/17]
+🟡 Visiting detail page [3/17]: https://pogo.pk/events/shenzhen-open-snooker
 🟢 Successfully processed: PGA Tour [1/17]
 🟢 Successfully processed: Snooker [3/17]
-🟡 Visiting detail page [5/17]: https://pogo.pk/events/azerbaijan-vs-lithuania
+🟢 Successfully processed: PGA Tour [2/17]
 🟡 Visiting detail page [4/17]: https://pogo.pk/events/alfred-dunhill-championship
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/azerbaijan-vs-lithuania
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/commanders-vs-colts
 🟢 Successfully processed: PGA Tour [4/17]
 🟡 Visiting detail page [7/17]: https://pogo.pk/events/kosovo-vs-austria
+🟢 Successfully processed: NFL [6/17]
 🟢 Successfully processed: Nations League [5/17]
 🟡 Visiting detail page [8/17]: https://pogo.pk/events/malta-vs-andorra-live
-🟢 Successfully processed: NFL [6/17]
 🟡 Visiting detail page [9/17]: https://pogo.pk/events/wales-vs-denmark
 🟢 Successfully processed: Nations League [9/17]
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/portugal-vs-norway

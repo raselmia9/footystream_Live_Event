@@ -6,22 +6,22 @@
 🟡 Visiting detail page [1/22]: https://pogo.pk/events/bank-of-utah-championship
 🟡 Visiting detail page [2/22]: https://pogo.pk/events/lpga-lotte-championship
 🟡 Visiting detail page [3/22]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: PGA Tour [1/22]
-🟡 Visiting detail page [4/22]: https://pogo.pk/events/azerbaijan-vs-lithuania
 🟢 Successfully processed: PGA Tour [2/22]
-🟡 Visiting detail page [5/22]: https://pogo.pk/events/commanders-vs-colts
+🟡 Visiting detail page [4/22]: https://pogo.pk/events/azerbaijan-vs-lithuania
+🟢 Successfully processed: PGA Tour [1/22]
 🟢 Successfully processed: Snooker [3/22]
+🟡 Visiting detail page [5/22]: https://pogo.pk/events/commanders-vs-colts
 🟡 Visiting detail page [6/22]: https://pogo.pk/events/kosovo-vs-austria
-🟢 Successfully processed: Nations League [4/22]
-🟡 Visiting detail page [7/22]: https://pogo.pk/events/malta-vs-andorra-live
 🟢 Successfully processed: NFL [5/22]
-🟢 Successfully processed: Nations League [6/22]
+🟡 Visiting detail page [7/22]: https://pogo.pk/events/malta-vs-andorra-live
+🟢 Successfully processed: Nations League [4/22]
 🟡 Visiting detail page [8/22]: https://pogo.pk/events/wales-vs-denmark
+🟢 Successfully processed: Nations League [6/22]
 🟡 Visiting detail page [9/22]: https://pogo.pk/events/portugal-vs-norway
 🟢 Successfully processed: Nations League [8/22]
+🟡 Visiting detail page [10/22]: https://pogo.pk/events/germany-vs-greece
 🟢 Successfully processed: Nations League [9/22]
 🟡 Visiting detail page [11/22]: https://pogo.pk/events/ireland-vs-israel
-🟡 Visiting detail page [10/22]: https://pogo.pk/events/germany-vs-greece
 🟢 Successfully processed: Nations League [10/22]
 🟡 Visiting detail page [12/22]: https://pogo.pk/events/bills-vs-patriots-live
 🟢 Successfully processed: Nations League [11/22]

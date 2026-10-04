@@ -86,8 +86,8 @@
     {
         "eventTitle": "MLB",
         "matchTime": "2026-10-04 04:30:00",
-        "team1Title": "Tampa Bay Rays",
-        "team2Title": "New York Yankees",
+        "team1Title": "Event Ended",
+        "team2Title": "Tampa Bay Rays",
         "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
         "isHot": true,

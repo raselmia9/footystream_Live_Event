@@ -35,23 +35,6 @@
     },
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-10-05 02:05:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Minnesota Vikings",
-        "team1Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/vikings-vs-dolphins",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/vikings-vs-dolphins/2552"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
         "matchTime": "2026-10-05 02:25:00",
         "team1Title": "San Francisco 49ers",
         "team2Title": "Denver Broncos",

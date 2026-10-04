@@ -2,42 +2,40 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [2/18]: https://pogo.pk/events/lpga-lotte-championship
-🟡 Visiting detail page [1/18]: https://pogo.pk/events/bank-of-utah-championship
-🟡 Visiting detail page [3/18]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: Formula 1 [3/18]
-🟡 Visiting detail page [4/18]: https://pogo.pk/events/shenzhen-open-snooker
-🟢 Successfully processed: PGA Tour [1/18]
-🟢 Successfully processed: PGA Tour [2/18]
-🟡 Visiting detail page [5/18]: https://pogo.pk/events/alfred-dunhill-championship
-🟡 Visiting detail page [6/18]: https://pogo.pk/events/azerbaijan-vs-lithuania
-🟢 Successfully processed: Nations League [6/18]
-🟡 Visiting detail page [7/18]: https://pogo.pk/events/commanders-vs-colts
-🟢 Successfully processed: Snooker [4/18]
-🟡 Visiting detail page [8/18]: https://pogo.pk/events/kosovo-vs-austria
-🟢 Successfully processed: PGA Tour [5/18]
-🟡 Visiting detail page [9/18]: https://pogo.pk/events/malta-vs-andorra-live
-🟢 Successfully processed: NFL [7/18]
-🟡 Visiting detail page [10/18]: https://pogo.pk/events/wales-vs-denmark
-🟢 Successfully processed: Nations League [8/18]
-🟡 Visiting detail page [11/18]: https://pogo.pk/events/portugal-vs-norway
-🟢 Successfully processed: Nations League [9/18]
-🟡 Visiting detail page [12/18]: https://pogo.pk/events/germany-vs-greece
-🟢 Successfully processed: Nations League [10/18]
-🟡 Visiting detail page [13/18]: https://pogo.pk/events/ireland-vs-israel
-🟢 Successfully processed: Nations League [11/18]
-🟡 Visiting detail page [14/18]: https://pogo.pk/events/bills-vs-patriots-live
-🟢 Successfully processed: Nations League [12/18]
-🟡 Visiting detail page [15/18]: https://pogo.pk/events/bengals-vs-jaguars
-🟢 Successfully processed: Nations League [13/18]
-🟡 Visiting detail page [16/18]: https://pogo.pk/events/bears-vs-jets
-🟢 Successfully processed: NFL [14/18]
-🟡 Visiting detail page [17/18]: https://pogo.pk/events/ravens-vs-titans
-🟢 Successfully processed: NFL [15/18]
-🟡 Visiting detail page [18/18]: https://pogo.pk/events/cowboys-vs-texans-live-1
-🟢 Successfully processed: NFL [16/18]
-🟢 Successfully processed: NFL [17/18]
-🟢 Successfully processed: NFL [18/18]
+🟢 Total unique detail links to process in parallel: 17
+🟡 Visiting detail page [2/17]: https://pogo.pk/events/lpga-lotte-championship
+🟡 Visiting detail page [3/17]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [1/17]: https://pogo.pk/events/bank-of-utah-championship
+🟢 Successfully processed: PGA Tour [2/17]
+🟢 Successfully processed: PGA Tour [1/17]
+🟢 Successfully processed: Snooker [3/17]
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/azerbaijan-vs-lithuania
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/alfred-dunhill-championship
+🟡 Visiting detail page [6/17]: https://pogo.pk/events/commanders-vs-colts
+🟢 Successfully processed: PGA Tour [4/17]
+🟡 Visiting detail page [7/17]: https://pogo.pk/events/kosovo-vs-austria
+🟢 Successfully processed: Nations League [5/17]
+🟡 Visiting detail page [8/17]: https://pogo.pk/events/malta-vs-andorra-live
+🟢 Successfully processed: NFL [6/17]
+🟡 Visiting detail page [9/17]: https://pogo.pk/events/wales-vs-denmark
+🟢 Successfully processed: Nations League [9/17]
+🟡 Visiting detail page [10/17]: https://pogo.pk/events/portugal-vs-norway
+🟢 Successfully processed: Nations League [10/17]
+🟡 Visiting detail page [11/17]: https://pogo.pk/events/germany-vs-greece
+🟢 Successfully processed: Nations League [11/17]
+🟡 Visiting detail page [12/17]: https://pogo.pk/events/ireland-vs-israel
+🟢 Successfully processed: Nations League [12/17]
+🟡 Visiting detail page [13/17]: https://pogo.pk/events/bills-vs-patriots-live
+🟢 Successfully processed: Nations League [7/17]
+🟡 Visiting detail page [14/17]: https://pogo.pk/events/bengals-vs-jaguars
+🟢 Successfully processed: Nations League [8/17]
+🟡 Visiting detail page [15/17]: https://pogo.pk/events/bears-vs-jets
+🟢 Successfully processed: NFL [13/17]
+🟡 Visiting detail page [16/17]: https://pogo.pk/events/ravens-vs-titans
+🟢 Successfully processed: NFL [14/17]
+🟡 Visiting detail page [17/17]: https://pogo.pk/events/cowboys-vs-texans-live-1
+🟢 Successfully processed: NFL [15/17]
+🟢 Successfully processed: NFL [16/17]
+🟢 Successfully processed: NFL [17/17]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 18
+🟢 Process completed successfully. Total collected events: 17

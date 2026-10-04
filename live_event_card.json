@@ -34,31 +34,6 @@
         ]
     },
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-10-04 10:00:00",
-        "team1Title": "f1 Bahrain Grand Prix",
-        "team2Title": "Formula 1",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/f1-bahrain-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2399"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2400"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://pogo.pk/alpha/f1-bahrain-grand-prix/2401"
-            }
-        ]
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-10-04 12:00:00",
         "team1Title": "Shenzhen Open Snooker",

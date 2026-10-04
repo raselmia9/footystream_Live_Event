@@ -34,27 +34,6 @@
         ]
     },
     {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-10-04 12:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Shenzhen Open Snooker",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/shenzhen-open-snooker",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2330"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2332"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-04 19:30:00",
         "team1Title": "Washington Commanders",
@@ -116,54 +95,6 @@
                 "url": "https://pogo.pk/alpha/malta-vs-andorra-live/2531"
             }
         ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Wales",
-        "team2Title": "Denmark",
-        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/wales-vs-denmark",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Portugal",
-        "team2Title": "Norway",
-        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/portugal-vs-norway",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Germany",
-        "team2Title": "Greece",
-        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/germany-vs-greece",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 00:45:00",
-        "team1Title": "Ireland",
-        "team2Title": "Israel",
-        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ireland-vs-israel",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "NFL",
@@ -266,6 +197,78 @@
                 "url": "https://pogo.pk/alpha/cowboys-vs-texans-live-1/2537"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 00:45:00",
+        "team1Title": "Wales",
+        "team2Title": "Denmark",
+        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wales-vs-denmark",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 00:45:00",
+        "team1Title": "Portugal",
+        "team2Title": "Norway",
+        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/portugal-vs-norway",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 00:45:00",
+        "team1Title": "Germany",
+        "team2Title": "Greece",
+        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/germany-vs-greece",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 00:45:00",
+        "team1Title": "Ireland",
+        "team2Title": "Israel",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ireland-vs-israel",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 00:45:00",
+        "team1Title": "Netherlands",
+        "team2Title": "Serbia",
+        "team1Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/netherlands-vs-serbia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 22:00:00",
+        "team1Title": "Latvia",
+        "team2Title": "Cyprus",
+        "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/latvia-vs-cyprus",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Friendly",

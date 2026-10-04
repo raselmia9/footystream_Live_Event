@@ -240,6 +240,23 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-10-04 23:00:00",
+        "team1Title": "Los Angeles Rams",
+        "team2Title": "Philadelphia Eagles",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/los-angeles-rams-vs-eagles-live-stream",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/los-angeles-rams-vs-eagles-live-stream/2538"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-04 23:00:00",
         "team1Title": "Chicago Bears",
         "team2Title": "New York Jets",
         "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",

@@ -34,48 +34,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-04 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Kosovo",
-        "team1Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/kosovo-vs-austria",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/kosovo-vs-austria/2528"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/kosovo-vs-austria/2529"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-04 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Malta",
-        "team1Logo": "https://cdn.img4every1.org/team/malta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/malta-vs-andorra-live",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/malta-vs-andorra-live/2530"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/malta-vs-andorra-live/2531"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-04 23:00:00",
         "team1Title": "Buffalo Bills",

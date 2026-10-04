@@ -4,25 +4,25 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 13
 🟡 Visiting detail page [2/13]: https://pogo.pk/events/bank-of-utah-championship
-🟡 Visiting detail page [3/13]: https://pogo.pk/events/lpga-lotte-championship
 🟡 Visiting detail page [1/13]: https://pogo.pk/events/japan-open-tennis-championships
-🟢 Successfully processed: PGA Tour [3/13]
-🟡 Visiting detail page [4/13]: https://pogo.pk/events/f1-bahrain-grand-prix
-🟢 Successfully processed: ATP Tour [1/13]
-🟡 Visiting detail page [5/13]: https://pogo.pk/events/shenzhen-open-snooker
+🟡 Visiting detail page [3/13]: https://pogo.pk/events/lpga-lotte-championship
 🟢 Successfully processed: PGA Tour [2/13]
+🟢 Successfully processed: ATP Tour [1/13]
+🟡 Visiting detail page [4/13]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟡 Visiting detail page [5/13]: https://pogo.pk/events/shenzhen-open-snooker
+🟢 Successfully processed: PGA Tour [3/13]
 🟡 Visiting detail page [6/13]: https://pogo.pk/events/alfred-dunhill-championship
-🟢 Successfully processed: Snooker [5/13]
-🟢 Successfully processed: PGA Tour [6/13]
 🟢 Successfully processed: Formula 1 [4/13]
-🟡 Visiting detail page [8/13]: https://pogo.pk/events/kosovo-vs-austria
 🟡 Visiting detail page [7/13]: https://pogo.pk/events/azerbaijan-vs-lithuania
+🟢 Successfully processed: PGA Tour [6/13]
+🟢 Successfully processed: Snooker [5/13]
 🟡 Visiting detail page [9/13]: https://pogo.pk/events/malta-vs-andorra-live
-🟢 Successfully processed: Nations League [8/13]
-🟡 Visiting detail page [10/13]: https://pogo.pk/events/wales-vs-denmark
+🟡 Visiting detail page [8/13]: https://pogo.pk/events/kosovo-vs-austria
 🟢 Successfully processed: Nations League [7/13]
-🟡 Visiting detail page [11/13]: https://pogo.pk/events/portugal-vs-norway
+🟡 Visiting detail page [10/13]: https://pogo.pk/events/wales-vs-denmark
 🟢 Successfully processed: Nations League [9/13]
+🟢 Successfully processed: Nations League [8/13]
+🟡 Visiting detail page [11/13]: https://pogo.pk/events/portugal-vs-norway
 🟡 Visiting detail page [12/13]: https://pogo.pk/events/germany-vs-greece
 🟢 Successfully processed: Nations League [10/13]
 🟡 Visiting detail page [13/13]: https://pogo.pk/events/commanders-vs-colts

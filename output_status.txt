@@ -4,27 +4,27 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/japan-open-tennis-championships
-🟡 Visiting detail page [1/17]: https://pogo.pk/events/argentina-vs-burkina-faso
 🟡 Visiting detail page [3/17]: https://pogo.pk/events/bank-of-utah-championship
+🟡 Visiting detail page [1/17]: https://pogo.pk/events/argentina-vs-burkina-faso
 🟢 Successfully processed: Friendly [1/17]
-🟢 Successfully processed: PGA Tour [3/17]
-🟡 Visiting detail page [4/17]: https://pogo.pk/events/natalia-silva-vs-wang-cong
 🟢 Successfully processed: ATP Tour [2/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/natalia-silva-vs-wang-cong
 🟡 Visiting detail page [5/17]: https://pogo.pk/events/lpga-lotte-championship
+🟢 Successfully processed: PGA Tour [3/17]
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/japanese-gp
 🟢 Successfully processed: UFC [4/17]
-🟢 Successfully processed: PGA Tour [5/17]
-🟢 Successfully processed: MotoGP [6/17]
 🟡 Visiting detail page [7/17]: https://pogo.pk/events/usa-vs-mexico
+🟢 Successfully processed: MotoGP [6/17]
 🟡 Visiting detail page [8/17]: https://pogo.pk/events/f1-bahrain-grand-prix
+🟢 Successfully processed: PGA Tour [5/17]
 🟡 Visiting detail page [9/17]: https://pogo.pk/events/shenzhen-open-snooker
 🟢 Successfully processed: Friendly [7/17]
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/alfred-dunhill-championship
 🟢 Successfully processed: Formula 1 [8/17]
 🟡 Visiting detail page [11/17]: https://pogo.pk/events/azerbaijan-vs-lithuania
-🟢 Successfully processed: Snooker [9/17]
-🟡 Visiting detail page [12/17]: https://pogo.pk/events/kosovo-vs-austria
 🟢 Successfully processed: Nations League [11/17]
+🟡 Visiting detail page [12/17]: https://pogo.pk/events/kosovo-vs-austria
+🟢 Successfully processed: Snooker [9/17]
 🟡 Visiting detail page [13/17]: https://pogo.pk/events/malta-vs-andorra-live
 🟢 Successfully processed: Nations League [12/17]
 🟡 Visiting detail page [14/17]: https://pogo.pk/events/wales-vs-denmark

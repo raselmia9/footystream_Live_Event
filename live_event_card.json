@@ -55,27 +55,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-04 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Azerbaijan",
-        "team1Logo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/azerbaijan-vs-lithuania",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2526"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/azerbaijan-vs-lithuania/2527"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-04 19:30:00",
         "team1Title": "Washington Commanders",

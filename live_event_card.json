@@ -118,23 +118,6 @@
         ]
     },
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-04 16:00:00",
-        "team1Title": "Alfred Dunhill Championship",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alfred-dunhill-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/alfred-dunhill-championship/2452"
-            }
-        ]
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-10-04 06:00:00",
         "team1Title": "MotoGP Japanese GP",
@@ -211,6 +194,23 @@
             {
                 "channel": "Link 2",
                 "url": "https://pogo.pk/alpha/shenzhen-open-snooker/2332"
+            }
+        ]
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-04 16:00:00",
+        "team1Title": "Alfred Dunhill Championship",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/alfred-dunhill-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/alfred-dunhill-championship/2452"
             }
         ]
     },

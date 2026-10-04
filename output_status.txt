@@ -3,47 +3,47 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 21
-🟡 Visiting detail page [2/21]: https://pogo.pk/events/lpga-lotte-championship
 🟡 Visiting detail page [1/21]: https://pogo.pk/events/bank-of-utah-championship
 🟡 Visiting detail page [3/21]: https://pogo.pk/events/kosovo-vs-austria
-🟢 Successfully processed: PGA Tour [2/21]
+🟡 Visiting detail page [2/21]: https://pogo.pk/events/lpga-lotte-championship
 🟢 Successfully processed: PGA Tour [1/21]
-🟢 Successfully processed: Nations League [3/21]
 🟡 Visiting detail page [4/21]: https://pogo.pk/events/malta-vs-andorra-live
+🟢 Successfully processed: Nations League [3/21]
+🟢 Successfully processed: PGA Tour [2/21]
 🟡 Visiting detail page [5/21]: https://pogo.pk/events/bills-vs-patriots-live
 🟡 Visiting detail page [6/21]: https://pogo.pk/events/bengals-vs-jaguars
 🟢 Successfully processed: Nations League [4/21]
 🟡 Visiting detail page [7/21]: https://pogo.pk/events/los-angeles-rams-vs-eagles-live-stream
 🟢 Successfully processed: NFL [5/21]
-🟢 Successfully processed: NFL [6/21]
 🟡 Visiting detail page [8/21]: https://pogo.pk/events/bears-vs-jets
+🟢 Successfully processed: NFL [6/21]
 🟡 Visiting detail page [9/21]: https://pogo.pk/events/ravens-vs-titans
 🟢 Successfully processed: NFL [7/21]
+🟢 Successfully processed: NFL [8/21]
+🟡 Visiting detail page [11/21]: https://pogo.pk/events/wales-vs-denmark
 🟡 Visiting detail page [10/21]: https://pogo.pk/events/cowboys-vs-texans-live-1
 🟢 Successfully processed: NFL [9/21]
-🟡 Visiting detail page [11/21]: https://pogo.pk/events/wales-vs-denmark
-🟢 Successfully processed: NFL [8/21]
 🟡 Visiting detail page [12/21]: https://pogo.pk/events/portugal-vs-norway
+🟢 Successfully processed: NFL [10/21]
 🟢 Successfully processed: Nations League [11/21]
 🟡 Visiting detail page [13/21]: https://pogo.pk/events/germany-vs-greece
-🟢 Successfully processed: Nations League [12/21]
 🟡 Visiting detail page [14/21]: https://pogo.pk/events/ireland-vs-israel
-🟢 Successfully processed: Nations League [13/21]
+🟢 Successfully processed: Nations League [12/21]
 🟡 Visiting detail page [15/21]: https://pogo.pk/events/netherlands-vs-serbia
-🟢 Successfully processed: Nations League [14/21]
+🟢 Successfully processed: Nations League [13/21]
 🟡 Visiting detail page [16/21]: https://pogo.pk/events/latvia-vs-cyprus
-🟢 Successfully processed: Nations League [15/21]
+🟢 Successfully processed: Nations League [14/21]
 🟡 Visiting detail page [17/21]: https://pogo.pk/events/india-vs-uruguay
-🟢 Successfully processed: Nations League [16/21]
+🟢 Successfully processed: Nations League [15/21]
 🟡 Visiting detail page [18/21]: https://pogo.pk/events/argentina-vs-benin
-🟢 Successfully processed: Friendly [17/21]
+🟢 Successfully processed: Nations League [16/21]
 🟡 Visiting detail page [19/21]: https://pogo.pk/events/colombia-vs-peru
-🟢 Successfully processed: Friendly [18/21]
+🟢 Successfully processed: Friendly [17/21]
 🟡 Visiting detail page [20/21]: https://pogo.pk/events/canada-vs-usa
-🟢 Successfully processed: Friendly [19/21]
+🟢 Successfully processed: Friendly [18/21]
 🟡 Visiting detail page [21/21]: https://pogo.pk/events/mexico-vs-chile
+🟢 Successfully processed: Friendly [19/21]
 🟢 Successfully processed: Friendly [20/21]
 🟢 Successfully processed: Friendly [21/21]
-🟢 Successfully processed: NFL [10/21]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 21

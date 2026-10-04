@@ -118,6 +118,27 @@
         ]
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-04 19:30:00",
+        "team1Title": "Washington Commanders",
+        "team2Title": "Indianapolis Colts",
+        "team1Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/commanders-vs-colts",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://pogo.pk/alpha/commanders-vs-colts/2405"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://pogo.pk/alpha/commanders-vs-colts/2406"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-04 22:00:00",
         "team1Title": "Kosovo",
@@ -178,24 +199,15 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-04 19:30:00",
-        "team1Title": "Washington Commanders",
-        "team2Title": "Indianapolis Colts",
-        "team1Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 00:45:00",
+        "team1Title": "Ireland",
+        "team2Title": "Israel",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/commanders-vs-colts",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://pogo.pk/alpha/commanders-vs-colts/2405"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://pogo.pk/alpha/commanders-vs-colts/2406"
-            }
-        ]
+        "detailsPage": "https://pogo.pk/events/ireland-vs-israel",
+        "multiWatchPageLink": []
     }
 ]

@@ -2,40 +2,44 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 17
-🟡 Visiting detail page [3/17]: https://pogo.pk/events/vikings-vs-dolphins
-🟡 Visiting detail page [2/17]: https://pogo.pk/events/lpga-lotte-championship
-🟡 Visiting detail page [1/17]: https://pogo.pk/events/bank-of-utah-championship
-🟢 Successfully processed: PGA Tour [1/17]
-🟢 Successfully processed: NFL [3/17]
-🟢 Successfully processed: PGA Tour [2/17]
-🟡 Visiting detail page [4/17]: https://pogo.pk/events/49ers-vs-broncos
-🟡 Visiting detail page [5/17]: https://pogo.pk/events/chargers-vs-seahawks
-🟡 Visiting detail page [6/17]: https://pogo.pk/events/chiefs-vs-raiders-live
-🟢 Successfully processed: NFL [4/17]
-🟡 Visiting detail page [7/17]: https://pogo.pk/events/latvia-vs-cyprus
-🟢 Successfully processed: NFL [6/17]
-🟢 Successfully processed: NFL [5/17]
-🟡 Visiting detail page [8/17]: https://pogo.pk/events/sweden-vs-romania
-🟡 Visiting detail page [9/17]: https://pogo.pk/events/bosnia-vs-poland
-🟢 Successfully processed: Nations League [7/17]
-🟡 Visiting detail page [10/17]: https://pogo.pk/events/hungary-vs-ukraine
-🟢 Successfully processed: Nations League [8/17]
-🟢 Successfully processed: Nations League [9/17]
-🟡 Visiting detail page [11/17]: https://pogo.pk/events/georgia-vs-northern-ireland
-🟡 Visiting detail page [12/17]: https://pogo.pk/events/france-vs-belgium
-🟢 Successfully processed: Nations League [10/17]
-🟡 Visiting detail page [13/17]: https://pogo.pk/events/india-vs-uruguay
-🟢 Successfully processed: Nations League [11/17]
-🟡 Visiting detail page [14/17]: https://pogo.pk/events/argentina-vs-benin
-🟢 Successfully processed: Nations League [12/17]
-🟡 Visiting detail page [15/17]: https://pogo.pk/events/colombia-vs-peru
-🟢 Successfully processed: Friendly [13/17]
-🟡 Visiting detail page [16/17]: https://pogo.pk/events/canada-vs-usa
-🟢 Successfully processed: Friendly [14/17]
-🟡 Visiting detail page [17/17]: https://pogo.pk/events/mexico-vs-chile
-🟢 Successfully processed: Friendly [15/17]
-🟢 Successfully processed: Friendly [16/17]
-🟢 Successfully processed: Friendly [17/17]
+🟢 Total unique detail links to process in parallel: 19
+🟡 Visiting detail page [2/19]: https://pogo.pk/events/lpga-lotte-championship
+🟡 Visiting detail page [1/19]: https://pogo.pk/events/bank-of-utah-championship
+🟡 Visiting detail page [3/19]: https://pogo.pk/events/vikings-vs-dolphins
+🟢 Successfully processed: NFL [3/19]
+🟡 Visiting detail page [4/19]: https://pogo.pk/events/49ers-vs-broncos
+🟢 Successfully processed: PGA Tour [2/19]
+🟡 Visiting detail page [5/19]: https://pogo.pk/events/chargers-vs-seahawks
+🟢 Successfully processed: PGA Tour [1/19]
+🟡 Visiting detail page [6/19]: https://pogo.pk/events/chiefs-vs-raiders-live
+🟢 Successfully processed: NFL [4/19]
+🟡 Visiting detail page [7/19]: https://pogo.pk/events/panthers-vs-lions
+🟢 Successfully processed: NFL [5/19]
+🟡 Visiting detail page [8/19]: https://pogo.pk/events/falcons-vs-saints-live-stream-3
+🟢 Successfully processed: NFL [6/19]
+🟡 Visiting detail page [9/19]: https://pogo.pk/events/latvia-vs-cyprus
+🟢 Successfully processed: Nations League [9/19]
+🟡 Visiting detail page [10/19]: https://pogo.pk/events/sweden-vs-romania
+🟢 Successfully processed: Nations League [10/19]
+🟡 Visiting detail page [11/19]: https://pogo.pk/events/bosnia-vs-poland
+🟢 Successfully processed: Nations League [11/19]
+🟡 Visiting detail page [12/19]: https://pogo.pk/events/hungary-vs-ukraine
+🟢 Successfully processed: Nations League [12/19]
+🟡 Visiting detail page [13/19]: https://pogo.pk/events/georgia-vs-northern-ireland
+🟢 Successfully processed: NFL [7/19]
+🟡 Visiting detail page [14/19]: https://pogo.pk/events/france-vs-belgium
+🟢 Successfully processed: NFL [8/19]
+🟡 Visiting detail page [15/19]: https://pogo.pk/events/india-vs-uruguay
+🟢 Successfully processed: Nations League [13/19]
+🟡 Visiting detail page [16/19]: https://pogo.pk/events/argentina-vs-benin
+🟢 Successfully processed: Friendly [15/19]
+🟡 Visiting detail page [17/19]: https://pogo.pk/events/colombia-vs-peru
+🟢 Successfully processed: Nations League [14/19]
+🟡 Visiting detail page [18/19]: https://pogo.pk/events/canada-vs-usa
+🟢 Successfully processed: Friendly [16/19]
+🟡 Visiting detail page [19/19]: https://pogo.pk/events/mexico-vs-chile
+🟢 Successfully processed: Friendly [18/19]
+🟢 Successfully processed: Friendly [17/19]
+🟢 Successfully processed: Friendly [19/19]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 17
+🟢 Process completed successfully. Total collected events: 19

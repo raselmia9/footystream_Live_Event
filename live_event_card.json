@@ -253,18 +253,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 22:00:00",
-        "team1Title": "Latvia",
-        "team2Title": "Cyprus",
-        "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/latvia-vs-cyprus",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-05 02:05:00",
         "team1Title": "Minnesota Vikings",
@@ -335,6 +323,78 @@
                 "url": "https://playerdee.top/alpha/chiefs-vs-raiders-live/2555"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-05 22:00:00",
+        "team1Title": "Latvia",
+        "team2Title": "Cyprus",
+        "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/latvia-vs-cyprus",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-06 00:45:00",
+        "team1Title": "Sweden",
+        "team2Title": "Romania",
+        "team1Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sweden-vs-romania",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-06 00:45:00",
+        "team1Title": "Bosnia and Herzegovina",
+        "team2Title": "Poland",
+        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bosnia-vs-poland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-06 00:45:00",
+        "team1Title": "Hungary",
+        "team2Title": "Ukraine",
+        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hungary-vs-ukraine",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-06 00:45:00",
+        "team1Title": "Georgia",
+        "team2Title": "Northern Ireland",
+        "team1Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/georgia-vs-northern-ireland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-06 00:45:00",
+        "team1Title": "France",
+        "team2Title": "Belgium",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/france-vs-belgium",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Friendly",

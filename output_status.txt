@@ -16,11 +16,11 @@
 🟡 Visiting detail page [7/15]: https://pogo.pk/events/georgia-vs-northern-ireland
 🟢 Successfully processed: Nations League [7/15]
 🟡 Visiting detail page [8/15]: https://pogo.pk/events/france-vs-belgium
-🟢 Successfully processed: PGA Tour [1/15]
-🟡 Visiting detail page [9/15]: https://pogo.pk/events/falcons-vs-saints-live-stream-3
-🟢 Successfully processed: NFL [2/15]
-🟡 Visiting detail page [10/15]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
 🟢 Successfully processed: Nations League [8/15]
+🟡 Visiting detail page [9/15]: https://pogo.pk/events/falcons-vs-saints-live-stream-3
+🟢 Successfully processed: PGA Tour [1/15]
+🟡 Visiting detail page [10/15]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
+🟢 Successfully processed: NFL [2/15]
 🟡 Visiting detail page [11/15]: https://pogo.pk/events/india-vs-uruguay
 🟢 Successfully processed: Friendly [11/15]
 🟡 Visiting detail page [12/15]: https://pogo.pk/events/argentina-vs-benin
@@ -31,7 +31,7 @@
 🟢 Successfully processed: Friendly [14/15]
 🟡 Visiting detail page [15/15]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: Friendly [15/15]
-🟢 Successfully processed: NFL [10/15]
 🟢 Successfully processed: NFL [9/15]
+🟢 Successfully processed: NFL [10/15]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 15

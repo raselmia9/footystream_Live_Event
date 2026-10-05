@@ -118,6 +118,23 @@
         ]
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-06 00:45:00",
+        "team1Title": "Armenia",
+        "team2Title": "Montenegro",
+        "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/armenia-vs-montenegro",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/armenia-vs-montenegro/2577"
+            }
+        ]
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-06 06:15:00",
         "team1Title": "Atlanta Falcons",

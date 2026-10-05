@@ -34,7 +34,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sweden-vs-romania",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sweden-vs-romania/2576"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

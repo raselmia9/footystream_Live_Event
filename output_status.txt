@@ -16,13 +16,13 @@
 🟡 Visiting detail page [7/13]: https://pogo.pk/events/switzerland-vs-north-macedonia
 🟢 Successfully processed: Nations League [7/13]
 🟡 Visiting detail page [8/13]: https://pogo.pk/events/slovakia-vs-moldova
-🟢 Successfully processed: NFL [2/13]
-🟡 Visiting detail page [9/13]: https://pogo.pk/events/india-vs-uruguay
-🟢 Successfully processed: Friendly [9/13]
-🟡 Visiting detail page [10/13]: https://pogo.pk/events/argentina-vs-benin
 🟢 Successfully processed: Nations League [8/13]
-🟡 Visiting detail page [11/13]: https://pogo.pk/events/colombia-vs-peru
+🟡 Visiting detail page [9/13]: https://pogo.pk/events/india-vs-uruguay
+🟢 Successfully processed: NFL [2/13]
+🟡 Visiting detail page [10/13]: https://pogo.pk/events/argentina-vs-benin
 🟢 Successfully processed: NFL [1/13]
+🟡 Visiting detail page [11/13]: https://pogo.pk/events/colombia-vs-peru
+🟢 Successfully processed: Friendly [9/13]
 🟡 Visiting detail page [12/13]: https://pogo.pk/events/canada-vs-usa
 🟢 Successfully processed: Friendly [11/13]
 🟡 Visiting detail page [13/13]: https://pogo.pk/events/mexico-vs-chile

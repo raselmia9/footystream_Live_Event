@@ -19,8 +19,8 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-10-05 06:20:00",
-        "team1Title": "Carolina Panthers",
-        "team2Title": "Detroit Lions",
+        "team1Title": "Event Ended",
+        "team2Title": "Carolina Panthers",
         "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
         "isHot": true,

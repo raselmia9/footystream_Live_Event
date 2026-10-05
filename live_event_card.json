@@ -17,27 +17,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-05 06:20:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Carolina Panthers",
-        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/panthers-vs-lions",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/panthers-vs-lions/2557"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/panthers-vs-lions/2558"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-05 22:00:00",
         "team1Title": "Latvia",

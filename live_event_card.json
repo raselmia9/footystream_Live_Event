@@ -1,31 +1,6 @@
 [
     {
         "eventTitle": "Nations League",
-        "matchTime": "2026-10-05 22:00:00",
-        "team1Title": "Latvia",
-        "team2Title": "Cyprus",
-        "team1Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/latvia-vs-cyprus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2564"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2565"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/latvia-vs-cyprus/2566"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
         "matchTime": "2026-10-06 00:45:00",
         "team1Title": "Sweden",
         "team2Title": "Romania",

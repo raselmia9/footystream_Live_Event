@@ -139,18 +139,6 @@
     },
     {
         "eventTitle": "Friendly",
-        "matchTime": "2026-10-07 05:45:00",
-        "team1Title": "Colombia",
-        "team2Title": "Peru",
-        "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/colombia-vs-peru",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Friendly",
         "matchTime": "2026-10-07 06:00:00",
         "team1Title": "Canada",
         "team2Title": "USA",

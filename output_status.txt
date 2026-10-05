@@ -6,16 +6,16 @@
 🟡 Visiting detail page [2/16]: https://pogo.pk/events/lpga-lotte-championship
 🟡 Visiting detail page [3/16]: https://pogo.pk/events/panthers-vs-lions
 🟡 Visiting detail page [1/16]: https://pogo.pk/events/bank-of-utah-championship
-🟢 Successfully processed: NFL [3/16]
-🟡 Visiting detail page [4/16]: https://pogo.pk/events/latvia-vs-cyprus
-🟢 Successfully processed: PGA Tour [2/16]
-🟡 Visiting detail page [5/16]: https://pogo.pk/events/sweden-vs-romania
 🟢 Successfully processed: PGA Tour [1/16]
+🟢 Successfully processed: NFL [3/16]
+🟢 Successfully processed: PGA Tour [2/16]
+🟡 Visiting detail page [4/16]: https://pogo.pk/events/latvia-vs-cyprus
+🟡 Visiting detail page [5/16]: https://pogo.pk/events/sweden-vs-romania
 🟡 Visiting detail page [6/16]: https://pogo.pk/events/bosnia-vs-poland
-🟢 Successfully processed: Nations League [4/16]
-🟡 Visiting detail page [7/16]: https://pogo.pk/events/hungary-vs-ukraine
 🟢 Successfully processed: Nations League [6/16]
+🟡 Visiting detail page [7/16]: https://pogo.pk/events/hungary-vs-ukraine
 🟢 Successfully processed: Nations League [5/16]
+🟢 Successfully processed: Nations League [4/16]
 🟡 Visiting detail page [8/16]: https://pogo.pk/events/georgia-vs-northern-ireland
 🟡 Visiting detail page [9/16]: https://pogo.pk/events/france-vs-belgium
 🟢 Successfully processed: Nations League [7/16]

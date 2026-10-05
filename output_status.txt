@@ -20,14 +20,14 @@
 🟡 Visiting detail page [9/13]: https://pogo.pk/events/india-vs-uruguay
 🟢 Successfully processed: Friendly [9/13]
 🟡 Visiting detail page [10/13]: https://pogo.pk/events/argentina-vs-benin
-🟢 Successfully processed: Friendly [10/13]
-🟡 Visiting detail page [11/13]: https://pogo.pk/events/colombia-vs-peru
 🟢 Successfully processed: NFL [1/13]
+🟡 Visiting detail page [11/13]: https://pogo.pk/events/colombia-vs-peru
 🟢 Successfully processed: NFL [2/13]
-🟡 Visiting detail page [13/13]: https://pogo.pk/events/mexico-vs-chile
 🟡 Visiting detail page [12/13]: https://pogo.pk/events/canada-vs-usa
+🟢 Successfully processed: Friendly [10/13]
+🟡 Visiting detail page [13/13]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: Friendly [11/13]
-🟢 Successfully processed: Friendly [13/13]
 🟢 Successfully processed: Friendly [12/13]
+🟢 Successfully processed: Friendly [13/13]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 13

@@ -26,18 +26,6 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-06 00:45:00",
-        "team1Title": "Bosnia and Herzegovina",
-        "team2Title": "Poland",
-        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bosnia-vs-poland",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-06 00:45:00",
         "team1Title": "Hungary",
         "team2Title": "Ukraine",
         "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",

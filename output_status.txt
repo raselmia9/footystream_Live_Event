@@ -8,15 +8,15 @@
 🟡 Visiting detail page [3/13]: https://pogo.pk/events/bosnia-vs-poland
 🟢 Successfully processed: Nations League [1/13]
 🟢 Successfully processed: Nations League [3/13]
-🟡 Visiting detail page [4/13]: https://pogo.pk/events/hungary-vs-ukraine
-🟡 Visiting detail page [5/13]: https://pogo.pk/events/georgia-vs-northern-ireland
 🟢 Successfully processed: Nations League [2/13]
+🟡 Visiting detail page [5/13]: https://pogo.pk/events/georgia-vs-northern-ireland
+🟡 Visiting detail page [4/13]: https://pogo.pk/events/hungary-vs-ukraine
 🟡 Visiting detail page [6/13]: https://pogo.pk/events/france-vs-belgium
 🟢 Successfully processed: Nations League [4/13]
-🟡 Visiting detail page [7/13]: https://pogo.pk/events/falcons-vs-saints-live-stream-3
 🟢 Successfully processed: Nations League [5/13]
-🟡 Visiting detail page [8/13]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
 🟢 Successfully processed: Nations League [6/13]
+🟡 Visiting detail page [7/13]: https://pogo.pk/events/falcons-vs-saints-live-stream-3
+🟡 Visiting detail page [8/13]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
 🟡 Visiting detail page [9/13]: https://pogo.pk/events/india-vs-uruguay
 🟢 Successfully processed: Friendly [9/13]
 🟡 Visiting detail page [10/13]: https://pogo.pk/events/argentina-vs-benin

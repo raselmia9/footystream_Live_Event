@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/sweden-vs-romania
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/latvia-vs-cyprus
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/bosnia-vs-poland
-🟢 Successfully processed: Nations League [2/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/hungary-vs-ukraine
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/latvia-vs-cyprus
 🟢 Successfully processed: Nations League [3/14]
 🟢 Successfully processed: Nations League [1/14]
 🟡 Visiting detail page [5/14]: https://pogo.pk/events/georgia-vs-northern-ireland
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/hungary-vs-ukraine
+🟢 Successfully processed: Nations League [2/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/france-vs-belgium
 🟢 Successfully processed: Nations League [5/14]
 🟡 Visiting detail page [7/14]: https://pogo.pk/events/armenia-vs-montenegro
@@ -18,18 +18,18 @@
 🟡 Visiting detail page [8/14]: https://pogo.pk/events/falcons-vs-saints-live-stream-3
 🟢 Successfully processed: Nations League [6/14]
 🟡 Visiting detail page [9/14]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
-🟢 Successfully processed: Nations League [7/14]
-🟡 Visiting detail page [10/14]: https://pogo.pk/events/india-vs-uruguay
-🟢 Successfully processed: NFL [9/14]
-🟡 Visiting detail page [11/14]: https://pogo.pk/events/argentina-vs-benin
 🟢 Successfully processed: NFL [8/14]
-🟡 Visiting detail page [12/14]: https://pogo.pk/events/colombia-vs-peru
+🟡 Visiting detail page [10/14]: https://pogo.pk/events/india-vs-uruguay
+🟢 Successfully processed: Nations League [7/14]
+🟡 Visiting detail page [11/14]: https://pogo.pk/events/argentina-vs-benin
 🟢 Successfully processed: Friendly [10/14]
+🟡 Visiting detail page [12/14]: https://pogo.pk/events/colombia-vs-peru
+🟢 Successfully processed: NFL [9/14]
 🟡 Visiting detail page [13/14]: https://pogo.pk/events/canada-vs-usa
-🟢 Successfully processed: Friendly [12/14]
-🟡 Visiting detail page [14/14]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: Friendly [11/14]
-🟢 Successfully processed: Friendly [13/14]
+🟡 Visiting detail page [14/14]: https://pogo.pk/events/mexico-vs-chile
+🟢 Successfully processed: Friendly [12/14]
 🟢 Successfully processed: Friendly [14/14]
+🟢 Successfully processed: Friendly [13/14]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 14

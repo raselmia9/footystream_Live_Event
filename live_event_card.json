@@ -1,23 +1,6 @@
 [
     {
         "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-03 22:00:00",
-        "team1Title": "Bank of Utah Championship",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bank-of-utah-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bank-of-utah-championship/2444"
-            }
-        ]
-    },
-    {
-        "eventTitle": "PGA Tour",
         "matchTime": "2026-10-04 06:00:00",
         "team1Title": "LPGA Lotte Championship",
         "team2Title": "PGA Tour",

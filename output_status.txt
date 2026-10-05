@@ -7,8 +7,8 @@
 🟡 Visiting detail page [3/13]: https://pogo.pk/events/bosnia-vs-poland
 🟡 Visiting detail page [1/13]: https://pogo.pk/events/latvia-vs-cyprus
 🟢 Successfully processed: Nations League [2/13]
-🟡 Visiting detail page [4/13]: https://pogo.pk/events/hungary-vs-ukraine
 🟢 Successfully processed: Nations League [1/13]
+🟡 Visiting detail page [4/13]: https://pogo.pk/events/hungary-vs-ukraine
 🟡 Visiting detail page [5/13]: https://pogo.pk/events/georgia-vs-northern-ireland
 🟢 Successfully processed: Nations League [3/13]
 🟡 Visiting detail page [6/13]: https://pogo.pk/events/france-vs-belgium
@@ -26,8 +26,8 @@
 🟡 Visiting detail page [12/13]: https://pogo.pk/events/canada-vs-usa
 🟢 Successfully processed: Friendly [12/13]
 🟡 Visiting detail page [13/13]: https://pogo.pk/events/mexico-vs-chile
-🟢 Successfully processed: Friendly [13/13]
 🟢 Successfully processed: NFL [7/13]
 🟢 Successfully processed: NFL [8/13]
+🟢 Successfully processed: Friendly [13/13]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 13

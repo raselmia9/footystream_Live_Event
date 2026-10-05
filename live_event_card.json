@@ -46,7 +46,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bosnia-vs-poland",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bosnia-vs-poland/2574"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -58,7 +63,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/hungary-vs-ukraine",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hungary-vs-ukraine/2573"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -70,7 +80,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/georgia-vs-northern-ireland",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/georgia-vs-northern-ireland/2575"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -82,7 +97,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/france-vs-belgium",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/france-vs-belgium/2567"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/france-vs-belgium/2568"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/france-vs-belgium/2569"
+            }
+        ]
     },
     {
         "eventTitle": "NFL",

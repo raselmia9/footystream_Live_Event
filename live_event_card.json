@@ -134,7 +134,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/slovakia-vs-moldova",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/slovakia-vs-moldova/2602"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -146,7 +151,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/finland-vs-belarus",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/finland-vs-belarus/2600"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

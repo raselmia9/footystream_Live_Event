@@ -4,25 +4,25 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
 🟡 Visiting detail page [2/19]: https://pogo.pk/events/padres-vs-brewers
-🟡 Visiting detail page [1/19]: https://pogo.pk/events/braves-vs-dodgers
 🟡 Visiting detail page [3/19]: https://pogo.pk/events/guardians-vs-white-sox
-🟢 Successfully processed: MLB [2/19]
+🟡 Visiting detail page [1/19]: https://pogo.pk/events/braves-vs-dodgers
 🟢 Successfully processed: MLB [3/19]
-🟢 Successfully processed: MLB [1/19]
+🟢 Successfully processed: MLB [2/19]
 🟡 Visiting detail page [5/19]: https://pogo.pk/events/rays-vs-yankees
 🟡 Visiting detail page [4/19]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
+🟢 Successfully processed: MLB [1/19]
 🟡 Visiting detail page [6/19]: https://pogo.pk/events/argentina-vs-benin
-🟢 Successfully processed: MLB [4/19]
-🟢 Successfully processed: Friendly [6/19]
-🟡 Visiting detail page [8/19]: https://pogo.pk/events/canada-vs-usa
-🟡 Visiting detail page [7/19]: https://pogo.pk/events/colombia-vs-peru
 🟢 Successfully processed: MLB [5/19]
+🟡 Visiting detail page [7/19]: https://pogo.pk/events/colombia-vs-peru
+🟢 Successfully processed: MLB [4/19]
+🟡 Visiting detail page [8/19]: https://pogo.pk/events/canada-vs-usa
+🟢 Successfully processed: Friendly [6/19]
 🟡 Visiting detail page [9/19]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: Friendly [7/19]
-🟢 Successfully processed: Friendly [8/19]
 🟡 Visiting detail page [10/19]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: Friendly [9/19]
+🟢 Successfully processed: Friendly [8/19]
 🟡 Visiting detail page [11/19]: https://pogo.pk/events/baycurrent-classic
+🟢 Successfully processed: Friendly [9/19]
 🟡 Visiting detail page [12/19]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: ATP Tour [10/19]
 🟡 Visiting detail page [13/19]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
@@ -30,16 +30,16 @@
 🟢 Successfully processed: PGA Tour [11/19]
 🟡 Visiting detail page [14/19]: https://pogo.pk/events/eagles-vs-jaguars
 🟡 Visiting detail page [15/19]: https://pogo.pk/events/motogp-indonesia-grand-prix
-🟢 Successfully processed: NFL [14/19]
 🟢 Successfully processed: NFL [13/19]
-🟢 Successfully processed: MotoGP [15/19]
-🟡 Visiting detail page [17/19]: https://pogo.pk/events/glasgow-warriors-vs-connacht
 🟡 Visiting detail page [16/19]: https://pogo.pk/events/f1-singapore-grand-prix
+🟢 Successfully processed: NFL [14/19]
+🟡 Visiting detail page [17/19]: https://pogo.pk/events/glasgow-warriors-vs-connacht
+🟢 Successfully processed: MotoGP [15/19]
 🟡 Visiting detail page [18/19]: https://pogo.pk/events/dragons-vs-ospreys
-🟢 Successfully processed: United Rugby [17/19]
-🟡 Visiting detail page [19/19]: https://pogo.pk/events/leicester-tigers-vs-gloucester
 🟢 Successfully processed: Formula 1 [16/19]
+🟡 Visiting detail page [19/19]: https://pogo.pk/events/leicester-tigers-vs-gloucester
 🟢 Successfully processed: United Rugby [18/19]
+🟢 Successfully processed: United Rugby [17/19]
 🟢 Successfully processed: Premiership Rugby [19/19]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 19

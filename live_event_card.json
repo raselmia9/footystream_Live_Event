@@ -2,6 +2,31 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-07 00:45:00",
+        "team1Title": "England",
+        "team2Title": "Czechia",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-czechia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-czechia/2588"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/england-vs-czechia/2589"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/england-vs-czechia/2590"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-07 00:45:00",
         "team1Title": "Scotland",
         "team2Title": "Slovenia",
         "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
@@ -9,7 +34,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/scotland-vs-slovenia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/scotland-vs-slovenia/2594"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/scotland-vs-slovenia/2595"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -21,7 +55,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bulgaria-vs-luxembourg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bulgaria-vs-luxembourg/2598"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bulgaria-vs-luxembourg/2599"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

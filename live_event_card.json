@@ -142,23 +142,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-07 00:45:00",
-        "team1Title": "Finland",
-        "team2Title": "Belarus",
-        "team1Logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/finland-vs-belarus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/finland-vs-belarus/2600"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-07 04:00:00",
         "team1Title": "Atlanta Braves",

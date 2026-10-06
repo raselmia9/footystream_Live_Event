@@ -2,8 +2,8 @@
     {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-06 20:00:00",
-        "team1Title": "India",
-        "team2Title": "Uruguay",
+        "team1Title": "Event Ended",
+        "team2Title": "India",
         "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
         "isHot": true,
@@ -35,8 +35,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-06 20:00:00",
-        "team1Title": "Faroe Islands",
-        "team2Title": "Kazakhstan",
+        "team1Title": "Event Ended",
+        "team2Title": "Faroe Islands",
         "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
         "isHot": true,

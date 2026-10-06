@@ -193,6 +193,57 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 02:00:00",
+        "team1Title": "Cleveland Guardians",
+        "team2Title": "Chicago White Sox",
+        "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/guardians-vs-white-sox",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/guardians-vs-white-sox/2617"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 04:00:00",
+        "team1Title": "Los Angeles Dodgers",
+        "team2Title": "Atlanta Braves",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/los-angeles-dodgers-vs-atlanta-braves/2618"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 06:00:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "New York Yankees",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rays-vs-yankees/2619"
+            }
+        ]
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-07 05:00:00",
         "team1Title": "Argentina",
@@ -281,6 +332,69 @@
         ]
     },
     {
+        "eventTitle": "ATP Tour",
+        "matchTime": "2026-10-07 10:00:00",
+        "team1Title": "Shanghai Rolex Masters",
+        "team2Title": "ATP Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/shanghai-rolex-masters",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2614"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2615"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2616"
+            }
+        ]
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-08 09:00:00",
+        "team1Title": "Baycurrent Classic",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/baycurrent-classic",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/baycurrent-classic/2620"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/baycurrent-classic/2621"
+            }
+        ]
+    },
+    {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-08 18:00:00",
+        "team1Title": "Open de Espana",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/open-de-espana",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/open-de-espana/2622"
+            }
+        ]
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-09 06:15:00",
         "team1Title": "Dallas Cowboys",
@@ -315,6 +429,99 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2563"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-10-09 07:00:00",
+        "team1Title": "MotoGP Indonesia Grand Prix",
+        "team2Title": "MotoGP",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/motogp-indonesia-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/motogp-indonesia-grand-prix/2623"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-10-09 14:00:00",
+        "team1Title": "F1 Singapore Grand Prix",
+        "team2Title": "Formula 1",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/f1-singapore-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2624"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2625"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2626"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Title": "Glasgow Warriors",
+        "team2Title": "Connacht",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-connacht",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/glasgow-warriors-vs-connacht/2627"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Title": "Dragons",
+        "team2Title": "Ospreys",
+        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/dragons-vs-ospreys",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/dragons-vs-ospreys/2628"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Title": "Leicester Tigers",
+        "team2Title": "Gloucester Rugby",
+        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-gloucester",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/leicester-tigers-vs-gloucester/2629"
             }
         ]
     }

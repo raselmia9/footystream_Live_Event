@@ -3,15 +3,15 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 28
-🟡 Visiting detail page [3/28]: https://pogo.pk/events/scotland-vs-slovenia
-🟡 Visiting detail page [2/28]: https://pogo.pk/events/england-vs-czechia
 🟡 Visiting detail page [1/28]: https://pogo.pk/events/spain-vs-croatia
-🟢 Successfully processed: Nations League [3/28]
-🟡 Visiting detail page [4/28]: https://pogo.pk/events/bulgaria-vs-luxembourg
+🟡 Visiting detail page [2/28]: https://pogo.pk/events/england-vs-czechia
+🟡 Visiting detail page [3/28]: https://pogo.pk/events/scotland-vs-slovenia
 🟢 Successfully processed: Nations League [2/28]
-🟡 Visiting detail page [5/28]: https://pogo.pk/events/iceland-vs-estonia
+🟡 Visiting detail page [4/28]: https://pogo.pk/events/bulgaria-vs-luxembourg
+🟢 Successfully processed: Nations League [3/28]
 🟢 Successfully processed: Nations League [1/28]
 🟡 Visiting detail page [6/28]: https://pogo.pk/events/switzerland-vs-north-macedonia
+🟡 Visiting detail page [5/28]: https://pogo.pk/events/iceland-vs-estonia
 🟢 Successfully processed: Nations League [5/28]
 🟡 Visiting detail page [7/28]: https://pogo.pk/events/slovakia-vs-moldova
 🟢 Successfully processed: Nations League [4/28]
@@ -34,9 +34,9 @@
 🟡 Visiting detail page [16/28]: https://pogo.pk/events/colombia-vs-peru
 🟢 Successfully processed: MLB [14/28]
 🟡 Visiting detail page [17/28]: https://pogo.pk/events/canada-vs-usa
-🟢 Successfully processed: Friendly [15/28]
-🟡 Visiting detail page [18/28]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: Friendly [16/28]
+🟡 Visiting detail page [18/28]: https://pogo.pk/events/mexico-vs-chile
+🟢 Successfully processed: Friendly [15/28]
 🟡 Visiting detail page [19/28]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: Friendly [17/28]
 🟡 Visiting detail page [20/28]: https://pogo.pk/events/baycurrent-classic

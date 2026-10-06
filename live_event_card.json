@@ -2,6 +2,31 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-07 00:45:00",
+        "team1Title": "Spain",
+        "team2Title": "Croatia",
+        "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/spain-vs-croatia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/spain-vs-croatia/2591"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/spain-vs-croatia/2592"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/spain-vs-croatia/2593"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-07 00:45:00",
         "team1Title": "England",
         "team2Title": "Czechia",
         "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
@@ -88,7 +113,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/switzerland-vs-north-macedonia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/switzerland-vs-north-macedonia/2596"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/switzerland-vs-north-macedonia/2597"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

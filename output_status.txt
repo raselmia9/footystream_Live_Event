@@ -8,21 +8,21 @@
 🟡 Visiting detail page [2/28]: https://pogo.pk/events/england-vs-czechia
 🟢 Successfully processed: Nations League [1/28]
 🟡 Visiting detail page [4/28]: https://pogo.pk/events/bulgaria-vs-luxembourg
+🟢 Successfully processed: Nations League [2/28]
 🟢 Successfully processed: Nations League [3/28]
 🟡 Visiting detail page [5/28]: https://pogo.pk/events/iceland-vs-estonia
-🟢 Successfully processed: Nations League [2/28]
 🟡 Visiting detail page [6/28]: https://pogo.pk/events/switzerland-vs-north-macedonia
 🟢 Successfully processed: Nations League [5/28]
 🟡 Visiting detail page [7/28]: https://pogo.pk/events/slovakia-vs-moldova
 🟢 Successfully processed: Nations League [4/28]
-🟡 Visiting detail page [8/28]: https://pogo.pk/events/finland-vs-belarus
 🟢 Successfully processed: Nations League [6/28]
+🟡 Visiting detail page [8/28]: https://pogo.pk/events/finland-vs-belarus
 🟡 Visiting detail page [9/28]: https://pogo.pk/events/albania-vs-san-marino
 🟢 Successfully processed: Nations League [7/28]
 🟡 Visiting detail page [10/28]: https://pogo.pk/events/braves-vs-dodgers
-🟢 Successfully processed: Nations League [8/28]
-🟡 Visiting detail page [11/28]: https://pogo.pk/events/padres-vs-brewers
 🟢 Successfully processed: Nations League [9/28]
+🟡 Visiting detail page [11/28]: https://pogo.pk/events/padres-vs-brewers
+🟢 Successfully processed: Nations League [8/28]
 🟡 Visiting detail page [12/28]: https://pogo.pk/events/guardians-vs-white-sox
 🟢 Successfully processed: MLB [10/28]
 🟡 Visiting detail page [13/28]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
@@ -36,9 +36,9 @@
 🟡 Visiting detail page [17/28]: https://pogo.pk/events/canada-vs-usa
 🟢 Successfully processed: Friendly [15/28]
 🟡 Visiting detail page [18/28]: https://pogo.pk/events/mexico-vs-chile
-🟢 Successfully processed: Friendly [17/28]
-🟡 Visiting detail page [19/28]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: Friendly [16/28]
+🟡 Visiting detail page [19/28]: https://pogo.pk/events/shanghai-rolex-masters
+🟢 Successfully processed: Friendly [17/28]
 🟡 Visiting detail page [20/28]: https://pogo.pk/events/baycurrent-classic
 🟢 Successfully processed: Friendly [18/28]
 🟡 Visiting detail page [21/28]: https://pogo.pk/events/open-de-espana
@@ -54,10 +54,10 @@
 🟡 Visiting detail page [26/28]: https://pogo.pk/events/glasgow-warriors-vs-connacht
 🟢 Successfully processed: MotoGP [24/28]
 🟡 Visiting detail page [27/28]: https://pogo.pk/events/dragons-vs-ospreys
-🟢 Successfully processed: United Rugby [26/28]
-🟡 Visiting detail page [28/28]: https://pogo.pk/events/leicester-tigers-vs-gloucester
-🟢 Successfully processed: United Rugby [27/28]
 🟢 Successfully processed: Formula 1 [25/28]
+🟡 Visiting detail page [28/28]: https://pogo.pk/events/leicester-tigers-vs-gloucester
+🟢 Successfully processed: United Rugby [26/28]
+🟢 Successfully processed: United Rugby [27/28]
 🟢 Successfully processed: Premiership Rugby [28/28]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 28

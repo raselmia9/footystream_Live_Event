@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 12
-🟡 Visiting detail page [1/12]: https://pogo.pk/events/scotland-vs-slovenia
 🟡 Visiting detail page [2/12]: https://pogo.pk/events/bulgaria-vs-luxembourg
 🟡 Visiting detail page [3/12]: https://pogo.pk/events/iceland-vs-estonia
+🟡 Visiting detail page [1/12]: https://pogo.pk/events/scotland-vs-slovenia
 🟢 Successfully processed: Nations League [1/12]
-🟡 Visiting detail page [4/12]: https://pogo.pk/events/switzerland-vs-north-macedonia
 🟢 Successfully processed: Nations League [3/12]
-🟡 Visiting detail page [5/12]: https://pogo.pk/events/slovakia-vs-moldova
+🟡 Visiting detail page [4/12]: https://pogo.pk/events/switzerland-vs-north-macedonia
 🟢 Successfully processed: Nations League [2/12]
+🟡 Visiting detail page [5/12]: https://pogo.pk/events/slovakia-vs-moldova
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/finland-vs-belarus
 🟢 Successfully processed: Nations League [4/12]
 🟡 Visiting detail page [7/12]: https://pogo.pk/events/argentina-vs-benin
@@ -21,8 +21,8 @@
 🟢 Successfully processed: Friendly [7/12]
 🟡 Visiting detail page [10/12]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: Friendly [8/12]
-🟡 Visiting detail page [11/12]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
 🟢 Successfully processed: Friendly [9/12]
+🟡 Visiting detail page [11/12]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
 🟡 Visiting detail page [12/12]: https://pogo.pk/events/eagles-vs-jaguars
 🟢 Successfully processed: Friendly [10/12]
 🟢 Successfully processed: NFL [11/12]

@@ -7,16 +7,16 @@
 🟡 Visiting detail page [1/12]: https://pogo.pk/events/faroe-islands-vs-kazakhstan
 🟡 Visiting detail page [3/12]: https://pogo.pk/events/bulgaria-vs-luxembourg
 🟢 Successfully processed: Nations League [2/12]
-🟢 Successfully processed: Nations League [3/12]
-🟢 Successfully processed: Nations League [1/12]
 🟡 Visiting detail page [4/12]: https://pogo.pk/events/iceland-vs-estonia
+🟢 Successfully processed: Nations League [3/12]
 🟡 Visiting detail page [5/12]: https://pogo.pk/events/switzerland-vs-north-macedonia
+🟢 Successfully processed: Nations League [1/12]
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/slovakia-vs-moldova
 🟢 Successfully processed: Nations League [4/12]
-🟢 Successfully processed: Nations League [6/12]
 🟡 Visiting detail page [7/12]: https://pogo.pk/events/india-vs-uruguay
-🟡 Visiting detail page [8/12]: https://pogo.pk/events/argentina-vs-benin
 🟢 Successfully processed: Nations League [5/12]
+🟡 Visiting detail page [8/12]: https://pogo.pk/events/argentina-vs-benin
+🟢 Successfully processed: Nations League [6/12]
 🟡 Visiting detail page [9/12]: https://pogo.pk/events/colombia-vs-peru
 🟢 Successfully processed: Friendly [7/12]
 🟡 Visiting detail page [10/12]: https://pogo.pk/events/canada-vs-usa

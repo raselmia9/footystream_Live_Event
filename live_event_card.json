@@ -17,74 +17,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-07 07:30:00",
-        "team1Title": "San Diego Padres",
-        "team2Title": "Milwaukee Brewers",
-        "team1Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/padres-vs-brewers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/padres-vs-brewers/2613"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-08 02:00:00",
-        "team1Title": "Cleveland Guardians",
-        "team2Title": "Chicago White Sox",
-        "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/guardians-vs-white-sox",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/guardians-vs-white-sox/2617"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-08 04:00:00",
-        "team1Title": "Los Angeles Dodgers",
-        "team2Title": "Atlanta Braves",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/los-angeles-dodgers-vs-atlanta-braves/2618"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-08 06:00:00",
-        "team1Title": "Tampa Bay Rays",
-        "team2Title": "New York Yankees",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/rays-vs-yankees/2619"
-            }
-        ]
-    },
-    {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-07 05:00:00",
         "team1Title": "Argentina",
@@ -169,6 +101,74 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/mexico-vs-chile/2611"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-07 07:30:00",
+        "team1Title": "San Diego Padres",
+        "team2Title": "Milwaukee Brewers",
+        "team1Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/padres-vs-brewers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/padres-vs-brewers/2613"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 02:00:00",
+        "team1Title": "Cleveland Guardians",
+        "team2Title": "Chicago White Sox",
+        "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/guardians-vs-white-sox",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/guardians-vs-white-sox/2617"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 04:00:00",
+        "team1Title": "Los Angeles Dodgers",
+        "team2Title": "Atlanta Braves",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/los-angeles-dodgers-vs-atlanta-braves/2618"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-08 06:00:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "New York Yankees",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rays-vs-yankees/2619"
             }
         ]
     },

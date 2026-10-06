@@ -318,6 +318,23 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 00:45:00",
+        "team1Title": "Glasgow Warriors",
+        "team2Title": "Connacht",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-connacht",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/glasgow-warriors-vs-connacht/2627"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 00:45:00",
         "team1Title": "Dragons",
         "team2Title": "Ospreys",
         "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",

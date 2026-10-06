@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
-🟡 Visiting detail page [2/19]: https://pogo.pk/events/argentina-vs-benin
 🟡 Visiting detail page [1/19]: https://pogo.pk/events/braves-vs-dodgers
 🟡 Visiting detail page [3/19]: https://pogo.pk/events/colombia-vs-peru
-🟢 Successfully processed: Friendly [2/19]
+🟡 Visiting detail page [2/19]: https://pogo.pk/events/argentina-vs-benin
 🟢 Successfully processed: MLB [1/19]
-🟡 Visiting detail page [5/19]: https://pogo.pk/events/mexico-vs-chile
 🟡 Visiting detail page [4/19]: https://pogo.pk/events/canada-vs-usa
 🟢 Successfully processed: Friendly [3/19]
+🟡 Visiting detail page [5/19]: https://pogo.pk/events/mexico-vs-chile
+🟢 Successfully processed: Friendly [2/19]
 🟡 Visiting detail page [6/19]: https://pogo.pk/events/padres-vs-brewers
 🟢 Successfully processed: Friendly [4/19]
 🟡 Visiting detail page [7/19]: https://pogo.pk/events/guardians-vs-white-sox
@@ -34,12 +34,12 @@
 🟡 Visiting detail page [16/19]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: NFL [14/19]
 🟡 Visiting detail page [17/19]: https://pogo.pk/events/glasgow-warriors-vs-connacht
+🟢 Successfully processed: Formula 1 [16/19]
 🟢 Successfully processed: MotoGP [15/19]
 🟡 Visiting detail page [18/19]: https://pogo.pk/events/dragons-vs-ospreys
-🟢 Successfully processed: Formula 1 [16/19]
 🟡 Visiting detail page [19/19]: https://pogo.pk/events/leicester-tigers-vs-gloucester
 🟢 Successfully processed: United Rugby [17/19]
-🟢 Successfully processed: United Rugby [18/19]
 🟢 Successfully processed: Premiership Rugby [19/19]
+🟢 Successfully processed: United Rugby [18/19]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 19

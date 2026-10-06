@@ -42,7 +42,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/faroe-islands-vs-kazakhstan/2583"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/faroe-islands-vs-kazakhstan/2584"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -170,6 +179,23 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/dallas-cowboys-vs-buccaneers-live/2562"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 19:30:00",
+        "team1Title": "Philadelphia Eagles",
+        "team2Title": "Jacksonville Jaguars",
+        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/eagles-vs-jaguars",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2563"
             }
         ]
     }

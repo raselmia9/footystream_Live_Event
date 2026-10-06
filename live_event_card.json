@@ -81,7 +81,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/india-vs-uruguay",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2578"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2579"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2580"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2581"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

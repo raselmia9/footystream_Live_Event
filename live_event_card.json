@@ -2,8 +2,8 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-10-06 06:15:00",
-        "team1Title": "Atlanta Falcons",
-        "team2Title": "New Orleans Saints",
+        "team1Title": "Event Ended",
+        "team2Title": "Atlanta Falcons",
         "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
         "isHot": true,

@@ -56,6 +56,18 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-07 00:45:00",
+        "team1Title": "Scotland",
+        "team2Title": "Slovenia",
+        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/scotland-vs-slovenia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-10-07 00:45:00",
         "team1Title": "Bulgaria",
         "team2Title": "Luxembourg",
         "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",

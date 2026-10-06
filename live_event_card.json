@@ -156,23 +156,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-08 06:00:00",
-        "team1Title": "Tampa Bay Rays",
-        "team2Title": "New York Yankees",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/rays-vs-yankees/2619"
-            }
-        ]
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",

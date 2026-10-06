@@ -159,6 +159,40 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-07 04:00:00",
+        "team1Title": "Atlanta Braves",
+        "team2Title": "Los Angeles Dodgers",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/braves-vs-dodgers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/braves-vs-dodgers/2612"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-07 07:30:00",
+        "team1Title": "San Diego Padres",
+        "team2Title": "Milwaukee Brewers",
+        "team1Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/padres-vs-brewers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/padres-vs-brewers/2613"
+            }
+        ]
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-07 05:00:00",
         "team1Title": "Argentina",
@@ -168,7 +202,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/argentina-vs-benin",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/argentina-vs-benin/2603"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/argentina-vs-benin/2604"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/argentina-vs-benin/2605"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/argentina-vs-benin/2606"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",
@@ -180,7 +231,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/colombia-vs-peru",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/colombia-vs-peru/2607"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/colombia-vs-peru/2608"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",
@@ -192,7 +252,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/canada-vs-usa",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/canada-vs-usa/2609"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/canada-vs-usa/2610"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",
@@ -204,7 +273,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/mexico-vs-chile",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/mexico-vs-chile/2611"
+            }
+        ]
     },
     {
         "eventTitle": "NFL",

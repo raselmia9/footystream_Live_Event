@@ -1,5 +1,38 @@
 [
     {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-10-06 20:00:00",
+        "team1Title": "India",
+        "team2Title": "Uruguay",
+        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/india-vs-uruguay",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2578"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2579"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2580"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2581"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/india-vs-uruguay/2582"
+            }
+        ]
+    },
+    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-06 20:00:00",
         "team1Title": "Faroe Islands",
@@ -70,35 +103,6 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/slovakia-vs-moldova",
         "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-06 20:00:00",
-        "team1Title": "India",
-        "team2Title": "Uruguay",
-        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/india-vs-uruguay",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2578"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2579"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2580"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2581"
-            }
-        ]
     },
     {
         "eventTitle": "Friendly",

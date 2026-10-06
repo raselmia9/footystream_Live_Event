@@ -1,59 +1,5 @@
 [
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-06 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "India",
-        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/uruguay/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/india-vs-uruguay",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2578"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2579"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2580"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2581"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/india-vs-uruguay/2582"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-10-06 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Faroe Islands",
-        "team1Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/faroe-islands-vs-kazakhstan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/faroe-islands-vs-kazakhstan/2583"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/faroe-islands-vs-kazakhstan/2584"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-10-07 00:45:00",
         "team1Title": "Scotland",

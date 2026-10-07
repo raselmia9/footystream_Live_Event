@@ -194,6 +194,42 @@
         ]
     },
     {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-10-10 00:00:00",
+        "team1Title": "Al-Nassr",
+        "team2Title": "Al Diriyah",
+        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/al-nassr-vs-diriyah",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-10 00:30:00",
+        "team1Title": "Borussia Dortmund",
+        "team2Title": "Werder Bremen",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-werder-bremen",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Title": "Lens",
+        "team2Title": "Olympique Lyonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lens-vs-olympique-lyonnais",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 00:45:00",
         "team1Title": "Glasgow Warriors",
@@ -243,5 +279,29 @@
                 "url": "https://playerdee.top/alpha/leicester-tigers-vs-gloucester/2629"
             }
         ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-10 01:00:00",
+        "team1Title": "Queens Park Rangers",
+        "team2Title": "West Ham United",
+        "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/qpr-vs-west-ham",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 01:00:00",
+        "team1Title": "Málaga",
+        "team2Title": "Espanyol",
+        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/malaga-vs-espanyol",
+        "multiWatchPageLink": []
     }
 ]

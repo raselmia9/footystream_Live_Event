@@ -2,32 +2,42 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 13
-🟡 Visiting detail page [2/13]: https://pogo.pk/events/guardians-vs-white-sox
-🟡 Visiting detail page [3/13]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
-🟡 Visiting detail page [1/13]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: MLB [3/13]
-🟢 Successfully processed: ATP Tour [1/13]
-🟢 Successfully processed: MLB [2/13]
-🟡 Visiting detail page [5/13]: https://pogo.pk/events/baycurrent-classic
-🟡 Visiting detail page [4/13]: https://pogo.pk/events/rays-vs-yankees
-🟡 Visiting detail page [6/13]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: PGA Tour [5/13]
-🟡 Visiting detail page [7/13]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
-🟢 Successfully processed: MLB [4/13]
-🟡 Visiting detail page [8/13]: https://pogo.pk/events/eagles-vs-jaguars
-🟢 Successfully processed: PGA Tour [6/13]
-🟡 Visiting detail page [9/13]: https://pogo.pk/events/motogp-indonesia-grand-prix
-🟢 Successfully processed: NFL [7/13]
-🟡 Visiting detail page [10/13]: https://pogo.pk/events/f1-singapore-grand-prix
-🟢 Successfully processed: NFL [8/13]
-🟡 Visiting detail page [11/13]: https://pogo.pk/events/glasgow-warriors-vs-connacht
-🟢 Successfully processed: MotoGP [9/13]
-🟡 Visiting detail page [12/13]: https://pogo.pk/events/dragons-vs-ospreys
-🟢 Successfully processed: Formula 1 [10/13]
-🟡 Visiting detail page [13/13]: https://pogo.pk/events/leicester-tigers-vs-gloucester
-🟢 Successfully processed: United Rugby [11/13]
-🟢 Successfully processed: United Rugby [12/13]
-🟢 Successfully processed: Premiership Rugby [13/13]
+🟢 Total unique detail links to process in parallel: 18
+🟡 Visiting detail page [2/18]: https://pogo.pk/events/guardians-vs-white-sox
+🟡 Visiting detail page [1/18]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [3/18]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
+🟢 Successfully processed: MLB [3/18]
+🟢 Successfully processed: MLB [2/18]
+🟡 Visiting detail page [4/18]: https://pogo.pk/events/rays-vs-yankees
+🟡 Visiting detail page [5/18]: https://pogo.pk/events/baycurrent-classic
+🟢 Successfully processed: ATP Tour [1/18]
+🟡 Visiting detail page [6/18]: https://pogo.pk/events/open-de-espana
+🟢 Successfully processed: PGA Tour [5/18]
+🟢 Successfully processed: MLB [4/18]
+🟡 Visiting detail page [8/18]: https://pogo.pk/events/eagles-vs-jaguars
+🟡 Visiting detail page [7/18]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
+🟢 Successfully processed: PGA Tour [6/18]
+🟡 Visiting detail page [9/18]: https://pogo.pk/events/motogp-indonesia-grand-prix
+🟢 Successfully processed: NFL [8/18]
+🟡 Visiting detail page [10/18]: https://pogo.pk/events/f1-singapore-grand-prix
+🟢 Successfully processed: MotoGP [9/18]
+🟡 Visiting detail page [11/18]: https://pogo.pk/events/al-nassr-vs-diriyah
+🟢 Successfully processed: Saudi Pro League [11/18]
+🟡 Visiting detail page [12/18]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
+🟢 Successfully processed: NFL [7/18]
+🟡 Visiting detail page [13/18]: https://pogo.pk/events/lens-vs-olympique-lyonnais
+🟢 Successfully processed: French Ligue 1 [13/18]
+🟡 Visiting detail page [14/18]: https://pogo.pk/events/glasgow-warriors-vs-connacht
+🟢 Successfully processed: Bundesliga [12/18]
+🟡 Visiting detail page [15/18]: https://pogo.pk/events/dragons-vs-ospreys
+🟢 Successfully processed: Formula 1 [10/18]
+🟡 Visiting detail page [16/18]: https://pogo.pk/events/leicester-tigers-vs-gloucester
+🟢 Successfully processed: United Rugby [15/18]
+🟡 Visiting detail page [17/18]: https://pogo.pk/events/qpr-vs-west-ham
+🟢 Successfully processed: United Rugby [14/18]
+🟡 Visiting detail page [18/18]: https://pogo.pk/events/malaga-vs-espanyol
+🟢 Successfully processed: LaLiga [18/18]
+🟢 Successfully processed: EFL [17/18]
+🟢 Successfully processed: Premiership Rugby [16/18]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 13
+🟢 Process completed successfully. Total collected events: 18

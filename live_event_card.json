@@ -254,6 +254,30 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 19:30:00",
+        "team1Title": "Borussia M'gladbach",
+        "team2Title": "Köln",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 21:30:00",
+        "team1Title": "Freiburg",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-10 00:45:00",
         "team1Title": "Lens",
@@ -275,6 +299,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psg-vs-le-mans",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Nice",
+        "team2Title": "Strasbourg",
+        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/nice-vs-strasbourg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 21:15:00",
+        "team1Title": "Rennes",
+        "team2Title": "Auxerre",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rennes-vs-auxerre",
         "multiWatchPageLink": []
     },
     {
@@ -350,6 +398,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/birmingham-vs-west-brom",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-11 17:00:00",
+        "team1Title": "Southampton",
+        "team2Title": "Portsmouth",
+        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/southampton-vs-portsmouth",
         "multiWatchPageLink": []
     },
     {
@@ -530,6 +590,54 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/napoli-vs-frosinone",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 16:30:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Como",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-como",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Monza",
+        "team2Title": "Lazio",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/monza-vs-lazio-live",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Lecce",
+        "team2Title": "Bologna",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lecce-vs-bologna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "MLS",
+        "matchTime": "2026-10-11 05:30:00",
+        "team1Title": "Inter Miami",
+        "team2Title": "DC United",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-miami-vs-dc-united",
         "multiWatchPageLink": []
     }
 ]

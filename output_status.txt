@@ -6,11 +6,11 @@
 🟡 Visiting detail page [1/13]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/13]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
 🟡 Visiting detail page [2/13]: https://pogo.pk/events/guardians-vs-white-sox
-🟢 Successfully processed: MLB [3/13]
 🟢 Successfully processed: MLB [2/13]
 🟡 Visiting detail page [4/13]: https://pogo.pk/events/rays-vs-yankees
-🟡 Visiting detail page [5/13]: https://pogo.pk/events/baycurrent-classic
 🟢 Successfully processed: ATP Tour [1/13]
+🟡 Visiting detail page [5/13]: https://pogo.pk/events/baycurrent-classic
+🟢 Successfully processed: MLB [3/13]
 🟡 Visiting detail page [6/13]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: MLB [4/13]
 🟡 Visiting detail page [7/13]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live

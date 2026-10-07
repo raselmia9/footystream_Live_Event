@@ -3,37 +3,37 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
-🟡 Visiting detail page [3/17]: https://pogo.pk/events/padres-vs-brewers
 🟡 Visiting detail page [1/17]: https://pogo.pk/events/colombia-vs-peru
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/canada-vs-usa
+🟡 Visiting detail page [3/17]: https://pogo.pk/events/padres-vs-brewers
 🟢 Successfully processed: MLB [3/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: Friendly [1/17]
 🟢 Successfully processed: Friendly [2/17]
-🟡 Visiting detail page [4/17]: https://pogo.pk/events/guardians-vs-white-sox
-🟡 Visiting detail page [6/17]: https://pogo.pk/events/rays-vs-yankees
-🟡 Visiting detail page [5/17]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
-🟢 Successfully processed: MLB [4/17]
-🟡 Visiting detail page [7/17]: https://pogo.pk/events/mexico-vs-chile
-🟢 Successfully processed: MLB [5/17]
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [6/17]: https://pogo.pk/events/guardians-vs-white-sox
+🟢 Successfully processed: Friendly [4/17]
+🟡 Visiting detail page [7/17]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
 🟢 Successfully processed: MLB [6/17]
+🟡 Visiting detail page [8/17]: https://pogo.pk/events/rays-vs-yankees
+🟢 Successfully processed: ATP Tour [5/17]
 🟡 Visiting detail page [9/17]: https://pogo.pk/events/baycurrent-classic
-🟡 Visiting detail page [8/17]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: Friendly [7/17]
+🟢 Successfully processed: MLB [7/17]
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: ATP Tour [8/17]
+🟢 Successfully processed: MLB [8/17]
 🟢 Successfully processed: PGA Tour [9/17]
-🟡 Visiting detail page [12/17]: https://pogo.pk/events/eagles-vs-jaguars
 🟡 Visiting detail page [11/17]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
+🟡 Visiting detail page [12/17]: https://pogo.pk/events/eagles-vs-jaguars
 🟢 Successfully processed: PGA Tour [10/17]
 🟡 Visiting detail page [13/17]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: NFL [12/17]
 🟢 Successfully processed: NFL [11/17]
-🟡 Visiting detail page [14/17]: https://pogo.pk/events/f1-singapore-grand-prix
 🟡 Visiting detail page [15/17]: https://pogo.pk/events/glasgow-warriors-vs-connacht
+🟡 Visiting detail page [14/17]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: MotoGP [13/17]
 🟡 Visiting detail page [16/17]: https://pogo.pk/events/dragons-vs-ospreys
-🟢 Successfully processed: United Rugby [15/17]
 🟢 Successfully processed: Formula 1 [14/17]
+🟢 Successfully processed: United Rugby [15/17]
 🟡 Visiting detail page [17/17]: https://pogo.pk/events/leicester-tigers-vs-gloucester
 🟢 Successfully processed: United Rugby [16/17]
 🟢 Successfully processed: Premiership Rugby [17/17]

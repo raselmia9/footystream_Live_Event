@@ -2,8 +2,8 @@
     {
         "eventTitle": "MLB",
         "matchTime": "2026-10-07 07:30:00",
-        "team1Title": "San Diego Padres",
-        "team2Title": "Milwaukee Brewers",
+        "team1Title": "Event Ended",
+        "team2Title": "San Diego Padres",
         "team1Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
         "isHot": true,

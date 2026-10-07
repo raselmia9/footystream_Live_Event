@@ -4,25 +4,25 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
 🟡 Visiting detail page [1/19]: https://pogo.pk/events/braves-vs-dodgers
-🟡 Visiting detail page [3/19]: https://pogo.pk/events/colombia-vs-peru
 🟡 Visiting detail page [2/19]: https://pogo.pk/events/argentina-vs-benin
+🟡 Visiting detail page [3/19]: https://pogo.pk/events/colombia-vs-peru
 🟢 Successfully processed: Friendly [2/19]
-🟡 Visiting detail page [4/19]: https://pogo.pk/events/canada-vs-usa
+🟢 Successfully processed: MLB [1/19]
 🟢 Successfully processed: Friendly [3/19]
 🟡 Visiting detail page [5/19]: https://pogo.pk/events/padres-vs-brewers
-🟢 Successfully processed: MLB [1/19]
+🟡 Visiting detail page [4/19]: https://pogo.pk/events/canada-vs-usa
 🟡 Visiting detail page [6/19]: https://pogo.pk/events/guardians-vs-white-sox
-🟢 Successfully processed: Friendly [4/19]
 🟢 Successfully processed: MLB [5/19]
 🟡 Visiting detail page [7/19]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
+🟢 Successfully processed: Friendly [4/19]
 🟡 Visiting detail page [8/19]: https://pogo.pk/events/rays-vs-yankees
 🟢 Successfully processed: MLB [6/19]
 🟡 Visiting detail page [9/19]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: MLB [7/19]
 🟡 Visiting detail page [10/19]: https://pogo.pk/events/shanghai-rolex-masters
+🟢 Successfully processed: Friendly [9/19]
 🟢 Successfully processed: MLB [8/19]
 🟡 Visiting detail page [11/19]: https://pogo.pk/events/baycurrent-classic
-🟢 Successfully processed: Friendly [9/19]
 🟡 Visiting detail page [12/19]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: ATP Tour [10/19]
 🟡 Visiting detail page [13/19]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live

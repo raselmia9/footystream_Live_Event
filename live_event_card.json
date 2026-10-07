@@ -27,8 +27,8 @@
     {
         "eventTitle": "MLB",
         "matchTime": "2026-10-08 02:00:00",
-        "team1Title": "Cleveland Guardians",
-        "team2Title": "Chicago White Sox",
+        "team1Title": "Event Ended",
+        "team2Title": "Cleveland Guardians",
         "team1Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
         "isHot": true,

@@ -2,8 +2,8 @@
     {
         "eventTitle": "MLB",
         "matchTime": "2026-10-07 04:00:00",
-        "team1Title": "Atlanta Braves",
-        "team2Title": "Los Angeles Dodgers",
+        "team1Title": "Event Ended",
+        "team2Title": "Atlanta Braves",
         "team1Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
         "isHot": true,

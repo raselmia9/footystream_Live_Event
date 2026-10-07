@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 15
-🟡 Visiting detail page [2/15]: https://pogo.pk/events/mexico-vs-chile
-🟡 Visiting detail page [3/15]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [1/15]: https://pogo.pk/events/padres-vs-brewers
-🟢 Successfully processed: MLB [1/15]
-🟢 Successfully processed: Friendly [2/15]
+🟡 Visiting detail page [3/15]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [2/15]: https://pogo.pk/events/mexico-vs-chile
 🟢 Successfully processed: ATP Tour [3/15]
 🟡 Visiting detail page [4/15]: https://pogo.pk/events/guardians-vs-white-sox
+🟢 Successfully processed: MLB [1/15]
 🟡 Visiting detail page [5/15]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
+🟢 Successfully processed: Friendly [2/15]
 🟡 Visiting detail page [6/15]: https://pogo.pk/events/rays-vs-yankees
 🟢 Successfully processed: MLB [4/15]
 🟡 Visiting detail page [7/15]: https://pogo.pk/events/baycurrent-classic

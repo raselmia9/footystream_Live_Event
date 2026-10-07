@@ -88,23 +88,6 @@
         ]
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-07 08:30:00",
-        "team1Title": "Mexico",
-        "team2Title": "Chile",
-        "team1Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/mexico-vs-chile",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/mexico-vs-chile/2611"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-07 07:30:00",
         "team1Title": "San Diego Padres",
@@ -169,6 +152,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/rays-vs-yankees/2619"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-10-07 08:30:00",
+        "team1Title": "Mexico",
+        "team2Title": "Chile",
+        "team1Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/mexico-vs-chile",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/mexico-vs-chile/2611"
             }
         ]
     },

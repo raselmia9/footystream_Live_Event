@@ -1,22 +1,5 @@
 [
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-07 08:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Mexico",
-        "team1Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/mexico-vs-chile",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/mexico-vs-chile/2611"
-            }
-        ]
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",

@@ -4,34 +4,34 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 15
 🟡 Visiting detail page [2/15]: https://pogo.pk/events/mexico-vs-chile
-🟡 Visiting detail page [1/15]: https://pogo.pk/events/padres-vs-brewers
 🟡 Visiting detail page [3/15]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [1/15]: https://pogo.pk/events/padres-vs-brewers
 🟢 Successfully processed: MLB [1/15]
 🟢 Successfully processed: Friendly [2/15]
 🟢 Successfully processed: ATP Tour [3/15]
-🟡 Visiting detail page [5/15]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
 🟡 Visiting detail page [4/15]: https://pogo.pk/events/guardians-vs-white-sox
+🟡 Visiting detail page [5/15]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
 🟡 Visiting detail page [6/15]: https://pogo.pk/events/rays-vs-yankees
-🟢 Successfully processed: MLB [5/15]
 🟢 Successfully processed: MLB [4/15]
 🟡 Visiting detail page [7/15]: https://pogo.pk/events/baycurrent-classic
+🟢 Successfully processed: MLB [5/15]
 🟡 Visiting detail page [8/15]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: MLB [6/15]
 🟡 Visiting detail page [9/15]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
-🟢 Successfully processed: PGA Tour [8/15]
 🟢 Successfully processed: PGA Tour [7/15]
 🟡 Visiting detail page [10/15]: https://pogo.pk/events/eagles-vs-jaguars
+🟢 Successfully processed: PGA Tour [8/15]
 🟡 Visiting detail page [11/15]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: NFL [9/15]
 🟡 Visiting detail page [12/15]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: NFL [10/15]
 🟡 Visiting detail page [13/15]: https://pogo.pk/events/glasgow-warriors-vs-connacht
 🟢 Successfully processed: MotoGP [11/15]
-🟢 Successfully processed: Formula 1 [12/15]
 🟡 Visiting detail page [14/15]: https://pogo.pk/events/dragons-vs-ospreys
+🟢 Successfully processed: Formula 1 [12/15]
 🟡 Visiting detail page [15/15]: https://pogo.pk/events/leicester-tigers-vs-gloucester
 🟢 Successfully processed: United Rugby [13/15]
-🟢 Successfully processed: Premiership Rugby [15/15]
 🟢 Successfully processed: United Rugby [14/15]
+🟢 Successfully processed: Premiership Rugby [15/15]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 15

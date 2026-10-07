@@ -1,47 +1,5 @@
 [
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-07 05:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Colombia",
-        "team1Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peru/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/colombia-vs-peru",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/colombia-vs-peru/2607"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/colombia-vs-peru/2608"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-07 06:00:00",
-        "team1Title": "Canada",
-        "team2Title": "USA",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/canada-vs-usa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/canada-vs-usa/2609"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/canada-vs-usa/2610"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-07 07:30:00",
         "team1Title": "San Diego Padres",

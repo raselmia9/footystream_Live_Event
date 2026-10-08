@@ -588,5 +588,17 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lecce-vs-bologna",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "MLS",
+        "matchTime": "2026-10-11 05:30:00",
+        "team1Title": "Inter Miami",
+        "team2Title": "DC United",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-miami-vs-dc-united",
+        "multiWatchPageLink": []
     }
 ]

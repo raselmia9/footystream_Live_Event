@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 44
+🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [2/44]: https://pogo.pk/events/baycurrent-classic
 🟡 Visiting detail page [3/44]: https://pogo.pk/events/open-de-espana
-🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: PGA Tour [3/44]
 🟡 Visiting detail page [4/44]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
-🟢 Successfully processed: PGA Tour [2/44]
-🟡 Visiting detail page [5/44]: https://pogo.pk/events/eagles-vs-jaguars
 🟢 Successfully processed: ATP Tour [1/44]
+🟡 Visiting detail page [5/44]: https://pogo.pk/events/eagles-vs-jaguars
+🟢 Successfully processed: PGA Tour [2/44]
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: NFL [4/44]
-🟡 Visiting detail page [7/44]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: NFL [5/44]
+🟡 Visiting detail page [7/44]: https://pogo.pk/events/f1-singapore-grand-prix
 🟡 Visiting detail page [8/44]: https://pogo.pk/events/al-nassr-vs-diriyah
 🟢 Successfully processed: MotoGP [6/44]
 🟡 Visiting detail page [9/44]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
@@ -81,8 +81,8 @@
 🟢 Successfully processed: Premier League [37/44]
 🟡 Visiting detail page [40/44]: https://pogo.pk/events/napoli-vs-frosinone
 🟢 Successfully processed: Serie A [38/44]
-🟡 Visiting detail page [41/44]: https://pogo.pk/events/roma-vs-como
 🟢 Successfully processed: Serie A [39/44]
+🟡 Visiting detail page [41/44]: https://pogo.pk/events/roma-vs-como
 🟡 Visiting detail page [42/44]: https://pogo.pk/events/monza-vs-lazio-live
 🟢 Successfully processed: Serie A [40/44]
 🟡 Visiting detail page [43/44]: https://pogo.pk/events/lecce-vs-bologna

@@ -25,23 +25,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-08 06:00:00",
-        "team1Title": "Tampa Bay Rays",
-        "team2Title": "New York Yankees",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rays-vs-yankees",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/rays-vs-yankees/2619"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-08 09:00:00",
         "team1Title": "Baycurrent Classic",
@@ -289,6 +272,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/rennes-vs-auxerre",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-12 00:45:00",
+        "team1Title": "Troyes",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
         "multiWatchPageLink": []
     },
     {

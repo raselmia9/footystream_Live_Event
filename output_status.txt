@@ -3,21 +3,21 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 44
-🟡 Visiting detail page [3/44]: https://pogo.pk/events/baycurrent-classic
-🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [2/44]: https://pogo.pk/events/rays-vs-yankees
-🟢 Successfully processed: ATP Tour [1/44]
+🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [3/44]: https://pogo.pk/events/baycurrent-classic
 🟢 Successfully processed: MLB [2/44]
+🟡 Visiting detail page [4/44]: https://pogo.pk/events/open-de-espana
+🟢 Successfully processed: ATP Tour [1/44]
 🟢 Successfully processed: PGA Tour [3/44]
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/eagles-vs-jaguars
 🟡 Visiting detail page [5/44]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
-🟡 Visiting detail page [4/44]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: NFL [6/44]
-🟡 Visiting detail page [7/44]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: PGA Tour [4/44]
+🟡 Visiting detail page [7/44]: https://pogo.pk/events/motogp-indonesia-grand-prix
+🟢 Successfully processed: NFL [6/44]
 🟢 Successfully processed: NFL [5/44]
-🟡 Visiting detail page [9/44]: https://pogo.pk/events/al-nassr-vs-diriyah
 🟡 Visiting detail page [8/44]: https://pogo.pk/events/f1-singapore-grand-prix
+🟡 Visiting detail page [9/44]: https://pogo.pk/events/al-nassr-vs-diriyah
 🟢 Successfully processed: Saudi Pro League [9/44]
 🟡 Visiting detail page [10/44]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: Bundesliga [10/44]
@@ -48,9 +48,9 @@
 🟡 Visiting detail page [23/44]: https://pogo.pk/events/qpr-vs-west-ham
 🟢 Successfully processed: United Rugby [21/44]
 🟡 Visiting detail page [24/44]: https://pogo.pk/events/birmingham-vs-west-brom
-🟢 Successfully processed: Premiership Rugby [22/44]
-🟡 Visiting detail page [25/44]: https://pogo.pk/events/southampton-vs-portsmouth
 🟢 Successfully processed: EFL [23/44]
+🟡 Visiting detail page [25/44]: https://pogo.pk/events/southampton-vs-portsmouth
+🟢 Successfully processed: Premiership Rugby [22/44]
 🟡 Visiting detail page [26/44]: https://pogo.pk/events/malaga-vs-espanyol
 🟢 Successfully processed: EFL [24/44]
 🟡 Visiting detail page [27/44]: https://pogo.pk/events/vallecano-vs-athletic-club

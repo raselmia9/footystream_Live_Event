@@ -3,40 +3,40 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 44
+🟡 Visiting detail page [3/44]: https://pogo.pk/events/open-de-espana
 🟡 Visiting detail page [2/44]: https://pogo.pk/events/baycurrent-classic
 🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [3/44]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: ATP Tour [1/44]
 🟢 Successfully processed: PGA Tour [3/44]
-🟡 Visiting detail page [5/44]: https://pogo.pk/events/eagles-vs-jaguars
-🟡 Visiting detail page [4/44]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
+🟢 Successfully processed: ATP Tour [1/44]
 🟢 Successfully processed: PGA Tour [2/44]
+🟡 Visiting detail page [4/44]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
+🟡 Visiting detail page [5/44]: https://pogo.pk/events/eagles-vs-jaguars
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/motogp-indonesia-grand-prix
-🟢 Successfully processed: NFL [4/44]
-🟡 Visiting detail page [7/44]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: NFL [5/44]
-🟡 Visiting detail page [8/44]: https://pogo.pk/events/al-nassr-vs-diriyah
+🟡 Visiting detail page [7/44]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: MotoGP [6/44]
+🟢 Successfully processed: NFL [4/44]
+🟡 Visiting detail page [8/44]: https://pogo.pk/events/al-nassr-vs-diriyah
 🟡 Visiting detail page [9/44]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: Saudi Pro League [8/44]
-🟡 Visiting detail page [10/44]: https://pogo.pk/events/bayern-munchen-vs-augsburg
 🟢 Successfully processed: Bundesliga [9/44]
+🟡 Visiting detail page [10/44]: https://pogo.pk/events/bayern-munchen-vs-augsburg
 🟡 Visiting detail page [11/44]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
 🟢 Successfully processed: Bundesliga [10/44]
 🟢 Successfully processed: Bundesliga [11/44]
 🟡 Visiting detail page [12/44]: https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig
 🟡 Visiting detail page [13/44]: https://pogo.pk/events/borussia-mgladbach-vs-koln
-🟢 Successfully processed: Bundesliga [13/44]
 🟢 Successfully processed: Bundesliga [12/44]
 🟡 Visiting detail page [14/44]: https://pogo.pk/events/freiburg-vs-schalke-04
+🟢 Successfully processed: Bundesliga [13/44]
 🟡 Visiting detail page [15/44]: https://pogo.pk/events/lens-vs-olympique-lyonnais
 🟢 Successfully processed: Bundesliga [14/44]
 🟡 Visiting detail page [16/44]: https://pogo.pk/events/psg-vs-le-mans
 🟢 Successfully processed: French Ligue 1 [15/44]
 🟡 Visiting detail page [17/44]: https://pogo.pk/events/nice-vs-strasbourg
 🟢 Successfully processed: French Ligue 1 [16/44]
-🟢 Successfully processed: French Ligue 1 [17/44]
 🟡 Visiting detail page [18/44]: https://pogo.pk/events/rennes-vs-auxerre
+🟢 Successfully processed: French Ligue 1 [17/44]
 🟡 Visiting detail page [19/44]: https://pogo.pk/events/troyes-vs-marseille
 🟢 Successfully processed: French Ligue 1 [18/44]
 🟡 Visiting detail page [20/44]: https://pogo.pk/events/glasgow-warriors-vs-connacht

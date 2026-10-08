@@ -12,11 +12,11 @@
 🟡 Visiting detail page [5/45]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: ATP Tour [1/45]
 🟡 Visiting detail page [6/45]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
-🟢 Successfully processed: PGA Tour [4/45]
-🟡 Visiting detail page [7/45]: https://pogo.pk/events/eagles-vs-jaguars
-🟢 Successfully processed: NFL [6/45]
-🟡 Visiting detail page [8/45]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: PGA Tour [5/45]
+🟡 Visiting detail page [7/45]: https://pogo.pk/events/eagles-vs-jaguars
+🟢 Successfully processed: PGA Tour [4/45]
+🟡 Visiting detail page [8/45]: https://pogo.pk/events/motogp-indonesia-grand-prix
+🟢 Successfully processed: NFL [6/45]
 🟡 Visiting detail page [9/45]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: NFL [7/45]
 🟡 Visiting detail page [10/45]: https://pogo.pk/events/al-nassr-vs-diriyah
@@ -47,8 +47,8 @@
 🟢 Successfully processed: French Ligue 1 [20/45]
 🟡 Visiting detail page [23/45]: https://pogo.pk/events/leicester-tigers-vs-gloucester
 🟢 Successfully processed: United Rugby [21/45]
-🟢 Successfully processed: United Rugby [22/45]
 🟡 Visiting detail page [24/45]: https://pogo.pk/events/qpr-vs-west-ham
+🟢 Successfully processed: United Rugby [22/45]
 🟡 Visiting detail page [25/45]: https://pogo.pk/events/birmingham-vs-west-brom
 🟢 Successfully processed: Premiership Rugby [23/45]
 🟡 Visiting detail page [26/45]: https://pogo.pk/events/southampton-vs-portsmouth
@@ -58,15 +58,15 @@
 🟡 Visiting detail page [28/45]: https://pogo.pk/events/vallecano-vs-athletic-club
 🟢 Successfully processed: EFL [26/45]
 🟡 Visiting detail page [29/45]: https://pogo.pk/events/atletico-madrid-vs-alaves
-🟢 Successfully processed: LaLiga [28/45]
-🟡 Visiting detail page [30/45]: https://pogo.pk/events/barcelona-vs-getafe
 🟢 Successfully processed: LaLiga [27/45]
+🟡 Visiting detail page [30/45]: https://pogo.pk/events/barcelona-vs-getafe
+🟢 Successfully processed: LaLiga [28/45]
 🟡 Visiting detail page [31/45]: https://pogo.pk/events/real-madrid-vs-villarreal
 🟢 Successfully processed: LaLiga [29/45]
 🟡 Visiting detail page [32/45]: https://pogo.pk/events/elche-vs-celta-vigo
-🟢 Successfully processed: LaLiga [31/45]
-🟡 Visiting detail page [33/45]: https://pogo.pk/events/arsenal-vs-leeds-united
 🟢 Successfully processed: LaLiga [30/45]
+🟡 Visiting detail page [33/45]: https://pogo.pk/events/arsenal-vs-leeds-united
+🟢 Successfully processed: LaLiga [31/45]
 🟡 Visiting detail page [34/45]: https://pogo.pk/events/aston-villa-vs-brentford
 🟢 Successfully processed: LaLiga [32/45]
 🟡 Visiting detail page [35/45]: https://pogo.pk/events/chelsea-vs-bournemouth

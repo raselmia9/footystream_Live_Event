@@ -4,33 +4,33 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 44
 🟡 Visiting detail page [2/44]: https://pogo.pk/events/baycurrent-classic
-🟡 Visiting detail page [3/44]: https://pogo.pk/events/open-de-espana
 🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [3/44]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: PGA Tour [2/44]
 🟡 Visiting detail page [4/44]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
 🟢 Successfully processed: PGA Tour [3/44]
 🟡 Visiting detail page [5/44]: https://pogo.pk/events/eagles-vs-jaguars
 🟢 Successfully processed: ATP Tour [1/44]
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/motogp-indonesia-grand-prix
-🟢 Successfully processed: NFL [4/44]
-🟡 Visiting detail page [7/44]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: NFL [5/44]
-🟡 Visiting detail page [8/44]: https://pogo.pk/events/al-nassr-vs-diriyah
+🟢 Successfully processed: NFL [4/44]
 🟢 Successfully processed: MotoGP [6/44]
+🟡 Visiting detail page [7/44]: https://pogo.pk/events/f1-singapore-grand-prix
+🟡 Visiting detail page [8/44]: https://pogo.pk/events/al-nassr-vs-diriyah
 🟡 Visiting detail page [9/44]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
-🟢 Successfully processed: Bundesliga [9/44]
-🟡 Visiting detail page [10/44]: https://pogo.pk/events/bayern-munchen-vs-augsburg
 🟢 Successfully processed: Saudi Pro League [8/44]
-🟡 Visiting detail page [11/44]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
+🟡 Visiting detail page [10/44]: https://pogo.pk/events/bayern-munchen-vs-augsburg
 🟢 Successfully processed: Bundesliga [10/44]
-🟡 Visiting detail page [12/44]: https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig
+🟡 Visiting detail page [11/44]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
 🟢 Successfully processed: Bundesliga [11/44]
+🟡 Visiting detail page [12/44]: https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig
+🟢 Successfully processed: Bundesliga [9/44]
 🟡 Visiting detail page [13/44]: https://pogo.pk/events/borussia-mgladbach-vs-koln
-🟢 Successfully processed: Formula 1 [7/44]
-🟡 Visiting detail page [14/44]: https://pogo.pk/events/freiburg-vs-schalke-04
 🟢 Successfully processed: Bundesliga [12/44]
-🟡 Visiting detail page [15/44]: https://pogo.pk/events/lens-vs-olympique-lyonnais
+🟡 Visiting detail page [14/44]: https://pogo.pk/events/freiburg-vs-schalke-04
+🟢 Successfully processed: Formula 1 [7/44]
 🟢 Successfully processed: Bundesliga [13/44]
+🟡 Visiting detail page [15/44]: https://pogo.pk/events/lens-vs-olympique-lyonnais
 🟡 Visiting detail page [16/44]: https://pogo.pk/events/psg-vs-le-mans
 🟢 Successfully processed: Bundesliga [14/44]
 🟡 Visiting detail page [17/44]: https://pogo.pk/events/nice-vs-strasbourg
@@ -40,37 +40,37 @@
 🟡 Visiting detail page [19/44]: https://pogo.pk/events/troyes-vs-marseille
 🟢 Successfully processed: French Ligue 1 [17/44]
 🟡 Visiting detail page [20/44]: https://pogo.pk/events/glasgow-warriors-vs-connacht
-🟢 Successfully processed: French Ligue 1 [18/44]
-🟡 Visiting detail page [21/44]: https://pogo.pk/events/dragons-vs-ospreys
 🟢 Successfully processed: French Ligue 1 [19/44]
+🟡 Visiting detail page [21/44]: https://pogo.pk/events/dragons-vs-ospreys
+🟢 Successfully processed: French Ligue 1 [18/44]
 🟡 Visiting detail page [22/44]: https://pogo.pk/events/leicester-tigers-vs-gloucester
 🟢 Successfully processed: United Rugby [20/44]
 🟡 Visiting detail page [23/44]: https://pogo.pk/events/qpr-vs-west-ham
-🟢 Successfully processed: United Rugby [21/44]
-🟡 Visiting detail page [24/44]: https://pogo.pk/events/birmingham-vs-west-brom
-🟢 Successfully processed: Premiership Rugby [22/44]
-🟡 Visiting detail page [25/44]: https://pogo.pk/events/southampton-vs-portsmouth
 🟢 Successfully processed: EFL [23/44]
-🟡 Visiting detail page [26/44]: https://pogo.pk/events/malaga-vs-espanyol
+🟡 Visiting detail page [24/44]: https://pogo.pk/events/birmingham-vs-west-brom
+🟢 Successfully processed: United Rugby [21/44]
+🟡 Visiting detail page [25/44]: https://pogo.pk/events/southampton-vs-portsmouth
 🟢 Successfully processed: EFL [24/44]
-🟡 Visiting detail page [27/44]: https://pogo.pk/events/vallecano-vs-athletic-club
+🟡 Visiting detail page [26/44]: https://pogo.pk/events/malaga-vs-espanyol
 🟢 Successfully processed: EFL [25/44]
+🟡 Visiting detail page [27/44]: https://pogo.pk/events/vallecano-vs-athletic-club
+🟢 Successfully processed: Premiership Rugby [22/44]
 🟡 Visiting detail page [28/44]: https://pogo.pk/events/atletico-madrid-vs-alaves
 🟢 Successfully processed: LaLiga [26/44]
 🟡 Visiting detail page [29/44]: https://pogo.pk/events/barcelona-vs-getafe
-🟢 Successfully processed: LaLiga [28/44]
-🟡 Visiting detail page [30/44]: https://pogo.pk/events/real-madrid-vs-villarreal
-🟢 Successfully processed: LaLiga [27/44]
-🟡 Visiting detail page [31/44]: https://pogo.pk/events/elche-vs-celta-vigo
 🟢 Successfully processed: LaLiga [29/44]
-🟡 Visiting detail page [32/44]: https://pogo.pk/events/arsenal-vs-leeds-united
+🟡 Visiting detail page [30/44]: https://pogo.pk/events/real-madrid-vs-villarreal
 🟢 Successfully processed: LaLiga [30/44]
-🟡 Visiting detail page [33/44]: https://pogo.pk/events/aston-villa-vs-brentford
+🟡 Visiting detail page [31/44]: https://pogo.pk/events/elche-vs-celta-vigo
+🟢 Successfully processed: LaLiga [27/44]
+🟡 Visiting detail page [32/44]: https://pogo.pk/events/arsenal-vs-leeds-united
 🟢 Successfully processed: LaLiga [31/44]
-🟡 Visiting detail page [34/44]: https://pogo.pk/events/chelsea-vs-bournemouth
-🟢 Successfully processed: Premier League [33/44]
-🟡 Visiting detail page [35/44]: https://pogo.pk/events/brighton-vs-sunderland
+🟡 Visiting detail page [33/44]: https://pogo.pk/events/aston-villa-vs-brentford
 🟢 Successfully processed: Premier League [32/44]
+🟡 Visiting detail page [34/44]: https://pogo.pk/events/chelsea-vs-bournemouth
+🟢 Successfully processed: LaLiga [28/44]
+🟡 Visiting detail page [35/44]: https://pogo.pk/events/brighton-vs-sunderland
+🟢 Successfully processed: Premier League [33/44]
 🟡 Visiting detail page [36/44]: https://pogo.pk/events/fulham-vs-ipswich-town
 🟢 Successfully processed: Premier League [34/44]
 🟡 Visiting detail page [37/44]: https://pogo.pk/events/manchester-united-vs-spurs

@@ -3,32 +3,32 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 45
-🟡 Visiting detail page [1/45]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [2/45]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
 🟡 Visiting detail page [3/45]: https://pogo.pk/events/rays-vs-yankees
-🟢 Successfully processed: MLB [2/45]
-🟡 Visiting detail page [4/45]: https://pogo.pk/events/baycurrent-classic
+🟡 Visiting detail page [2/45]: https://pogo.pk/events/los-angeles-dodgers-vs-atlanta-braves
+🟡 Visiting detail page [1/45]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: MLB [3/45]
-🟡 Visiting detail page [5/45]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: ATP Tour [1/45]
+🟢 Successfully processed: MLB [2/45]
+🟡 Visiting detail page [5/45]: https://pogo.pk/events/open-de-espana
 🟡 Visiting detail page [6/45]: https://pogo.pk/events/dallas-cowboys-vs-buccaneers-live
-🟢 Successfully processed: PGA Tour [5/45]
-🟡 Visiting detail page [7/45]: https://pogo.pk/events/eagles-vs-jaguars
+🟡 Visiting detail page [4/45]: https://pogo.pk/events/baycurrent-classic
 🟢 Successfully processed: PGA Tour [4/45]
-🟡 Visiting detail page [8/45]: https://pogo.pk/events/motogp-indonesia-grand-prix
+🟡 Visiting detail page [7/45]: https://pogo.pk/events/eagles-vs-jaguars
 🟢 Successfully processed: NFL [6/45]
+🟡 Visiting detail page [8/45]: https://pogo.pk/events/motogp-indonesia-grand-prix
+🟢 Successfully processed: PGA Tour [5/45]
 🟡 Visiting detail page [9/45]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: NFL [7/45]
 🟡 Visiting detail page [10/45]: https://pogo.pk/events/al-nassr-vs-diriyah
-🟢 Successfully processed: MotoGP [8/45]
-🟡 Visiting detail page [11/45]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: Formula 1 [9/45]
+🟢 Successfully processed: MotoGP [8/45]
 🟡 Visiting detail page [12/45]: https://pogo.pk/events/bayern-munchen-vs-augsburg
+🟡 Visiting detail page [11/45]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: Saudi Pro League [10/45]
 🟡 Visiting detail page [13/45]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
-🟢 Successfully processed: Bundesliga [11/45]
-🟡 Visiting detail page [14/45]: https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig
 🟢 Successfully processed: Bundesliga [12/45]
+🟡 Visiting detail page [14/45]: https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig
+🟢 Successfully processed: Bundesliga [11/45]
 🟡 Visiting detail page [15/45]: https://pogo.pk/events/borussia-mgladbach-vs-koln
 🟢 Successfully processed: Bundesliga [13/45]
 🟡 Visiting detail page [16/45]: https://pogo.pk/events/freiburg-vs-schalke-04

@@ -240,30 +240,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-10 17:30:00",
-        "team1Title": "Birmingham City",
-        "team2Title": "West Bromwich Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/birmingham-vs-west-brom",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-11 17:00:00",
-        "team1Title": "Southampton",
-        "team2Title": "Portsmouth",
-        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/southampton-vs-portsmouth",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-10 01:00:00",
         "team1Title": "Málaga",
@@ -287,66 +263,6 @@
                 "url": "https://playerdee.top/alpha/malaga-vs-espanyol/2640"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-10 18:00:00",
-        "team1Title": "Rayo Vallecano",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/vallecano-vs-athletic-club",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-10 20:15:00",
-        "team1Title": "Atlético Madrid",
-        "team2Title": "Deportivo Alavés",
-        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-alaves",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Getafe",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-getafe",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-villarreal",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 18:00:00",
-        "team1Title": "Elche CF",
-        "team2Title": "Celta de Vigo",
-        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/elche-vs-celta-vigo",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",
@@ -418,6 +334,102 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-spurs",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-10 17:30:00",
+        "team1Title": "Birmingham City",
+        "team2Title": "West Bromwich Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/birmingham-vs-west-brom",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-11 17:00:00",
+        "team1Title": "Southampton",
+        "team2Title": "Portsmouth",
+        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/southampton-vs-portsmouth",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 18:00:00",
+        "team1Title": "Rayo Vallecano",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/vallecano-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 20:15:00",
+        "team1Title": "Atlético Madrid",
+        "team2Title": "Deportivo Alavés",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-alaves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-getafe",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-11 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-11 18:00:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/elche-vs-celta-vigo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-11 20:15:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna",
         "multiWatchPageLink": []
     },
     {

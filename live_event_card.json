@@ -107,8 +107,8 @@
     {
         "eventTitle": "Saudi Pro League",
         "matchTime": "2026-10-10 00:00:00",
-        "team1Title": "Al-Nassr",
-        "team2Title": "Al Diriyah",
+        "team1Title": "Event Ended",
+        "team2Title": "Al-Nassr",
         "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
         "isHot": true,

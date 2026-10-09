@@ -105,27 +105,10 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-10 00:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Borussia Dortmund",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-werder-bremen",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-werder-bremen/2633"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Lens",
-        "team2Title": "Olympique Lyonnais",
+        "team1Title": "Event Ended",
+        "team2Title": "Lens",
         "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "isHot": true,
@@ -145,8 +128,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Glasgow Warriors",
-        "team2Title": "Connacht",
+        "team1Title": "Event Ended",
+        "team2Title": "Glasgow Warriors",
         "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
         "isHot": true,
@@ -162,8 +145,8 @@
     {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Leicester Tigers",
-        "team2Title": "Gloucester Rugby",
+        "team1Title": "Event Ended",
+        "team2Title": "Leicester Tigers",
         "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
         "isHot": true,
@@ -179,8 +162,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Dragons",
-        "team2Title": "Ospreys",
+        "team1Title": "Event Ended",
+        "team2Title": "Dragons",
         "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
         "isHot": true,

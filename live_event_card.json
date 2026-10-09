@@ -406,6 +406,18 @@
     },
     {
         "eventTitle": "LaLiga",
+        "matchTime": "2026-10-11 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
         "matchTime": "2026-10-11 18:00:00",
         "team1Title": "Elche CF",
         "team2Title": "Celta de Vigo",

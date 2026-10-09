@@ -214,6 +214,18 @@
     },
     {
         "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Nice",
+        "team2Title": "Strasbourg",
+        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/nice-vs-strasbourg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-11 21:15:00",
         "team1Title": "Rennes",
         "team2Title": "Auxerre",

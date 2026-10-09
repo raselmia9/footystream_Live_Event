@@ -139,7 +139,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-werder-bremen",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-werder-bremen/2633"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",

@@ -168,54 +168,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Le Mans",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-le-mans",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Nice",
-        "team2Title": "Strasbourg",
-        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/nice-vs-strasbourg",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 21:15:00",
-        "team1Title": "Rennes",
-        "team2Title": "Auxerre",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rennes-vs-auxerre",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-12 00:45:00",
-        "team1Title": "Troyes",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 00:45:00",
         "team1Title": "Glasgow Warriors",
@@ -233,23 +185,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Dragons",
-        "team2Title": "Ospreys",
-        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/dragons-vs-ospreys",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/dragons-vs-ospreys/2628"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-10 00:45:00",
         "team1Title": "Leicester Tigers",
@@ -263,6 +198,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/leicester-tigers-vs-gloucester/2629"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 00:45:00",
+        "team1Title": "Dragons",
+        "team2Title": "Ospreys",
+        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/dragons-vs-ospreys",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/dragons-vs-ospreys/2628"
             }
         ]
     },
@@ -598,6 +550,54 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Le Mans",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-le-mans",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Nice",
+        "team2Title": "Strasbourg",
+        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/nice-vs-strasbourg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 21:15:00",
+        "team1Title": "Rennes",
+        "team2Title": "Auxerre",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rennes-vs-auxerre",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-12 00:45:00",
+        "team1Title": "Troyes",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
         "multiWatchPageLink": []
     },
     {

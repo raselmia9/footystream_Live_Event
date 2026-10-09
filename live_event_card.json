@@ -105,6 +105,31 @@
         ]
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-10-10 12:10:00",
+        "team1Title": "Australia",
+        "team2Title": "New Zealand",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-new-zealand",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2641"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2642"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2643"
+            }
+        ]
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-10 17:30:00",
         "team1Title": "Arsenal",
@@ -175,6 +200,108 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-spurs",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 17:30:00",
+        "team1Title": "Bulls",
+        "team2Title": "Lions",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulls-vs-lions",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bulls-vs-lions/2644"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Title": "Edinburgh",
+        "team2Title": "Zebre",
+        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/edinburgh-vs-zebre",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/edinburgh-vs-zebre/2646"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Title": "The Sharks",
+        "team2Title": "Stormers",
+        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sharks-vs-stormers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sharks-vs-stormers/2645"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Title": "Ulster",
+        "team2Title": "Munster",
+        "team1Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ulster-vs-munster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ulster-vs-munster/2649"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Title": "Scarlets",
+        "team2Title": "Benetton",
+        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/scarlets-vs-benetton-treviso",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/scarlets-vs-benetton-treviso/2648"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Title": "Cardiff Blues",
+        "team2Title": "Leinster",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cardiff-vs-leinster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/cardiff-vs-leinster/2651"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -405,6 +532,40 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-10 20:00:00",
+        "team1Title": "Bath Rugby",
+        "team2Title": "Northampton Saints",
+        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bath-vs-northampton",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bath-vs-northampton/2647"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Title": "Bristol Bears",
+        "team2Title": "Saracens",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-saracens",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bristol-bears-vs-saracens/2650"
+            }
+        ]
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-11 00:45:00",
         "team1Title": "PSG",
@@ -441,16 +602,21 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-12 00:45:00",
-        "team1Title": "Troyes",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "eventTitle": "UFC",
+        "matchTime": "2026-10-11 04:00:00",
+        "team1Title": "Brendan Allen",
+        "team2Title": "Christian Leroy Duncan",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
-        "multiWatchPageLink": []
+        "detailsPage": "https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brendan-allen-vs-christian-leroy-duncan/2652"
+            }
+        ]
     },
     {
         "eventTitle": "MLS",

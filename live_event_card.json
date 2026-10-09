@@ -105,82 +105,10 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Lens",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lens-vs-olympique-lyonnais",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lens-vs-olympique-lyonnais/2634"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lens-vs-olympique-lyonnais/2635"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Glasgow Warriors",
-        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-connacht",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/glasgow-warriors-vs-connacht/2627"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Leicester Tigers",
-        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-gloucester",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/leicester-tigers-vs-gloucester/2629"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-10 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Dragons",
-        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/dragons-vs-ospreys",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/dragons-vs-ospreys/2628"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-10 01:00:00",
-        "team1Title": "Queens Park Rangers",
-        "team2Title": "West Ham United",
+        "team1Title": "Event Ended",
+        "team2Title": "Queens Park Rangers",
         "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "isHot": true,
@@ -200,8 +128,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-10 01:00:00",
-        "team1Title": "Málaga",
-        "team2Title": "Espanyol",
+        "team1Title": "Event Ended",
+        "team2Title": "Málaga",
         "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
         "isHot": true,

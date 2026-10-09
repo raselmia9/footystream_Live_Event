@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 44
-🟡 Visiting detail page [3/44]: https://pogo.pk/events/open-de-espana
-🟡 Visiting detail page [2/44]: https://pogo.pk/events/baycurrent-classic
 🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: PGA Tour [3/44]
-🟡 Visiting detail page [4/44]: https://pogo.pk/events/motogp-indonesia-grand-prix
-🟢 Successfully processed: ATP Tour [1/44]
-🟡 Visiting detail page [5/44]: https://pogo.pk/events/f1-singapore-grand-prix
+🟡 Visiting detail page [2/44]: https://pogo.pk/events/baycurrent-classic
+🟡 Visiting detail page [3/44]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: PGA Tour [2/44]
+🟡 Visiting detail page [4/44]: https://pogo.pk/events/motogp-indonesia-grand-prix
+🟢 Successfully processed: PGA Tour [3/44]
+🟡 Visiting detail page [5/44]: https://pogo.pk/events/f1-singapore-grand-prix
+🟢 Successfully processed: ATP Tour [1/44]
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/al-nassr-vs-diriyah
 🟢 Successfully processed: MotoGP [4/44]
 🟡 Visiting detail page [7/44]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
@@ -18,9 +18,9 @@
 🟡 Visiting detail page [8/44]: https://pogo.pk/events/lens-vs-olympique-lyonnais
 🟢 Successfully processed: Saudi Pro League [6/44]
 🟡 Visiting detail page [9/44]: https://pogo.pk/events/glasgow-warriors-vs-connacht
-🟢 Successfully processed: French Ligue 1 [8/44]
 🟢 Successfully processed: Bundesliga [7/44]
 🟡 Visiting detail page [10/44]: https://pogo.pk/events/leicester-tigers-vs-gloucester
+🟢 Successfully processed: French Ligue 1 [8/44]
 🟡 Visiting detail page [11/44]: https://pogo.pk/events/dragons-vs-ospreys
 🟢 Successfully processed: United Rugby [9/44]
 🟡 Visiting detail page [12/44]: https://pogo.pk/events/qpr-vs-west-ham
@@ -30,9 +30,9 @@
 🟡 Visiting detail page [14/44]: https://pogo.pk/events/arsenal-vs-leeds-united
 🟢 Successfully processed: EFL [12/44]
 🟡 Visiting detail page [15/44]: https://pogo.pk/events/aston-villa-vs-brentford
-🟢 Successfully processed: Premier League [15/44]
-🟡 Visiting detail page [16/44]: https://pogo.pk/events/chelsea-vs-bournemouth
 🟢 Successfully processed: Premier League [14/44]
+🟡 Visiting detail page [16/44]: https://pogo.pk/events/chelsea-vs-bournemouth
+🟢 Successfully processed: Premier League [15/44]
 🟡 Visiting detail page [17/44]: https://pogo.pk/events/brighton-vs-sunderland
 🟢 Successfully processed: Premier League [16/44]
 🟡 Visiting detail page [18/44]: https://pogo.pk/events/fulham-vs-ipswich-town
@@ -50,11 +50,11 @@
 🟡 Visiting detail page [24/44]: https://pogo.pk/events/barcelona-vs-getafe
 🟢 Successfully processed: LaLiga [23/44]
 🟡 Visiting detail page [25/44]: https://pogo.pk/events/real-madrid-vs-villarreal
-🟢 Successfully processed: LaLiga [13/44]
-🟡 Visiting detail page [26/44]: https://pogo.pk/events/elche-vs-celta-vigo
 🟢 Successfully processed: LaLiga [24/44]
-🟡 Visiting detail page [27/44]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
+🟡 Visiting detail page [26/44]: https://pogo.pk/events/elche-vs-celta-vigo
 🟢 Successfully processed: LaLiga [25/44]
+🟡 Visiting detail page [27/44]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
+🟢 Successfully processed: LaLiga [13/44]
 🟡 Visiting detail page [28/44]: https://pogo.pk/events/genoa-vs-fiorentina
 🟢 Successfully processed: LaLiga [26/44]
 🟡 Visiting detail page [29/44]: https://pogo.pk/events/inter-milan-vs-parma
@@ -80,15 +80,15 @@
 🟡 Visiting detail page [39/44]: https://pogo.pk/events/psg-vs-le-mans
 🟢 Successfully processed: Bundesliga [37/44]
 🟡 Visiting detail page [40/44]: https://pogo.pk/events/nice-vs-strasbourg
-🟢 Successfully processed: French Ligue 1 [39/44]
 🟢 Successfully processed: Bundesliga [38/44]
 🟡 Visiting detail page [41/44]: https://pogo.pk/events/rennes-vs-auxerre
+🟢 Successfully processed: French Ligue 1 [39/44]
 🟡 Visiting detail page [42/44]: https://pogo.pk/events/troyes-vs-marseille
 🟢 Successfully processed: French Ligue 1 [40/44]
 🟡 Visiting detail page [43/44]: https://pogo.pk/events/inter-miami-vs-dc-united
-🟢 Successfully processed: French Ligue 1 [42/44]
 🟢 Successfully processed: French Ligue 1 [41/44]
 🟡 Visiting detail page [44/44]: https://pogo.pk/events/eagles-vs-jaguars
+🟢 Successfully processed: French Ligue 1 [42/44]
 🟢 Successfully processed: MLS [43/44]
 🟢 Successfully processed: NFL [44/44]
 🟢 Browser closed successfully.

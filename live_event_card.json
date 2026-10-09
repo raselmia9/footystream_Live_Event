@@ -107,8 +107,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-10 00:30:00",
-        "team1Title": "Borussia Dortmund",
-        "team2Title": "Werder Bremen",
+        "team1Title": "Event Ended",
+        "team2Title": "Borussia Dortmund",
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
         "isHot": true,

@@ -163,18 +163,6 @@
     },
     {
         "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-10 19:30:00",
-        "team1Title": "Mainz 05",
-        "team2Title": "Bayer Leverkusen",
-        "team1Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/mainz-05-vs-bayer-leverkusen",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
         "matchTime": "2026-10-10 22:30:00",
         "team1Title": "Eintracht Frankfurt",
         "team2Title": "RB Leipzig",

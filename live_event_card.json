@@ -105,31 +105,6 @@
         ]
     },
     {
-        "eventTitle": "Saudi Pro League",
-        "matchTime": "2026-10-10 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Al-Nassr",
-        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/al-diriyah/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/al-nassr-vs-diriyah",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/al-nassr-vs-diriyah/2630"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/al-nassr-vs-diriyah/2631"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/al-nassr-vs-diriyah/2632"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-10 00:30:00",
         "team1Title": "Borussia Dortmund",

@@ -84,23 +84,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Title": "Philadelphia Eagles",
-        "team2Title": "Jacksonville Jaguars",
-        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/eagles-vs-jaguars",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2563"
-            }
-        ]
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-10-09 07:00:00",
         "team1Title": "MotoGP Indonesia Grand Prix",
@@ -423,18 +406,6 @@
     },
     {
         "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-villarreal",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
         "matchTime": "2026-10-11 18:00:00",
         "team1Title": "Elche CF",
         "team2Title": "Celta de Vigo",
@@ -600,5 +571,22 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/inter-miami-vs-dc-united",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 19:30:00",
+        "team1Title": "Philadelphia Eagles",
+        "team2Title": "Jacksonville Jaguars",
+        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/eagles-vs-jaguars",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2563"
+            }
+        ]
     }
 ]

@@ -105,52 +105,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-10 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Queens Park Rangers",
-        "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/qpr-vs-west-ham",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/qpr-vs-west-ham/2636"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/qpr-vs-west-ham/2637"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-10 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Málaga",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/malaga-vs-espanyol",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/malaga-vs-espanyol/2638"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/malaga-vs-espanyol/2639"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/malaga-vs-espanyol/2640"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-10 17:30:00",
         "team1Title": "Arsenal",

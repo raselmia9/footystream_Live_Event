@@ -1,5 +1,84 @@
 [
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-getafe",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2666"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2667"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2671"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Tottenham Hotspur",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-united-vs-spurs",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2681"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2682"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2683"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2684"
+            }
+        ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Le Mans",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-le-mans",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psg-vs-le-mans/2687"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/psg-vs-le-mans/2688"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/psg-vs-le-mans/2689"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",
@@ -103,35 +182,6 @@
                 "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2626"
             }
         ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-10 19:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayern München",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-augsburg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-augsburg/2658"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-10 19:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Mainz 05",
-        "team1Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/mainz-05-vs-bayer-leverkusen",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",
@@ -303,6 +353,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/inter-milan-vs-parma/2673"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-parma/2685"
             }
         ]
     },
@@ -320,6 +374,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2674"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2686"
             }
         ]
     },
@@ -423,29 +481,66 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
+        "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Getafe",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team1Title": "Bristol Bears",
+        "team2Title": "Saracens",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-getafe",
+        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-saracens",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2666"
+                "url": "https://playerdee.top/alpha/bristol-bears-vs-saracens/2650"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Title": "Eintracht Frankfurt",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2656"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2667"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2671"
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2657"
             }
         ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 19:30:00",
+        "team1Title": "Borussia M'gladbach",
+        "team2Title": "Köln",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 21:30:00",
+        "team1Title": "Freiburg",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",
@@ -461,6 +556,18 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2668"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2690"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2691"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2692"
             }
         ]
     },
@@ -513,181 +620,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Bristol Bears",
-        "team2Title": "Saracens",
-        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-saracens",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bristol-bears-vs-saracens/2650"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Tottenham Hotspur",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-united-vs-spurs",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2681"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2682"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2683"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2684"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Nottingham Forest",
-        "team2Title": "Crystal Palace",
-        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/nottm-forest-vs-crystal-palace",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Hull City",
-        "team2Title": "Everton",
-        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hull-city-vs-everton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-manchester-city",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Eintracht Frankfurt",
-        "team2Title": "RB Leipzig",
-        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2656"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2657"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Title": "Borussia M'gladbach",
-        "team2Title": "Köln",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Title": "Freiburg",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Le Mans",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-le-mans",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Nice",
-        "team2Title": "Strasbourg",
-        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/nice-vs-strasbourg",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 21:15:00",
-        "team1Title": "Rennes",
-        "team2Title": "Auxerre",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rennes-vs-auxerre",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-12 00:45:00",
-        "team1Title": "Troyes",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "UFC",
         "matchTime": "2026-10-11 04:00:00",
         "team1Title": "Brendan Allen",
@@ -726,6 +658,78 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/southampton-vs-portsmouth",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "Crystal Palace",
+        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/nottm-forest-vs-crystal-palace",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Hull City",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hull-city-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-11 21:30:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Manchester City",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-manchester-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Nice",
+        "team2Title": "Strasbourg",
+        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/nice-vs-strasbourg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 21:15:00",
+        "team1Title": "Rennes",
+        "team2Title": "Auxerre",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rennes-vs-auxerre",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-12 00:45:00",
+        "team1Title": "Troyes",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
         "multiWatchPageLink": []
     },
     {

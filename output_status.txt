@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 40
+🟡 Visiting detail page [1/40]: https://pogo.pk/events/psg-vs-le-mans
 🟡 Visiting detail page [2/40]: https://pogo.pk/events/real-madrid-vs-villarreal
 🟡 Visiting detail page [3/40]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [1/40]: https://pogo.pk/events/psg-vs-le-mans
 🟢 Successfully processed: French Ligue 1 [1/40]
-🟡 Visiting detail page [4/40]: https://pogo.pk/events/baycurrent-classic
-🟢 Successfully processed: ATP Tour [3/40]
-🟡 Visiting detail page [5/40]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: LaLiga [2/40]
+🟡 Visiting detail page [4/40]: https://pogo.pk/events/baycurrent-classic
+🟡 Visiting detail page [5/40]: https://pogo.pk/events/open-de-espana
+🟢 Successfully processed: ATP Tour [3/40]
 🟡 Visiting detail page [6/40]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: PGA Tour [4/40]
 🟡 Visiting detail page [7/40]: https://pogo.pk/events/f1-singapore-grand-prix
@@ -34,11 +34,11 @@
 🟡 Visiting detail page [16/40]: https://pogo.pk/events/juventus-vs-cagliari
 🟢 Successfully processed: Serie A [15/40]
 🟡 Visiting detail page [17/40]: https://pogo.pk/events/atalanta-vs-venezia
-🟢 Successfully processed: Formula 1 [7/40]
-🟡 Visiting detail page [18/40]: https://pogo.pk/events/southampton-vs-portsmouth
 🟢 Successfully processed: Serie A [16/40]
-🟡 Visiting detail page [19/40]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟡 Visiting detail page [18/40]: https://pogo.pk/events/southampton-vs-portsmouth
 🟢 Successfully processed: Serie A [17/40]
+🟡 Visiting detail page [19/40]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟢 Successfully processed: Formula 1 [7/40]
 🟡 Visiting detail page [20/40]: https://pogo.pk/events/elche-vs-celta-vigo
 🟢 Successfully processed: EFL [18/40]
 🟡 Visiting detail page [21/40]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
@@ -62,11 +62,11 @@
 🟡 Visiting detail page [30/40]: https://pogo.pk/events/rennes-vs-auxerre
 🟢 Successfully processed: Premier League [28/40]
 🟡 Visiting detail page [31/40]: https://pogo.pk/events/troyes-vs-marseille
-🟢 Successfully processed: French Ligue 1 [29/40]
-🟡 Visiting detail page [32/40]: https://pogo.pk/events/borussia-mgladbach-vs-koln
 🟢 Successfully processed: French Ligue 1 [30/40]
-🟡 Visiting detail page [33/40]: https://pogo.pk/events/freiburg-vs-schalke-04
+🟡 Visiting detail page [32/40]: https://pogo.pk/events/borussia-mgladbach-vs-koln
 🟢 Successfully processed: French Ligue 1 [31/40]
+🟡 Visiting detail page [33/40]: https://pogo.pk/events/freiburg-vs-schalke-04
+🟢 Successfully processed: French Ligue 1 [29/40]
 🟡 Visiting detail page [34/40]: https://pogo.pk/events/eagles-vs-jaguars
 🟢 Successfully processed: Bundesliga [32/40]
 🟡 Visiting detail page [35/40]: https://pogo.pk/events/sabah-vs-slavia-praha

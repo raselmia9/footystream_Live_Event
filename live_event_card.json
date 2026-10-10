@@ -1,30 +1,5 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-10 17:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Arsenal",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/arsenal-vs-leeds-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/arsenal-vs-leeds-united/2653"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/arsenal-vs-leeds-united/2654"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/arsenal-vs-leeds-united/2659"
-            }
-        ]
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",
@@ -126,44 +101,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2626"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-10 17:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bulls",
-        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bulls-vs-lions",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bulls-vs-lions/2644"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-10 17:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Birmingham City",
-        "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/birmingham-vs-west-brom",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/birmingham-vs-west-brom/2660"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/birmingham-vs-west-brom/2661"
             }
         ]
     },

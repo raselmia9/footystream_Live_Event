@@ -4,37 +4,37 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 47
 🟡 Visiting detail page [2/47]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [3/47]: https://pogo.pk/events/baycurrent-classic
 🟡 Visiting detail page [1/47]: https://pogo.pk/events/arsenal-vs-leeds-united
+🟡 Visiting detail page [3/47]: https://pogo.pk/events/baycurrent-classic
+🟢 Successfully processed: Premier League [1/47]
 🟢 Successfully processed: ATP Tour [2/47]
 🟢 Successfully processed: PGA Tour [3/47]
-🟢 Successfully processed: Premier League [1/47]
-🟡 Visiting detail page [4/47]: https://pogo.pk/events/open-de-espana
 🟡 Visiting detail page [5/47]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟡 Visiting detail page [6/47]: https://pogo.pk/events/f1-singapore-grand-prix
+🟡 Visiting detail page [4/47]: https://pogo.pk/events/open-de-espana
 🟢 Successfully processed: MotoGP [5/47]
+🟢 Successfully processed: Formula 1 [6/47]
 🟡 Visiting detail page [7/47]: https://pogo.pk/events/bulls-vs-lions
 🟢 Successfully processed: PGA Tour [4/47]
-🟡 Visiting detail page [8/47]: https://pogo.pk/events/birmingham-vs-west-brom
-🟢 Successfully processed: Formula 1 [6/47]
 🟡 Visiting detail page [9/47]: https://pogo.pk/events/vallecano-vs-athletic-club
-🟢 Successfully processed: EFL [8/47]
-🟡 Visiting detail page [10/47]: https://pogo.pk/events/genoa-vs-fiorentina
+🟡 Visiting detail page [8/47]: https://pogo.pk/events/birmingham-vs-west-brom
 🟢 Successfully processed: United Rugby [7/47]
-🟡 Visiting detail page [11/47]: https://pogo.pk/events/inter-milan-vs-parma
+🟡 Visiting detail page [10/47]: https://pogo.pk/events/genoa-vs-fiorentina
+🟢 Successfully processed: EFL [8/47]
 🟢 Successfully processed: LaLiga [9/47]
+🟡 Visiting detail page [11/47]: https://pogo.pk/events/inter-milan-vs-parma
 🟡 Visiting detail page [12/47]: https://pogo.pk/events/napoli-vs-frosinone
-🟢 Successfully processed: Serie A [11/47]
 🟢 Successfully processed: Serie A [10/47]
 🟡 Visiting detail page [13/47]: https://pogo.pk/events/roma-vs-como
-🟡 Visiting detail page [14/47]: https://pogo.pk/events/monza-vs-lazio-live
 🟢 Successfully processed: Serie A [12/47]
+🟢 Successfully processed: Serie A [11/47]
+🟡 Visiting detail page [14/47]: https://pogo.pk/events/monza-vs-lazio-live
 🟡 Visiting detail page [15/47]: https://pogo.pk/events/lecce-vs-bologna
-🟢 Successfully processed: Serie A [14/47]
 🟢 Successfully processed: Serie A [13/47]
 🟡 Visiting detail page [16/47]: https://pogo.pk/events/bayern-munchen-vs-augsburg
-🟡 Visiting detail page [17/47]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
+🟢 Successfully processed: Serie A [14/47]
 🟢 Successfully processed: Serie A [15/47]
+🟡 Visiting detail page [17/47]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
 🟡 Visiting detail page [18/47]: https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig
 🟢 Successfully processed: Bundesliga [17/47]
 🟡 Visiting detail page [19/47]: https://pogo.pk/events/borussia-mgladbach-vs-koln

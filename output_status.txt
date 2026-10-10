@@ -7,32 +7,32 @@
 🟡 Visiting detail page [3/36]: https://pogo.pk/events/open-de-espana
 🟡 Visiting detail page [1/36]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: PGA Tour [3/36]
+🟡 Visiting detail page [4/36]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: PGA Tour [2/36]
 🟢 Successfully processed: ATP Tour [1/36]
 🟡 Visiting detail page [5/36]: https://pogo.pk/events/f1-singapore-grand-prix
-🟡 Visiting detail page [4/36]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟡 Visiting detail page [6/36]: https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan
-🟢 Successfully processed: UFC [6/36]
+🟢 Successfully processed: MotoGP [4/36]
 🟡 Visiting detail page [7/36]: https://pogo.pk/events/inter-miami-vs-dc-united
 🟢 Successfully processed: Formula 1 [5/36]
-🟢 Successfully processed: MotoGP [4/36]
-🟡 Visiting detail page [9/36]: https://pogo.pk/events/monza-vs-lazio-live
 🟡 Visiting detail page [8/36]: https://pogo.pk/events/roma-vs-como
-🟢 Successfully processed: MLS [7/36]
-🟡 Visiting detail page [10/36]: https://pogo.pk/events/lecce-vs-bologna
 🟢 Successfully processed: Serie A [8/36]
-🟢 Successfully processed: Serie A [9/36]
+🟢 Successfully processed: MLS [7/36]
+🟡 Visiting detail page [9/36]: https://pogo.pk/events/monza-vs-lazio-live
+🟡 Visiting detail page [10/36]: https://pogo.pk/events/lecce-vs-bologna
+🟢 Successfully processed: UFC [6/36]
 🟡 Visiting detail page [11/36]: https://pogo.pk/events/milan-vs-sassuolo
-🟡 Visiting detail page [12/36]: https://pogo.pk/events/juventus-vs-cagliari
+🟢 Successfully processed: Serie A [9/36]
 🟢 Successfully processed: Serie A [10/36]
 🟡 Visiting detail page [13/36]: https://pogo.pk/events/atalanta-vs-venezia
-🟢 Successfully processed: Serie A [12/36]
-🟡 Visiting detail page [14/36]: https://pogo.pk/events/southampton-vs-portsmouth
+🟡 Visiting detail page [12/36]: https://pogo.pk/events/juventus-vs-cagliari
 🟢 Successfully processed: Serie A [11/36]
+🟡 Visiting detail page [14/36]: https://pogo.pk/events/southampton-vs-portsmouth
+🟢 Successfully processed: Serie A [12/36]
 🟡 Visiting detail page [15/36]: https://pogo.pk/events/stoke-city-vs-middlesbrough
 🟢 Successfully processed: Serie A [13/36]
-🟢 Successfully processed: EFL [14/36]
 🟡 Visiting detail page [16/36]: https://pogo.pk/events/elche-vs-celta-vigo
+🟢 Successfully processed: EFL [14/36]
 🟡 Visiting detail page [17/36]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
 🟢 Successfully processed: EFL [15/36]
 🟡 Visiting detail page [18/36]: https://pogo.pk/events/real-betis-vs-osasuna
@@ -54,9 +54,9 @@
 🟡 Visiting detail page [26/36]: https://pogo.pk/events/rennes-vs-auxerre
 🟢 Successfully processed: Premier League [24/36]
 🟡 Visiting detail page [27/36]: https://pogo.pk/events/troyes-vs-marseille
-🟢 Successfully processed: French Ligue 1 [26/36]
-🟡 Visiting detail page [28/36]: https://pogo.pk/events/borussia-mgladbach-vs-koln
 🟢 Successfully processed: French Ligue 1 [25/36]
+🟡 Visiting detail page [28/36]: https://pogo.pk/events/borussia-mgladbach-vs-koln
+🟢 Successfully processed: French Ligue 1 [26/36]
 🟡 Visiting detail page [29/36]: https://pogo.pk/events/freiburg-vs-schalke-04
 🟢 Successfully processed: French Ligue 1 [27/36]
 🟡 Visiting detail page [30/36]: https://pogo.pk/events/eagles-vs-jaguars

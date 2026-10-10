@@ -1,59 +1,5 @@
 [
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "FC Barcelona",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-getafe",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2666"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2667"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2671"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Manchester United",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-united-vs-spurs",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2681"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2682"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2683"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2684"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-11 00:45:00",
         "team1Title": "PSG",
@@ -213,78 +159,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Ulster",
-        "team1Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ulster-vs-munster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ulster-vs-munster/2649"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Scarlets",
-        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/scarlets-vs-benetton-treviso",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/scarlets-vs-benetton-treviso/2648"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bristol Bears",
-        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-saracens",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bristol-bears-vs-saracens/2650"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Eintracht Frankfurt",
-        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2656"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2657"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-11 00:45:00",
         "team1Title": "Napoli",
@@ -304,6 +178,52 @@
                 "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2686"
             }
         ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Title": "Cardiff Blues",
+        "team2Title": "Leinster",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cardiff-vs-leinster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/cardiff-vs-leinster/2651"
+            }
+        ]
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-10-11 04:00:00",
+        "team1Title": "Brendan Allen",
+        "team2Title": "Christian Leroy Duncan",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brendan-allen-vs-christian-leroy-duncan/2652"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLS",
+        "matchTime": "2026-10-11 05:30:00",
+        "team1Title": "Inter Miami",
+        "team2Title": "DC United",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-miami-vs-dc-united",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Serie A",
@@ -366,49 +286,15 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-11 00:45:00",
-        "team1Title": "Cardiff Blues",
-        "team2Title": "Leinster",
-        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-12 22:30:00",
+        "team1Title": "Atalanta",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cardiff-vs-leinster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/cardiff-vs-leinster/2651"
-            }
-        ]
-    },
-    {
-        "eventTitle": "UFC",
-        "matchTime": "2026-10-11 04:00:00",
-        "team1Title": "Brendan Allen",
-        "team2Title": "Christian Leroy Duncan",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brendan-allen-vs-christian-leroy-duncan/2652"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLS",
-        "matchTime": "2026-10-11 05:30:00",
-        "team1Title": "Inter Miami",
-        "team2Title": "DC United",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-miami-vs-dc-united",
+        "detailsPage": "https://pogo.pk/events/atalanta-vs-venezia",
         "multiWatchPageLink": []
     },
     {

@@ -105,31 +105,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-10-10 12:10:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Australia",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/australia-vs-new-zealand",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2641"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2642"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2643"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-10 17:30:00",
         "team1Title": "Arsenal",
@@ -599,6 +574,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/rennes-vs-auxerre",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-12 00:45:00",
+        "team1Title": "Troyes",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
         "multiWatchPageLink": []
     },
     {

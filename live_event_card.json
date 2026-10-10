@@ -79,6 +79,35 @@
         ]
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-11 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-villarreal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2668"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2690"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2691"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2692"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",
@@ -186,8 +215,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Brentford",
+        "team1Title": "Event Ended",
+        "team2Title": "Aston Villa",
         "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
         "isHot": true,
@@ -211,8 +240,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Chelsea",
-        "team2Title": "AFC Bournemouth",
+        "team1Title": "Event Ended",
+        "team2Title": "Chelsea",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
         "isHot": true,
@@ -232,8 +261,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Edinburgh",
-        "team2Title": "Zebre",
+        "team1Title": "Event Ended",
+        "team2Title": "Edinburgh",
         "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
         "isHot": true,
@@ -249,8 +278,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Brighton & Hove Albion",
-        "team2Title": "Sunderland",
+        "team1Title": "Event Ended",
+        "team2Title": "Brighton & Hove Albion",
         "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "isHot": true,
@@ -266,8 +295,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Fulham",
-        "team2Title": "Ipswich Town",
+        "team1Title": "Event Ended",
+        "team2Title": "Fulham",
         "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
         "isHot": true,
@@ -283,8 +312,8 @@
     {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Bath Rugby",
-        "team2Title": "Northampton Saints",
+        "team1Title": "Event Ended",
+        "team2Title": "Bath Rugby",
         "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
         "isHot": true,
@@ -300,8 +329,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "The Sharks",
-        "team2Title": "Stormers",
+        "team1Title": "Event Ended",
+        "team2Title": "The Sharks",
         "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
         "isHot": true,
@@ -359,75 +388,6 @@
                 "url": "https://playerdee.top/alpha/inter-milan-vs-parma/2685"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 00:45:00",
-        "team1Title": "Napoli",
-        "team2Title": "Frosinone Calcio",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/napoli-vs-frosinone",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2674"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2686"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 16:30:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Como",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-como",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Monza",
-        "team2Title": "Lazio",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/monza-vs-lazio-live",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Lecce",
-        "team2Title": "Bologna",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lecce-vs-bologna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 22:00:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/milan-vs-sassuolo",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "United Rugby",
@@ -543,33 +503,126 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Title": "Napoli",
+        "team2Title": "Frosinone Calcio",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-villarreal",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-frosinone",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2668"
+                "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2674"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2690"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2691"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2692"
+                "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2686"
             }
         ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 16:30:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Como",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-como",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Monza",
+        "team2Title": "Lazio",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/monza-vs-lazio-live",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 19:00:00",
+        "team1Title": "Lecce",
+        "team2Title": "Bologna",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lecce-vs-bologna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-11 22:00:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Sassuolo",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/milan-vs-sassuolo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-12 00:45:00",
+        "team1Title": "Juventus",
+        "team2Title": "Cagliari",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/juventus-vs-cagliari",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-10-11 04:00:00",
+        "team1Title": "Brendan Allen",
+        "team2Title": "Christian Leroy Duncan",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brendan-allen-vs-christian-leroy-duncan/2652"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLS",
+        "matchTime": "2026-10-11 05:30:00",
+        "team1Title": "Inter Miami",
+        "team2Title": "DC United",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-miami-vs-dc-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-11 17:00:00",
+        "team1Title": "Southampton",
+        "team2Title": "Portsmouth",
+        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/southampton-vs-portsmouth",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",
@@ -620,44 +673,15 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-10-11 04:00:00",
-        "team1Title": "Brendan Allen",
-        "team2Title": "Christian Leroy Duncan",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-13 01:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brendan-allen-vs-christian-leroy-duncan/2652"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLS",
-        "matchTime": "2026-10-11 05:30:00",
-        "team1Title": "Inter Miami",
-        "team2Title": "DC United",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-miami-vs-dc-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-11 17:00:00",
-        "team1Title": "Southampton",
-        "team2Title": "Portsmouth",
-        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/southampton-vs-portsmouth",
+        "detailsPage": "https://pogo.pk/events/sevilla-vs-levante",
         "multiWatchPageLink": []
     },
     {
@@ -694,6 +718,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/liverpool-vs-manchester-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-13 01:00:00",
+        "team1Title": "Newcastle United",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/newcastle-united-vs-coventry-city",
         "multiWatchPageLink": []
     },
     {
@@ -748,5 +784,17 @@
                 "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2563"
             }
         ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-13 22:45:00",
+        "team1Title": "Sabah Baku",
+        "team2Title": "Slavia Praha",
+        "team1Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sabah-vs-slavia-praha",
+        "multiWatchPageLink": []
     }
 ]

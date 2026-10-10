@@ -107,8 +107,8 @@
     {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-10-10 12:10:00",
-        "team1Title": "Australia",
-        "team2Title": "New Zealand",
+        "team1Title": "Event Ended",
+        "team2Title": "Australia",
         "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
         "isHot": true,

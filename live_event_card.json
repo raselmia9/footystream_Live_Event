@@ -107,8 +107,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-10 19:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Team 2",
+        "team1Title": "Event Ended",
+        "team2Title": "Bayern München",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
         "isHot": true,
@@ -124,8 +124,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-10 19:30:00",
-        "team1Title": "Mainz 05",
-        "team2Title": "Bayer Leverkusen",
+        "team1Title": "Event Ended",
+        "team2Title": "Mainz 05",
         "team1Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
         "isHot": true,

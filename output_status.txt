@@ -4,20 +4,20 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 46
 🟡 Visiting detail page [2/46]: https://pogo.pk/events/baycurrent-classic
-🟡 Visiting detail page [1/46]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/46]: https://pogo.pk/events/open-de-espana
+🟡 Visiting detail page [1/46]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: ATP Tour [1/46]
 🟢 Successfully processed: PGA Tour [2/46]
 🟢 Successfully processed: PGA Tour [3/46]
-🟡 Visiting detail page [6/46]: https://pogo.pk/events/bayern-munchen-vs-augsburg
 🟡 Visiting detail page [5/46]: https://pogo.pk/events/f1-singapore-grand-prix
 🟡 Visiting detail page [4/46]: https://pogo.pk/events/motogp-indonesia-grand-prix
+🟡 Visiting detail page [6/46]: https://pogo.pk/events/bayern-munchen-vs-augsburg
 🟢 Successfully processed: MotoGP [4/46]
-🟡 Visiting detail page [7/46]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
 🟢 Successfully processed: Bundesliga [6/46]
-🟡 Visiting detail page [8/46]: https://pogo.pk/events/aston-villa-vs-brentford
 🟢 Successfully processed: Formula 1 [5/46]
+🟡 Visiting detail page [8/46]: https://pogo.pk/events/aston-villa-vs-brentford
 🟡 Visiting detail page [9/46]: https://pogo.pk/events/chelsea-vs-bournemouth
+🟡 Visiting detail page [7/46]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
 🟢 Successfully processed: Bundesliga [7/46]
 🟡 Visiting detail page [10/46]: https://pogo.pk/events/edinburgh-vs-zebre
 🟢 Successfully processed: Premier League [8/46]
@@ -36,9 +36,9 @@
 🟡 Visiting detail page [17/46]: https://pogo.pk/events/napoli-vs-frosinone
 🟢 Successfully processed: LaLiga [15/46]
 🟡 Visiting detail page [18/46]: https://pogo.pk/events/roma-vs-como
-🟢 Successfully processed: Serie A [18/46]
-🟡 Visiting detail page [19/46]: https://pogo.pk/events/monza-vs-lazio-live
 🟢 Successfully processed: Serie A [16/46]
+🟡 Visiting detail page [19/46]: https://pogo.pk/events/monza-vs-lazio-live
+🟢 Successfully processed: Serie A [18/46]
 🟡 Visiting detail page [20/46]: https://pogo.pk/events/lecce-vs-bologna
 🟢 Successfully processed: Serie A [19/46]
 🟡 Visiting detail page [21/46]: https://pogo.pk/events/milan-vs-sassuolo

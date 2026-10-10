@@ -213,141 +213,10 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Aston Villa",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/aston-villa-vs-brentford",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-brentford/2655"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-brentford/2675"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-brentford/2679"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Chelsea",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-bournemouth",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/chelsea-vs-bournemouth/2676"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/chelsea-vs-bournemouth/2680"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Edinburgh",
-        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/edinburgh-vs-zebre",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/edinburgh-vs-zebre/2646"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brighton-vs-sunderland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brighton-vs-sunderland/2678"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Fulham",
-        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/fulham-vs-ipswich-town",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/fulham-vs-ipswich-town/2677"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bath Rugby",
-        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bath-vs-northampton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bath-vs-northampton/2647"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-10 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "The Sharks",
-        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sharks-vs-stormers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sharks-vs-stormers/2645"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-10 20:15:00",
-        "team1Title": "Atlético Madrid",
-        "team2Title": "Deportivo Alavés",
+        "team1Title": "Event Ended",
+        "team2Title": "Atlético Madrid",
         "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
         "isHot": true,
@@ -625,6 +494,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-14 01:00:00",
+        "team1Title": "Stoke City",
+        "team2Title": "Middlesbrough",
+        "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-11 18:00:00",
         "team1Title": "Elche CF",
@@ -795,6 +676,66 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sabah-vs-slavia-praha",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-13 22:45:00",
+        "team1Title": "Lens",
+        "team2Title": "Sporting CP",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lens-vs-sporting-cp",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 01:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Lille",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-lille",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 01:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Galatasaray",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-galatasaray",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 01:00:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Club Brugge",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-club-brugge",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 01:00:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Viking",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-viking",
         "multiWatchPageLink": []
     }
 ]

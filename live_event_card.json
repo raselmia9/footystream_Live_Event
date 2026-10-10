@@ -107,8 +107,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-10 19:00:00",
-        "team1Title": "Genoa",
-        "team2Title": "Fiorentina",
+        "team1Title": "Event Ended",
+        "team2Title": "Genoa",
         "team1Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "isHot": true,

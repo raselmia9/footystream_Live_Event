@@ -2,8 +2,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-10 17:30:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Leeds United",
+        "team1Title": "Event Ended",
+        "team2Title": "Arsenal",
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
         "isHot": true,
@@ -132,8 +132,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-10 17:30:00",
-        "team1Title": "Bulls",
-        "team2Title": "Lions",
+        "team1Title": "Event Ended",
+        "team2Title": "Bulls",
         "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
         "isHot": true,
@@ -149,8 +149,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-10 17:30:00",
-        "team1Title": "Birmingham City",
-        "team2Title": "West Bromwich Albion",
+        "team1Title": "Event Ended",
+        "team2Title": "Birmingham City",
         "team1Logo": "https://cdn.img4every1.org/team/birmingham-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
         "isHot": true,
@@ -236,51 +236,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/mainz-05-vs-bayer-leverkusen",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-10 22:30:00",
-        "team1Title": "Eintracht Frankfurt",
-        "team2Title": "RB Leipzig",
-        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2656"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2657"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Title": "Borussia M'gladbach",
-        "team2Title": "Köln",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Title": "Freiburg",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
         "multiWatchPageLink": []
     },
     {
@@ -706,6 +661,51 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/milan-vs-sassuolo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-10 22:30:00",
+        "team1Title": "Eintracht Frankfurt",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2656"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2657"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 19:30:00",
+        "team1Title": "Borussia M'gladbach",
+        "team2Title": "Köln",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 21:30:00",
+        "team1Title": "Freiburg",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
         "multiWatchPageLink": []
     },
     {

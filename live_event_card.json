@@ -215,8 +215,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-10 22:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Parma",
+        "team1Title": "Event Ended",
+        "team2Title": "Inter Milan",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
         "isHot": true,

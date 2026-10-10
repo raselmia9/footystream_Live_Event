@@ -2,8 +2,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-11 00:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Le Mans",
+        "team1Title": "Event Ended",
+        "team2Title": "PSG",
         "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
         "isHot": true,
@@ -161,8 +161,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-11 00:45:00",
-        "team1Title": "Napoli",
-        "team2Title": "Frosinone Calcio",
+        "team1Title": "Event Ended",
+        "team2Title": "Napoli",
         "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
         "isHot": true,
@@ -182,8 +182,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-11 00:45:00",
-        "team1Title": "Cardiff Blues",
-        "team2Title": "Leinster",
+        "team1Title": "Event Ended",
+        "team2Title": "Cardiff Blues",
         "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
         "isHot": true,

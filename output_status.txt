@@ -4,45 +4,45 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 40
 🟡 Visiting detail page [2/40]: https://pogo.pk/events/real-madrid-vs-villarreal
-🟡 Visiting detail page [1/40]: https://pogo.pk/events/psg-vs-le-mans
 🟡 Visiting detail page [3/40]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: LaLiga [2/40]
+🟡 Visiting detail page [1/40]: https://pogo.pk/events/psg-vs-le-mans
+🟢 Successfully processed: French Ligue 1 [1/40]
 🟡 Visiting detail page [4/40]: https://pogo.pk/events/baycurrent-classic
 🟢 Successfully processed: ATP Tour [3/40]
 🟡 Visiting detail page [5/40]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: French Ligue 1 [1/40]
+🟢 Successfully processed: LaLiga [2/40]
 🟡 Visiting detail page [6/40]: https://pogo.pk/events/motogp-indonesia-grand-prix
-🟢 Successfully processed: PGA Tour [5/40]
 🟢 Successfully processed: PGA Tour [4/40]
-🟡 Visiting detail page [8/40]: https://pogo.pk/events/napoli-vs-frosinone
 🟡 Visiting detail page [7/40]: https://pogo.pk/events/f1-singapore-grand-prix
+🟢 Successfully processed: PGA Tour [5/40]
+🟡 Visiting detail page [8/40]: https://pogo.pk/events/napoli-vs-frosinone
 🟢 Successfully processed: MotoGP [6/40]
 🟡 Visiting detail page [9/40]: https://pogo.pk/events/cardiff-vs-leinster
-🟢 Successfully processed: Formula 1 [7/40]
-🟡 Visiting detail page [10/40]: https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan
 🟢 Successfully processed: Serie A [8/40]
-🟡 Visiting detail page [11/40]: https://pogo.pk/events/inter-miami-vs-dc-united
+🟡 Visiting detail page [10/40]: https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan
 🟢 Successfully processed: United Rugby [9/40]
-🟡 Visiting detail page [12/40]: https://pogo.pk/events/roma-vs-como
+🟡 Visiting detail page [11/40]: https://pogo.pk/events/inter-miami-vs-dc-united
 🟢 Successfully processed: MLS [11/40]
-🟡 Visiting detail page [13/40]: https://pogo.pk/events/monza-vs-lazio-live
+🟡 Visiting detail page [12/40]: https://pogo.pk/events/roma-vs-como
 🟢 Successfully processed: Serie A [12/40]
-🟡 Visiting detail page [14/40]: https://pogo.pk/events/lecce-vs-bologna
+🟡 Visiting detail page [13/40]: https://pogo.pk/events/monza-vs-lazio-live
 🟢 Successfully processed: Serie A [13/40]
-🟡 Visiting detail page [15/40]: https://pogo.pk/events/milan-vs-sassuolo
+🟡 Visiting detail page [14/40]: https://pogo.pk/events/lecce-vs-bologna
 🟢 Successfully processed: Serie A [14/40]
+🟡 Visiting detail page [15/40]: https://pogo.pk/events/milan-vs-sassuolo
+🟢 Successfully processed: UFC [10/40]
 🟡 Visiting detail page [16/40]: https://pogo.pk/events/juventus-vs-cagliari
 🟢 Successfully processed: Serie A [15/40]
 🟡 Visiting detail page [17/40]: https://pogo.pk/events/atalanta-vs-venezia
-🟢 Successfully processed: Serie A [16/40]
+🟢 Successfully processed: Formula 1 [7/40]
 🟡 Visiting detail page [18/40]: https://pogo.pk/events/southampton-vs-portsmouth
-🟢 Successfully processed: Serie A [17/40]
+🟢 Successfully processed: Serie A [16/40]
 🟡 Visiting detail page [19/40]: https://pogo.pk/events/stoke-city-vs-middlesbrough
-🟢 Successfully processed: EFL [18/40]
+🟢 Successfully processed: Serie A [17/40]
 🟡 Visiting detail page [20/40]: https://pogo.pk/events/elche-vs-celta-vigo
-🟢 Successfully processed: EFL [19/40]
+🟢 Successfully processed: EFL [18/40]
 🟡 Visiting detail page [21/40]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
-🟢 Successfully processed: UFC [10/40]
+🟢 Successfully processed: EFL [19/40]
 🟡 Visiting detail page [22/40]: https://pogo.pk/events/real-betis-vs-osasuna
 🟢 Successfully processed: LaLiga [20/40]
 🟡 Visiting detail page [23/40]: https://pogo.pk/events/racing-vs-valencia

@@ -1,34 +1,5 @@
 [
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-villarreal",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2668"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2690"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2691"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2692"
-            }
-        ]
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",

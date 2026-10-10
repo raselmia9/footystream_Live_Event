@@ -4,14 +4,14 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 45
 🟡 Visiting detail page [2/45]: https://pogo.pk/events/baycurrent-classic
-🟡 Visiting detail page [1/45]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/45]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: ATP Tour [1/45]
-🟢 Successfully processed: PGA Tour [3/45]
-🟡 Visiting detail page [4/45]: https://pogo.pk/events/motogp-indonesia-grand-prix
+🟡 Visiting detail page [1/45]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: PGA Tour [2/45]
-🟡 Visiting detail page [5/45]: https://pogo.pk/events/f1-singapore-grand-prix
+🟢 Successfully processed: PGA Tour [3/45]
+🟢 Successfully processed: ATP Tour [1/45]
+🟡 Visiting detail page [4/45]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟡 Visiting detail page [6/45]: https://pogo.pk/events/australia-vs-new-zealand
+🟡 Visiting detail page [5/45]: https://pogo.pk/events/f1-singapore-grand-prix
 🟢 Successfully processed: MotoGP [4/45]
 🟡 Visiting detail page [7/45]: https://pogo.pk/events/arsenal-vs-leeds-united
 🟢 Successfully processed: Formula 1 [5/45]
@@ -88,10 +88,10 @@
 🟡 Visiting detail page [43/45]: https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan
 🟢 Successfully processed: Premiership Rugby [38/45]
 🟡 Visiting detail page [44/45]: https://pogo.pk/events/inter-miami-vs-dc-united
-🟢 Successfully processed: Premiership Rugby [39/45]
-🟡 Visiting detail page [45/45]: https://pogo.pk/events/eagles-vs-jaguars
 🟢 Successfully processed: MLS [44/45]
+🟡 Visiting detail page [45/45]: https://pogo.pk/events/eagles-vs-jaguars
 🟢 Successfully processed: UFC [43/45]
 🟢 Successfully processed: NFL [45/45]
+🟢 Successfully processed: Premiership Rugby [39/45]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 45

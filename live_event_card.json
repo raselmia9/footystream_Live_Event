@@ -390,7 +390,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/genoa-vs-fiorentina",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/genoa-vs-fiorentina/2672"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -402,7 +407,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/inter-milan-vs-parma",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-parma/2673"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -414,7 +424,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/napoli-vs-frosinone",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/napoli-vs-frosinone/2674"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

@@ -3,15 +3,15 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 46
-🟡 Visiting detail page [1/46]: https://pogo.pk/events/arsenal-vs-leeds-united
 🟡 Visiting detail page [2/46]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/46]: https://pogo.pk/events/baycurrent-classic
+🟡 Visiting detail page [1/46]: https://pogo.pk/events/arsenal-vs-leeds-united
+🟢 Successfully processed: ATP Tour [2/46]
+🟢 Successfully processed: Premier League [1/46]
 🟢 Successfully processed: PGA Tour [3/46]
 🟡 Visiting detail page [4/46]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: ATP Tour [2/46]
-🟡 Visiting detail page [5/46]: https://pogo.pk/events/motogp-indonesia-grand-prix
-🟢 Successfully processed: Premier League [1/46]
 🟡 Visiting detail page [6/46]: https://pogo.pk/events/f1-singapore-grand-prix
+🟡 Visiting detail page [5/46]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: PGA Tour [4/46]
 🟡 Visiting detail page [7/46]: https://pogo.pk/events/bulls-vs-lions
 🟢 Successfully processed: MotoGP [5/46]
@@ -42,19 +42,19 @@
 🟡 Visiting detail page [20/46]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [20/46]
 🟡 Visiting detail page [21/46]: https://pogo.pk/events/genoa-vs-fiorentina
-🟢 Successfully processed: Serie A [21/46]
-🟡 Visiting detail page [22/46]: https://pogo.pk/events/inter-milan-vs-parma
-🟢 Successfully processed: Serie A [22/46]
-🟡 Visiting detail page [23/46]: https://pogo.pk/events/napoli-vs-frosinone
-🟢 Successfully processed: Serie A [23/46]
 🟢 Successfully processed: LaLiga [17/46]
-🟡 Visiting detail page [24/46]: https://pogo.pk/events/roma-vs-como
-🟡 Visiting detail page [25/46]: https://pogo.pk/events/monza-vs-lazio-live
+🟡 Visiting detail page [22/46]: https://pogo.pk/events/inter-milan-vs-parma
 🟢 Successfully processed: LaLiga [18/46]
-🟡 Visiting detail page [26/46]: https://pogo.pk/events/lecce-vs-bologna
-🟢 Successfully processed: Serie A [25/46]
+🟡 Visiting detail page [23/46]: https://pogo.pk/events/napoli-vs-frosinone
+🟢 Successfully processed: Serie A [21/46]
+🟡 Visiting detail page [24/46]: https://pogo.pk/events/roma-vs-como
 🟢 Successfully processed: Serie A [24/46]
+🟡 Visiting detail page [25/46]: https://pogo.pk/events/monza-vs-lazio-live
+🟢 Successfully processed: Serie A [22/46]
+🟡 Visiting detail page [26/46]: https://pogo.pk/events/lecce-vs-bologna
+🟢 Successfully processed: Serie A [23/46]
 🟡 Visiting detail page [27/46]: https://pogo.pk/events/bayern-munchen-vs-augsburg
+🟢 Successfully processed: Serie A [25/46]
 🟡 Visiting detail page [28/46]: https://pogo.pk/events/mainz-05-vs-bayer-leverkusen
 🟢 Successfully processed: Serie A [26/46]
 🟡 Visiting detail page [29/46]: https://pogo.pk/events/eintracht-frankfurt-vs-rb-leipzig
@@ -64,21 +64,21 @@
 🟡 Visiting detail page [31/46]: https://pogo.pk/events/freiburg-vs-schalke-04
 🟢 Successfully processed: Bundesliga [31/46]
 🟡 Visiting detail page [32/46]: https://pogo.pk/events/aston-villa-vs-brentford
-🟢 Successfully processed: Bundesliga [27/46]
-🟡 Visiting detail page [33/46]: https://pogo.pk/events/chelsea-vs-bournemouth
 🟢 Successfully processed: Bundesliga [29/46]
-🟡 Visiting detail page [34/46]: https://pogo.pk/events/brighton-vs-sunderland
+🟡 Visiting detail page [33/46]: https://pogo.pk/events/chelsea-vs-bournemouth
 🟢 Successfully processed: Premier League [33/46]
+🟢 Successfully processed: Bundesliga [27/46]
+🟡 Visiting detail page [34/46]: https://pogo.pk/events/brighton-vs-sunderland
 🟡 Visiting detail page [35/46]: https://pogo.pk/events/fulham-vs-ipswich-town
 🟢 Successfully processed: Premier League [34/46]
 🟡 Visiting detail page [36/46]: https://pogo.pk/events/manchester-united-vs-spurs
 🟢 Successfully processed: Premier League [35/46]
 🟡 Visiting detail page [37/46]: https://pogo.pk/events/nottm-forest-vs-crystal-palace
-🟢 Successfully processed: Premier League [36/46]
-🟡 Visiting detail page [38/46]: https://pogo.pk/events/bath-vs-northampton
-🟢 Successfully processed: Premier League [37/46]
-🟡 Visiting detail page [39/46]: https://pogo.pk/events/bristol-bears-vs-saracens
 🟢 Successfully processed: Premier League [32/46]
+🟡 Visiting detail page [38/46]: https://pogo.pk/events/bath-vs-northampton
+🟢 Successfully processed: Premier League [36/46]
+🟡 Visiting detail page [39/46]: https://pogo.pk/events/bristol-bears-vs-saracens
+🟢 Successfully processed: Premier League [37/46]
 🟡 Visiting detail page [40/46]: https://pogo.pk/events/psg-vs-le-mans
 🟢 Successfully processed: French Ligue 1 [40/46]
 🟡 Visiting detail page [41/46]: https://pogo.pk/events/nice-vs-strasbourg

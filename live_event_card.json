@@ -274,7 +274,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/vallecano-vs-athletic-club",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/vallecano-vs-athletic-club/2662"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/vallecano-vs-athletic-club/2663"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/vallecano-vs-athletic-club/2669"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -286,7 +299,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-alaves",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/atletico-madrid-vs-alaves/2664"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/atletico-madrid-vs-alaves/2665"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/atletico-madrid-vs-alaves/2670"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -298,7 +324,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-getafe",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2666"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2667"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-getafe/2671"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -310,7 +349,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-madrid-vs-villarreal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-villarreal/2668"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

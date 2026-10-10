@@ -241,7 +241,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/birmingham-vs-west-brom",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/birmingham-vs-west-brom/2660"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/birmingham-vs-west-brom/2661"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

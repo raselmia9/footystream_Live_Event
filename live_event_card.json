@@ -462,6 +462,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/aston-villa-vs-brentford/2675"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/aston-villa-vs-brentford/2679"
             }
         ]
     },
@@ -479,6 +483,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/chelsea-vs-bournemouth/2676"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/chelsea-vs-bournemouth/2680"
             }
         ]
     },
@@ -526,7 +534,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-spurs",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2681"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2682"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2683"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-spurs/2684"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -658,6 +683,18 @@
                 "url": "https://playerdee.top/alpha/bristol-bears-vs-saracens/2650"
             }
         ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Le Mans",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-le-mans",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "French Ligue 1",

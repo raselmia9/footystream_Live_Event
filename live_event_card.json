@@ -213,31 +213,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-10 20:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-alaves",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/atletico-madrid-vs-alaves/2664"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/atletico-madrid-vs-alaves/2665"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/atletico-madrid-vs-alaves/2670"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-10 22:00:00",
         "team1Title": "Inter Milan",
@@ -293,23 +268,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-11 00:45:00",
-        "team1Title": "Cardiff Blues",
-        "team2Title": "Leinster",
-        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cardiff-vs-leinster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/cardiff-vs-leinster/2651"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-10 22:30:00",
         "team1Title": "Bristol Bears",
@@ -346,30 +304,6 @@
                 "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-rb-leipzig/2657"
             }
         ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Title": "Borussia M'gladbach",
-        "team2Title": "Köln",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Title": "Freiburg",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Serie A",
@@ -451,6 +385,23 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/juventus-vs-cagliari",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-11 00:45:00",
+        "team1Title": "Cardiff Blues",
+        "team2Title": "Leinster",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cardiff-vs-leinster",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/cardiff-vs-leinster/2651"
+            }
+        ]
     },
     {
         "eventTitle": "UFC",
@@ -647,6 +598,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 19:30:00",
+        "team1Title": "Borussia M'gladbach",
+        "team2Title": "Köln",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 21:30:00",
+        "team1Title": "Freiburg",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
         "multiWatchPageLink": []
     },
     {

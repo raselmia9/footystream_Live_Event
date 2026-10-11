@@ -27,8 +27,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-12 00:45:00",
-        "team1Title": "Troyes",
-        "team2Title": "Team 2",
+        "team1Title": "Event Ended",
+        "team2Title": "Troyes",
         "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
         "isHot": true,
@@ -48,8 +48,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-12 00:45:00",
-        "team1Title": "Juventus",
-        "team2Title": "Cagliari",
+        "team1Title": "Event Ended",
+        "team2Title": "Juventus",
         "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
         "isHot": true,

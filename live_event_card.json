@@ -122,18 +122,6 @@
         ]
     },
     {
-        "eventTitle": "MLS",
-        "matchTime": "2026-10-11 05:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Inter Miami",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-miami/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/dc-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-miami-vs-dc-united",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-11 16:30:00",
         "team1Title": "AS Roma",

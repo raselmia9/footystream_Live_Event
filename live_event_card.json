@@ -163,55 +163,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-12 00:45:00",
-        "team1Title": "Juventus",
-        "team2Title": "Cagliari",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/juventus-vs-cagliari",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2722"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2723"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2724"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-12 22:30:00",
-        "team1Title": "Atalanta",
-        "team2Title": "Venezia",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atalanta-vs-venezia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-13 00:45:00",
-        "team1Title": "Torino",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/torino-vs-udinese",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-11 22:15:00",
         "team1Title": "Real Betis",
@@ -285,6 +236,55 @@
                 "url": "https://playerdee.top/alpha/troyes-vs-marseille/2726"
             }
         ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-12 00:45:00",
+        "team1Title": "Juventus",
+        "team2Title": "Cagliari",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/juventus-vs-cagliari",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2722"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2723"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2724"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-12 22:30:00",
+        "team1Title": "Atalanta",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atalanta-vs-venezia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-13 00:45:00",
+        "team1Title": "Torino",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/torino-vs-udinese",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",

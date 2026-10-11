@@ -96,31 +96,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-11 17:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Southampton",
-        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/southampton-vs-portsmouth",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/southampton-vs-portsmouth/2698"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/southampton-vs-portsmouth/2699"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/southampton-vs-portsmouth/2702"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-11 18:00:00",
         "team1Title": "Elche CF",

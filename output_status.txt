@@ -3,11 +3,11 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 34
-🟡 Visiting detail page [3/34]: https://pogo.pk/events/open-de-espana
 🟡 Visiting detail page [2/34]: https://pogo.pk/events/baycurrent-classic
+🟡 Visiting detail page [3/34]: https://pogo.pk/events/open-de-espana
 🟡 Visiting detail page [1/34]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: PGA Tour [3/34]
 🟢 Successfully processed: PGA Tour [2/34]
+🟢 Successfully processed: PGA Tour [3/34]
 🟢 Successfully processed: ATP Tour [1/34]
 🟡 Visiting detail page [4/34]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟡 Visiting detail page [6/34]: https://pogo.pk/events/roma-vs-como
@@ -33,14 +33,14 @@
 🟢 Successfully processed: EFL [13/34]
 🟡 Visiting detail page [16/34]: https://pogo.pk/events/real-betis-vs-osasuna
 🟢 Successfully processed: LaLiga [14/34]
-🟢 Successfully processed: LaLiga [15/34]
 🟡 Visiting detail page [17/34]: https://pogo.pk/events/racing-vs-valencia
+🟢 Successfully processed: LaLiga [15/34]
 🟡 Visiting detail page [18/34]: https://pogo.pk/events/sevilla-vs-levante
 🟢 Successfully processed: LaLiga [16/34]
 🟡 Visiting detail page [19/34]: https://pogo.pk/events/nottm-forest-vs-crystal-palace
-🟢 Successfully processed: LaLiga [18/34]
-🟡 Visiting detail page [20/34]: https://pogo.pk/events/hull-city-vs-everton
 🟢 Successfully processed: LaLiga [17/34]
+🟡 Visiting detail page [20/34]: https://pogo.pk/events/hull-city-vs-everton
+🟢 Successfully processed: LaLiga [18/34]
 🟡 Visiting detail page [21/34]: https://pogo.pk/events/liverpool-vs-manchester-city
 🟢 Successfully processed: Premier League [19/34]
 🟡 Visiting detail page [22/34]: https://pogo.pk/events/newcastle-united-vs-coventry-city
@@ -51,8 +51,8 @@
 🟢 Successfully processed: Premier League [22/34]
 🟡 Visiting detail page [25/34]: https://pogo.pk/events/troyes-vs-marseille
 🟢 Successfully processed: French Ligue 1 [23/34]
-🟢 Successfully processed: French Ligue 1 [24/34]
 🟡 Visiting detail page [26/34]: https://pogo.pk/events/borussia-mgladbach-vs-koln
+🟢 Successfully processed: French Ligue 1 [24/34]
 🟡 Visiting detail page [27/34]: https://pogo.pk/events/freiburg-vs-schalke-04
 🟢 Successfully processed: French Ligue 1 [25/34]
 🟡 Visiting detail page [28/34]: https://pogo.pk/events/eagles-vs-jaguars
@@ -61,8 +61,8 @@
 🟢 Successfully processed: Bundesliga [27/34]
 🟡 Visiting detail page [30/34]: https://pogo.pk/events/lens-vs-sporting-cp
 🟢 Successfully processed: Champions League [29/34]
-🟢 Successfully processed: Champions League [30/34]
 🟡 Visiting detail page [31/34]: https://pogo.pk/events/arsenal-vs-lille
+🟢 Successfully processed: Champions League [30/34]
 🟡 Visiting detail page [32/34]: https://pogo.pk/events/barcelona-vs-galatasaray
 🟢 Successfully processed: Champions League [31/34]
 🟡 Visiting detail page [33/34]: https://pogo.pk/events/inter-milan-vs-club-brugge

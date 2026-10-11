@@ -98,8 +98,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-11 18:00:00",
-        "team1Title": "Elche CF",
-        "team2Title": "Celta de Vigo",
+        "team1Title": "Event Ended",
+        "team2Title": "Elche CF",
         "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "isHot": true,

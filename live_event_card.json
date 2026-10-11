@@ -69,8 +69,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-11 16:30:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Como",
+        "team1Title": "Event Ended",
+        "team2Title": "AS Roma",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "isHot": true,
@@ -299,7 +299,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/nice-vs-strasbourg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/nice-vs-strasbourg/2708"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/nice-vs-strasbourg/2709"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",

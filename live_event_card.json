@@ -151,6 +151,23 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-12 06:00:00",
+        "team1Title": "Milwaukee Brewers",
+        "team2Title": "Los Angeles Dodgers",
+        "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brewers-vs-dodgers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brewers-vs-dodgers/2744"
+            }
+        ]
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-12 06:20:00",
         "team1Title": "Atlanta Falcons",
@@ -172,23 +189,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/falcons-vs-ravens/2747"
-            }
-        ]
-    },
-    {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-12 06:00:00",
-        "team1Title": "Milwaukee Brewers",
-        "team2Title": "Los Angeles Dodgers",
-        "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brewers-vs-dodgers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brewers-vs-dodgers/2744"
             }
         ]
     },

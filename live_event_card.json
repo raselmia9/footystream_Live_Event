@@ -73,8 +73,8 @@
     {
         "eventTitle": "Formula 1",
         "matchTime": "2026-10-09 14:00:00",
-        "team1Title": "F1 Singapore Grand Prix",
-        "team2Title": "Formula 1",
+        "team1Title": "Event Ended",
+        "team2Title": "F1 Singapore Grand Prix",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "isHot": true,
@@ -92,119 +92,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2626"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Monza",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/monza-vs-lazio-live",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/monza-vs-lazio-live/2695"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/monza-vs-lazio-live/2696"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Nottingham Forest",
-        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/nottm-forest-vs-crystal-palace",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/nottm-forest-vs-crystal-palace/2703"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/nottm-forest-vs-crystal-palace/2704"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/nottm-forest-vs-crystal-palace/2705"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/nottm-forest-vs-crystal-palace/2711"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Hull City",
-        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hull-city-vs-everton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/hull-city-vs-everton/2706"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/hull-city-vs-everton/2707"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/hull-city-vs-everton/2710"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Nice",
-        "team1Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/nice-vs-strasbourg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/nice-vs-strasbourg/2708"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/nice-vs-strasbourg/2709"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Lecce",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lecce-vs-bologna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lecce-vs-bologna/2697"
             }
         ]
     },
@@ -280,27 +167,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/rennes-vs-auxerre/2715"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-12 00:45:00",
-        "team1Title": "Troyes",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/troyes-vs-marseille/2725"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/troyes-vs-marseille/2726"
             }
         ]
     },
@@ -435,6 +301,27 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sevilla-vs-levante",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-12 00:45:00",
+        "team1Title": "Troyes",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/troyes-vs-marseille/2725"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/troyes-vs-marseille/2726"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

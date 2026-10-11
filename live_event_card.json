@@ -54,23 +54,6 @@
         ]
     },
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-08 18:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Open de Espana",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/open-de-espana",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/open-de-espana/2622"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-11 21:15:00",
         "team1Title": "Rennes",
@@ -248,6 +231,23 @@
         ]
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 23:00:00",
+        "team1Title": "Washington Commanders",
+        "team2Title": "New York Giants",
+        "team1Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/commanders-vs-giants",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/commanders-vs-giants/2735"
+            }
+        ]
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-12 00:45:00",
         "team1Title": "Troyes",
@@ -349,6 +349,65 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sevilla-vs-levante",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-12 02:05:00",
+        "team1Title": "Los Angeles Chargers",
+        "team2Title": "Denver Broncos",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/la-chargers-vs-broncos",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/la-chargers-vs-broncos/2739"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-12 02:25:00",
+        "team1Title": "Seattle Seahawks",
+        "team2Title": "San Francisco 49ers",
+        "team1Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/seahawks-vs-49ers-live-stream",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/seahawks-vs-49ers-live-stream/2742"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/seahawks-vs-49ers-live-stream/2743"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-12 02:25:00",
+        "team1Title": "Detroit Lions",
+        "team2Title": "Arizona Cardinals",
+        "team1Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lions-vs-cardinals",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lions-vs-cardinals/2740"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lions-vs-cardinals/2741"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

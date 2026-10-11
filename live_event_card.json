@@ -71,35 +71,10 @@
         ]
     },
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-10-09 14:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "F1 Singapore Grand Prix",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/f1-singapore-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2624"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2625"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2626"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-11 19:30:00",
-        "team1Title": "Borussia M'gladbach",
-        "team2Title": "Köln",
+        "team1Title": "Event Ended",
+        "team2Title": "Borussia M'gladbach",
         "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "isHot": true,

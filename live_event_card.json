@@ -76,7 +76,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/roma-vs-como",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-como/2693"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/roma-vs-como/2694"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -88,7 +97,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/monza-vs-lazio-live",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/monza-vs-lazio-live/2695"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/monza-vs-lazio-live/2696"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -100,7 +118,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lecce-vs-bologna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lecce-vs-bologna/2697"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -148,7 +171,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/southampton-vs-portsmouth",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/southampton-vs-portsmouth/2698"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/southampton-vs-portsmouth/2699"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -172,7 +204,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/elche-vs-celta-vigo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/elche-vs-celta-vigo/2700"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/elche-vs-celta-vigo/2701"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

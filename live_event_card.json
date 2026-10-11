@@ -42,23 +42,6 @@
         ]
     },
     {
-        "eventTitle": "MotoGP",
-        "matchTime": "2026-10-09 07:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "MotoGP Indonesia Grand Prix",
-        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/motogp-indonesia-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/motogp-indonesia-grand-prix/2623"
-            }
-        ]
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-10-09 14:00:00",
         "team1Title": "F1 Singapore Grand Prix",

@@ -27,8 +27,8 @@
     {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-08 09:00:00",
-        "team1Title": "Baycurrent Classic",
-        "team2Title": "PGA Tour",
+        "team1Title": "Event Ended",
+        "team2Title": "Baycurrent Classic",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,

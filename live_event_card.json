@@ -27,8 +27,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-11 22:00:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Sassuolo",
+        "team1Title": "Event Ended",
+        "team2Title": "AC Milan",
         "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "isHot": true,

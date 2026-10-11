@@ -25,44 +25,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AC Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/milan-vs-sassuolo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/milan-vs-sassuolo/2721"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 22:15:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-osasuna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-betis-vs-osasuna/2727"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-betis-vs-osasuna/2728"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-11 23:00:00",
         "team1Title": "Houston Texans",

@@ -1,34 +1,5 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Liverpool",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-manchester-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/liverpool-vs-manchester-city/2716"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/liverpool-vs-manchester-city/2717"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/liverpool-vs-manchester-city/2718"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/liverpool-vs-manchester-city/2719"
-            }
-        ]
-    },
-    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",
@@ -52,18 +23,6 @@
                 "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2616"
             }
         ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Freiburg",
-        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Serie A",

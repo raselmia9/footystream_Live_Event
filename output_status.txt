@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
-🟡 Visiting detail page [2/30]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/30]: https://pogo.pk/events/open-de-espana
+🟡 Visiting detail page [2/30]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [1/30]: https://pogo.pk/events/liverpool-vs-manchester-city
-🟢 Successfully processed: ATP Tour [2/30]
 🟢 Successfully processed: PGA Tour [3/30]
 🟢 Successfully processed: Premier League [1/30]
-🟡 Visiting detail page [5/30]: https://pogo.pk/events/monza-vs-lazio-live
+🟢 Successfully processed: ATP Tour [2/30]
 🟡 Visiting detail page [6/30]: https://pogo.pk/events/nottm-forest-vs-crystal-palace
 🟡 Visiting detail page [4/30]: https://pogo.pk/events/f1-singapore-grand-prix
-🟢 Successfully processed: Formula 1 [4/30]
-🟡 Visiting detail page [7/30]: https://pogo.pk/events/hull-city-vs-everton
-🟢 Successfully processed: Serie A [5/30]
-🟡 Visiting detail page [8/30]: https://pogo.pk/events/nice-vs-strasbourg
+🟡 Visiting detail page [5/30]: https://pogo.pk/events/monza-vs-lazio-live
 🟢 Successfully processed: Premier League [6/30]
+🟡 Visiting detail page [7/30]: https://pogo.pk/events/hull-city-vs-everton
+🟢 Successfully processed: Formula 1 [4/30]
+🟡 Visiting detail page [8/30]: https://pogo.pk/events/nice-vs-strasbourg
+🟢 Successfully processed: Serie A [5/30]
 🟡 Visiting detail page [9/30]: https://pogo.pk/events/lecce-vs-bologna
 🟢 Successfully processed: Premier League [7/30]
 🟡 Visiting detail page [10/30]: https://pogo.pk/events/borussia-mgladbach-vs-koln
@@ -54,13 +54,13 @@
 🟡 Visiting detail page [26/30]: https://pogo.pk/events/arsenal-vs-lille
 🟢 Successfully processed: Champions League [26/30]
 🟡 Visiting detail page [27/30]: https://pogo.pk/events/barcelona-vs-galatasaray
-🟢 Successfully processed: LaLiga [20/30]
-🟡 Visiting detail page [28/30]: https://pogo.pk/events/inter-milan-vs-club-brugge
-🟢 Successfully processed: LaLiga [21/30]
-🟡 Visiting detail page [29/30]: https://pogo.pk/events/bayern-munchen-vs-viking
 🟢 Successfully processed: Champions League [27/30]
-🟡 Visiting detail page [30/30]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟡 Visiting detail page [28/30]: https://pogo.pk/events/inter-milan-vs-club-brugge
 🟢 Successfully processed: Champions League [28/30]
+🟡 Visiting detail page [29/30]: https://pogo.pk/events/bayern-munchen-vs-viking
+🟢 Successfully processed: LaLiga [20/30]
+🟡 Visiting detail page [30/30]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟢 Successfully processed: LaLiga [21/30]
 🟢 Successfully processed: Champions League [29/30]
 🟢 Successfully processed: EFL [30/30]
 🟢 Browser closed successfully.

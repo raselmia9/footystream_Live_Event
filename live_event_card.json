@@ -71,18 +71,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Borussia M'gladbach",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/borussia-mgladbach-vs-koln",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-11 19:30:00",
         "team1Title": "Philadelphia Eagles",

@@ -2,54 +2,52 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 24
-🟡 Visiting detail page [2/24]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [1/24]: https://pogo.pk/events/liverpool-vs-manchester-city
-🟡 Visiting detail page [3/24]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: PGA Tour [3/24]
-🟡 Visiting detail page [4/24]: https://pogo.pk/events/borussia-mgladbach-vs-koln
-🟢 Successfully processed: Premier League [1/24]
-🟡 Visiting detail page [5/24]: https://pogo.pk/events/eagles-vs-jaguars
-🟢 Successfully processed: ATP Tour [2/24]
-🟡 Visiting detail page [6/24]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
-🟢 Successfully processed: Bundesliga [4/24]
-🟡 Visiting detail page [7/24]: https://pogo.pk/events/rennes-vs-auxerre
-🟢 Successfully processed: LaLiga [6/24]
-🟡 Visiting detail page [8/24]: https://pogo.pk/events/freiburg-vs-schalke-04
-🟢 Successfully processed: NFL [5/24]
-🟡 Visiting detail page [9/24]: https://pogo.pk/events/milan-vs-sassuolo
-🟢 Successfully processed: Bundesliga [8/24]
-🟡 Visiting detail page [10/24]: https://pogo.pk/events/juventus-vs-cagliari
-🟢 Successfully processed: French Ligue 1 [7/24]
-🟡 Visiting detail page [11/24]: https://pogo.pk/events/atalanta-vs-venezia
-🟢 Successfully processed: Serie A [11/24]
-🟡 Visiting detail page [12/24]: https://pogo.pk/events/torino-vs-udinese
-🟢 Successfully processed: Serie A [12/24]
-🟡 Visiting detail page [13/24]: https://pogo.pk/events/real-betis-vs-osasuna
-🟢 Successfully processed: Serie A [9/24]
-🟡 Visiting detail page [14/24]: https://pogo.pk/events/racing-vs-valencia
-🟢 Successfully processed: Serie A [10/24]
-🟡 Visiting detail page [15/24]: https://pogo.pk/events/sevilla-vs-levante
-🟢 Successfully processed: LaLiga [15/24]
-🟡 Visiting detail page [16/24]: https://pogo.pk/events/troyes-vs-marseille
-🟢 Successfully processed: LaLiga [13/24]
-🟡 Visiting detail page [17/24]: https://pogo.pk/events/newcastle-united-vs-coventry-city
-🟢 Successfully processed: Premier League [17/24]
-🟡 Visiting detail page [18/24]: https://pogo.pk/events/sabah-vs-slavia-praha
-🟢 Successfully processed: Champions League [18/24]
-🟡 Visiting detail page [19/24]: https://pogo.pk/events/lens-vs-sporting-cp
-🟢 Successfully processed: LaLiga [14/24]
-🟡 Visiting detail page [20/24]: https://pogo.pk/events/arsenal-vs-lille
-🟢 Successfully processed: Champions League [19/24]
-🟡 Visiting detail page [21/24]: https://pogo.pk/events/barcelona-vs-galatasaray
-🟢 Successfully processed: Champions League [20/24]
-🟡 Visiting detail page [22/24]: https://pogo.pk/events/inter-milan-vs-club-brugge
-🟢 Successfully processed: Champions League [21/24]
-🟡 Visiting detail page [23/24]: https://pogo.pk/events/bayern-munchen-vs-viking
-🟢 Successfully processed: Champions League [22/24]
-🟡 Visiting detail page [24/24]: https://pogo.pk/events/stoke-city-vs-middlesbrough
-🟢 Successfully processed: French Ligue 1 [16/24]
-🟢 Successfully processed: Champions League [23/24]
-🟢 Successfully processed: EFL [24/24]
+🟢 Total unique detail links to process in parallel: 23
+🟡 Visiting detail page [1/23]: https://pogo.pk/events/liverpool-vs-manchester-city
+🟡 Visiting detail page [3/23]: https://pogo.pk/events/open-de-espana
+🟡 Visiting detail page [2/23]: https://pogo.pk/events/shanghai-rolex-masters
+🟢 Successfully processed: PGA Tour [3/23]
+🟢 Successfully processed: Premier League [1/23]
+🟡 Visiting detail page [5/23]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
+🟡 Visiting detail page [4/23]: https://pogo.pk/events/eagles-vs-jaguars
+🟢 Successfully processed: ATP Tour [2/23]
+🟡 Visiting detail page [6/23]: https://pogo.pk/events/rennes-vs-auxerre
+🟢 Successfully processed: LaLiga [5/23]
+🟡 Visiting detail page [7/23]: https://pogo.pk/events/freiburg-vs-schalke-04
+🟢 Successfully processed: NFL [4/23]
+🟡 Visiting detail page [8/23]: https://pogo.pk/events/milan-vs-sassuolo
+🟢 Successfully processed: French Ligue 1 [6/23]
+🟡 Visiting detail page [9/23]: https://pogo.pk/events/juventus-vs-cagliari
+🟢 Successfully processed: Bundesliga [7/23]
+🟡 Visiting detail page [10/23]: https://pogo.pk/events/atalanta-vs-venezia
+🟢 Successfully processed: Serie A [10/23]
+🟡 Visiting detail page [11/23]: https://pogo.pk/events/torino-vs-udinese
+🟢 Successfully processed: Serie A [11/23]
+🟡 Visiting detail page [12/23]: https://pogo.pk/events/real-betis-vs-osasuna
+🟢 Successfully processed: Serie A [8/23]
+🟡 Visiting detail page [13/23]: https://pogo.pk/events/racing-vs-valencia
+🟢 Successfully processed: Serie A [9/23]
+🟡 Visiting detail page [14/23]: https://pogo.pk/events/sevilla-vs-levante
+🟢 Successfully processed: LaLiga [14/23]
+🟡 Visiting detail page [15/23]: https://pogo.pk/events/troyes-vs-marseille
+🟢 Successfully processed: LaLiga [12/23]
+🟡 Visiting detail page [16/23]: https://pogo.pk/events/newcastle-united-vs-coventry-city
+🟢 Successfully processed: Premier League [16/23]
+🟡 Visiting detail page [17/23]: https://pogo.pk/events/sabah-vs-slavia-praha
+🟢 Successfully processed: Champions League [17/23]
+🟡 Visiting detail page [18/23]: https://pogo.pk/events/lens-vs-sporting-cp
+🟢 Successfully processed: LaLiga [13/23]
+🟡 Visiting detail page [19/23]: https://pogo.pk/events/arsenal-vs-lille
+🟢 Successfully processed: Champions League [18/23]
+🟡 Visiting detail page [20/23]: https://pogo.pk/events/barcelona-vs-galatasaray
+🟢 Successfully processed: Champions League [19/23]
+🟡 Visiting detail page [21/23]: https://pogo.pk/events/inter-milan-vs-club-brugge
+🟢 Successfully processed: French Ligue 1 [15/23]
+🟡 Visiting detail page [22/23]: https://pogo.pk/events/bayern-munchen-vs-viking
+🟢 Successfully processed: Champions League [20/23]
+🟡 Visiting detail page [23/23]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟢 Successfully processed: Champions League [21/23]
+🟢 Successfully processed: Champions League [22/23]
+🟢 Successfully processed: EFL [23/23]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 24
+🟢 Process completed successfully. Total collected events: 23

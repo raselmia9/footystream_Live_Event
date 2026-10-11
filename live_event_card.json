@@ -194,30 +194,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-12 22:30:00",
-        "team1Title": "Atalanta",
-        "team2Title": "Venezia",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atalanta-vs-venezia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-13 00:45:00",
-        "team1Title": "Torino",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/torino-vs-udinese",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-12 01:00:00",
         "team1Title": "Racing Santander",
@@ -350,6 +326,30 @@
                 "url": "https://playerdee.top/alpha/brewers-vs-dodgers/2744"
             }
         ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-12 22:30:00",
+        "team1Title": "Atalanta",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atalanta-vs-venezia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-13 00:45:00",
+        "team1Title": "Torino",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/torino-vs-udinese",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",

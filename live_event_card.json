@@ -25,27 +25,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-12 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Racing Santander",
-        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/racing-vs-valencia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/racing-vs-valencia/2729"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/racing-vs-valencia/2730"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-12 02:05:00",
         "team1Title": "Los Angeles Chargers",

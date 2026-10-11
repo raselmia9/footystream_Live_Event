@@ -26,27 +26,6 @@
     },
     {
         "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-08 09:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Baycurrent Classic",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/baycurrent-classic",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/baycurrent-classic/2620"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/baycurrent-classic/2621"
-            }
-        ]
-    },
-    {
-        "eventTitle": "PGA Tour",
         "matchTime": "2026-10-08 18:00:00",
         "team1Title": "Open de Espana",
         "team2Title": "PGA Tour",

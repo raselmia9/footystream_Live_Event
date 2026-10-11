@@ -7,14 +7,14 @@
 🟡 Visiting detail page [1/17]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/17]: https://pogo.pk/events/seahawks-vs-49ers-live-stream
 🟢 Successfully processed: NFL [2/17]
-🟢 Successfully processed: ATP Tour [1/17]
 🟡 Visiting detail page [4/17]: https://pogo.pk/events/lions-vs-cardinals
-🟢 Successfully processed: NFL [3/17]
+🟢 Successfully processed: ATP Tour [1/17]
 🟡 Visiting detail page [5/17]: https://pogo.pk/events/brewers-vs-dodgers
+🟢 Successfully processed: NFL [3/17]
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/falcons-vs-ravens
-🟢 Successfully processed: MLB [5/17]
-🟡 Visiting detail page [7/17]: https://pogo.pk/events/atalanta-vs-venezia
 🟢 Successfully processed: NFL [4/17]
+🟡 Visiting detail page [7/17]: https://pogo.pk/events/atalanta-vs-venezia
+🟢 Successfully processed: MLB [5/17]
 🟡 Visiting detail page [8/17]: https://pogo.pk/events/torino-vs-udinese
 🟢 Successfully processed: NFL [6/17]
 🟡 Visiting detail page [9/17]: https://pogo.pk/events/newcastle-united-vs-coventry-city
@@ -25,8 +25,8 @@
 🟢 Successfully processed: Premier League [9/17]
 🟡 Visiting detail page [12/17]: https://pogo.pk/events/lens-vs-sporting-cp
 🟢 Successfully processed: LaLiga [10/17]
-🟡 Visiting detail page [13/17]: https://pogo.pk/events/arsenal-vs-lille
 🟢 Successfully processed: Champions League [11/17]
+🟡 Visiting detail page [13/17]: https://pogo.pk/events/arsenal-vs-lille
 🟡 Visiting detail page [14/17]: https://pogo.pk/events/barcelona-vs-galatasaray
 🟢 Successfully processed: Champions League [12/17]
 🟡 Visiting detail page [15/17]: https://pogo.pk/events/inter-milan-vs-club-brugge

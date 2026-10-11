@@ -96,27 +96,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 18:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Elche CF",
-        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/elche-vs-celta-vigo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/elche-vs-celta-vigo/2700"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/elche-vs-celta-vigo/2701"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-11 19:00:00",
         "team1Title": "Monza",
@@ -284,42 +263,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-11 22:15:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-osasuna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-12 01:00:00",
-        "team1Title": "Racing Santander",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/racing-vs-valencia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-13 01:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sevilla-vs-levante",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-11 21:15:00",
         "team1Title": "Rennes",
@@ -350,7 +293,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/troyes-vs-marseille/2725"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/troyes-vs-marseille/2726"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",
@@ -428,6 +380,60 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/torino-vs-udinese",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-11 22:15:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-betis-vs-osasuna",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-betis-vs-osasuna/2727"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-betis-vs-osasuna/2728"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-12 01:00:00",
+        "team1Title": "Racing Santander",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/racing-vs-valencia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/racing-vs-valencia/2729"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/racing-vs-valencia/2730"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-13 01:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sevilla-vs-levante",
         "multiWatchPageLink": []
     },
     {

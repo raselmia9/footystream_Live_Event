@@ -3,46 +3,46 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 27
-🟡 Visiting detail page [3/27]: https://pogo.pk/events/dolphins-vs-bengals
 🟡 Visiting detail page [2/27]: https://pogo.pk/events/houston-texans-vs-titans
+🟡 Visiting detail page [3/27]: https://pogo.pk/events/dolphins-vs-bengals
 🟡 Visiting detail page [1/27]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: NFL [3/27]
-🟢 Successfully processed: NFL [2/27]
+🟢 Successfully processed: ATP Tour [1/27]
 🟡 Visiting detail page [4/27]: https://pogo.pk/events/bears-vs-packers-live-stream
 🟡 Visiting detail page [5/27]: https://pogo.pk/events/vikings-vs-saints
-🟢 Successfully processed: ATP Tour [1/27]
+🟢 Successfully processed: NFL [2/27]
 🟡 Visiting detail page [6/27]: https://pogo.pk/events/new-york-jets-vs-cleveland-browns
-🟢 Successfully processed: NFL [4/27]
-🟡 Visiting detail page [7/27]: https://pogo.pk/events/patriots-vs-raiders
 🟢 Successfully processed: NFL [5/27]
+🟡 Visiting detail page [7/27]: https://pogo.pk/events/patriots-vs-raiders
+🟢 Successfully processed: NFL [4/27]
 🟡 Visiting detail page [8/27]: https://pogo.pk/events/commanders-vs-giants
 🟢 Successfully processed: NFL [6/27]
 🟡 Visiting detail page [9/27]: https://pogo.pk/events/troyes-vs-marseille
-🟢 Successfully processed: NFL [7/27]
-🟡 Visiting detail page [10/27]: https://pogo.pk/events/juventus-vs-cagliari
-🟢 Successfully processed: French Ligue 1 [9/27]
 🟢 Successfully processed: NFL [8/27]
+🟡 Visiting detail page [10/27]: https://pogo.pk/events/juventus-vs-cagliari
+🟢 Successfully processed: NFL [7/27]
 🟡 Visiting detail page [11/27]: https://pogo.pk/events/racing-vs-valencia
-🟡 Visiting detail page [12/27]: https://pogo.pk/events/sevilla-vs-levante
-🟢 Successfully processed: LaLiga [12/27]
-🟡 Visiting detail page [13/27]: https://pogo.pk/events/la-chargers-vs-broncos
+🟢 Successfully processed: French Ligue 1 [9/27]
+🟡 Visiting detail page [12/27]: https://pogo.pk/events/la-chargers-vs-broncos
 🟢 Successfully processed: Serie A [10/27]
-🟡 Visiting detail page [14/27]: https://pogo.pk/events/seahawks-vs-49ers-live-stream
+🟡 Visiting detail page [13/27]: https://pogo.pk/events/seahawks-vs-49ers-live-stream
 🟢 Successfully processed: LaLiga [11/27]
-🟡 Visiting detail page [15/27]: https://pogo.pk/events/lions-vs-cardinals
+🟡 Visiting detail page [14/27]: https://pogo.pk/events/lions-vs-cardinals
+🟢 Successfully processed: NFL [12/27]
+🟡 Visiting detail page [15/27]: https://pogo.pk/events/falcons-vs-ravens
 🟢 Successfully processed: NFL [13/27]
-🟡 Visiting detail page [16/27]: https://pogo.pk/events/falcons-vs-ravens
+🟡 Visiting detail page [16/27]: https://pogo.pk/events/brewers-vs-dodgers
 🟢 Successfully processed: NFL [14/27]
-🟡 Visiting detail page [17/27]: https://pogo.pk/events/brewers-vs-dodgers
+🟡 Visiting detail page [17/27]: https://pogo.pk/events/atalanta-vs-venezia
 🟢 Successfully processed: NFL [15/27]
-🟡 Visiting detail page [18/27]: https://pogo.pk/events/atalanta-vs-venezia
+🟡 Visiting detail page [18/27]: https://pogo.pk/events/torino-vs-udinese
+🟢 Successfully processed: Serie A [17/27]
+🟡 Visiting detail page [19/27]: https://pogo.pk/events/newcastle-united-vs-coventry-city
 🟢 Successfully processed: Serie A [18/27]
-🟡 Visiting detail page [19/27]: https://pogo.pk/events/torino-vs-udinese
-🟢 Successfully processed: NFL [16/27]
-🟡 Visiting detail page [20/27]: https://pogo.pk/events/newcastle-united-vs-coventry-city
-🟢 Successfully processed: Serie A [19/27]
+🟡 Visiting detail page [20/27]: https://pogo.pk/events/sevilla-vs-levante
+🟢 Successfully processed: Premier League [19/27]
 🟡 Visiting detail page [21/27]: https://pogo.pk/events/sabah-vs-slavia-praha
-🟢 Successfully processed: Premier League [20/27]
+🟢 Successfully processed: LaLiga [20/27]
 🟡 Visiting detail page [22/27]: https://pogo.pk/events/lens-vs-sporting-cp
 🟢 Successfully processed: Champions League [21/27]
 🟡 Visiting detail page [23/27]: https://pogo.pk/events/arsenal-vs-lille
@@ -55,7 +55,7 @@
 🟢 Successfully processed: Champions League [25/27]
 🟡 Visiting detail page [27/27]: https://pogo.pk/events/stoke-city-vs-middlesbrough
 🟢 Successfully processed: Champions League [26/27]
+🟢 Successfully processed: MLB [16/27]
 🟢 Successfully processed: EFL [27/27]
-🟢 Successfully processed: MLB [17/27]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 27

@@ -215,18 +215,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-13 01:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sevilla-vs-levante",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-12 02:05:00",
         "team1Title": "Los Angeles Chargers",
@@ -361,6 +349,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/newcastle-united-vs-coventry-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-13 01:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sevilla-vs-levante",
         "multiWatchPageLink": []
     },
     {

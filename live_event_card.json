@@ -25,48 +25,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-12 02:25:00",
-        "team1Title": "Seattle Seahawks",
-        "team2Title": "San Francisco 49ers",
-        "team1Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/seahawks-vs-49ers-live-stream",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/seahawks-vs-49ers-live-stream/2742"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/seahawks-vs-49ers-live-stream/2743"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-12 02:25:00",
-        "team1Title": "Detroit Lions",
-        "team2Title": "Arizona Cardinals",
-        "team1Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lions-vs-cardinals",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lions-vs-cardinals/2740"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lions-vs-cardinals/2741"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-12 06:00:00",
         "team1Title": "Milwaukee Brewers",

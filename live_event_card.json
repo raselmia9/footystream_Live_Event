@@ -56,8 +56,8 @@
     {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-08 18:00:00",
-        "team1Title": "Open de Espana",
-        "team2Title": "PGA Tour",
+        "team1Title": "Event Ended",
+        "team2Title": "Open de Espana",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
@@ -67,27 +67,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/open-de-espana/2622"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-11 19:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Philadelphia Eagles",
-        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/eagles-vs-jaguars",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2563"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2720"
             }
         ]
     },
@@ -159,6 +138,112 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/real-betis-vs-osasuna/2728"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 23:00:00",
+        "team1Title": "Houston Texans",
+        "team2Title": "Tennessee Titans",
+        "team1Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/houston-texans-vs-titans",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/houston-texans-vs-titans/2734"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 23:00:00",
+        "team1Title": "Miami Dolphins",
+        "team2Title": "Cincinnati Bengals",
+        "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/dolphins-vs-bengals",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/dolphins-vs-bengals/2731"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 23:00:00",
+        "team1Title": "Chicago Bears",
+        "team2Title": "Green Bay Packers",
+        "team1Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bears-vs-packers-live-stream",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bears-vs-packers-live-stream/2737"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bears-vs-packers-live-stream/2738"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 23:00:00",
+        "team1Title": "Minnesota Vikings",
+        "team2Title": "New Orleans Saints",
+        "team1Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/vikings-vs-saints",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/vikings-vs-saints/2736"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 23:00:00",
+        "team1Title": "New York Jets",
+        "team2Title": "Cleveland Browns",
+        "team1Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/new-york-jets-vs-cleveland-browns",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/new-york-jets-vs-cleveland-browns/2733"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-11 23:00:00",
+        "team1Title": "New England Patriots",
+        "team2Title": "Las Vegas Raiders",
+        "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/patriots-vs-raiders",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/patriots-vs-raiders/2732"
             }
         ]
     },

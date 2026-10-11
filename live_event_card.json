@@ -242,18 +242,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Title": "Freiburg",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-11 19:30:00",
         "team1Title": "Philadelphia Eagles",
@@ -362,6 +350,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/troyes-vs-marseille",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-11 21:30:00",
+        "team1Title": "Freiburg",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/freiburg-vs-schalke-04",
         "multiWatchPageLink": []
     },
     {

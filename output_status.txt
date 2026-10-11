@@ -6,17 +6,17 @@
 🟡 Visiting detail page [3/35]: https://pogo.pk/events/open-de-espana
 🟡 Visiting detail page [2/35]: https://pogo.pk/events/baycurrent-classic
 🟡 Visiting detail page [1/35]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: ATP Tour [1/35]
+🟢 Successfully processed: PGA Tour [2/35]
 🟡 Visiting detail page [4/35]: https://pogo.pk/events/motogp-indonesia-grand-prix
 🟢 Successfully processed: PGA Tour [3/35]
 🟡 Visiting detail page [5/35]: https://pogo.pk/events/f1-singapore-grand-prix
-🟢 Successfully processed: PGA Tour [2/35]
+🟢 Successfully processed: ATP Tour [1/35]
 🟡 Visiting detail page [6/35]: https://pogo.pk/events/brendan-allen-vs-christian-leroy-duncan
 🟢 Successfully processed: MotoGP [4/35]
 🟡 Visiting detail page [7/35]: https://pogo.pk/events/roma-vs-como
-🟢 Successfully processed: UFC [6/35]
-🟡 Visiting detail page [8/35]: https://pogo.pk/events/monza-vs-lazio-live
 🟢 Successfully processed: Formula 1 [5/35]
+🟡 Visiting detail page [8/35]: https://pogo.pk/events/monza-vs-lazio-live
+🟢 Successfully processed: UFC [6/35]
 🟡 Visiting detail page [9/35]: https://pogo.pk/events/lecce-vs-bologna
 🟢 Successfully processed: Serie A [7/35]
 🟡 Visiting detail page [10/35]: https://pogo.pk/events/milan-vs-sassuolo
@@ -50,9 +50,9 @@
 🟡 Visiting detail page [24/35]: https://pogo.pk/events/nice-vs-strasbourg
 🟢 Successfully processed: Premier League [22/35]
 🟡 Visiting detail page [25/35]: https://pogo.pk/events/rennes-vs-auxerre
-🟢 Successfully processed: French Ligue 1 [24/35]
-🟡 Visiting detail page [26/35]: https://pogo.pk/events/troyes-vs-marseille
 🟢 Successfully processed: Premier League [23/35]
+🟡 Visiting detail page [26/35]: https://pogo.pk/events/troyes-vs-marseille
+🟢 Successfully processed: French Ligue 1 [24/35]
 🟡 Visiting detail page [27/35]: https://pogo.pk/events/borussia-mgladbach-vs-koln
 🟢 Successfully processed: French Ligue 1 [25/35]
 🟡 Visiting detail page [28/35]: https://pogo.pk/events/freiburg-vs-schalke-04
@@ -69,9 +69,9 @@
 🟢 Successfully processed: Champions League [32/35]
 🟡 Visiting detail page [34/35]: https://pogo.pk/events/inter-milan-vs-club-brugge
 🟢 Successfully processed: Champions League [33/35]
-🟢 Successfully processed: Champions League [34/35]
 🟡 Visiting detail page [35/35]: https://pogo.pk/events/bayern-munchen-vs-viking
 🟢 Successfully processed: Champions League [35/35]
+🟢 Successfully processed: Champions League [34/35]
 🟢 Successfully processed: NFL [29/35]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 35

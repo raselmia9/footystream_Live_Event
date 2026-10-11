@@ -26,23 +26,6 @@
     },
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-10-12 02:05:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Los Angeles Chargers",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/la-chargers-vs-broncos",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/la-chargers-vs-broncos/2739"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
         "matchTime": "2026-10-12 02:25:00",
         "team1Title": "Seattle Seahawks",
         "team2Title": "San Francisco 49ers",

@@ -244,17 +244,5 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-viking",
         "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Title": "Stoke City",
-        "team2Title": "Middlesbrough",
-        "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
-        "multiWatchPageLink": []
     }
 ]

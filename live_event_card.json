@@ -1,5 +1,34 @@
 [
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-11 21:30:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Manchester City",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-manchester-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/liverpool-vs-manchester-city/2716"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/liverpool-vs-manchester-city/2717"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/liverpool-vs-manchester-city/2718"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/liverpool-vs-manchester-city/2719"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",
@@ -63,27 +92,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/f1-singapore-grand-prix/2626"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-11 16:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AS Roma",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-como",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/roma-vs-como/2693"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/roma-vs-como/2694"
             }
         ]
     },
@@ -181,7 +189,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/milan-vs-sassuolo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/milan-vs-sassuolo/2721"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -193,7 +206,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/juventus-vs-cagliari",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2722"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2723"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/juventus-vs-cagliari/2724"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -241,6 +267,10 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/nottm-forest-vs-crystal-palace/2705"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/nottm-forest-vs-crystal-palace/2711"
             }
         ]
     },
@@ -262,20 +292,12 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/hull-city-vs-everton/2707"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/hull-city-vs-everton/2710"
             }
         ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-11 21:30:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-manchester-city",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",
@@ -320,7 +342,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/rennes-vs-auxerre",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rennes-vs-auxerre/2714"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/rennes-vs-auxerre/2715"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -372,6 +403,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2563"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/eagles-vs-jaguars/2720"
             }
         ]
     },
@@ -385,7 +420,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-deportivo-la-coruna/2712"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-deportivo-la-coruna/2713"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

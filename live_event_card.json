@@ -56,8 +56,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-11 21:15:00",
-        "team1Title": "Rennes",
-        "team2Title": "Auxerre",
+        "team1Title": "Event Ended",
+        "team2Title": "Rennes",
         "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
         "isHot": true,

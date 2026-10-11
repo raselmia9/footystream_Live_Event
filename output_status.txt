@@ -4,8 +4,8 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
 🟡 Visiting detail page [3/30]: https://pogo.pk/events/rennes-vs-auxerre
-🟡 Visiting detail page [1/30]: https://pogo.pk/events/liverpool-vs-manchester-city
 🟡 Visiting detail page [2/30]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [1/30]: https://pogo.pk/events/liverpool-vs-manchester-city
 🟢 Successfully processed: French Ligue 1 [3/30]
 🟡 Visiting detail page [4/30]: https://pogo.pk/events/freiburg-vs-schalke-04
 🟢 Successfully processed: Premier League [1/30]
@@ -14,9 +14,9 @@
 🟡 Visiting detail page [6/30]: https://pogo.pk/events/real-betis-vs-osasuna
 🟢 Successfully processed: Bundesliga [4/30]
 🟡 Visiting detail page [7/30]: https://pogo.pk/events/houston-texans-vs-titans
-🟢 Successfully processed: LaLiga [6/30]
-🟡 Visiting detail page [8/30]: https://pogo.pk/events/dolphins-vs-bengals
 🟢 Successfully processed: Serie A [5/30]
+🟡 Visiting detail page [8/30]: https://pogo.pk/events/dolphins-vs-bengals
+🟢 Successfully processed: LaLiga [6/30]
 🟡 Visiting detail page [9/30]: https://pogo.pk/events/bears-vs-packers-live-stream
 🟢 Successfully processed: NFL [7/30]
 🟡 Visiting detail page [10/30]: https://pogo.pk/events/vikings-vs-saints

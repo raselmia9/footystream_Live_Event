@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 33
-🟡 Visiting detail page [1/33]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/33]: https://pogo.pk/events/f1-singapore-grand-prix
 🟡 Visiting detail page [2/33]: https://pogo.pk/events/open-de-espana
-🟢 Successfully processed: Formula 1 [3/33]
+🟡 Visiting detail page [1/33]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: PGA Tour [2/33]
+🟢 Successfully processed: Formula 1 [3/33]
 🟢 Successfully processed: ATP Tour [1/33]
 🟡 Visiting detail page [4/33]: https://pogo.pk/events/roma-vs-como
 🟡 Visiting detail page [5/33]: https://pogo.pk/events/southampton-vs-portsmouth
 🟡 Visiting detail page [6/33]: https://pogo.pk/events/elche-vs-celta-vigo
-🟢 Successfully processed: Serie A [4/33]
-🟡 Visiting detail page [7/33]: https://pogo.pk/events/monza-vs-lazio-live
 🟢 Successfully processed: EFL [5/33]
+🟡 Visiting detail page [7/33]: https://pogo.pk/events/monza-vs-lazio-live
+🟢 Successfully processed: Serie A [4/33]
 🟢 Successfully processed: LaLiga [6/33]
 🟡 Visiting detail page [8/33]: https://pogo.pk/events/lecce-vs-bologna
 🟡 Visiting detail page [9/33]: https://pogo.pk/events/milan-vs-sassuolo
@@ -47,8 +47,8 @@
 🟢 Successfully processed: Bundesliga [21/33]
 🟡 Visiting detail page [23/33]: https://pogo.pk/events/real-sociedad-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [23/33]
-🟢 Successfully processed: Premier League [14/33]
 🟡 Visiting detail page [24/33]: https://pogo.pk/events/real-betis-vs-osasuna
+🟢 Successfully processed: Premier League [14/33]
 🟡 Visiting detail page [25/33]: https://pogo.pk/events/racing-vs-valencia
 🟢 Successfully processed: LaLiga [24/33]
 🟡 Visiting detail page [26/33]: https://pogo.pk/events/sevilla-vs-levante

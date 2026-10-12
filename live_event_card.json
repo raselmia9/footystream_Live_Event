@@ -25,68 +25,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-13 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/newcastle-united-vs-coventry-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-coventry-city/2757"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-coventry-city/2758"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-coventry-city/2759"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-coventry-city/2760"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-13 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sevilla",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sevilla-vs-levante",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sevilla-vs-levante/2752"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/sevilla-vs-levante/2753"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/sevilla-vs-levante/2754"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/sevilla-vs-levante/2755"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/sevilla-vs-levante/2756"
-            }
-        ]
-    },
-    {
         "eventTitle": "MLB",
         "matchTime": "2026-10-13 06:00:00",
         "team1Title": "Tampa Bay Rays",

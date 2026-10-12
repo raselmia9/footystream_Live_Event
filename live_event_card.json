@@ -25,27 +25,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-13 00:45:00",
-        "team1Title": "Torino",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/torino-vs-udinese",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/torino-vs-udinese/2750"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/torino-vs-udinese/2751"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-13 01:00:00",
         "team1Title": "Newcastle United",

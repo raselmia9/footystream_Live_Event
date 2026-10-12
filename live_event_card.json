@@ -27,8 +27,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-12 22:30:00",
-        "team1Title": "Atalanta",
-        "team2Title": "Venezia",
+        "team1Title": "Event Ended",
+        "team2Title": "Atalanta",
         "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "isHot": true,
@@ -211,5 +211,60 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "West Ham United",
+        "team2Title": "Lincoln City",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lincoln-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/west-ham-vs-lincoln-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2761"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2762"
+            }
+        ]
+    },
+    {
+        "eventTitle": "UEFA Youth League",
+        "matchTime": "2026-10-14 19:00:00",
+        "team1Title": "Fenerbahçe",
+        "team2Title": "Aston Villa",
+        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/fenerbahce-vs-aston-villa-u19",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/fenerbahce-vs-aston-villa-u19/2764"
+            }
+        ]
+    },
+    {
+        "eventTitle": "UEFA Youth League",
+        "matchTime": "2026-10-14 20:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "PSG",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/man-city-vs-psg",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/man-city-vs-psg/2763"
+            }
+        ]
     }
 ]

@@ -34,7 +34,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/atalanta-vs-venezia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/atalanta-vs-venezia/2748"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [3/14]: https://pogo.pk/events/falcons-vs-ravens
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/brewers-vs-dodgers
-🟢 Successfully processed: ATP Tour [1/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/atalanta-vs-venezia
+🟡 Visiting detail page [3/14]: https://pogo.pk/events/falcons-vs-ravens
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: MLB [2/14]
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/atalanta-vs-venezia
+🟢 Successfully processed: ATP Tour [1/14]
 🟡 Visiting detail page [5/14]: https://pogo.pk/events/torino-vs-udinese
 🟢 Successfully processed: NFL [3/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/newcastle-united-vs-coventry-city
@@ -19,8 +19,8 @@
 🟢 Successfully processed: Premier League [6/14]
 🟡 Visiting detail page [9/14]: https://pogo.pk/events/lens-vs-sporting-cp
 🟢 Successfully processed: LaLiga [7/14]
-🟡 Visiting detail page [10/14]: https://pogo.pk/events/arsenal-vs-lille
 🟢 Successfully processed: Champions League [8/14]
+🟡 Visiting detail page [10/14]: https://pogo.pk/events/arsenal-vs-lille
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/barcelona-vs-galatasaray
 🟢 Successfully processed: Champions League [9/14]
 🟡 Visiting detail page [12/14]: https://pogo.pk/events/inter-milan-vs-club-brugge

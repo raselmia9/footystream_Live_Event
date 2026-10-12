@@ -10,8 +10,8 @@
 🟢 Successfully processed: Serie A [3/12]
 🟡 Visiting detail page [4/12]: https://pogo.pk/events/newcastle-united-vs-coventry-city
 🟡 Visiting detail page [5/12]: https://pogo.pk/events/sevilla-vs-levante
-🟢 Successfully processed: LaLiga [5/12]
 🟢 Successfully processed: Premier League [4/12]
+🟢 Successfully processed: LaLiga [5/12]
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/sabah-vs-slavia-praha
 🟡 Visiting detail page [7/12]: https://pogo.pk/events/lens-vs-sporting-cp
 🟢 Successfully processed: Champions League [6/12]

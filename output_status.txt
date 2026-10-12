@@ -2,34 +2,32 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [2/14]: https://pogo.pk/events/brewers-vs-dodgers
-🟡 Visiting detail page [3/14]: https://pogo.pk/events/falcons-vs-ravens
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: NFL [3/14]
-🟢 Successfully processed: ATP Tour [1/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/atalanta-vs-venezia
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/torino-vs-udinese
-🟢 Successfully processed: Serie A [5/14]
-🟢 Successfully processed: Serie A [4/14]
-🟡 Visiting detail page [6/14]: https://pogo.pk/events/newcastle-united-vs-coventry-city
-🟡 Visiting detail page [7/14]: https://pogo.pk/events/sevilla-vs-levante
-🟢 Successfully processed: Premier League [6/14]
-🟢 Successfully processed: LaLiga [7/14]
-🟡 Visiting detail page [8/14]: https://pogo.pk/events/sabah-vs-slavia-praha
-🟡 Visiting detail page [9/14]: https://pogo.pk/events/lens-vs-sporting-cp
-🟢 Successfully processed: Champions League [8/14]
-🟡 Visiting detail page [10/14]: https://pogo.pk/events/arsenal-vs-lille
-🟢 Successfully processed: Champions League [9/14]
-🟡 Visiting detail page [11/14]: https://pogo.pk/events/barcelona-vs-galatasaray
-🟢 Successfully processed: Champions League [10/14]
-🟡 Visiting detail page [12/14]: https://pogo.pk/events/inter-milan-vs-club-brugge
-🟢 Successfully processed: Champions League [11/14]
-🟡 Visiting detail page [13/14]: https://pogo.pk/events/bayern-munchen-vs-viking
-🟢 Successfully processed: Champions League [13/14]
-🟡 Visiting detail page [14/14]: https://pogo.pk/events/stoke-city-vs-middlesbrough
-🟢 Successfully processed: Champions League [12/14]
-🟢 Successfully processed: EFL [14/14]
-🟢 Successfully processed: MLB [2/14]
+🟢 Total unique detail links to process in parallel: 13
+🟡 Visiting detail page [2/13]: https://pogo.pk/events/falcons-vs-ravens
+🟡 Visiting detail page [3/13]: https://pogo.pk/events/atalanta-vs-venezia
+🟡 Visiting detail page [1/13]: https://pogo.pk/events/shanghai-rolex-masters
+🟢 Successfully processed: Serie A [3/13]
+🟡 Visiting detail page [4/13]: https://pogo.pk/events/torino-vs-udinese
+🟢 Successfully processed: Serie A [4/13]
+🟡 Visiting detail page [5/13]: https://pogo.pk/events/newcastle-united-vs-coventry-city
+🟢 Successfully processed: Premier League [5/13]
+🟡 Visiting detail page [6/13]: https://pogo.pk/events/sevilla-vs-levante
+🟢 Successfully processed: LaLiga [6/13]
+🟡 Visiting detail page [7/13]: https://pogo.pk/events/sabah-vs-slavia-praha
+🟢 Successfully processed: Champions League [7/13]
+🟡 Visiting detail page [8/13]: https://pogo.pk/events/lens-vs-sporting-cp
+🟢 Successfully processed: ATP Tour [1/13]
+🟢 Successfully processed: NFL [2/13]
+🟡 Visiting detail page [10/13]: https://pogo.pk/events/barcelona-vs-galatasaray
+🟡 Visiting detail page [9/13]: https://pogo.pk/events/arsenal-vs-lille
+🟢 Successfully processed: Champions League [8/13]
+🟡 Visiting detail page [11/13]: https://pogo.pk/events/inter-milan-vs-club-brugge
+🟢 Successfully processed: Champions League [10/13]
+🟢 Successfully processed: Champions League [9/13]
+🟡 Visiting detail page [12/13]: https://pogo.pk/events/bayern-munchen-vs-viking
+🟡 Visiting detail page [13/13]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟢 Successfully processed: Champions League [11/13]
+🟢 Successfully processed: EFL [13/13]
+🟢 Successfully processed: Champions League [12/13]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 14
+🟢 Process completed successfully. Total collected events: 13

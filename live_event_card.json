@@ -27,8 +27,8 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-10-12 06:20:00",
-        "team1Title": "Atlanta Falcons",
-        "team2Title": "Baltimore Ravens",
+        "team1Title": "Event Ended",
+        "team2Title": "Atlanta Falcons",
         "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
         "isHot": true,

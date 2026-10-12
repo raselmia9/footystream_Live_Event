@@ -76,7 +76,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/newcastle-united-vs-coventry-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-coventry-city/2757"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-coventry-city/2758"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-coventry-city/2759"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-coventry-city/2760"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

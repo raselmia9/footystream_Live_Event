@@ -25,31 +25,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-12 06:20:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Atlanta Falcons",
-        "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/falcons-vs-ravens",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/falcons-vs-ravens/2745"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/falcons-vs-ravens/2746"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/falcons-vs-ravens/2747"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-12 22:30:00",
         "team1Title": "Atalanta",

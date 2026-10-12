@@ -27,8 +27,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-13 01:00:00",
-        "team1Title": "Newcastle United",
-        "team2Title": "Coventry City",
+        "team1Title": "Event Ended",
+        "team2Title": "Newcastle United",
         "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
         "isHot": true,
@@ -56,8 +56,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-13 01:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Levante",
+        "team1Title": "Event Ended",
+        "team2Title": "Sevilla",
         "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "isHot": true,

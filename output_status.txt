@@ -3,32 +3,32 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [2/14]: https://pogo.pk/events/brewers-vs-dodgers
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/falcons-vs-ravens
-🟢 Successfully processed: ATP Tour [1/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/atalanta-vs-venezia
-🟢 Successfully processed: NFL [3/14]
+🟡 Visiting detail page [2/14]: https://pogo.pk/events/brewers-vs-dodgers
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: MLB [2/14]
+🟢 Successfully processed: NFL [3/14]
 🟡 Visiting detail page [5/14]: https://pogo.pk/events/torino-vs-udinese
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/atalanta-vs-venezia
+🟢 Successfully processed: ATP Tour [1/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/newcastle-united-vs-coventry-city
 🟢 Successfully processed: Serie A [4/14]
+🟢 Successfully processed: Serie A [5/14]
 🟡 Visiting detail page [7/14]: https://pogo.pk/events/sevilla-vs-levante
 🟢 Successfully processed: Premier League [6/14]
-🟢 Successfully processed: Serie A [5/14]
 🟡 Visiting detail page [8/14]: https://pogo.pk/events/sabah-vs-slavia-praha
 🟡 Visiting detail page [9/14]: https://pogo.pk/events/lens-vs-sporting-cp
 🟢 Successfully processed: LaLiga [7/14]
-🟡 Visiting detail page [10/14]: https://pogo.pk/events/arsenal-vs-lille
 🟢 Successfully processed: Champions League [9/14]
+🟡 Visiting detail page [10/14]: https://pogo.pk/events/arsenal-vs-lille
 🟢 Successfully processed: Champions League [8/14]
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/barcelona-vs-galatasaray
 🟡 Visiting detail page [12/14]: https://pogo.pk/events/inter-milan-vs-club-brugge
 🟢 Successfully processed: Champions League [10/14]
 🟡 Visiting detail page [13/14]: https://pogo.pk/events/bayern-munchen-vs-viking
-🟢 Successfully processed: Champions League [11/14]
 🟢 Successfully processed: Champions League [12/14]
 🟡 Visiting detail page [14/14]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟢 Successfully processed: Champions League [11/14]
 🟢 Successfully processed: Champions League [13/14]
 🟢 Successfully processed: EFL [14/14]
 🟢 Browser closed successfully.

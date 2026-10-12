@@ -3,16 +3,16 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 12
-🟡 Visiting detail page [1/12]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [2/12]: https://pogo.pk/events/atalanta-vs-venezia
+🟡 Visiting detail page [1/12]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/12]: https://pogo.pk/events/torino-vs-udinese
-🟢 Successfully processed: Serie A [2/12]
 🟢 Successfully processed: Serie A [3/12]
-🟡 Visiting detail page [4/12]: https://pogo.pk/events/newcastle-united-vs-coventry-city
+🟢 Successfully processed: Serie A [2/12]
 🟡 Visiting detail page [5/12]: https://pogo.pk/events/sevilla-vs-levante
-🟢 Successfully processed: LaLiga [5/12]
+🟡 Visiting detail page [4/12]: https://pogo.pk/events/newcastle-united-vs-coventry-city
 🟢 Successfully processed: Premier League [4/12]
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/sabah-vs-slavia-praha
+🟢 Successfully processed: LaLiga [5/12]
 🟡 Visiting detail page [7/12]: https://pogo.pk/events/lens-vs-sporting-cp
 🟢 Successfully processed: Champions League [6/12]
 🟡 Visiting detail page [8/12]: https://pogo.pk/events/arsenal-vs-lille

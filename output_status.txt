@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 12
 🟡 Visiting detail page [2/12]: https://pogo.pk/events/atletico-vs-man-united
-🟡 Visiting detail page [3/12]: https://pogo.pk/events/fenerbahce-vs-aston-villa-u19
 🟡 Visiting detail page [1/12]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: UEFA Youth League [3/12]
-🟡 Visiting detail page [4/12]: https://pogo.pk/events/man-city-vs-psg
+🟡 Visiting detail page [3/12]: https://pogo.pk/events/fenerbahce-vs-aston-villa-u19
 🟢 Successfully processed: UEFA Youth League [2/12]
-🟡 Visiting detail page [5/12]: https://pogo.pk/events/sabah-vs-slavia-praha
 🟢 Successfully processed: ATP Tour [1/12]
+🟡 Visiting detail page [4/12]: https://pogo.pk/events/man-city-vs-psg
+🟡 Visiting detail page [5/12]: https://pogo.pk/events/sabah-vs-slavia-praha
+🟢 Successfully processed: UEFA Youth League [3/12]
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/lens-vs-sporting-cp
 🟢 Successfully processed: Champions League [5/12]
 🟡 Visiting detail page [7/12]: https://pogo.pk/events/arsenal-vs-lille

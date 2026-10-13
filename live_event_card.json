@@ -130,6 +130,27 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Burnley FC",
+        "team2Title": "Wolverhampton Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/burnley-vs-wolves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2811"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2812"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-14 01:00:00",
         "team1Title": "Arsenal",
@@ -421,6 +442,27 @@
         ]
     },
     {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-16 00:45:00",
+        "team1Title": "Le Mans",
+        "team2Title": "Toulouse",
+        "team1Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/le-mans-vs-toulouse",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814"
+            }
+        ]
+    },
+    {
         "eventTitle": "Conference League",
         "matchTime": "2026-10-16 01:00:00",
         "team1Title": "Brighton & Hove Albion",
@@ -453,5 +495,67 @@
                 "url": "https://playerdee.top/alpha/heart-vs-nordsjaelland/2806"
             }
         ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-16 15:00:00",
+        "team1Title": "Sydney FC",
+        "team2Title": "Western Sydney Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sydney-fc-vs-western-sydney-wanderers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-17 00:30:00",
+        "team1Title": "Eintracht Frankfurt",
+        "team2Title": "Köln",
+        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-koln",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-17 00:45:00",
+        "team1Title": "Sassuolo",
+        "team2Title": "Frosinone Calcio",
+        "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sassuolo-vs-frosinone",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2815"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2816"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Deportivo La Coruña",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
+        "multiWatchPageLink": []
     }
 ]

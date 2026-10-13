@@ -7,29 +7,29 @@
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/buffalo-bills-vs-rams-live
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/rays-vs-guardians
 🟢 Successfully processed: MLB [2/14]
-🟢 Successfully processed: ATP Tour [1/14]
 🟡 Visiting detail page [4/14]: https://pogo.pk/events/atletico-vs-man-united
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/fenerbahce-vs-aston-villa-u19
+🟢 Successfully processed: ATP Tour [1/14]
 🟢 Successfully processed: NFL [3/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/man-city-vs-psg
+🟡 Visiting detail page [5/14]: https://pogo.pk/events/fenerbahce-vs-aston-villa-u19
 🟢 Successfully processed: UEFA Youth League [4/14]
 🟡 Visiting detail page [7/14]: https://pogo.pk/events/sabah-vs-slavia-praha
 🟢 Successfully processed: UEFA Youth League [6/14]
-🟢 Successfully processed: UEFA Youth League [5/14]
 🟡 Visiting detail page [8/14]: https://pogo.pk/events/lens-vs-sporting-cp
+🟢 Successfully processed: UEFA Youth League [5/14]
 🟡 Visiting detail page [9/14]: https://pogo.pk/events/arsenal-vs-lille
 🟢 Successfully processed: Champions League [7/14]
 🟡 Visiting detail page [10/14]: https://pogo.pk/events/barcelona-vs-galatasaray
-🟢 Successfully processed: Champions League [8/14]
-🟡 Visiting detail page [11/14]: https://pogo.pk/events/inter-milan-vs-club-brugge
 🟢 Successfully processed: Champions League [9/14]
+🟢 Successfully processed: Champions League [8/14]
 🟡 Visiting detail page [12/14]: https://pogo.pk/events/bayern-munchen-vs-viking
+🟡 Visiting detail page [11/14]: https://pogo.pk/events/inter-milan-vs-club-brugge
 🟢 Successfully processed: Champions League [10/14]
-🟢 Successfully processed: Champions League [11/14]
-🟡 Visiting detail page [14/14]: https://pogo.pk/events/west-ham-vs-lincoln-city
 🟡 Visiting detail page [13/14]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟢 Successfully processed: Champions League [11/14]
 🟢 Successfully processed: Champions League [12/14]
-🟢 Successfully processed: EFL [14/14]
+🟡 Visiting detail page [14/14]: https://pogo.pk/events/west-ham-vs-lincoln-city
 🟢 Successfully processed: EFL [13/14]
+🟢 Successfully processed: EFL [14/14]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 14

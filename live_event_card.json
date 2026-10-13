@@ -1,5 +1,34 @@
 [
     {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 01:00:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-united-vs-atletico-madrid",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2777"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2778"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2779"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2780"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",
@@ -25,48 +54,6 @@
         ]
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-13 22:45:00",
-        "team1Title": "Sabah Baku",
-        "team2Title": "Slavia Praha",
-        "team1Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sabah-vs-slavia-praha",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sabah-vs-slavia-praha/2773"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/sabah-vs-slavia-praha/2775"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-13 22:45:00",
-        "team1Title": "Lens",
-        "team2Title": "Sporting CP",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lens-vs-sporting-cp",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lens-vs-sporting-cp/2774"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lens-vs-sporting-cp/2776"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-14 01:00:00",
         "team1Title": "Stoke City",
@@ -84,69 +71,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2772"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-15 01:00:00",
-        "team1Title": "West Ham United",
-        "team2Title": "Lincoln City",
-        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lincoln-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/west-ham-vs-lincoln-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2761"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2762"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-16 01:00:00",
-        "team1Title": "Oxford United",
-        "team2Title": "Mansfield Town",
-        "team1Logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-17 01:00:00",
-        "team1Title": "Burnley FC",
-        "team2Title": "Wolverhampton Wanderers",
-        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/burnley-vs-wolves",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2811"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2812"
             }
         ]
     },
@@ -319,6 +243,141 @@
         ]
     },
     {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 22:45:00",
+        "team1Title": "Liverpool",
+        "team2Title": "LASK",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-lask-linz",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 22:45:00",
+        "team1Title": "Como",
+        "team2Title": "Feyenoord",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-feyenoord",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "Borussia Dortmund",
+        "team2Title": "FK Bodo Glimt",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "Stuttgart",
+        "team2Title": "Slovan Bratislava",
+        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/stuttgart-vs-slovan-bratislava",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Fenerbahçe",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/aston-villa-vs-fenerbahce",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "PSG",
+        "team2Title": "Manchester City",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-manchester-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "West Ham United",
+        "team2Title": "Lincoln City",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lincoln-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/west-ham-vs-lincoln-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2761"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2762"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Title": "Oxford United",
+        "team2Title": "Mansfield Town",
+        "team1Logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Burnley FC",
+        "team2Title": "Wolverhampton Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/burnley-vs-wolves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2811"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2812"
+            }
+        ]
+    },
+    {
         "eventTitle": "Europa League",
         "matchTime": "2026-10-15 22:45:00",
         "team1Title": "Crystal Palace",
@@ -331,7 +390,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/crystal-palace-vs-lyon/2795"
+                "url": "https://playerdee.top/alpha/crystal-palace-vs-lyon/2795"
             }
         ]
     },
@@ -348,7 +407,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/sunderland-vs-torreense/2796"
+                "url": "https://playerdee.top/alpha/sunderland-vs-torreense/2796"
             }
         ]
     },
@@ -365,7 +424,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/milan-vs-salzburg/2798"
+                "url": "https://playerdee.top/alpha/milan-vs-salzburg/2798"
             }
         ]
     },
@@ -382,7 +441,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/real-sociedad-vs-union-sg/2799"
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-union-sg/2799"
             }
         ]
     },
@@ -399,7 +458,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/bayer-leverkusen-vs-lech-poznan/2800"
+                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-lech-poznan/2800"
             }
         ]
     },
@@ -416,7 +475,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/benfica-vs-celtic/2804"
+                "url": "https://playerdee.top/alpha/benfica-vs-celtic/2804"
             }
         ]
     },
@@ -433,11 +492,11 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/al-nassr-vs-al-ahli/2809"
+                "url": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2809"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerbee.top/alpha/al-nassr-vs-al-ahli/2810"
+                "url": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2810"
             }
         ]
     },
@@ -454,11 +513,11 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/le-mans-vs-toulouse/2813"
+                "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerbee.top/alpha/le-mans-vs-toulouse/2814"
+                "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814"
             }
         ]
     },
@@ -475,7 +534,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/brighton-vs-kauno-zalgiris/2805"
+                "url": "https://playerdee.top/alpha/brighton-vs-kauno-zalgiris/2805"
             }
         ]
     },
@@ -492,7 +551,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/heart-vs-nordsjaelland/2806"
+                "url": "https://playerdee.top/alpha/heart-vs-nordsjaelland/2806"
             }
         ]
     },
@@ -509,7 +568,7 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
+                "url": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
             }
         ]
     },
@@ -538,11 +597,11 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerbee.top/alpha/sassuolo-vs-frosinone/2815"
+                "url": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2815"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerbee.top/alpha/sassuolo-vs-frosinone/2816"
+                "url": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2816"
             }
         ]
     },

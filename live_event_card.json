@@ -67,6 +67,48 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-14 01:00:00",
+        "team1Title": "Stoke City",
+        "team2Title": "Middlesbrough",
+        "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2771"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2772"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "West Ham United",
+        "team2Title": "Lincoln City",
+        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lincoln-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/west-ham-vs-lincoln-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2761"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2762"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-14 01:00:00",
         "team1Title": "Arsenal",
@@ -115,46 +157,28 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "EFL",
+        "eventTitle": "Champions League",
         "matchTime": "2026-10-14 01:00:00",
-        "team1Title": "Stoke City",
-        "team2Title": "Middlesbrough",
-        "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "team1Title": "Napoli",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2771"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2772"
-            }
-        ]
+        "detailsPage": "https://pogo.pk/events/napoli-vs-villarreal",
+        "multiWatchPageLink": []
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-15 01:00:00",
-        "team1Title": "West Ham United",
-        "team2Title": "Lincoln City",
-        "team1Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lincoln-city/logo.webp",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-14 01:00:00",
+        "team1Title": "RB Leipzig",
+        "team2Title": "PSV",
+        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/west-ham-vs-lincoln-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2761"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/west-ham-vs-lincoln-city/2762"
-            }
-        ]
+        "detailsPage": "https://pogo.pk/events/rb-leipzig-vs-psv",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "UEFA Youth League",

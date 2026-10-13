@@ -164,7 +164,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/inter-milan-vs-club-brugge",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2786"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2787"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2788"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -176,7 +189,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-viking",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-viking/2789"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-viking/2790"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -188,7 +210,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/napoli-vs-villarreal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/napoli-vs-villarreal/2791"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

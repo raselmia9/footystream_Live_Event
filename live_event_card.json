@@ -124,51 +124,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Club Brugge",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-club-brugge",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Viking",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-viking",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-14 01:00:00",
-        "team1Title": "Stoke City",
-        "team2Title": "Middlesbrough",
-        "team1Logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2771"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2772"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-15 01:00:00",
         "team1Title": "West Ham United",

@@ -118,7 +118,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-lille",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-lille/2781"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/arsenal-vs-lille/2782"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -130,7 +139,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-galatasaray",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2783"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2784"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2785"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

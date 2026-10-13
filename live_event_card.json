@@ -109,6 +109,27 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Title": "Oxford United",
+        "team2Title": "Mansfield Town",
+        "team1Logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-14 01:00:00",
         "team1Title": "Arsenal",
@@ -375,6 +396,61 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/benfica-vs-celtic/2804"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Saudi Pro League",
+        "matchTime": "2026-10-16 00:00:00",
+        "team1Title": "Al-Nassr",
+        "team2Title": "Al Ahli",
+        "team1Logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/al-nassr-vs-al-ahli",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2809"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2810"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Title": "Brighton & Hove Albion",
+        "team2Title": "Kauno Zalgiris",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kauno-zalgiris/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brighton-vs-kauno-zalgiris",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brighton-vs-kauno-zalgiris/2805"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Title": "Hearts",
+        "team2Title": "Nordsjælland",
+        "team1Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nordsjaelland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/heart-vs-nordsjaelland",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/heart-vs-nordsjaelland/2806"
             }
         ]
     }

@@ -214,6 +214,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/napoli-vs-villarreal/2791"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/napoli-vs-villarreal/2792"
             }
         ]
     },
@@ -227,7 +231,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/rb-leipzig-vs-psv",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rb-leipzig-vs-psv/2793"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/rb-leipzig-vs-psv/2794"
+            }
+        ]
     },
     {
         "eventTitle": "UEFA Youth League",

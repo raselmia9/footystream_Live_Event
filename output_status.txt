@@ -16,16 +16,16 @@
 🟡 Visiting detail page [7/12]: https://pogo.pk/events/inter-milan-vs-club-brugge
 🟢 Successfully processed: Champions League [6/12]
 🟡 Visiting detail page [8/12]: https://pogo.pk/events/bayern-munchen-vs-viking
-🟢 Successfully processed: Champions League [7/12]
-🟡 Visiting detail page [9/12]: https://pogo.pk/events/stoke-city-vs-middlesbrough
 🟢 Successfully processed: Champions League [8/12]
+🟡 Visiting detail page [9/12]: https://pogo.pk/events/stoke-city-vs-middlesbrough
+🟢 Successfully processed: Champions League [7/12]
 🟡 Visiting detail page [10/12]: https://pogo.pk/events/west-ham-vs-lincoln-city
 🟢 Successfully processed: Champions League [4/12]
 🟡 Visiting detail page [11/12]: https://pogo.pk/events/fenerbahce-vs-aston-villa-u19
-🟢 Successfully processed: EFL [10/12]
-🟡 Visiting detail page [12/12]: https://pogo.pk/events/man-city-vs-psg
-🟢 Successfully processed: UEFA Youth League [11/12]
 🟢 Successfully processed: EFL [9/12]
+🟡 Visiting detail page [12/12]: https://pogo.pk/events/man-city-vs-psg
+🟢 Successfully processed: EFL [10/12]
+🟢 Successfully processed: UEFA Youth League [11/12]
 🟢 Successfully processed: UEFA Youth League [12/12]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 12

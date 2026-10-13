@@ -27,8 +27,8 @@
     {
         "eventTitle": "MLB",
         "matchTime": "2026-10-13 06:00:00",
-        "team1Title": "Tampa Bay Rays",
-        "team2Title": "Cleveland Guardians",
+        "team1Title": "Event Ended",
+        "team2Title": "Tampa Bay Rays",
         "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
         "isHot": true,

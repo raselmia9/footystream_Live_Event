@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 27
-🟡 Visiting detail page [3/27]: https://pogo.pk/events/real-madrid-vs-roma
 🟡 Visiting detail page [1/27]: https://pogo.pk/events/liverpool-vs-lask-linz
 🟡 Visiting detail page [2/27]: https://pogo.pk/events/psg-vs-manchester-city
-🟢 Successfully processed: Champions League [3/27]
+🟡 Visiting detail page [3/27]: https://pogo.pk/events/real-madrid-vs-roma
 🟢 Successfully processed: Champions League [1/27]
 🟢 Successfully processed: Champions League [2/27]
 🟡 Visiting detail page [4/27]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [5/27]: https://pogo.pk/events/como-vs-feyenoord
+🟢 Successfully processed: Champions League [3/27]
 🟡 Visiting detail page [6/27]: https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt
 🟢 Successfully processed: ATP Tour [4/27]
 🟡 Visiting detail page [7/27]: https://pogo.pk/events/stuttgart-vs-slovan-bratislava
@@ -52,9 +52,9 @@
 🟡 Visiting detail page [25/27]: https://pogo.pk/events/eintracht-frankfurt-vs-koln
 🟢 Successfully processed: Conference League [23/27]
 🟡 Visiting detail page [26/27]: https://pogo.pk/events/sassuolo-vs-frosinone
-🟢 Successfully processed: A League [24/27]
-🟡 Visiting detail page [27/27]: https://pogo.pk/events/deportivo-la-coruna-vs-levante
 🟢 Successfully processed: Bundesliga [25/27]
+🟡 Visiting detail page [27/27]: https://pogo.pk/events/deportivo-la-coruna-vs-levante
+🟢 Successfully processed: A League [24/27]
 🟢 Successfully processed: LaLiga [27/27]
 🟢 Successfully processed: Serie A [26/27]
 🟢 Browser closed successfully.

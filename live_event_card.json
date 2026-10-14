@@ -2,8 +2,8 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-14 22:45:00",
-        "team1Title": "Liverpool",
-        "team2Title": "LASK",
+        "team1Title": "Event Ended",
+        "team2Title": "Liverpool",
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
         "isHot": true,
@@ -110,8 +110,8 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-14 22:45:00",
-        "team1Title": "Como",
-        "team2Title": "Feyenoord",
+        "team1Title": "Event Ended",
+        "team2Title": "Como",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
         "isHot": true,

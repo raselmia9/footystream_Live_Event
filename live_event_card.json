@@ -530,6 +530,27 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-17 17:30:00",
+        "team1Title": "Watford",
+        "team2Title": "Charlton Athletic",
+        "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/watford-vs-charlton-athletic",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
+            }
+        ]
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-16 06:15:00",
         "team1Title": "Denver Broncos",
@@ -568,6 +589,57 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 10:00:00",
+        "team1Title": "Auckland",
+        "team2Title": "Melbourne City",
+        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/auckland-vs-melbourne-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/auckland-vs-melbourne-city/2855"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 12:00:00",
+        "team1Title": "Perth Glory",
+        "team2Title": "Macarthur",
+        "team1Logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/perth-glory-vs-macarthur",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/perth-glory-vs-macarthur/2856"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 14:40:00",
+        "team1Title": "Newcastle Jets",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/newcastle-jets-vs-central-coast-mariners/2857"
             }
         ]
     },
@@ -629,18 +701,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 00:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Genoa",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-genoa",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 01:00:00",
         "team1Title": "Deportivo La Coruña",
@@ -686,18 +746,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-real-betis",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Athletic Club",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/athletic-club-vs-valencia",
         "multiWatchPageLink": []
     },
     {
@@ -768,18 +816,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/aston-villa-vs-newcastle",
         "multiWatchPageLink": []
     },
     {

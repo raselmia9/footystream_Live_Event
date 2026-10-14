@@ -466,5 +466,17 @@
                 "url": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2816"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Deportivo La Coruña",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
+        "multiWatchPageLink": []
     }
 ]

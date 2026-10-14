@@ -26,23 +26,6 @@
     },
     {
         "eventTitle": "UEFA Youth League",
-        "matchTime": "2026-10-14 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Fenerbahçe",
-        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/fenerbahce-vs-aston-villa-u19",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/fenerbahce-vs-aston-villa-u19/2764"
-            }
-        ]
-    },
-    {
-        "eventTitle": "UEFA Youth League",
         "matchTime": "2026-10-14 20:00:00",
         "team1Title": "Manchester City",
         "team2Title": "PSG",

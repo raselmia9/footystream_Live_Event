@@ -27,8 +27,8 @@
     {
         "eventTitle": "UEFA Youth League",
         "matchTime": "2026-10-14 19:00:00",
-        "team1Title": "Fenerbahçe",
-        "team2Title": "Aston Villa",
+        "team1Title": "Event Ended",
+        "team2Title": "Fenerbahçe",
         "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "isHot": true,

@@ -4,39 +4,39 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 27
 🟡 Visiting detail page [2/27]: https://pogo.pk/events/psg-vs-manchester-city
-🟡 Visiting detail page [3/27]: https://pogo.pk/events/real-madrid-vs-roma
 🟡 Visiting detail page [1/27]: https://pogo.pk/events/liverpool-vs-lask-linz
-🟢 Successfully processed: Champions League [2/27]
+🟡 Visiting detail page [3/27]: https://pogo.pk/events/real-madrid-vs-roma
 🟢 Successfully processed: Champions League [1/27]
 🟡 Visiting detail page [4/27]: https://pogo.pk/events/shanghai-rolex-masters
+🟢 Successfully processed: Champions League [2/27]
 🟡 Visiting detail page [5/27]: https://pogo.pk/events/como-vs-feyenoord
 🟢 Successfully processed: Champions League [3/27]
 🟡 Visiting detail page [6/27]: https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt
-🟢 Successfully processed: Champions League [6/27]
+🟢 Successfully processed: ATP Tour [4/27]
 🟡 Visiting detail page [7/27]: https://pogo.pk/events/stuttgart-vs-slovan-bratislava
-🟢 Successfully processed: Champions League [7/27]
+🟢 Successfully processed: Champions League [5/27]
 🟡 Visiting detail page [8/27]: https://pogo.pk/events/aston-villa-vs-fenerbahce
-🟢 Successfully processed: Champions League [8/27]
+🟢 Successfully processed: Champions League [6/27]
 🟡 Visiting detail page [9/27]: https://pogo.pk/events/porto-vs-real-betis
 🟢 Successfully processed: Champions League [9/27]
 🟡 Visiting detail page [10/27]: https://pogo.pk/events/athens-vs-shakhtar-donetsk
 🟢 Successfully processed: Champions League [10/27]
 🟡 Visiting detail page [11/27]: https://pogo.pk/events/west-ham-vs-lincoln-city
-🟢 Successfully processed: ATP Tour [4/27]
-🟢 Successfully processed: Champions League [5/27]
-🟡 Visiting detail page [13/27]: https://pogo.pk/events/burnley-vs-wolves
+🟢 Successfully processed: Champions League [8/27]
 🟡 Visiting detail page [12/27]: https://pogo.pk/events/oxford-united-vs-mansfield-town
+🟢 Successfully processed: Champions League [7/27]
+🟡 Visiting detail page [13/27]: https://pogo.pk/events/burnley-vs-wolves
 🟢 Successfully processed: EFL [11/27]
 🟡 Visiting detail page [14/27]: https://pogo.pk/events/crystal-palace-vs-lyon
-🟢 Successfully processed: EFL [12/27]
 🟢 Successfully processed: EFL [13/27]
 🟡 Visiting detail page [15/27]: https://pogo.pk/events/sunderland-vs-torreense
+🟢 Successfully processed: EFL [12/27]
 🟡 Visiting detail page [16/27]: https://pogo.pk/events/milan-vs-salzburg
 🟢 Successfully processed: Europa League [14/27]
 🟡 Visiting detail page [17/27]: https://pogo.pk/events/real-sociedad-vs-union-sg
 🟢 Successfully processed: Europa League [15/27]
-🟢 Successfully processed: Europa League [16/27]
 🟡 Visiting detail page [18/27]: https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan
+🟢 Successfully processed: Europa League [16/27]
 🟡 Visiting detail page [19/27]: https://pogo.pk/events/benfica-vs-celtic
 🟢 Successfully processed: Europa League [17/27]
 🟡 Visiting detail page [20/27]: https://pogo.pk/events/al-nassr-vs-al-ahli

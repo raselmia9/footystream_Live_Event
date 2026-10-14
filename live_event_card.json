@@ -1,30 +1,5 @@
 [
     {
-        "eventTitle": "ATP Tour",
-        "matchTime": "2026-10-07 10:00:00",
-        "team1Title": "Shanghai Rolex Masters",
-        "team2Title": "ATP Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/shanghai-rolex-masters",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2614"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2615"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2616"
-            }
-        ]
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-14 22:45:00",
         "team1Title": "Liverpool",
@@ -50,6 +25,64 @@
             {
                 "channel": "Link 4",
                 "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2823"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "PSG",
+        "team2Title": "Manchester City",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-manchester-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psg-vs-manchester-city/2824"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/psg-vs-manchester-city/2825"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "AS Roma",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-roma",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "ATP Tour",
+        "matchTime": "2026-10-07 10:00:00",
+        "team1Title": "Shanghai Rolex Masters",
+        "team2Title": "ATP Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/shanghai-rolex-masters",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2614"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2615"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2616"
             }
         ]
     },
@@ -113,13 +146,25 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-15 01:00:00",
-        "team1Title": "PSG",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team1Title": "Porto",
+        "team2Title": "Real Betis",
+        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-manchester-city",
+        "detailsPage": "https://pogo.pk/events/porto-vs-real-betis",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-15 01:00:00",
+        "team1Title": "AEK Athens",
+        "team2Title": "Shakhtar Donetsk",
+        "team1Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/athens-vs-shakhtar-donetsk",
         "multiWatchPageLink": []
     },
     {

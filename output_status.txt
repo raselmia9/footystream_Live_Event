@@ -6,21 +6,21 @@
 🟡 Visiting detail page [1/47]: https://pogo.pk/events/psg-vs-manchester-city
 🟡 Visiting detail page [3/47]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [2/47]: https://pogo.pk/events/real-madrid-vs-roma
-🟢 Successfully processed: Champions League [1/47]
+🟢 Successfully processed: Champions League [2/47]
 🟡 Visiting detail page [4/47]: https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt
+🟢 Successfully processed: Champions League [1/47]
 🟢 Successfully processed: ATP Tour [3/47]
 🟡 Visiting detail page [5/47]: https://pogo.pk/events/stuttgart-vs-slovan-bratislava
-🟢 Successfully processed: Champions League [2/47]
 🟡 Visiting detail page [6/47]: https://pogo.pk/events/aston-villa-vs-fenerbahce
+🟢 Successfully processed: Champions League [4/47]
 🟢 Successfully processed: Champions League [5/47]
 🟡 Visiting detail page [7/47]: https://pogo.pk/events/porto-vs-real-betis
-🟢 Successfully processed: Champions League [4/47]
 🟡 Visiting detail page [8/47]: https://pogo.pk/events/athens-vs-shakhtar-donetsk
 🟢 Successfully processed: Champions League [6/47]
 🟡 Visiting detail page [9/47]: https://pogo.pk/events/west-ham-vs-lincoln-city
-🟢 Successfully processed: Champions League [7/47]
-🟡 Visiting detail page [10/47]: https://pogo.pk/events/brewers-vs-dodgers
 🟢 Successfully processed: Champions League [8/47]
+🟡 Visiting detail page [10/47]: https://pogo.pk/events/brewers-vs-dodgers
+🟢 Successfully processed: Champions League [7/47]
 🟡 Visiting detail page [11/47]: https://pogo.pk/events/rays-vs-guardians
 🟢 Successfully processed: EFL [9/47]
 🟡 Visiting detail page [12/47]: https://pogo.pk/events/india-championship
@@ -80,9 +80,9 @@
 🟡 Visiting detail page [39/47]: https://pogo.pk/events/espanyol-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [38/47]
 🟡 Visiting detail page [40/47]: https://pogo.pk/events/elche-vs-villarreal
-🟢 Successfully processed: Serie A [35/47]
-🟡 Visiting detail page [41/47]: https://pogo.pk/events/barcelona-vs-real-betis
 🟢 Successfully processed: LaLiga [39/47]
+🟡 Visiting detail page [41/47]: https://pogo.pk/events/barcelona-vs-real-betis
+🟢 Successfully processed: Serie A [35/47]
 🟡 Visiting detail page [42/47]: https://pogo.pk/events/gloucester-vs-bordeaux-begles
 🟢 Successfully processed: LaLiga [40/47]
 🟡 Visiting detail page [43/47]: https://pogo.pk/events/edinburgh-vs-toulon

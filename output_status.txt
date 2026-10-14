@@ -6,21 +6,21 @@
 🟡 Visiting detail page [2/26]: https://pogo.pk/events/fenerbahce-vs-aston-villa-u19
 🟡 Visiting detail page [3/26]: https://pogo.pk/events/man-city-vs-psg
 🟡 Visiting detail page [1/26]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: ATP Tour [1/26]
-🟡 Visiting detail page [4/26]: https://pogo.pk/events/liverpool-vs-lask-linz
 🟢 Successfully processed: UEFA Youth League [3/26]
-🟡 Visiting detail page [5/26]: https://pogo.pk/events/como-vs-feyenoord
 🟢 Successfully processed: UEFA Youth League [2/26]
+🟡 Visiting detail page [4/26]: https://pogo.pk/events/liverpool-vs-lask-linz
+🟡 Visiting detail page [5/26]: https://pogo.pk/events/como-vs-feyenoord
+🟢 Successfully processed: ATP Tour [1/26]
 🟡 Visiting detail page [6/26]: https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt
-🟢 Successfully processed: Champions League [4/26]
 🟢 Successfully processed: Champions League [5/26]
+🟢 Successfully processed: Champions League [4/26]
 🟡 Visiting detail page [7/26]: https://pogo.pk/events/stuttgart-vs-slovan-bratislava
 🟡 Visiting detail page [8/26]: https://pogo.pk/events/aston-villa-vs-fenerbahce
 🟢 Successfully processed: Champions League [6/26]
 🟡 Visiting detail page [9/26]: https://pogo.pk/events/psg-vs-manchester-city
+🟢 Successfully processed: Champions League [7/26]
 🟢 Successfully processed: Champions League [8/26]
 🟡 Visiting detail page [10/26]: https://pogo.pk/events/west-ham-vs-lincoln-city
-🟢 Successfully processed: Champions League [7/26]
 🟡 Visiting detail page [11/26]: https://pogo.pk/events/oxford-united-vs-mansfield-town
 🟢 Successfully processed: Champions League [9/26]
 🟡 Visiting detail page [12/26]: https://pogo.pk/events/burnley-vs-wolves
@@ -36,11 +36,11 @@
 🟡 Visiting detail page [17/26]: https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan
 🟢 Successfully processed: Europa League [15/26]
 🟡 Visiting detail page [18/26]: https://pogo.pk/events/benfica-vs-celtic
+🟢 Successfully processed: Europa League [17/26]
 🟢 Successfully processed: Europa League [16/26]
 🟡 Visiting detail page [19/26]: https://pogo.pk/events/al-nassr-vs-al-ahli
-🟢 Successfully processed: Europa League [17/26]
-🟢 Successfully processed: Europa League [18/26]
 🟡 Visiting detail page [20/26]: https://pogo.pk/events/le-mans-vs-toulouse
+🟢 Successfully processed: Europa League [18/26]
 🟡 Visiting detail page [21/26]: https://pogo.pk/events/brighton-vs-kauno-zalgiris
 🟢 Successfully processed: Saudi Pro League [19/26]
 🟡 Visiting detail page [22/26]: https://pogo.pk/events/heart-vs-nordsjaelland

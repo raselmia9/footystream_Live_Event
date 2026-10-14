@@ -218,6 +218,23 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-16 04:00:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "Cleveland Guardians",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-guardians",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rays-vs-guardians/2845"
+            }
+        ]
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-15 11:30:00",
         "team1Title": "India Championship",
@@ -256,6 +273,27 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2844"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-16 12:45:00",
+        "team1Title": "France",
+        "team2Title": "Samoa",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/france-vs-samoa",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/france-vs-samoa/2849"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/france-vs-samoa/2850"
             }
         ]
     },
@@ -404,6 +442,18 @@
         ]
     },
     {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-17 21:15:00",
+        "team1Title": "PSG",
+        "team2Title": "Strasbourg",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-strasbourg",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Conference League",
         "matchTime": "2026-10-16 01:00:00",
         "team1Title": "Brighton & Hove Albion",
@@ -480,6 +530,31 @@
         ]
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-16 06:15:00",
+        "team1Title": "Denver Broncos",
+        "team2Title": "Seattle Seahawks",
+        "team1Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/broncos-vs-seahawks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2846"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2847"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2848"
+            }
+        ]
+    },
+    {
         "eventTitle": "A League",
         "matchTime": "2026-10-16 15:00:00",
         "team1Title": "Sydney FC",
@@ -530,6 +605,42 @@
         ]
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-17 19:00:00",
+        "team1Title": "Napoli",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-venezia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-17 22:00:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Bologna",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-bologna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 00:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Genoa",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-genoa",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 01:00:00",
         "team1Title": "Deportivo La Coruña",
@@ -539,6 +650,148 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 18:00:00",
+        "team1Title": "Espanyol",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/espanyol-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 20:15:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/elche-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Real Betis",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-betis",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 01:00:00",
+        "team1Title": "Athletic Club",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/athletic-club-vs-valencia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Gloucester Rugby",
+        "team2Title": "Bordeaux Begles",
+        "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bordeaux-begles/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/gloucester-vs-bordeaux-begles",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/gloucester-vs-bordeaux-begles/2851"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Challenge Cup",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Edinburgh",
+        "team2Title": "RC Toulonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rc-toulonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/edinburgh-vs-toulon",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/edinburgh-vs-toulon/2852"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 17:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 20:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Brentford",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-brentford",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 20:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/aston-villa-vs-newcastle",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
         "multiWatchPageLink": []
     }
 ]

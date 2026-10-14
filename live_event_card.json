@@ -25,23 +25,6 @@
         ]
     },
     {
-        "eventTitle": "UEFA Youth League",
-        "matchTime": "2026-10-14 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/man-city-vs-psg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/man-city-vs-psg/2763"
-            }
-        ]
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-14 22:45:00",
         "team1Title": "Liverpool",

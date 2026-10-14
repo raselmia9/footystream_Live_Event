@@ -1,35 +1,6 @@
 [
     {
         "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Liverpool",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-lask-linz",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2818"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2819"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2822"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/liverpool-vs-lask-linz/2823"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
         "matchTime": "2026-10-15 01:00:00",
         "team1Title": "PSG",
         "team2Title": "Manchester City",
@@ -104,27 +75,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/shanghai-rolex-masters/2616"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-14 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Como",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/como-vs-feyenoord",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/como-vs-feyenoord/2820"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/como-vs-feyenoord/2821"
             }
         ]
     },
@@ -251,44 +201,61 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-16 01:00:00",
-        "team1Title": "Oxford United",
-        "team2Title": "Mansfield Town",
-        "team1Logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-15 06:00:00",
+        "team1Title": "Milwaukee Brewers",
+        "team2Title": "Los Angeles Dodgers",
+        "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/los-angeles-dodgers/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
+        "detailsPage": "https://pogo.pk/events/brewers-vs-dodgers",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
+                "url": "https://playerdee.top/alpha/brewers-vs-dodgers/2840"
             }
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-17 01:00:00",
-        "team1Title": "Burnley FC",
-        "team2Title": "Wolverhampton Wanderers",
-        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-15 11:30:00",
+        "team1Title": "India Championship",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/burnley-vs-wolves",
+        "detailsPage": "https://pogo.pk/events/india-championship",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2811"
+                "url": "https://playerdee.top/alpha/india-championship/2841"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2812"
+                "url": "https://playerdee.top/alpha/india-championship/2842"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-15 15:00:00",
+        "team1Title": "Australia",
+        "team2Title": "New Zealand",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-new-zealand",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2843"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2844"
             }
         ]
     },
@@ -467,6 +434,48 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/heart-vs-nordsjaelland/2806"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Title": "Oxford United",
+        "team2Title": "Mansfield Town",
+        "team1Logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Burnley FC",
+        "team2Title": "Wolverhampton Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/burnley-vs-wolves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2811"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2812"
             }
         ]
     },

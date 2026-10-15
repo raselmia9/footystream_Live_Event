@@ -512,6 +512,18 @@
     },
     {
         "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 16:30:00",
+        "team1Title": "Lecce",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lecce-vs-udinese",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
         "matchTime": "2026-10-18 19:00:00",
         "team1Title": "Como",
         "team2Title": "Fiorentina",

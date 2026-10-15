@@ -42,23 +42,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-16 04:00:00",
-        "team1Title": "Tampa Bay Rays",
-        "team2Title": "Cleveland Guardians",
-        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rays-vs-guardians",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/rays-vs-guardians/2845"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-15 11:30:00",
         "team1Title": "India Championship",
@@ -383,6 +366,23 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-16 04:00:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "Cleveland Guardians",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-guardians",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rays-vs-guardians/2845"
             }
         ]
     },

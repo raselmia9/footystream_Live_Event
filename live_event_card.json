@@ -67,27 +67,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-16 12:45:00",
-        "team1Title": "France",
-        "team2Title": "Samoa",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/france-vs-samoa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/france-vs-samoa/2849"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/france-vs-samoa/2850"
-            }
-        ]
-    },
-    {
         "eventTitle": "Europa League",
         "matchTime": "2026-10-15 22:45:00",
         "team1Title": "Crystal Palace",
@@ -391,6 +370,27 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/broncos-vs-seahawks/2848"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-16 12:45:00",
+        "team1Title": "France",
+        "team2Title": "Samoa",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/france-vs-samoa",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/france-vs-samoa/2849"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/france-vs-samoa/2850"
             }
         ]
     },

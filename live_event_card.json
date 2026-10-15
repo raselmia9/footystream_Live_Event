@@ -388,6 +388,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-17 00:45:00",
         "team1Title": "Sassuolo",
@@ -689,18 +701,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/crystal-palace-vs-brighton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "RB Leipzig",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
         "multiWatchPageLink": []
     }
 ]

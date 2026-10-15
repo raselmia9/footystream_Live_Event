@@ -47,91 +47,6 @@
     },
     {
         "eventTitle": "Europa League",
-        "matchTime": "2026-10-15 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Crystal Palace",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-lyon",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/crystal-palace-vs-lyon/2795"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-15 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torreense/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sunderland-vs-torreense",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sunderland-vs-torreense/2796"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-15 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AC Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/milan-vs-salzburg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/milan-vs-salzburg/2798"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-15 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Sociedad",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/union-saint-gilloise/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-union-sg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-union-sg/2799"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-10-15 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayer Leverkusen",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-lech-poznan/2800"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
         "matchTime": "2026-10-16 01:00:00",
         "team1Title": "Benfica",
         "team2Title": "Celtic",
@@ -250,48 +165,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-17 01:00:00",
-        "team1Title": "Burnley FC",
-        "team2Title": "Wolverhampton Wanderers",
-        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/burnley-vs-wolves",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2811"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2812"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-17 17:30:00",
-        "team1Title": "Watford",
-        "team2Title": "Charlton Athletic",
-        "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/watford-vs-charlton-athletic",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
             }
         ]
     },
@@ -679,6 +552,48 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/edinburgh-vs-toulon/2852"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Burnley FC",
+        "team2Title": "Wolverhampton Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/burnley-vs-wolves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2811"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/burnley-vs-wolves/2812"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-17 17:30:00",
+        "team1Title": "Watford",
+        "team2Title": "Charlton Athletic",
+        "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/watford-vs-charlton-athletic",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
             }
         ]
     },

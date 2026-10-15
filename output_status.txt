@@ -3,25 +3,25 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 46
+🟡 Visiting detail page [3/46]: https://pogo.pk/events/crystal-palace-vs-lyon
 🟡 Visiting detail page [2/46]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [1/46]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [3/46]: https://pogo.pk/events/crystal-palace-vs-lyon
+🟢 Successfully processed: PGA Tour [2/46]
+🟢 Successfully processed: Europa League [3/46]
 🟢 Successfully processed: ATP Tour [1/46]
 🟡 Visiting detail page [4/46]: https://pogo.pk/events/sunderland-vs-torreense
-🟢 Successfully processed: PGA Tour [2/46]
-🟡 Visiting detail page [5/46]: https://pogo.pk/events/milan-vs-salzburg
-🟢 Successfully processed: Europa League [3/46]
 🟡 Visiting detail page [6/46]: https://pogo.pk/events/real-sociedad-vs-union-sg
+🟡 Visiting detail page [5/46]: https://pogo.pk/events/milan-vs-salzburg
 🟢 Successfully processed: Europa League [4/46]
 🟡 Visiting detail page [7/46]: https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan
 🟢 Successfully processed: Europa League [5/46]
 🟡 Visiting detail page [8/46]: https://pogo.pk/events/benfica-vs-celtic
 🟢 Successfully processed: Europa League [6/46]
 🟡 Visiting detail page [9/46]: https://pogo.pk/events/al-nassr-vs-al-ahli
-🟢 Successfully processed: Europa League [7/46]
-🟡 Visiting detail page [10/46]: https://pogo.pk/events/le-mans-vs-toulouse
 🟢 Successfully processed: Europa League [8/46]
+🟢 Successfully processed: Europa League [7/46]
 🟡 Visiting detail page [11/46]: https://pogo.pk/events/psg-vs-strasbourg
+🟡 Visiting detail page [10/46]: https://pogo.pk/events/le-mans-vs-toulouse
 🟢 Successfully processed: Saudi Pro League [9/46]
 🟡 Visiting detail page [12/46]: https://pogo.pk/events/lille-vs-brest
 🟢 Successfully processed: French Ligue 1 [11/46]
@@ -31,8 +31,8 @@
 🟢 Successfully processed: French Ligue 1 [10/46]
 🟡 Visiting detail page [15/46]: https://pogo.pk/events/oxford-united-vs-mansfield-town
 🟢 Successfully processed: Conference League [13/46]
-🟢 Successfully processed: Conference League [14/46]
 🟡 Visiting detail page [16/46]: https://pogo.pk/events/burnley-vs-wolves
+🟢 Successfully processed: Conference League [14/46]
 🟡 Visiting detail page [17/46]: https://pogo.pk/events/watford-vs-charlton-athletic
 🟢 Successfully processed: EFL [15/46]
 🟡 Visiting detail page [18/46]: https://pogo.pk/events/rays-vs-guardians
@@ -93,7 +93,7 @@
 🟢 Successfully processed: Premier League [45/46]
 🟡 Visiting detail page [46/46]: https://pogo.pk/events/bayern-munchen-vs-rb-leipzig
 🟢 Successfully processed: Champions Cup [38/46]
-🟢 Successfully processed: Friendly [46/46]
 🟢 Successfully processed: Challenge Cup [39/46]
+🟢 Successfully processed: Friendly [46/46]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 46

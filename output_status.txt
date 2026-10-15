@@ -31,8 +31,8 @@
 🟢 Successfully processed: French Ligue 1 [10/46]
 🟡 Visiting detail page [15/46]: https://pogo.pk/events/oxford-united-vs-mansfield-town
 🟢 Successfully processed: Conference League [13/46]
-🟡 Visiting detail page [16/46]: https://pogo.pk/events/burnley-vs-wolves
 🟢 Successfully processed: Conference League [14/46]
+🟡 Visiting detail page [16/46]: https://pogo.pk/events/burnley-vs-wolves
 🟡 Visiting detail page [17/46]: https://pogo.pk/events/watford-vs-charlton-athletic
 🟢 Successfully processed: EFL [15/46]
 🟡 Visiting detail page [18/46]: https://pogo.pk/events/rays-vs-guardians
@@ -50,9 +50,9 @@
 🟡 Visiting detail page [24/46]: https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners
 🟢 Successfully processed: A League [22/46]
 🟡 Visiting detail page [25/46]: https://pogo.pk/events/eintracht-frankfurt-vs-koln
-🟢 Successfully processed: Bundesliga [25/46]
-🟡 Visiting detail page [26/46]: https://pogo.pk/events/sassuolo-vs-frosinone
 🟢 Successfully processed: A League [23/46]
+🟡 Visiting detail page [26/46]: https://pogo.pk/events/sassuolo-vs-frosinone
+🟢 Successfully processed: Bundesliga [25/46]
 🟡 Visiting detail page [27/46]: https://pogo.pk/events/napoli-vs-venezia
 🟢 Successfully processed: Serie A [27/46]
 🟡 Visiting detail page [28/46]: https://pogo.pk/events/inter-milan-vs-bologna
@@ -68,9 +68,9 @@
 🟡 Visiting detail page [33/46]: https://pogo.pk/events/espanyol-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [32/46]
 🟡 Visiting detail page [34/46]: https://pogo.pk/events/elche-vs-villarreal
-🟢 Successfully processed: Serie A [26/46]
-🟡 Visiting detail page [35/46]: https://pogo.pk/events/barcelona-vs-real-betis
 🟢 Successfully processed: LaLiga [33/46]
+🟡 Visiting detail page [35/46]: https://pogo.pk/events/barcelona-vs-real-betis
+🟢 Successfully processed: Serie A [26/46]
 🟡 Visiting detail page [36/46]: https://pogo.pk/events/athletic-club-vs-valencia
 🟢 Successfully processed: LaLiga [34/46]
 🟡 Visiting detail page [37/46]: https://pogo.pk/events/racing-santander-vs-osasuna
@@ -88,12 +88,12 @@
 🟡 Visiting detail page [43/46]: https://pogo.pk/events/aston-villa-vs-newcastle
 🟢 Successfully processed: Premier League [43/46]
 🟡 Visiting detail page [44/46]: https://pogo.pk/events/manchester-united-vs-leeds-united
-🟢 Successfully processed: Champions Cup [38/46]
-🟡 Visiting detail page [45/46]: https://pogo.pk/events/crystal-palace-vs-brighton
-🟢 Successfully processed: Challenge Cup [39/46]
-🟡 Visiting detail page [46/46]: https://pogo.pk/events/bayern-munchen-vs-rb-leipzig
 🟢 Successfully processed: Premier League [44/46]
-🟢 Successfully processed: Friendly [46/46]
+🟡 Visiting detail page [45/46]: https://pogo.pk/events/crystal-palace-vs-brighton
 🟢 Successfully processed: Premier League [45/46]
+🟡 Visiting detail page [46/46]: https://pogo.pk/events/bayern-munchen-vs-rb-leipzig
+🟢 Successfully processed: Champions Cup [38/46]
+🟢 Successfully processed: Friendly [46/46]
+🟢 Successfully processed: Challenge Cup [39/46]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 46

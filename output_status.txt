@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 47
-🟡 Visiting detail page [3/47]: https://pogo.pk/events/australia-vs-new-zealand
 🟡 Visiting detail page [2/47]: https://pogo.pk/events/india-championship
+🟡 Visiting detail page [3/47]: https://pogo.pk/events/australia-vs-new-zealand
 🟡 Visiting detail page [1/47]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: Rugby League World Cup [3/47]
-🟡 Visiting detail page [4/47]: https://pogo.pk/events/france-vs-samoa
 🟢 Successfully processed: PGA Tour [2/47]
-🟡 Visiting detail page [5/47]: https://pogo.pk/events/crystal-palace-vs-lyon
+🟡 Visiting detail page [4/47]: https://pogo.pk/events/france-vs-samoa
+🟢 Successfully processed: Rugby League World Cup [3/47]
 🟢 Successfully processed: ATP Tour [1/47]
+🟡 Visiting detail page [5/47]: https://pogo.pk/events/crystal-palace-vs-lyon
 🟡 Visiting detail page [6/47]: https://pogo.pk/events/sunderland-vs-torreense
-🟢 Successfully processed: Europa League [5/47]
-🟡 Visiting detail page [7/47]: https://pogo.pk/events/milan-vs-salzburg
 🟢 Successfully processed: Rugby League World Cup [4/47]
-🟡 Visiting detail page [8/47]: https://pogo.pk/events/real-sociedad-vs-union-sg
+🟡 Visiting detail page [7/47]: https://pogo.pk/events/milan-vs-salzburg
 🟢 Successfully processed: Europa League [6/47]
+🟡 Visiting detail page [8/47]: https://pogo.pk/events/real-sociedad-vs-union-sg
+🟢 Successfully processed: Europa League [5/47]
 🟡 Visiting detail page [9/47]: https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan
 🟢 Successfully processed: Europa League [7/47]
 🟡 Visiting detail page [10/47]: https://pogo.pk/events/benfica-vs-celtic
@@ -31,8 +31,8 @@
 🟢 Successfully processed: French Ligue 1 [12/47]
 🟡 Visiting detail page [15/47]: https://pogo.pk/events/brighton-vs-kauno-zalgiris
 🟢 Successfully processed: French Ligue 1 [13/47]
-🟢 Successfully processed: French Ligue 1 [14/47]
 🟡 Visiting detail page [16/47]: https://pogo.pk/events/heart-vs-nordsjaelland
+🟢 Successfully processed: French Ligue 1 [14/47]
 🟡 Visiting detail page [17/47]: https://pogo.pk/events/oxford-united-vs-mansfield-town
 🟢 Successfully processed: Conference League [15/47]
 🟡 Visiting detail page [18/47]: https://pogo.pk/events/burnley-vs-wolves
@@ -90,12 +90,12 @@
 🟡 Visiting detail page [44/47]: https://pogo.pk/events/aston-villa-vs-newcastle
 🟢 Successfully processed: Premier League [44/47]
 🟡 Visiting detail page [45/47]: https://pogo.pk/events/manchester-united-vs-leeds-united
-🟢 Successfully processed: Champions Cup [39/47]
-🟡 Visiting detail page [46/47]: https://pogo.pk/events/crystal-palace-vs-brighton
-🟢 Successfully processed: Challenge Cup [40/47]
-🟡 Visiting detail page [47/47]: https://pogo.pk/events/bayern-munchen-vs-rb-leipzig
 🟢 Successfully processed: Premier League [45/47]
+🟡 Visiting detail page [46/47]: https://pogo.pk/events/crystal-palace-vs-brighton
 🟢 Successfully processed: Premier League [46/47]
+🟡 Visiting detail page [47/47]: https://pogo.pk/events/bayern-munchen-vs-rb-leipzig
+🟢 Successfully processed: Champions Cup [39/47]
 🟢 Successfully processed: Friendly [47/47]
+🟢 Successfully processed: Challenge Cup [40/47]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 47

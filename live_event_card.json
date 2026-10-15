@@ -148,6 +148,57 @@
         ]
     },
     {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Sturm Graz",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sturm-graz/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bournemouth-vs-sturm-graz",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bournemouth-vs-sturm-graz/2801"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Title": "Juventus",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/juventus-vs-celta-vigo",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/juventus-vs-celta-vigo/2802"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-16 01:00:00",
+        "team1Title": "Hoffenheim",
+        "team2Title": "Besiktas",
+        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hoffenheim-vs-besiktas",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hoffenheim-vs-besiktas/2803"
+            }
+        ]
+    },
+    {
         "eventTitle": "Conference League",
         "matchTime": "2026-10-16 01:00:00",
         "team1Title": "Brighton & Hove Albion",

@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 47
-🟡 Visiting detail page [1/47]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [2/47]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [3/47]: https://pogo.pk/events/australia-vs-new-zealand
+🟡 Visiting detail page [1/47]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: Rugby League World Cup [3/47]
 🟡 Visiting detail page [4/47]: https://pogo.pk/events/france-vs-samoa
-🟢 Successfully processed: PGA Tour [2/47]
-🟡 Visiting detail page [5/47]: https://pogo.pk/events/crystal-palace-vs-lyon
 🟢 Successfully processed: ATP Tour [1/47]
+🟡 Visiting detail page [5/47]: https://pogo.pk/events/crystal-palace-vs-lyon
+🟢 Successfully processed: PGA Tour [2/47]
 🟡 Visiting detail page [6/47]: https://pogo.pk/events/sunderland-vs-torreense
-🟢 Successfully processed: Rugby League World Cup [4/47]
-🟡 Visiting detail page [7/47]: https://pogo.pk/events/milan-vs-salzburg
 🟢 Successfully processed: Europa League [5/47]
+🟡 Visiting detail page [7/47]: https://pogo.pk/events/milan-vs-salzburg
+🟢 Successfully processed: Rugby League World Cup [4/47]
 🟡 Visiting detail page [8/47]: https://pogo.pk/events/real-sociedad-vs-union-sg
 🟢 Successfully processed: Europa League [6/47]
 🟡 Visiting detail page [9/47]: https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan
@@ -64,9 +64,9 @@
 🟡 Visiting detail page [31/47]: https://pogo.pk/events/lecce-vs-udinese
 🟢 Successfully processed: Serie A [30/47]
 🟡 Visiting detail page [32/47]: https://pogo.pk/events/como-vs-fiorentina
-🟢 Successfully processed: Serie A [31/47]
-🟡 Visiting detail page [33/47]: https://pogo.pk/events/deportivo-la-coruna-vs-levante
 🟢 Successfully processed: Serie A [27/47]
+🟡 Visiting detail page [33/47]: https://pogo.pk/events/deportivo-la-coruna-vs-levante
+🟢 Successfully processed: Serie A [31/47]
 🟡 Visiting detail page [34/47]: https://pogo.pk/events/espanyol-vs-atletico-madrid
 🟢 Successfully processed: Serie A [32/47]
 🟡 Visiting detail page [35/47]: https://pogo.pk/events/elche-vs-villarreal

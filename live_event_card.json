@@ -97,6 +97,31 @@
         ]
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-10-17 11:00:00",
+        "team1Title": "Australia",
+        "team2Title": "New Zealand",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-new-zealand",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2863"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2864"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2865"
+            }
+        ]
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-17 17:30:00",
         "team1Title": "Watford",
@@ -368,5 +393,22 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-10-18 04:00:00",
+        "team1Title": "UFC Fight Night: Buckley",
+        "team2Title": "Malott",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ufc-fight-night-buckley-vs-malott",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ufc-fight-night-buckley-vs-malott/2862"
+            }
+        ]
     }
 ]

@@ -416,6 +416,23 @@
         ]
     },
     {
+        "eventTitle": "Challenge Cup",
+        "matchTime": "2026-10-17 01:00:00",
+        "team1Title": "Edinburgh",
+        "team2Title": "RC Toulonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rc-toulonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/edinburgh-vs-toulon",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/edinburgh-vs-toulon/2852"
+            }
+        ]
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-17 01:00:00",
         "team1Title": "Burnley FC",
@@ -437,6 +454,27 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-17 17:30:00",
+        "team1Title": "Watford",
+        "team2Title": "Charlton Athletic",
+        "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/watford-vs-charlton-athletic",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
+            }
+        ]
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 17:30:00",
         "team1Title": "Chelsea",
@@ -446,6 +484,66 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 20:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Brentford",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-brentford",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 20:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/aston-villa-vs-newcastle",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Leeds United",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-united-vs-leeds-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-brighton",
         "multiWatchPageLink": []
     }
 ]

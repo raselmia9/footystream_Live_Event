@@ -46,23 +46,6 @@
         ]
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-16 15:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sydney FC",
-        "team1Logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sydney-fc-vs-western-sydney-wanderers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-17 00:30:00",
         "team1Title": "Eintracht Frankfurt",

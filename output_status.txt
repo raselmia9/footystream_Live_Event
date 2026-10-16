@@ -3,36 +3,36 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 32
-🟡 Visiting detail page [3/32]: https://pogo.pk/events/auckland-vs-melbourne-city
 🟡 Visiting detail page [2/32]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [1/32]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [3/32]: https://pogo.pk/events/auckland-vs-melbourne-city
 🟢 Successfully processed: ATP Tour [1/32]
+🟢 Successfully processed: A League [3/32]
 🟢 Successfully processed: PGA Tour [2/32]
 🟡 Visiting detail page [5/32]: https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners
 🟡 Visiting detail page [4/32]: https://pogo.pk/events/perth-glory-vs-macarthur
-🟢 Successfully processed: A League [3/32]
 🟡 Visiting detail page [6/32]: https://pogo.pk/events/australia-vs-new-zealand
-🟢 Successfully processed: A League [5/32]
-🟡 Visiting detail page [7/32]: https://pogo.pk/events/england-vs-tonga
 🟢 Successfully processed: A League [4/32]
-🟡 Visiting detail page [8/32]: https://pogo.pk/events/watford-vs-charlton-athletic
+🟡 Visiting detail page [7/32]: https://pogo.pk/events/england-vs-tonga
 🟢 Successfully processed: Rugby Union [6/32]
+🟢 Successfully processed: A League [5/32]
+🟡 Visiting detail page [8/32]: https://pogo.pk/events/watford-vs-charlton-athletic
 🟡 Visiting detail page [9/32]: https://pogo.pk/events/chelsea-vs-everton
 🟢 Successfully processed: Premier League [9/32]
 🟡 Visiting detail page [10/32]: https://pogo.pk/events/liverpool-vs-brentford
 🟢 Successfully processed: Premier League [10/32]
 🟡 Visiting detail page [11/32]: https://pogo.pk/events/manchester-city-vs-ipswich-town
-🟢 Successfully processed: Rugby League World Cup [7/32]
-🟡 Visiting detail page [12/32]: https://pogo.pk/events/aston-villa-vs-newcastle
 🟢 Successfully processed: Premier League [11/32]
-🟡 Visiting detail page [13/32]: https://pogo.pk/events/manchester-united-vs-leeds-united
-🟢 Successfully processed: EFL [8/32]
-🟡 Visiting detail page [14/32]: https://pogo.pk/events/crystal-palace-vs-brighton
+🟡 Visiting detail page [12/32]: https://pogo.pk/events/aston-villa-vs-newcastle
 🟢 Successfully processed: Premier League [12/32]
-🟡 Visiting detail page [15/32]: https://pogo.pk/events/warriors-vs-sale-sharks
+🟡 Visiting detail page [13/32]: https://pogo.pk/events/manchester-united-vs-leeds-united
 🟢 Successfully processed: Premier League [13/32]
-🟡 Visiting detail page [16/32]: https://pogo.pk/events/bulls-vs-stade-francais
+🟡 Visiting detail page [14/32]: https://pogo.pk/events/crystal-palace-vs-brighton
 🟢 Successfully processed: Premier League [14/32]
+🟡 Visiting detail page [15/32]: https://pogo.pk/events/warriors-vs-sale-sharks
+🟢 Successfully processed: Rugby League World Cup [7/32]
+🟡 Visiting detail page [16/32]: https://pogo.pk/events/bulls-vs-stade-francais
+🟢 Successfully processed: EFL [8/32]
 🟡 Visiting detail page [17/32]: https://pogo.pk/events/espanyol-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [17/32]
 🟡 Visiting detail page [18/32]: https://pogo.pk/events/elche-vs-villarreal
@@ -44,21 +44,21 @@
 🟡 Visiting detail page [21/32]: https://pogo.pk/events/racing-santander-vs-osasuna
 🟢 Successfully processed: LaLiga [21/32]
 🟡 Visiting detail page [22/32]: https://pogo.pk/events/alaves-vs-celta-vigo
-🟢 Successfully processed: Champions Cup [15/32]
-🟡 Visiting detail page [23/32]: https://pogo.pk/events/napoli-vs-venezia
-🟢 Successfully processed: Champions Cup [16/32]
-🟡 Visiting detail page [24/32]: https://pogo.pk/events/inter-milan-vs-bologna
-🟢 Successfully processed: Serie A [23/32]
-🟡 Visiting detail page [25/32]: https://pogo.pk/events/roma-vs-genoa
 🟢 Successfully processed: LaLiga [22/32]
-🟢 Successfully processed: Serie A [24/32]
+🟡 Visiting detail page [23/32]: https://pogo.pk/events/napoli-vs-venezia
+🟢 Successfully processed: Champions Cup [15/32]
+🟡 Visiting detail page [24/32]: https://pogo.pk/events/inter-milan-vs-bologna
+🟢 Successfully processed: Champions Cup [16/32]
+🟡 Visiting detail page [25/32]: https://pogo.pk/events/roma-vs-genoa
+🟢 Successfully processed: Serie A [23/32]
 🟡 Visiting detail page [26/32]: https://pogo.pk/events/lecce-vs-udinese
+🟢 Successfully processed: Serie A [24/32]
 🟡 Visiting detail page [27/32]: https://pogo.pk/events/como-vs-fiorentina
-🟢 Successfully processed: Serie A [26/32]
-🟡 Visiting detail page [28/32]: https://pogo.pk/events/ac-milan-vs-atalanta
-🟢 Successfully processed: Serie A [27/32]
-🟡 Visiting detail page [29/32]: https://pogo.pk/events/psg-vs-strasbourg
 🟢 Successfully processed: Serie A [25/32]
+🟡 Visiting detail page [28/32]: https://pogo.pk/events/ac-milan-vs-atalanta
+🟢 Successfully processed: Serie A [26/32]
+🟡 Visiting detail page [29/32]: https://pogo.pk/events/psg-vs-strasbourg
+🟢 Successfully processed: Serie A [27/32]
 🟡 Visiting detail page [30/32]: https://pogo.pk/events/lille-vs-brest
 🟢 Successfully processed: Serie A [28/32]
 🟡 Visiting detail page [31/32]: https://pogo.pk/events/bayern-munchen-vs-rb-leipzig

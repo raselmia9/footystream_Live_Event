@@ -122,6 +122,27 @@
         ]
     },
     {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-17 15:05:00",
+        "team1Title": "England",
+        "team2Title": "Tonga",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tonga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-tonga",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-tonga/2866"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/england-vs-tonga/2867"
+            }
+        ]
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-17 17:30:00",
         "team1Title": "Watford",
@@ -213,6 +234,40 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/crystal-palace-vs-brighton",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-17 18:00:00",
+        "team1Title": "Glasgow Warriors",
+        "team2Title": "Sale Sharks",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/warriors-vs-sale-sharks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/warriors-vs-sale-sharks/2868"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-17 18:00:00",
+        "team1Title": "Bulls",
+        "team2Title": "Stade Français Paris",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sf-paris/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulls-vs-stade-francais",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bulls-vs-stade-francais/2869"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

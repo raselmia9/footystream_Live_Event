@@ -104,18 +104,6 @@
     },
     {
         "eventTitle": "Serie A",
-        "matchTime": "2026-10-17 22:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Bologna",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-bologna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
         "matchTime": "2026-10-18 00:45:00",
         "team1Title": "AS Roma",
         "team2Title": "Genoa",
@@ -152,27 +140,6 @@
     },
     {
         "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-17 00:45:00",
-        "team1Title": "Le Mans",
-        "team2Title": "Toulouse",
-        "team1Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/le-mans-vs-toulouse",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-17 21:15:00",
         "team1Title": "PSG",
         "team2Title": "Strasbourg",
@@ -181,18 +148,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psg-vs-strasbourg",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-18 00:45:00",
-        "team1Title": "Lille",
-        "team2Title": "Brest",
-        "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lille-vs-brest",
         "multiWatchPageLink": []
     },
     {

@@ -130,66 +130,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-17 18:00:00",
-        "team1Title": "Espanyol",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/espanyol-vs-atletico-madrid",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-17 20:15:00",
-        "team1Title": "Elche CF",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/elche-vs-villarreal",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Real Betis",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-betis",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Athletic Club",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/athletic-club-vs-valencia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Racing Santander",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/racing-santander-vs-osasuna",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-17 01:00:00",
         "team1Title": "Gloucester Rugby",
@@ -245,27 +185,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-17 17:30:00",
-        "team1Title": "Watford",
-        "team2Title": "Charlton Athletic",
-        "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/watford-vs-charlton-athletic",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
-            }
-        ]
-    },
-    {
         "eventTitle": "A League",
         "matchTime": "2026-10-17 10:00:00",
         "team1Title": "Auckland",
@@ -313,6 +232,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/newcastle-jets-vs-central-coast-mariners/2857"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-17 17:30:00",
+        "team1Title": "Watford",
+        "team2Title": "Charlton Athletic",
+        "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/watford-vs-charlton-athletic",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
             }
         ]
     },
@@ -386,6 +326,78 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/crystal-palace-vs-brighton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 18:00:00",
+        "team1Title": "Espanyol",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/espanyol-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 20:15:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/elche-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Real Betis",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-betis",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 01:00:00",
+        "team1Title": "Athletic Club",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/athletic-club-vs-valencia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 18:00:00",
+        "team1Title": "Racing Santander",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/racing-santander-vs-osasuna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 20:15:00",
+        "team1Title": "Deportivo Alavés",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/alaves-vs-celta-vigo",
         "multiWatchPageLink": []
     },
     {

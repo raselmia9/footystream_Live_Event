@@ -46,27 +46,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-16 12:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "France",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/france-vs-samoa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/france-vs-samoa/2849"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/france-vs-samoa/2850"
-            }
-        ]
-    },
-    {
         "eventTitle": "A League",
         "matchTime": "2026-10-16 15:00:00",
         "team1Title": "Sydney FC",
@@ -80,57 +59,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
-            }
-        ]
-    },
-    {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 10:00:00",
-        "team1Title": "Auckland",
-        "team2Title": "Melbourne City",
-        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/auckland-vs-melbourne-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/auckland-vs-melbourne-city/2855"
-            }
-        ]
-    },
-    {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 12:00:00",
-        "team1Title": "Perth Glory",
-        "team2Title": "Macarthur",
-        "team1Logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/perth-glory-vs-macarthur",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/perth-glory-vs-macarthur/2856"
-            }
-        ]
-    },
-    {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 14:40:00",
-        "team1Title": "Newcastle Jets",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/newcastle-jets-vs-central-coast-mariners/2857"
             }
         ]
     },
@@ -429,6 +357,57 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 10:00:00",
+        "team1Title": "Auckland",
+        "team2Title": "Melbourne City",
+        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/auckland-vs-melbourne-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/auckland-vs-melbourne-city/2855"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 12:00:00",
+        "team1Title": "Perth Glory",
+        "team2Title": "Macarthur",
+        "team1Logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/perth-glory-vs-macarthur",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/perth-glory-vs-macarthur/2856"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-17 14:40:00",
+        "team1Title": "Newcastle Jets",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/newcastle-jets-vs-central-coast-mariners/2857"
             }
         ]
     },

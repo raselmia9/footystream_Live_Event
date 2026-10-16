@@ -48,8 +48,8 @@
     {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-16 12:45:00",
-        "team1Title": "France",
-        "team2Title": "Samoa",
+        "team1Title": "Event Ended",
+        "team2Title": "France",
         "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
         "isHot": true,

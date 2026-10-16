@@ -48,8 +48,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-17 00:30:00",
-        "team1Title": "Eintracht Frankfurt",
-        "team2Title": "Köln",
+        "team1Title": "Event Ended",
+        "team2Title": "Eintracht Frankfurt",
         "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "isHot": true,

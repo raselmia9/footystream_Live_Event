@@ -48,8 +48,8 @@
     {
         "eventTitle": "A League",
         "matchTime": "2026-10-16 15:00:00",
-        "team1Title": "Sydney FC",
-        "team2Title": "Western Sydney Wanderers",
+        "team1Title": "Event Ended",
+        "team2Title": "Sydney FC",
         "team1Logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
         "isHot": true,

@@ -55,7 +55,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-koln",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-koln/2858"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",
@@ -205,7 +210,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/deportivo-la-coruna-vs-levante/2859"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/deportivo-la-coruna-vs-levante/2860"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/deportivo-la-coruna-vs-levante/2861"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

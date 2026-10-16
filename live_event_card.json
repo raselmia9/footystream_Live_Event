@@ -46,27 +46,10 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-17 00:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Eintracht Frankfurt",
-        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-koln",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-koln/2858"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-17 00:45:00",
-        "team1Title": "Sassuolo",
-        "team2Title": "Frosinone Calcio",
+        "team1Title": "Event Ended",
+        "team2Title": "Sassuolo",
         "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
         "isHot": true,
@@ -86,8 +69,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-17 00:45:00",
-        "team1Title": "Le Mans",
-        "team2Title": "Toulouse",
+        "team1Title": "Event Ended",
+        "team2Title": "Le Mans",
         "team1Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
         "isHot": true,

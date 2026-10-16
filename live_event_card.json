@@ -46,52 +46,10 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-17 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sassuolo-vs-frosinone",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2815"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2816"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-17 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Le Mans",
-        "team1Logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/le-mans-vs-toulouse",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 01:00:00",
-        "team1Title": "Deportivo La Coruña",
-        "team2Title": "Levante",
+        "team1Title": "Event Ended",
+        "team2Title": "Deportivo La Coruña",
         "team1Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "isHot": true,
@@ -115,8 +73,8 @@
     {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-17 01:00:00",
-        "team1Title": "Gloucester Rugby",
-        "team2Title": "Bordeaux Begles",
+        "team1Title": "Event Ended",
+        "team2Title": "Gloucester Rugby",
         "team1Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/bordeaux-begles/logo.webp",
         "isHot": true,
@@ -132,8 +90,8 @@
     {
         "eventTitle": "Challenge Cup",
         "matchTime": "2026-10-17 01:00:00",
-        "team1Title": "Edinburgh",
-        "team2Title": "RC Toulonnais",
+        "team1Title": "Event Ended",
+        "team2Title": "Edinburgh",
         "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rc-toulonnais/logo.webp",
         "isHot": true,
@@ -149,8 +107,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-17 01:00:00",
-        "team1Title": "Burnley FC",
-        "team2Title": "Wolverhampton Wanderers",
+        "team1Title": "Event Ended",
+        "team2Title": "Burnley FC",
         "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
         "isHot": true,

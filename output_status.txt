@@ -4,16 +4,16 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 32
 🟡 Visiting detail page [2/32]: https://pogo.pk/events/india-championship
-🟡 Visiting detail page [3/32]: https://pogo.pk/events/eintracht-frankfurt-vs-koln
 🟡 Visiting detail page [1/32]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [3/32]: https://pogo.pk/events/eintracht-frankfurt-vs-koln
 🟢 Successfully processed: Bundesliga [3/32]
 🟡 Visiting detail page [4/32]: https://pogo.pk/events/bayern-munchen-vs-rb-leipzig
 🟢 Successfully processed: Bundesliga [4/32]
 🟡 Visiting detail page [5/32]: https://pogo.pk/events/sassuolo-vs-frosinone
 🟢 Successfully processed: PGA Tour [2/32]
-🟡 Visiting detail page [6/32]: https://pogo.pk/events/napoli-vs-venezia
 🟢 Successfully processed: ATP Tour [1/32]
 🟡 Visiting detail page [7/32]: https://pogo.pk/events/inter-milan-vs-bologna
+🟡 Visiting detail page [6/32]: https://pogo.pk/events/napoli-vs-venezia
 🟢 Successfully processed: Serie A [6/32]
 🟡 Visiting detail page [8/32]: https://pogo.pk/events/roma-vs-genoa
 🟢 Successfully processed: Serie A [7/32]
@@ -29,12 +29,12 @@
 🟢 Successfully processed: French Ligue 1 [12/32]
 🟡 Visiting detail page [14/32]: https://pogo.pk/events/deportivo-la-coruna-vs-levante
 🟢 Successfully processed: French Ligue 1 [13/32]
-🟢 Successfully processed: LaLiga [14/32]
 🟡 Visiting detail page [15/32]: https://pogo.pk/events/espanyol-vs-atletico-madrid
+🟢 Successfully processed: LaLiga [14/32]
 🟡 Visiting detail page [16/32]: https://pogo.pk/events/elche-vs-villarreal
-🟢 Successfully processed: LaLiga [16/32]
-🟡 Visiting detail page [17/32]: https://pogo.pk/events/barcelona-vs-real-betis
 🟢 Successfully processed: LaLiga [15/32]
+🟡 Visiting detail page [17/32]: https://pogo.pk/events/barcelona-vs-real-betis
+🟢 Successfully processed: LaLiga [16/32]
 🟡 Visiting detail page [18/32]: https://pogo.pk/events/athletic-club-vs-valencia
 🟢 Successfully processed: LaLiga [17/32]
 🟡 Visiting detail page [19/32]: https://pogo.pk/events/racing-santander-vs-osasuna

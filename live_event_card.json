@@ -1,31 +1,6 @@
 [
     {
         "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 17:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Chelsea",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-everton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/chelsea-vs-everton/2870"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/chelsea-vs-everton/2871"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/chelsea-vs-everton/2872"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
         "matchTime": "2026-10-17 20:00:00",
         "team1Title": "Liverpool",
         "team2Title": "Brentford",
@@ -150,27 +125,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/india-championship/2842"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-17 17:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Watford",
-        "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/watford-vs-charlton-athletic",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2853"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/watford-vs-charlton-athletic/2854"
             }
         ]
     },

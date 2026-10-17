@@ -46,52 +46,10 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AS Roma",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-genoa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/roma-vs-genoa/2903"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/roma-vs-genoa/2904"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-18 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Lille",
-        "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lille-vs-brest",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lille-vs-brest/2905"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lille-vs-brest/2906"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Athletic Club",
-        "team2Title": "Valencia",
+        "team1Title": "Event Ended",
+        "team2Title": "Athletic Club",
         "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
         "isHot": true,
@@ -111,8 +69,8 @@
     {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Munster",
-        "team2Title": "Racing Métro 92",
+        "team1Title": "Event Ended",
+        "team2Title": "Munster",
         "team1Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/racing-metro-92/logo.webp",
         "isHot": true,
@@ -128,8 +86,8 @@
     {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Bath Rugby",
-        "team2Title": "Montpellier",
+        "team1Title": "Event Ended",
+        "team2Title": "Bath Rugby",
         "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/montpellier/logo.webp",
         "isHot": true,
@@ -663,6 +621,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/roma-vs-slovan-bratislava",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "PSG",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-psg",
         "multiWatchPageLink": []
     },
     {

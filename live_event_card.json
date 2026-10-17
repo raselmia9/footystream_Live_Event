@@ -131,8 +131,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-17 19:30:00",
-        "team1Title": "Schalke 04",
-        "team2Title": "Mainz 05",
+        "team1Title": "Event Ended",
+        "team2Title": "Schalke 04",
         "team1Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
         "isHot": true,

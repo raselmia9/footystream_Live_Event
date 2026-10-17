@@ -50,6 +50,31 @@
         ]
     },
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 20:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2882"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2883"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2884"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",
@@ -198,7 +223,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/inter-milan-vs-bologna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-bologna/2890"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-bologna/2891"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -289,25 +323,17 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 20:00:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Ipswich Town",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "team1Title": "Fulham",
+        "team2Title": "Hull City",
+        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
+        "detailsPage": "https://pogo.pk/events/fulham-vs-hull-city",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2882"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2883"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2884"
+                "url": "https://playerdee.top/alpha/fulham-vs-hull-city/2885"
             }
         ]
     },
@@ -381,7 +407,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/elche-vs-villarreal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/elche-vs-villarreal/2886"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/elche-vs-villarreal/2887"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -453,7 +488,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psg-vs-strasbourg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psg-vs-strasbourg/2888"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/psg-vs-strasbourg/2889"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",

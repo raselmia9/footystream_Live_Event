@@ -109,23 +109,6 @@
         ]
     },
     {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-17 18:00:00",
-        "team1Title": "Bulls",
-        "team2Title": "Stade Français Paris",
-        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sf-paris/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bulls-vs-stade-francais",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bulls-vs-stade-francais/2869"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 18:00:00",
         "team1Title": "Espanyol",
@@ -147,64 +130,21 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-17 20:15:00",
-        "team1Title": "Elche CF",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-17 18:00:00",
+        "team1Title": "Bulls",
+        "team2Title": "Stade Français Paris",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sf-paris/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/elche-vs-villarreal",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Real Betis",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-betis",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Athletic Club",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/athletic-club-vs-valencia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Racing Santander",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/racing-santander-vs-osasuna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 20:15:00",
-        "team1Title": "Deportivo Alavés",
-        "team2Title": "Celta de Vigo",
-        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alaves-vs-celta-vigo",
-        "multiWatchPageLink": []
+        "detailsPage": "https://pogo.pk/events/bulls-vs-stade-francais",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bulls-vs-stade-francais/2869"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -279,6 +219,44 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-17 19:30:00",
+        "team1Title": "Schalke 04",
+        "team2Title": "Mainz 05",
+        "team1Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/schalke-04-vs-mainz-05",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/schalke-04-vs-mainz-05/2877"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2875"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2876"
+            }
+        ]
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 20:00:00",
         "team1Title": "Liverpool",
@@ -288,7 +266,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/liverpool-vs-brentford",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2878"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2879"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2880"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -351,6 +342,78 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 20:15:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/elche-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Real Betis",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-betis",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 01:00:00",
+        "team1Title": "Athletic Club",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/athletic-club-vs-valencia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 18:00:00",
+        "team1Title": "Racing Santander",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/racing-santander-vs-osasuna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 20:15:00",
+        "team1Title": "Deportivo Alavés",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/alaves-vs-celta-vigo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 22:30:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-malaga",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-17 21:15:00",
         "team1Title": "PSG",
@@ -372,18 +435,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lille-vs-brest",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "RB Leipzig",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
         "multiWatchPageLink": []
     },
     {

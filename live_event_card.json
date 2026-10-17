@@ -343,6 +343,18 @@
     },
     {
         "eventTitle": "Serie A",
+        "matchTime": "2026-10-17 19:00:00",
+        "team1Title": "Napoli",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-venezia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
         "matchTime": "2026-10-17 22:00:00",
         "team1Title": "Inter Milan",
         "team2Title": "Bologna",
@@ -375,6 +387,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lecce-vs-udinese",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Como",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-fiorentina",
         "multiWatchPageLink": []
     },
     {

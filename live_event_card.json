@@ -131,8 +131,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-17 19:00:00",
-        "team1Title": "Napoli",
-        "team2Title": "Venezia",
+        "team1Title": "Event Ended",
+        "team2Title": "Napoli",
         "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "isHot": true,

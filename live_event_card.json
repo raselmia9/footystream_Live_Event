@@ -2,8 +2,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Real Betis",
+        "team1Title": "Event Ended",
+        "team2Title": "FC Barcelona",
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
         "isHot": true,
@@ -81,8 +81,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "RB Leipzig",
+        "team1Title": "Event Ended",
+        "team2Title": "Bayern München",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "isHot": true,
@@ -102,8 +102,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Newcastle United",
+        "team1Title": "Event Ended",
+        "team2Title": "Aston Villa",
         "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "isHot": true,
@@ -127,8 +127,8 @@
     {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "Connacht",
-        "team2Title": "Saracens",
+        "team1Title": "Event Ended",
+        "team2Title": "Connacht",
         "team1Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
         "isHot": true,

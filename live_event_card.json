@@ -79,27 +79,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-17 20:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Elche CF",
-        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/elche-vs-villarreal",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/elche-vs-villarreal/2886"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/elche-vs-villarreal/2887"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-17 21:15:00",
         "team1Title": "PSG",
@@ -188,54 +167,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Leeds United",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-united-vs-leeds-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Crystal Palace",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-brighton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "AFC Bournemouth",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bournemouth-vs-sunderland",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-18 21:30:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Nottingham Forest",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/arsenal-vs-nottm-forest",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-17 22:30:00",
         "team1Title": "Connacht",
@@ -249,40 +180,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/connacht-vs-saracens/2900"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Munster",
-        "team2Title": "Racing Métro 92",
-        "team1Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-metro-92/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/munster-vs-racing-92",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/munster-vs-racing-92/2901"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Bath Rugby",
-        "team2Title": "Montpellier",
-        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/montpellier/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bath-rugby-vs-montpellier",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bath-rugby-vs-montpellier/2902"
             }
         ]
     },
@@ -419,6 +316,40 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-18 01:00:00",
+        "team1Title": "Munster",
+        "team2Title": "Racing Métro 92",
+        "team1Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-metro-92/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/munster-vs-racing-92",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/munster-vs-racing-92/2901"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-18 01:00:00",
+        "team1Title": "Bath Rugby",
+        "team2Title": "Montpellier",
+        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/montpellier/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bath-rugby-vs-montpellier",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bath-rugby-vs-montpellier/2902"
+            }
+        ]
+    },
+    {
         "eventTitle": "UFC",
         "matchTime": "2026-10-18 04:00:00",
         "team1Title": "UFC Fight Night: Buckley",
@@ -434,5 +365,53 @@
                 "url": "https://playerdee.top/alpha/ufc-fight-night-buckley-vs-malott/2862"
             }
         ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Leeds United",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-united-vs-leeds-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-brighton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Sunderland",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bournemouth-vs-sunderland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 21:30:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Nottingham Forest",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-nottm-forest",
+        "multiWatchPageLink": []
     }
 ]

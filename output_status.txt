@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 29
-🟡 Visiting detail page [1/29]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [2/29]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [3/29]: https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners
-🟢 Successfully processed: ATP Tour [1/29]
-🟡 Visiting detail page [4/29]: https://pogo.pk/events/england-vs-tonga
+🟡 Visiting detail page [1/29]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: PGA Tour [2/29]
-🟡 Visiting detail page [5/29]: https://pogo.pk/events/watford-vs-charlton-athletic
+🟢 Successfully processed: ATP Tour [1/29]
 🟢 Successfully processed: A League [3/29]
+🟡 Visiting detail page [5/29]: https://pogo.pk/events/watford-vs-charlton-athletic
+🟡 Visiting detail page [4/29]: https://pogo.pk/events/england-vs-tonga
 🟡 Visiting detail page [6/29]: https://pogo.pk/events/chelsea-vs-everton
 🟢 Successfully processed: Premier League [6/29]
 🟡 Visiting detail page [7/29]: https://pogo.pk/events/liverpool-vs-brentford
@@ -20,13 +20,13 @@
 🟡 Visiting detail page [9/29]: https://pogo.pk/events/aston-villa-vs-newcastle
 🟢 Successfully processed: Premier League [9/29]
 🟡 Visiting detail page [10/29]: https://pogo.pk/events/manchester-united-vs-leeds-united
-🟢 Successfully processed: Premier League [10/29]
-🟡 Visiting detail page [11/29]: https://pogo.pk/events/crystal-palace-vs-brighton
-🟢 Successfully processed: Premier League [11/29]
-🟡 Visiting detail page [12/29]: https://pogo.pk/events/warriors-vs-sale-sharks
-🟢 Successfully processed: Rugby League World Cup [4/29]
-🟡 Visiting detail page [13/29]: https://pogo.pk/events/bulls-vs-stade-francais
 🟢 Successfully processed: EFL [5/29]
+🟡 Visiting detail page [11/29]: https://pogo.pk/events/crystal-palace-vs-brighton
+🟢 Successfully processed: Rugby League World Cup [4/29]
+🟡 Visiting detail page [12/29]: https://pogo.pk/events/warriors-vs-sale-sharks
+🟢 Successfully processed: Premier League [10/29]
+🟡 Visiting detail page [13/29]: https://pogo.pk/events/bulls-vs-stade-francais
+🟢 Successfully processed: Premier League [11/29]
 🟡 Visiting detail page [14/29]: https://pogo.pk/events/espanyol-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [14/29]
 🟡 Visiting detail page [15/29]: https://pogo.pk/events/elche-vs-villarreal
@@ -36,17 +36,17 @@
 🟡 Visiting detail page [17/29]: https://pogo.pk/events/athletic-club-vs-valencia
 🟢 Successfully processed: LaLiga [17/29]
 🟡 Visiting detail page [18/29]: https://pogo.pk/events/racing-santander-vs-osasuna
-🟢 Successfully processed: LaLiga [18/29]
-🟡 Visiting detail page [19/29]: https://pogo.pk/events/alaves-vs-celta-vigo
-🟢 Successfully processed: LaLiga [19/29]
-🟡 Visiting detail page [20/29]: https://pogo.pk/events/napoli-vs-venezia
-🟢 Successfully processed: Champions Cup [12/29]
-🟡 Visiting detail page [21/29]: https://pogo.pk/events/inter-milan-vs-bologna
-🟢 Successfully processed: Serie A [20/29]
-🟡 Visiting detail page [22/29]: https://pogo.pk/events/roma-vs-genoa
-🟢 Successfully processed: Serie A [21/29]
-🟡 Visiting detail page [23/29]: https://pogo.pk/events/lecce-vs-udinese
 🟢 Successfully processed: Champions Cup [13/29]
+🟡 Visiting detail page [19/29]: https://pogo.pk/events/alaves-vs-celta-vigo
+🟢 Successfully processed: Champions Cup [12/29]
+🟡 Visiting detail page [20/29]: https://pogo.pk/events/napoli-vs-venezia
+🟢 Successfully processed: LaLiga [18/29]
+🟡 Visiting detail page [21/29]: https://pogo.pk/events/inter-milan-vs-bologna
+🟢 Successfully processed: LaLiga [19/29]
+🟡 Visiting detail page [22/29]: https://pogo.pk/events/roma-vs-genoa
+🟢 Successfully processed: Serie A [20/29]
+🟡 Visiting detail page [23/29]: https://pogo.pk/events/lecce-vs-udinese
+🟢 Successfully processed: Serie A [21/29]
 🟡 Visiting detail page [24/29]: https://pogo.pk/events/como-vs-fiorentina
 🟢 Successfully processed: Serie A [22/29]
 🟡 Visiting detail page [25/29]: https://pogo.pk/events/ac-milan-vs-atalanta

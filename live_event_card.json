@@ -79,27 +79,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-17 21:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "PSG",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-strasbourg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/psg-vs-strasbourg/2888"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/psg-vs-strasbourg/2889"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-17 22:00:00",
         "team1Title": "Inter Milan",

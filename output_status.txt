@@ -3,36 +3,36 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 40
+🟡 Visiting detail page [1/40]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [2/40]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [3/40]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
-🟡 Visiting detail page [1/40]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: ATP Tour [1/40]
+🟢 Successfully processed: UFC [3/40]
 🟢 Successfully processed: PGA Tour [2/40]
 🟡 Visiting detail page [4/40]: https://pogo.pk/events/rays-vs-guardians
-🟢 Successfully processed: UFC [3/40]
 🟡 Visiting detail page [5/40]: https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix
+🟢 Successfully processed: ATP Tour [1/40]
 🟡 Visiting detail page [6/40]: https://pogo.pk/events/fiji-vs-cook-islands
-🟢 Successfully processed: Rugby League World Cup [6/40]
 🟢 Successfully processed: MLB [4/40]
 🟢 Successfully processed: A League [5/40]
-🟡 Visiting detail page [7/40]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [8/40]: https://pogo.pk/events/lecce-vs-udinese
+🟡 Visiting detail page [7/40]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: Rugby League World Cup [6/40]
 🟡 Visiting detail page [9/40]: https://pogo.pk/events/como-vs-fiorentina
-🟢 Successfully processed: Serie A [9/40]
-🟡 Visiting detail page [10/40]: https://pogo.pk/events/ac-milan-vs-atalanta
 🟢 Successfully processed: Serie A [8/40]
+🟡 Visiting detail page [10/40]: https://pogo.pk/events/ac-milan-vs-atalanta
+🟢 Successfully processed: Serie A [9/40]
 🟡 Visiting detail page [11/40]: https://pogo.pk/events/lazio-vs-juventus
 🟢 Successfully processed: Serie A [10/40]
 🟡 Visiting detail page [12/40]: https://pogo.pk/events/monza-vs-cagliari
 🟢 Successfully processed: Serie A [11/40]
 🟡 Visiting detail page [13/40]: https://pogo.pk/events/parma-vs-torino
 🟢 Successfully processed: Serie A [12/40]
-🟢 Successfully processed: Serie A [13/40]
 🟡 Visiting detail page [14/40]: https://pogo.pk/events/racing-santander-vs-osasuna
+🟢 Successfully processed: Serie A [13/40]
 🟡 Visiting detail page [15/40]: https://pogo.pk/events/alaves-vs-celta-vigo
-🟢 Successfully processed: LaLiga [15/40]
-🟡 Visiting detail page [16/40]: https://pogo.pk/events/real-sociedad-vs-malaga
 🟢 Successfully processed: LaLiga [14/40]
+🟡 Visiting detail page [16/40]: https://pogo.pk/events/real-sociedad-vs-malaga
+🟢 Successfully processed: LaLiga [15/40]
 🟡 Visiting detail page [17/40]: https://pogo.pk/events/real-madrid-vs-sevilla
 🟢 Successfully processed: LaLiga [16/40]
 🟡 Visiting detail page [18/40]: https://pogo.pk/events/getafe-vs-rayo-vallecano
@@ -80,8 +80,8 @@
 🟡 Visiting detail page [39/40]: https://pogo.pk/events/barcelona-vs-psg
 🟢 Successfully processed: Champions League [38/40]
 🟡 Visiting detail page [40/40]: https://pogo.pk/events/wolves-vs-portsmouth
-🟢 Successfully processed: Champions League [39/40]
 🟢 Successfully processed: NFL [33/40]
+🟢 Successfully processed: Champions League [39/40]
 🟢 Successfully processed: EFL [40/40]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 40

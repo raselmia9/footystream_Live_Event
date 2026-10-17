@@ -193,7 +193,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/roma-vs-genoa",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-genoa/2903"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/roma-vs-genoa/2904"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -253,7 +262,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lille-vs-brest",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lille-vs-brest/2905"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lille-vs-brest/2906"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -265,7 +283,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/athletic-club-vs-valencia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/athletic-club-vs-valencia/2907"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/athletic-club-vs-valencia/2908"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

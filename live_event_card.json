@@ -71,23 +71,6 @@
         ]
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-17 14:40:00",
-        "team1Title": "Newcastle Jets",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/newcastle-jets-vs-central-coast-mariners/2857"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-17 15:05:00",
         "team1Title": "England",

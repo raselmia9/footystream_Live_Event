@@ -129,23 +129,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-17 19:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/schalke-04-vs-mainz-05",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/schalke-04-vs-mainz-05/2877"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 20:00:00",
         "team1Title": "Fulham",

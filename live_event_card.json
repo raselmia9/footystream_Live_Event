@@ -284,6 +284,30 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-19 22:30:00",
+        "team1Title": "Monza",
+        "team2Title": "Cagliari",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/monza-vs-cagliari",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-20 00:45:00",
+        "team1Title": "Parma",
+        "team2Title": "Torino",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/parma-vs-torino",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 18:00:00",
         "team1Title": "Racing Santander",
@@ -332,6 +356,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-20 01:00:00",
+        "team1Title": "Getafe",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-18 18:00:00",
         "team1Title": "Leicester Tigers",
@@ -362,6 +398,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/exeter-chiefs-vs-toulouse/2919"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-18 22:30:00",
+        "team1Title": "Northampton Saints",
+        "team2Title": "Cardiff Blues",
+        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/northampton-vs-cardiff-rugby",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/northampton-vs-cardiff-rugby/2920"
             }
         ]
     },
@@ -431,6 +484,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-20 01:00:00",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/spurs-vs-coventry-city",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-18 19:30:00",
         "team1Title": "Houston Texans",
@@ -450,5 +515,166 @@
                 "url": "https://playerdee.top/alpha/texans-vs-jaguars/2918"
             }
         ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Tennessee Titans",
+        "team2Title": "Indianapolis Colts",
+        "team1Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/titans-vs-colts",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/titans-vs-colts/2924"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Lucknow Super Giants",
+        "team2Title": "New Orleans Saints",
+        "team1Logo": "https://cdn.img4every1.org/team/lucknow-super-giants/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/new-york-giants-vs-saints-live",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/new-york-giants-vs-saints-live/2925"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Philadelphia Eagles",
+        "team2Title": "Carolina Panthers",
+        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/philadelphia-eagles-vs-panthers-live",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/philadelphia-eagles-vs-panthers-live/2926"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/philadelphia-eagles-vs-panthers-live/2927"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Baltimore Ravens",
+        "team2Title": "Cleveland Browns",
+        "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ravens-vs-browns",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ravens-vs-browns/2922"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "New England Patriots",
+        "team2Title": "New York Jets",
+        "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/patriots-vs-jets",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/patriots-vs-jets/2921"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-20 22:45:00",
+        "team1Title": "Borussia Dortmund",
+        "team2Title": "Sabah Baku",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-sabah",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-20 22:45:00",
+        "team1Title": "Fenerbahçe",
+        "team2Title": "Slavia Praha",
+        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/fenerbahce-vs-slavia-praha",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Porto",
+        "team2Title": "PSV",
+        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/porto-vs-psv",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Napoli",
+        "team2Title": "FK Bodo Glimt",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-bodo-glimt",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Slovan Bratislava",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-slovan-bratislava",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "PSG",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-psg",
+        "multiWatchPageLink": []
     }
 ]

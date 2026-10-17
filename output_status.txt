@@ -2,46 +2,50 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 20
-🟡 Visiting detail page [2/20]: https://pogo.pk/events/india-championship
-🟡 Visiting detail page [3/20]: https://pogo.pk/events/roma-vs-genoa
-🟡 Visiting detail page [1/20]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: Serie A [3/20]
-🟢 Successfully processed: ATP Tour [1/20]
-🟢 Successfully processed: PGA Tour [2/20]
-🟡 Visiting detail page [4/20]: https://pogo.pk/events/lille-vs-brest
-🟡 Visiting detail page [5/20]: https://pogo.pk/events/athletic-club-vs-valencia
-🟡 Visiting detail page [6/20]: https://pogo.pk/events/racing-santander-vs-osasuna
-🟢 Successfully processed: LaLiga [6/20]
-🟡 Visiting detail page [7/20]: https://pogo.pk/events/alaves-vs-celta-vigo
-🟢 Successfully processed: LaLiga [7/20]
-🟡 Visiting detail page [8/20]: https://pogo.pk/events/real-sociedad-vs-malaga
-🟢 Successfully processed: LaLiga [8/20]
-🟡 Visiting detail page [9/20]: https://pogo.pk/events/real-madrid-vs-sevilla
-🟢 Successfully processed: LaLiga [9/20]
-🟡 Visiting detail page [10/20]: https://pogo.pk/events/munster-vs-racing-92
-🟢 Successfully processed: LaLiga [5/20]
-🟢 Successfully processed: French Ligue 1 [4/20]
-🟡 Visiting detail page [11/20]: https://pogo.pk/events/bath-rugby-vs-montpellier
-🟡 Visiting detail page [12/20]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
-🟢 Successfully processed: Champions Cup [10/20]
-🟡 Visiting detail page [13/20]: https://pogo.pk/events/lecce-vs-udinese
-🟢 Successfully processed: Serie A [13/20]
-🟡 Visiting detail page [14/20]: https://pogo.pk/events/como-vs-fiorentina
-🟢 Successfully processed: Champions Cup [11/20]
-🟡 Visiting detail page [15/20]: https://pogo.pk/events/ac-milan-vs-atalanta
-🟢 Successfully processed: UFC [12/20]
-🟡 Visiting detail page [16/20]: https://pogo.pk/events/lazio-vs-juventus
-🟢 Successfully processed: Serie A [14/20]
-🟡 Visiting detail page [17/20]: https://pogo.pk/events/manchester-united-vs-leeds-united
-🟢 Successfully processed: Serie A [15/20]
-🟡 Visiting detail page [18/20]: https://pogo.pk/events/crystal-palace-vs-brighton
-🟢 Successfully processed: Premier League [17/20]
-🟡 Visiting detail page [19/20]: https://pogo.pk/events/bournemouth-vs-sunderland
-🟢 Successfully processed: Serie A [16/20]
-🟢 Successfully processed: Premier League [18/20]
-🟡 Visiting detail page [20/20]: https://pogo.pk/events/arsenal-vs-nottm-forest
-🟢 Successfully processed: Premier League [19/20]
-🟢 Successfully processed: Premier League [20/20]
+🟢 Total unique detail links to process in parallel: 22
+🟡 Visiting detail page [3/22]: https://pogo.pk/events/roma-vs-genoa
+🟡 Visiting detail page [2/22]: https://pogo.pk/events/india-championship
+🟡 Visiting detail page [1/22]: https://pogo.pk/events/shanghai-rolex-masters
+🟢 Successfully processed: PGA Tour [2/22]
+🟢 Successfully processed: ATP Tour [1/22]
+🟡 Visiting detail page [4/22]: https://pogo.pk/events/lille-vs-brest
+🟡 Visiting detail page [5/22]: https://pogo.pk/events/athletic-club-vs-valencia
+🟢 Successfully processed: Serie A [3/22]
+🟡 Visiting detail page [6/22]: https://pogo.pk/events/munster-vs-racing-92
+🟢 Successfully processed: LaLiga [5/22]
+🟡 Visiting detail page [7/22]: https://pogo.pk/events/bath-rugby-vs-montpellier
+🟢 Successfully processed: French Ligue 1 [4/22]
+🟡 Visiting detail page [8/22]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
+🟢 Successfully processed: Champions Cup [6/22]
+🟡 Visiting detail page [9/22]: https://pogo.pk/events/rays-vs-guardians
+🟢 Successfully processed: Champions Cup [7/22]
+🟡 Visiting detail page [10/22]: https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix
+🟢 Successfully processed: UFC [8/22]
+🟡 Visiting detail page [11/22]: https://pogo.pk/events/lecce-vs-udinese
+🟢 Successfully processed: MLB [9/22]
+🟡 Visiting detail page [12/22]: https://pogo.pk/events/como-vs-fiorentina
+🟢 Successfully processed: Serie A [11/22]
+🟡 Visiting detail page [13/22]: https://pogo.pk/events/ac-milan-vs-atalanta
+🟢 Successfully processed: Serie A [12/22]
+🟡 Visiting detail page [14/22]: https://pogo.pk/events/lazio-vs-juventus
+🟢 Successfully processed: Serie A [13/22]
+🟡 Visiting detail page [15/22]: https://pogo.pk/events/racing-santander-vs-osasuna
+🟢 Successfully processed: Serie A [14/22]
+🟡 Visiting detail page [16/22]: https://pogo.pk/events/alaves-vs-celta-vigo
+🟢 Successfully processed: LaLiga [15/22]
+🟡 Visiting detail page [17/22]: https://pogo.pk/events/real-sociedad-vs-malaga
+🟢 Successfully processed: LaLiga [16/22]
+🟡 Visiting detail page [18/22]: https://pogo.pk/events/real-madrid-vs-sevilla
+🟢 Successfully processed: LaLiga [17/22]
+🟡 Visiting detail page [19/22]: https://pogo.pk/events/manchester-united-vs-leeds-united
+🟢 Successfully processed: A League [10/22]
+🟡 Visiting detail page [20/22]: https://pogo.pk/events/crystal-palace-vs-brighton
+🟢 Successfully processed: LaLiga [18/22]
+🟡 Visiting detail page [21/22]: https://pogo.pk/events/bournemouth-vs-sunderland
+🟢 Successfully processed: Premier League [19/22]
+🟡 Visiting detail page [22/22]: https://pogo.pk/events/arsenal-vs-nottm-forest
+🟢 Successfully processed: Premier League [20/22]
+🟢 Successfully processed: Premier League [21/22]
+🟢 Successfully processed: Premier League [22/22]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 20
+🟢 Process completed successfully. Total collected events: 22

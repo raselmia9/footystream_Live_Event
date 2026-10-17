@@ -109,54 +109,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Racing Santander",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/racing-santander-vs-osasuna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 20:15:00",
-        "team1Title": "Deportivo Alavés",
-        "team2Title": "Celta de Vigo",
-        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alaves-vs-celta-vigo",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 22:30:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Málaga",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-malaga",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-19 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Sevilla",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-sevilla",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-18 01:00:00",
         "team1Title": "Munster",
@@ -208,6 +160,40 @@
         ]
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-18 06:00:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "Cleveland Guardians",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-guardians",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rays-vs-guardians/2909"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-18 08:00:00",
+        "team1Title": "Melbourne Victory",
+        "team2Title": "Wellington Phoenix",
+        "team1Logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wellington-phoenix/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/melbourne-victory-vs-wellington-phoenix/2910"
+            }
+        ]
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-18 16:30:00",
         "team1Title": "Lecce",
@@ -253,6 +239,54 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lazio-vs-juventus",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 18:00:00",
+        "team1Title": "Racing Santander",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/racing-santander-vs-osasuna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 20:15:00",
+        "team1Title": "Deportivo Alavés",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/alaves-vs-celta-vigo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 22:30:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-malaga",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-19 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Sevilla",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-sevilla",
         "multiWatchPageLink": []
     },
     {

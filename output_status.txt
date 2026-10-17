@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
-🟡 Visiting detail page [2/31]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [3/31]: https://pogo.pk/events/australia-vs-new-zealand
+🟡 Visiting detail page [2/31]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: Rugby Union [3/31]
 🟢 Successfully processed: PGA Tour [2/31]
-🟡 Visiting detail page [5/31]: https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners
 🟡 Visiting detail page [4/31]: https://pogo.pk/events/perth-glory-vs-macarthur
 🟢 Successfully processed: ATP Tour [1/31]
+🟡 Visiting detail page [5/31]: https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners
+🟢 Successfully processed: Rugby Union [3/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/england-vs-tonga
-🟢 Successfully processed: A League [5/31]
-🟡 Visiting detail page [7/31]: https://pogo.pk/events/watford-vs-charlton-athletic
 🟢 Successfully processed: A League [4/31]
+🟡 Visiting detail page [7/31]: https://pogo.pk/events/watford-vs-charlton-athletic
+🟢 Successfully processed: A League [5/31]
 🟡 Visiting detail page [8/31]: https://pogo.pk/events/chelsea-vs-everton
 🟢 Successfully processed: Rugby League World Cup [6/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/liverpool-vs-brentford

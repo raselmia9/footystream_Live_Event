@@ -47,23 +47,6 @@
     },
     {
         "eventTitle": "A League",
-        "matchTime": "2026-10-17 12:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Perth Glory",
-        "team1Logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/perth-glory-vs-macarthur",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/perth-glory-vs-macarthur/2856"
-            }
-        ]
-    },
-    {
-        "eventTitle": "A League",
         "matchTime": "2026-10-17 14:40:00",
         "team1Title": "Newcastle Jets",
         "team2Title": "Team 2",

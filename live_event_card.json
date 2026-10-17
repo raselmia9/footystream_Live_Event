@@ -194,6 +194,48 @@
         ]
     },
     {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-18 11:00:00",
+        "team1Title": "Fiji",
+        "team2Title": "Cook Islands",
+        "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/fiji-vs-cook-islands",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/fiji-vs-cook-islands/2911"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/fiji-vs-cook-islands/2912"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Snooker",
+        "matchTime": "2026-10-18 15:00:00",
+        "team1Title": "Snooker Northern Ireland Open",
+        "team2Title": "Snooker",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/snooker-northern-ireland-open",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/2913"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/2914"
+            }
+        ]
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-18 16:30:00",
         "team1Title": "Lecce",
@@ -290,6 +332,57 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-18 18:00:00",
+        "team1Title": "Leicester Tigers",
+        "team2Title": "Section Paloise",
+        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/section-paloise/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-pau",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/leicester-tigers-vs-pau/2915"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-18 20:15:00",
+        "team1Title": "Exeter Chiefs",
+        "team2Title": "Toulouse",
+        "team1Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/exeter-chiefs-vs-toulouse",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/exeter-chiefs-vs-toulouse/2919"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Challenge Cup",
+        "matchTime": "2026-10-18 18:00:00",
+        "team1Title": "Harlequins",
+        "team2Title": "Rugby Club Vannes",
+        "team1Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rugby-club-vannes/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/harlequins-vs-vannes",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/harlequins-vs-vannes/2916"
+            }
+        ]
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-18 19:00:00",
         "team1Title": "Manchester United",
@@ -336,5 +429,26 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-nottm-forest",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 19:30:00",
+        "team1Title": "Houston Texans",
+        "team2Title": "Jacksonville Jaguars",
+        "team1Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/texans-vs-jaguars",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/texans-vs-jaguars/2917"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/texans-vs-jaguars/2918"
+            }
+        ]
     }
 ]

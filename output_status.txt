@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 29
+🟡 Visiting detail page [1/29]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [2/29]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [3/29]: https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners
-🟡 Visiting detail page [1/29]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: A League [3/29]
+🟢 Successfully processed: ATP Tour [1/29]
 🟡 Visiting detail page [4/29]: https://pogo.pk/events/england-vs-tonga
 🟢 Successfully processed: PGA Tour [2/29]
 🟡 Visiting detail page [5/29]: https://pogo.pk/events/watford-vs-charlton-athletic
-🟢 Successfully processed: ATP Tour [1/29]
+🟢 Successfully processed: A League [3/29]
 🟡 Visiting detail page [6/29]: https://pogo.pk/events/chelsea-vs-everton
 🟢 Successfully processed: Premier League [6/29]
 🟡 Visiting detail page [7/29]: https://pogo.pk/events/liverpool-vs-brentford
@@ -49,8 +49,8 @@
 🟢 Successfully processed: Champions Cup [13/29]
 🟡 Visiting detail page [24/29]: https://pogo.pk/events/como-vs-fiorentina
 🟢 Successfully processed: Serie A [22/29]
-🟢 Successfully processed: Serie A [23/29]
 🟡 Visiting detail page [25/29]: https://pogo.pk/events/ac-milan-vs-atalanta
+🟢 Successfully processed: Serie A [23/29]
 🟡 Visiting detail page [26/29]: https://pogo.pk/events/psg-vs-strasbourg
 🟢 Successfully processed: Serie A [24/29]
 🟡 Visiting detail page [27/29]: https://pogo.pk/events/lille-vs-brest

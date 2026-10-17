@@ -46,61 +46,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/athletic-club-vs-valencia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/athletic-club-vs-valencia/2907"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/athletic-club-vs-valencia/2908"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Munster",
-        "team1Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-metro-92/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/munster-vs-racing-92",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/munster-vs-racing-92/2901"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-18 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bath Rugby",
-        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/montpellier/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bath-rugby-vs-montpellier",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bath-rugby-vs-montpellier/2902"
-            }
-        ]
-    },
-    {
         "eventTitle": "UFC",
         "matchTime": "2026-10-18 04:00:00",
         "team1Title": "Buckley",

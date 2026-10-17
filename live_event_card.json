@@ -2,8 +2,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 17:30:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Everton",
+        "team1Title": "Event Ended",
+        "team2Title": "Chelsea",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "isHot": true,
@@ -156,8 +156,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-17 17:30:00",
-        "team1Title": "Watford",
-        "team2Title": "Charlton Athletic",
+        "team1Title": "Event Ended",
+        "team2Title": "Watford",
         "team1Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
         "isHot": true,

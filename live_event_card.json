@@ -48,8 +48,8 @@
     {
         "eventTitle": "A League",
         "matchTime": "2026-10-17 12:00:00",
-        "team1Title": "Perth Glory",
-        "team2Title": "Macarthur",
+        "team1Title": "Event Ended",
+        "team2Title": "Perth Glory",
         "team1Logo": "https://cdn.img4every1.org/team/perth-glory/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
         "isHot": true,

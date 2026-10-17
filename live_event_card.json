@@ -48,8 +48,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-18 00:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Genoa",
+        "team1Title": "Event Ended",
+        "team2Title": "AS Roma",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "isHot": true,
@@ -69,8 +69,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-18 00:45:00",
-        "team1Title": "Lille",
-        "team2Title": "Brest",
+        "team1Title": "Event Ended",
+        "team2Title": "Lille",
         "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
         "isHot": true,

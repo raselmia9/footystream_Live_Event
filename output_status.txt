@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 44
 🟡 Visiting detail page [2/44]: https://pogo.pk/events/india-championship
-🟡 Visiting detail page [3/44]: https://pogo.pk/events/roma-vs-genoa
 🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
-🟢 Successfully processed: PGA Tour [2/44]
-🟢 Successfully processed: Serie A [3/44]
-🟡 Visiting detail page [4/44]: https://pogo.pk/events/lille-vs-brest
-🟡 Visiting detail page [5/44]: https://pogo.pk/events/athletic-club-vs-valencia
+🟡 Visiting detail page [3/44]: https://pogo.pk/events/roma-vs-genoa
 🟢 Successfully processed: ATP Tour [1/44]
+🟢 Successfully processed: Serie A [3/44]
+🟡 Visiting detail page [5/44]: https://pogo.pk/events/athletic-club-vs-valencia
+🟡 Visiting detail page [4/44]: https://pogo.pk/events/lille-vs-brest
+🟢 Successfully processed: PGA Tour [2/44]
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/munster-vs-racing-92
-🟢 Successfully processed: French Ligue 1 [4/44]
-🟡 Visiting detail page [7/44]: https://pogo.pk/events/bath-rugby-vs-montpellier
 🟢 Successfully processed: LaLiga [5/44]
-🟡 Visiting detail page [8/44]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
+🟡 Visiting detail page [7/44]: https://pogo.pk/events/bath-rugby-vs-montpellier
 🟢 Successfully processed: Champions Cup [6/44]
+🟡 Visiting detail page [8/44]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
+🟢 Successfully processed: French Ligue 1 [4/44]
 🟡 Visiting detail page [9/44]: https://pogo.pk/events/rays-vs-guardians
 🟢 Successfully processed: Champions Cup [7/44]
 🟡 Visiting detail page [10/44]: https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix
@@ -44,9 +44,9 @@
 🟡 Visiting detail page [21/44]: https://pogo.pk/events/real-sociedad-vs-malaga
 🟢 Successfully processed: LaLiga [19/44]
 🟡 Visiting detail page [22/44]: https://pogo.pk/events/real-madrid-vs-sevilla
+🟢 Successfully processed: LaLiga [21/44]
 🟢 Successfully processed: LaLiga [20/44]
 🟡 Visiting detail page [23/44]: https://pogo.pk/events/getafe-vs-rayo-vallecano
-🟢 Successfully processed: LaLiga [21/44]
 🟡 Visiting detail page [24/44]: https://pogo.pk/events/leicester-tigers-vs-pau
 🟢 Successfully processed: LaLiga [22/44]
 🟡 Visiting detail page [25/44]: https://pogo.pk/events/exeter-chiefs-vs-toulouse

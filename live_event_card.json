@@ -63,6 +63,31 @@
         ]
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-10-17 11:00:00",
+        "team1Title": "Australia",
+        "team2Title": "New Zealand",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-new-zealand",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2863"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2864"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2865"
+            }
+        ]
+    },
+    {
         "eventTitle": "A League",
         "matchTime": "2026-10-17 12:00:00",
         "team1Title": "Perth Glory",
@@ -93,31 +118,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/newcastle-jets-vs-central-coast-mariners/2857"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-10-17 11:00:00",
-        "team1Title": "Australia",
-        "team2Title": "New Zealand",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/australia-vs-new-zealand",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2863"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2864"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/australia-vs-new-zealand/2865"
             }
         ]
     },
@@ -268,18 +268,6 @@
                 "url": "https://playerdee.top/alpha/bulls-vs-stade-francais/2869"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-17 18:00:00",
-        "team1Title": "Espanyol",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/espanyol-vs-atletico-madrid",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",

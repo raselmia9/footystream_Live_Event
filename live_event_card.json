@@ -271,6 +271,18 @@
     },
     {
         "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 18:00:00",
+        "team1Title": "Espanyol",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/espanyol-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 20:15:00",
         "team1Title": "Elche CF",
         "team2Title": "Villarreal",

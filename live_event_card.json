@@ -79,27 +79,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-17 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Inter Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-bologna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/inter-milan-vs-bologna/2890"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/inter-milan-vs-bologna/2891"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-17 22:30:00",
         "team1Title": "Bayern München",

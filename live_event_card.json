@@ -2,8 +2,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 20:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Brentford",
+        "team1Title": "Event Ended",
+        "team2Title": "Liverpool",
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
         "isHot": true,
@@ -27,8 +27,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 20:00:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Ipswich Town",
+        "team1Title": "Event Ended",
+        "team2Title": "Manchester City",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
         "isHot": true,
@@ -131,8 +131,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 20:00:00",
-        "team1Title": "Fulham",
-        "team2Title": "Hull City",
+        "team1Title": "Event Ended",
+        "team2Title": "Fulham",
         "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
         "isHot": true,
@@ -207,66 +207,6 @@
                 "url": "https://playerdee.top/alpha/inter-milan-vs-bologna/2891"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 00:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Genoa",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-genoa",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 16:30:00",
-        "team1Title": "Lecce",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lecce-vs-udinese",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Como",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/como-vs-fiorentina",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 22:00:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Atalanta",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-atalanta",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-19 00:45:00",
-        "team1Title": "Lazio",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lazio-vs-juventus",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",
@@ -360,6 +300,66 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-nottm-forest",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 00:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Genoa",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-genoa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 16:30:00",
+        "team1Title": "Lecce",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lecce-vs-udinese",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Como",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-fiorentina",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 22:00:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Atalanta",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ac-milan-vs-atalanta",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-19 00:45:00",
+        "team1Title": "Lazio",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lazio-vs-juventus",
         "multiWatchPageLink": []
     },
     {

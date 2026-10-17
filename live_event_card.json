@@ -75,6 +75,39 @@
         ]
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Real Betis",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-betis",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2892"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2893"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2894"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2895"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2896"
+            }
+        ]
+    },
+    {
         "eventTitle": "ATP Tour",
         "matchTime": "2026-10-07 10:00:00",
         "team1Title": "Shanghai Rolex Masters",
@@ -231,27 +264,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "RB Leipzig",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2875"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2876"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-17 20:00:00",
         "team1Title": "Fulham",
@@ -364,39 +376,6 @@
     },
     {
         "eventTitle": "LaLiga",
-        "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Real Betis",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-betis",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2892"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2893"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2894"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2895"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-betis/2896"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 01:00:00",
         "team1Title": "Athletic Club",
         "team2Title": "Valencia",
@@ -441,6 +420,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-sociedad-vs-malaga",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-19 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Sevilla",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-sevilla",
         "multiWatchPageLink": []
     },
     {
@@ -556,6 +547,27 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lazio-vs-juventus",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-rb-leipzig",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2875"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2876"
+            }
+        ]
     },
     {
         "eventTitle": "UFC",

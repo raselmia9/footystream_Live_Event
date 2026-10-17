@@ -6,23 +6,23 @@
 🟡 Visiting detail page [2/44]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [3/44]: https://pogo.pk/events/roma-vs-genoa
 🟡 Visiting detail page [1/44]: https://pogo.pk/events/shanghai-rolex-masters
+🟢 Successfully processed: PGA Tour [2/44]
 🟢 Successfully processed: Serie A [3/44]
 🟡 Visiting detail page [4/44]: https://pogo.pk/events/lille-vs-brest
-🟢 Successfully processed: ATP Tour [1/44]
 🟡 Visiting detail page [5/44]: https://pogo.pk/events/athletic-club-vs-valencia
-🟢 Successfully processed: PGA Tour [2/44]
+🟢 Successfully processed: ATP Tour [1/44]
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/munster-vs-racing-92
-🟢 Successfully processed: LaLiga [5/44]
 🟢 Successfully processed: French Ligue 1 [4/44]
 🟡 Visiting detail page [7/44]: https://pogo.pk/events/bath-rugby-vs-montpellier
+🟢 Successfully processed: LaLiga [5/44]
 🟡 Visiting detail page [8/44]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
 🟢 Successfully processed: Champions Cup [6/44]
 🟡 Visiting detail page [9/44]: https://pogo.pk/events/rays-vs-guardians
-🟢 Successfully processed: UFC [8/44]
-🟡 Visiting detail page [10/44]: https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix
 🟢 Successfully processed: Champions Cup [7/44]
-🟢 Successfully processed: MLB [9/44]
+🟡 Visiting detail page [10/44]: https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix
+🟢 Successfully processed: UFC [8/44]
 🟡 Visiting detail page [11/44]: https://pogo.pk/events/fiji-vs-cook-islands
+🟢 Successfully processed: MLB [9/44]
 🟡 Visiting detail page [12/44]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: A League [10/44]
 🟡 Visiting detail page [13/44]: https://pogo.pk/events/lecce-vs-udinese
@@ -32,9 +32,9 @@
 🟡 Visiting detail page [15/44]: https://pogo.pk/events/ac-milan-vs-atalanta
 🟢 Successfully processed: Serie A [13/44]
 🟡 Visiting detail page [16/44]: https://pogo.pk/events/lazio-vs-juventus
-🟢 Successfully processed: Serie A [15/44]
 🟢 Successfully processed: Serie A [14/44]
 🟡 Visiting detail page [17/44]: https://pogo.pk/events/monza-vs-cagliari
+🟢 Successfully processed: Serie A [15/44]
 🟡 Visiting detail page [18/44]: https://pogo.pk/events/parma-vs-torino
 🟢 Successfully processed: Serie A [16/44]
 🟡 Visiting detail page [19/44]: https://pogo.pk/events/racing-santander-vs-osasuna

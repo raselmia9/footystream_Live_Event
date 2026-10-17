@@ -1,55 +1,5 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Liverpool",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-brentford",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2878"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2879"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/liverpool-vs-brentford/2880"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-city-vs-ipswich-town",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2882"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2883"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-ipswich-town/2884"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 22:30:00",
         "team1Title": "FC Barcelona",
@@ -129,27 +79,10 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Fulham",
-        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/fulham-vs-hull-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/fulham-vs-hull-city/2885"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 20:15:00",
-        "team1Title": "Elche CF",
-        "team2Title": "Villarreal",
+        "team1Title": "Event Ended",
+        "team2Title": "Elche CF",
         "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "isHot": true,
@@ -301,6 +234,57 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-nottm-forest",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "Connacht",
+        "team2Title": "Saracens",
+        "team1Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/connacht-vs-saracens",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/connacht-vs-saracens/2900"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-18 01:00:00",
+        "team1Title": "Munster",
+        "team2Title": "Racing Métro 92",
+        "team1Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-metro-92/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/munster-vs-racing-92",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/munster-vs-racing-92/2901"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-18 01:00:00",
+        "team1Title": "Bath Rugby",
+        "team2Title": "Montpellier",
+        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/montpellier/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bath-rugby-vs-montpellier",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bath-rugby-vs-montpellier/2902"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

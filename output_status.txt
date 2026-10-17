@@ -3,15 +3,15 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 29
+🟡 Visiting detail page [2/29]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [1/29]: https://pogo.pk/events/shanghai-rolex-masters
 🟡 Visiting detail page [3/29]: https://pogo.pk/events/newcastle-jets-vs-central-coast-mariners
-🟡 Visiting detail page [2/29]: https://pogo.pk/events/india-championship
 🟢 Successfully processed: PGA Tour [2/29]
+🟢 Successfully processed: A League [3/29]
 🟢 Successfully processed: ATP Tour [1/29]
 🟡 Visiting detail page [4/29]: https://pogo.pk/events/england-vs-tonga
-🟡 Visiting detail page [5/29]: https://pogo.pk/events/watford-vs-charlton-athletic
-🟢 Successfully processed: A League [3/29]
 🟡 Visiting detail page [6/29]: https://pogo.pk/events/chelsea-vs-everton
+🟡 Visiting detail page [5/29]: https://pogo.pk/events/watford-vs-charlton-athletic
 🟢 Successfully processed: Premier League [6/29]
 🟡 Visiting detail page [7/29]: https://pogo.pk/events/liverpool-vs-brentford
 🟢 Successfully processed: Premier League [7/29]
@@ -25,8 +25,8 @@
 🟢 Successfully processed: Premier League [11/29]
 🟡 Visiting detail page [12/29]: https://pogo.pk/events/warriors-vs-sale-sharks
 🟢 Successfully processed: Rugby League World Cup [4/29]
-🟢 Successfully processed: EFL [5/29]
 🟡 Visiting detail page [13/29]: https://pogo.pk/events/bulls-vs-stade-francais
+🟢 Successfully processed: EFL [5/29]
 🟡 Visiting detail page [14/29]: https://pogo.pk/events/espanyol-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [14/29]
 🟡 Visiting detail page [15/29]: https://pogo.pk/events/elche-vs-villarreal

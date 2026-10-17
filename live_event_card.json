@@ -131,8 +131,8 @@
     {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-17 18:00:00",
-        "team1Title": "Glasgow Warriors",
-        "team2Title": "Sale Sharks",
+        "team1Title": "Event Ended",
+        "team2Title": "Glasgow Warriors",
         "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
         "isHot": true,
@@ -148,8 +148,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-17 18:00:00",
-        "team1Title": "Espanyol",
-        "team2Title": "Atlético Madrid",
+        "team1Title": "Event Ended",
+        "team2Title": "Espanyol",
         "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "isHot": true,
@@ -169,8 +169,8 @@
     {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-17 18:00:00",
-        "team1Title": "Bulls",
-        "team2Title": "Stade Français Paris",
+        "team1Title": "Event Ended",
+        "team2Title": "Bulls",
         "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sf-paris/logo.webp",
         "isHot": true,
@@ -233,79 +233,6 @@
                 "url": "https://playerdee.top/alpha/fulham-vs-hull-city/2885"
             }
         ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-17 22:30:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/aston-villa-vs-newcastle",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2897"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2898"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2899"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Leeds United",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-united-vs-leeds-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Crystal Palace",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-brighton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "AFC Bournemouth",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bournemouth-vs-sunderland",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-18 21:30:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Nottingham Forest",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/arsenal-vs-nottm-forest",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",
@@ -522,6 +449,79 @@
                 "url": "https://playerdee.top/alpha/bayern-munchen-vs-rb-leipzig/2876"
             }
         ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-17 22:30:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/aston-villa-vs-newcastle",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2897"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2898"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/aston-villa-vs-newcastle/2899"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Leeds United",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-united-vs-leeds-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-brighton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Sunderland",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bournemouth-vs-sunderland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 21:30:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Nottingham Forest",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-nottm-forest",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "UFC",

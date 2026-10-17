@@ -666,15 +666,15 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "PSG",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-21 00:45:00",
+        "team1Title": "Wolverhampton Wanderers",
+        "team2Title": "Portsmouth",
+        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-psg",
+        "detailsPage": "https://pogo.pk/events/wolves-vs-portsmouth",
         "multiWatchPageLink": []
     }
 ]

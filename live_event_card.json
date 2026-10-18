@@ -25,6 +25,27 @@
         ]
     },
     {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-15 11:30:00",
+        "team1Title": "India Championship",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/india-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/india-championship/2841"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/india-championship/2842"
+            }
+        ]
+    },
+    {
         "eventTitle": "UFC",
         "matchTime": "2026-10-18 04:00:00",
         "team1Title": "Buckley",
@@ -38,6 +59,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/ufc-fight-night-buckley-vs-malott/2862"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-18 06:00:00",
+        "team1Title": "Tampa Bay Rays",
+        "team2Title": "Cleveland Guardians",
+        "team1Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rays-vs-guardians",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rays-vs-guardians/2909"
             }
         ]
     },
@@ -346,6 +384,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-nottm-forest",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-20 01:00:00",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/spurs-vs-coventry-city",
         "multiWatchPageLink": []
     },
     {

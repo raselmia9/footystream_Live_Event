@@ -3,73 +3,64 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 40
-🟡 Visiting detail page [1/40]: https://pogo.pk/events/shanghai-rolex-masters
-🟡 Visiting detail page [3/40]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
 🟡 Visiting detail page [2/40]: https://pogo.pk/events/india-championship
-🔴 ERROR on detail page https://pogo.pk/events/india-championship: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/india-championship", waiting until "load"
-
-🟡 Visiting detail page [4/40]: https://pogo.pk/events/rays-vs-guardians
-🟢 Successfully processed: UFC [3/40]
+🟡 Visiting detail page [3/40]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
+🟡 Visiting detail page [1/40]: https://pogo.pk/events/shanghai-rolex-masters
 🟢 Successfully processed: ATP Tour [1/40]
+🟡 Visiting detail page [4/40]: https://pogo.pk/events/rays-vs-guardians
+🟢 Successfully processed: MLB [4/40]
 🟡 Visiting detail page [5/40]: https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix
+🟢 Successfully processed: UFC [3/40]
 🟡 Visiting detail page [6/40]: https://pogo.pk/events/fiji-vs-cook-islands
-🟢 Successfully processed: A League [5/40]
+🟢 Successfully processed: PGA Tour [2/40]
 🟡 Visiting detail page [7/40]: https://pogo.pk/events/snooker-northern-ireland-open
-🟢 Successfully processed: Rugby League World Cup [6/40]
+🟢 Successfully processed: A League [5/40]
 🟡 Visiting detail page [8/40]: https://pogo.pk/events/lecce-vs-udinese
-🔴 ERROR on detail page https://pogo.pk/events/rays-vs-guardians: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/rays-vs-guardians", waiting until "load"
-
-🟡 Visiting detail page [9/40]: https://pogo.pk/events/como-vs-fiorentina
 🟢 Successfully processed: Serie A [8/40]
-🟡 Visiting detail page [10/40]: https://pogo.pk/events/ac-milan-vs-atalanta
+🟡 Visiting detail page [9/40]: https://pogo.pk/events/como-vs-fiorentina
 🟢 Successfully processed: Snooker [7/40]
-🟡 Visiting detail page [11/40]: https://pogo.pk/events/lazio-vs-juventus
+🟡 Visiting detail page [10/40]: https://pogo.pk/events/ac-milan-vs-atalanta
 🟢 Successfully processed: Serie A [9/40]
-🟡 Visiting detail page [12/40]: https://pogo.pk/events/monza-vs-cagliari
+🟡 Visiting detail page [11/40]: https://pogo.pk/events/lazio-vs-juventus
 🟢 Successfully processed: Serie A [10/40]
-🟡 Visiting detail page [13/40]: https://pogo.pk/events/parma-vs-torino
+🟡 Visiting detail page [12/40]: https://pogo.pk/events/monza-vs-cagliari
 🟢 Successfully processed: Serie A [11/40]
-🟡 Visiting detail page [14/40]: https://pogo.pk/events/racing-santander-vs-osasuna
+🟡 Visiting detail page [13/40]: https://pogo.pk/events/parma-vs-torino
 🟢 Successfully processed: Serie A [12/40]
-🟡 Visiting detail page [15/40]: https://pogo.pk/events/alaves-vs-celta-vigo
+🟡 Visiting detail page [14/40]: https://pogo.pk/events/racing-santander-vs-osasuna
 🟢 Successfully processed: Serie A [13/40]
-🟡 Visiting detail page [16/40]: https://pogo.pk/events/real-sociedad-vs-malaga
+🟡 Visiting detail page [15/40]: https://pogo.pk/events/alaves-vs-celta-vigo
 🟢 Successfully processed: LaLiga [14/40]
+🟡 Visiting detail page [16/40]: https://pogo.pk/events/real-sociedad-vs-malaga
+🟢 Successfully processed: LaLiga [15/40]
 🟡 Visiting detail page [17/40]: https://pogo.pk/events/real-madrid-vs-sevilla
 🟢 Successfully processed: LaLiga [17/40]
 🟡 Visiting detail page [18/40]: https://pogo.pk/events/getafe-vs-rayo-vallecano
-🟢 Successfully processed: LaLiga [15/40]
-🟡 Visiting detail page [19/40]: https://pogo.pk/events/leicester-tigers-vs-pau
 🟢 Successfully processed: LaLiga [16/40]
-🟡 Visiting detail page [20/40]: https://pogo.pk/events/exeter-chiefs-vs-toulouse
+🟡 Visiting detail page [19/40]: https://pogo.pk/events/leicester-tigers-vs-pau
 🟢 Successfully processed: LaLiga [18/40]
+🟡 Visiting detail page [20/40]: https://pogo.pk/events/exeter-chiefs-vs-toulouse
+🟢 Successfully processed: Rugby League World Cup [6/40]
 🟡 Visiting detail page [21/40]: https://pogo.pk/events/northampton-vs-cardiff-rugby
 🟢 Successfully processed: Champions Cup [19/40]
 🟡 Visiting detail page [22/40]: https://pogo.pk/events/harlequins-vs-vannes
 🟢 Successfully processed: Champions Cup [20/40]
 🟡 Visiting detail page [23/40]: https://pogo.pk/events/manchester-united-vs-leeds-united
 🟢 Successfully processed: Premier League [23/40]
+🟢 Successfully processed: Champions Cup [21/40]
 🟡 Visiting detail page [24/40]: https://pogo.pk/events/crystal-palace-vs-brighton
-🟢 Successfully processed: Challenge Cup [22/40]
 🟡 Visiting detail page [25/40]: https://pogo.pk/events/bournemouth-vs-sunderland
 🟢 Successfully processed: Premier League [25/40]
 🟡 Visiting detail page [26/40]: https://pogo.pk/events/arsenal-vs-nottm-forest
 🟢 Successfully processed: Premier League [24/40]
 🟡 Visiting detail page [27/40]: https://pogo.pk/events/spurs-vs-coventry-city
-🟢 Successfully processed: Champions Cup [21/40]
-🟡 Visiting detail page [28/40]: https://pogo.pk/events/texans-vs-jaguars
 🟢 Successfully processed: Premier League [26/40]
+🟡 Visiting detail page [28/40]: https://pogo.pk/events/texans-vs-jaguars
+🟢 Successfully processed: Premier League [27/40]
 🟡 Visiting detail page [29/40]: https://pogo.pk/events/titans-vs-colts
-🟢 Successfully processed: NFL [28/40]
+🟢 Successfully processed: Challenge Cup [22/40]
 🟡 Visiting detail page [30/40]: https://pogo.pk/events/new-york-giants-vs-saints-live
-🔴 ERROR on detail page https://pogo.pk/events/spurs-vs-coventry-city: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/spurs-vs-coventry-city", waiting until "load"
-
+🟢 Successfully processed: NFL [28/40]
 🟡 Visiting detail page [31/40]: https://pogo.pk/events/philadelphia-eagles-vs-panthers-live
 🟢 Successfully processed: NFL [29/40]
 🟡 Visiting detail page [32/40]: https://pogo.pk/events/ravens-vs-browns
@@ -79,18 +70,18 @@ Call log:
 🟡 Visiting detail page [34/40]: https://pogo.pk/events/borussia-dortmund-vs-sabah
 🟢 Successfully processed: Champions League [34/40]
 🟡 Visiting detail page [35/40]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
-🟢 Successfully processed: NFL [33/40]
-🟡 Visiting detail page [36/40]: https://pogo.pk/events/porto-vs-psv
 🟢 Successfully processed: Champions League [35/40]
+🟡 Visiting detail page [36/40]: https://pogo.pk/events/porto-vs-psv
+🟢 Successfully processed: NFL [33/40]
 🟡 Visiting detail page [37/40]: https://pogo.pk/events/napoli-vs-bodo-glimt
-🟢 Successfully processed: NFL [32/40]
-🟡 Visiting detail page [38/40]: https://pogo.pk/events/roma-vs-slovan-bratislava
 🟢 Successfully processed: Champions League [36/40]
-🟡 Visiting detail page [39/40]: https://pogo.pk/events/barcelona-vs-psg
-🟢 Successfully processed: Champions League [39/40]
-🟡 Visiting detail page [40/40]: https://pogo.pk/events/wolves-vs-portsmouth
-🟢 Successfully processed: Champions League [37/40]
-🟢 Successfully processed: EFL [40/40]
+🟡 Visiting detail page [38/40]: https://pogo.pk/events/roma-vs-slovan-bratislava
 🟢 Successfully processed: Champions League [38/40]
+🟡 Visiting detail page [39/40]: https://pogo.pk/events/barcelona-vs-psg
+🟢 Successfully processed: Champions League [37/40]
+🟡 Visiting detail page [40/40]: https://pogo.pk/events/wolves-vs-portsmouth
+🟢 Successfully processed: NFL [32/40]
+🟢 Successfully processed: EFL [40/40]
+🟢 Successfully processed: Champions League [39/40]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 37
+🟢 Process completed successfully. Total collected events: 40

@@ -46,23 +46,6 @@
         ]
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-18 08:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Melbourne Victory",
-        "team1Logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wellington-phoenix/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/melbourne-victory-vs-wellington-phoenix/2910"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-18 11:00:00",
         "team1Title": "Fiji",

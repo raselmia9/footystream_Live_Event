@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 40
 🟡 Visiting detail page [2/40]: https://pogo.pk/events/india-championship
-🟡 Visiting detail page [3/40]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
 🟡 Visiting detail page [1/40]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [3/40]: https://pogo.pk/events/ufc-fight-night-buckley-vs-malott
 🟢 Successfully processed: PGA Tour [2/40]
-🟢 Successfully processed: ATP Tour [1/40]
-🟢 Successfully processed: UFC [3/40]
 🟡 Visiting detail page [4/40]: https://pogo.pk/events/rays-vs-guardians
-🟡 Visiting detail page [6/40]: https://pogo.pk/events/fiji-vs-cook-islands
+🟢 Successfully processed: UFC [3/40]
 🟡 Visiting detail page [5/40]: https://pogo.pk/events/melbourne-victory-vs-wellington-phoenix
-🟢 Successfully processed: Rugby League World Cup [6/40]
-🟡 Visiting detail page [7/40]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: ATP Tour [1/40]
+🟡 Visiting detail page [6/40]: https://pogo.pk/events/fiji-vs-cook-islands
 🟢 Successfully processed: MLB [4/40]
-🟡 Visiting detail page [8/40]: https://pogo.pk/events/lecce-vs-udinese
+🟡 Visiting detail page [7/40]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: A League [5/40]
+🟡 Visiting detail page [8/40]: https://pogo.pk/events/lecce-vs-udinese
+🟢 Successfully processed: Rugby League World Cup [6/40]
 🟡 Visiting detail page [9/40]: https://pogo.pk/events/como-vs-fiorentina
 🟢 Successfully processed: Serie A [8/40]
 🟡 Visiting detail page [10/40]: https://pogo.pk/events/ac-milan-vs-atalanta
@@ -30,14 +30,14 @@
 🟡 Visiting detail page [14/40]: https://pogo.pk/events/racing-santander-vs-osasuna
 🟢 Successfully processed: Serie A [13/40]
 🟡 Visiting detail page [15/40]: https://pogo.pk/events/alaves-vs-celta-vigo
-🟢 Successfully processed: LaLiga [15/40]
 🟢 Successfully processed: LaLiga [14/40]
 🟡 Visiting detail page [16/40]: https://pogo.pk/events/real-sociedad-vs-malaga
+🟢 Successfully processed: LaLiga [15/40]
 🟡 Visiting detail page [17/40]: https://pogo.pk/events/real-madrid-vs-sevilla
 🟢 Successfully processed: LaLiga [16/40]
+🟡 Visiting detail page [18/40]: https://pogo.pk/events/getafe-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [17/40]
 🟡 Visiting detail page [19/40]: https://pogo.pk/events/leicester-tigers-vs-pau
-🟡 Visiting detail page [18/40]: https://pogo.pk/events/getafe-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [18/40]
 🟡 Visiting detail page [20/40]: https://pogo.pk/events/exeter-chiefs-vs-toulouse
 🟢 Successfully processed: Snooker [7/40]

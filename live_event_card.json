@@ -46,23 +46,6 @@
         ]
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-10-18 04:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Buckley",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ufc-fight-night-buckley-vs-malott",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ufc-fight-night-buckley-vs-malott/2862"
-            }
-        ]
-    },
-    {
         "eventTitle": "A League",
         "matchTime": "2026-10-18 08:00:00",
         "team1Title": "Melbourne Victory",
@@ -251,6 +234,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-22 00:00:00",
+        "team1Title": "Levante",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
         "multiWatchPageLink": []
     },
     {

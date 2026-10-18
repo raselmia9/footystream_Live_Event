@@ -23,8 +23,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-18 16:30:00",
-        "team1Title": "Lecce",
-        "team2Title": "Udinese",
+        "team1Title": "Event Ended",
+        "team2Title": "Lecce",
         "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "isHot": true,

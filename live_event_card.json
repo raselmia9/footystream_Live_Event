@@ -109,18 +109,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-20 01:00:00",
-        "team1Title": "Tottenham Hotspur",
-        "team2Title": "Coventry City",
-        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/spurs-vs-coventry-city",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-18 22:00:00",
         "team1Title": "AC Milan",
@@ -382,6 +370,18 @@
                 "url": "https://playerdee.top/alpha/steelers-vs-buccaneers/2923"
             }
         ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-20 01:00:00",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/spurs-vs-coventry-city",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Champions League",

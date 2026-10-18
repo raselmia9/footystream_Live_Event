@@ -84,89 +84,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Como",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/como-vs-fiorentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/como-vs-fiorentina/2938"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 22:00:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Atalanta",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-atalanta",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2939"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2940"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-19 00:45:00",
-        "team1Title": "Lazio",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lazio-vs-juventus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lazio-vs-juventus/2941"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lazio-vs-juventus/2942"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-19 22:30:00",
-        "team1Title": "Monza",
-        "team2Title": "Cagliari",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/monza-vs-cagliari",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-20 00:45:00",
-        "team1Title": "Parma",
-        "team2Title": "Torino",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-torino",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 18:00:00",
         "team1Title": "Racing Santander",
@@ -460,6 +377,89 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/spurs-vs-coventry-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "Como",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-fiorentina",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/como-vs-fiorentina/2938"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-18 22:00:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Atalanta",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ac-milan-vs-atalanta",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2939"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2940"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-19 00:45:00",
+        "team1Title": "Lazio",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lazio-vs-juventus",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lazio-vs-juventus/2941"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lazio-vs-juventus/2942"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-19 22:30:00",
+        "team1Title": "Monza",
+        "team2Title": "Cagliari",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/monza-vs-cagliari",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-20 00:45:00",
+        "team1Title": "Parma",
+        "team2Title": "Torino",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/parma-vs-torino",
         "multiWatchPageLink": []
     },
     {

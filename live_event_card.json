@@ -21,27 +21,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-18 19:30:00",
-        "team1Title": "Houston Texans",
-        "team2Title": "Jacksonville Jaguars",
-        "team1Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jacksonville-jaguars/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/texans-vs-jaguars",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/texans-vs-jaguars/2917"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/texans-vs-jaguars/2918"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-18 21:30:00",
         "team1Title": "Arsenal",

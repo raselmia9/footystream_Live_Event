@@ -4,35 +4,35 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
 🟡 Visiting detail page [2/31]: https://pogo.pk/events/arsenal-vs-nottm-forest
-🟡 Visiting detail page [3/31]: https://pogo.pk/events/ac-milan-vs-atalanta
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/snooker-northern-ireland-open
+🟡 Visiting detail page [3/31]: https://pogo.pk/events/ac-milan-vs-atalanta
 🟢 Successfully processed: Premier League [2/31]
-🟢 Successfully processed: Serie A [3/31]
 🟡 Visiting detail page [4/31]: https://pogo.pk/events/real-sociedad-vs-malaga
-🟡 Visiting detail page [5/31]: https://pogo.pk/events/northampton-vs-cardiff-rugby
 🟢 Successfully processed: Snooker [1/31]
+🟡 Visiting detail page [5/31]: https://pogo.pk/events/northampton-vs-cardiff-rugby
+🟢 Successfully processed: Serie A [3/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/titans-vs-colts
-🟢 Successfully processed: Champions Cup [5/31]
-🟡 Visiting detail page [7/31]: https://pogo.pk/events/new-york-giants-vs-saints-live
 🟢 Successfully processed: LaLiga [4/31]
+🟡 Visiting detail page [7/31]: https://pogo.pk/events/new-york-giants-vs-saints-live
+🟢 Successfully processed: Champions Cup [5/31]
 🟡 Visiting detail page [8/31]: https://pogo.pk/events/philadelphia-eagles-vs-panthers-live
 🟢 Successfully processed: NFL [6/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/ravens-vs-browns
 🟢 Successfully processed: NFL [7/31]
 🟡 Visiting detail page [10/31]: https://pogo.pk/events/patriots-vs-jets
 🟢 Successfully processed: NFL [8/31]
-🟢 Successfully processed: NFL [9/31]
 🟡 Visiting detail page [11/31]: https://pogo.pk/events/steelers-vs-buccaneers
+🟢 Successfully processed: NFL [9/31]
 🟡 Visiting detail page [12/31]: https://pogo.pk/events/falcons-vs-bears
 🟢 Successfully processed: NFL [10/31]
 🟡 Visiting detail page [13/31]: https://pogo.pk/events/lazio-vs-juventus
 🟢 Successfully processed: NFL [11/31]
 🟡 Visiting detail page [14/31]: https://pogo.pk/events/monza-vs-cagliari
-🟢 Successfully processed: NFL [12/31]
-🟡 Visiting detail page [15/31]: https://pogo.pk/events/parma-vs-torino
 🟢 Successfully processed: Serie A [14/31]
-🟡 Visiting detail page [16/31]: https://pogo.pk/events/real-madrid-vs-sevilla
+🟡 Visiting detail page [15/31]: https://pogo.pk/events/parma-vs-torino
 🟢 Successfully processed: Serie A [15/31]
+🟡 Visiting detail page [16/31]: https://pogo.pk/events/real-madrid-vs-sevilla
+🟢 Successfully processed: NFL [12/31]
 🟡 Visiting detail page [17/31]: https://pogo.pk/events/getafe-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [17/31]
 🟡 Visiting detail page [18/31]: https://pogo.pk/events/levante-vs-athletic-club
@@ -48,9 +48,9 @@
 🟡 Visiting detail page [23/31]: https://pogo.pk/events/spurs-vs-coventry-city
 🟢 Successfully processed: Premier League [23/31]
 🟡 Visiting detail page [24/31]: https://pogo.pk/events/borussia-dortmund-vs-sabah
-🟢 Successfully processed: NFL [21/31]
-🟡 Visiting detail page [25/31]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
 🟢 Successfully processed: Champions League [24/31]
+🟡 Visiting detail page [25/31]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
+🟢 Successfully processed: NFL [21/31]
 🟡 Visiting detail page [26/31]: https://pogo.pk/events/porto-vs-psv
 🟢 Successfully processed: Champions League [25/31]
 🟡 Visiting detail page [27/31]: https://pogo.pk/events/napoli-vs-bodo-glimt
@@ -58,12 +58,12 @@
 🟡 Visiting detail page [28/31]: https://pogo.pk/events/roma-vs-slovan-bratislava
 🟢 Successfully processed: Champions League [27/31]
 🟡 Visiting detail page [29/31]: https://pogo.pk/events/barcelona-vs-psg
-🟢 Successfully processed: Champions League [28/31]
 🟢 Successfully processed: NFL [22/31]
 🟡 Visiting detail page [30/31]: https://pogo.pk/events/wolves-vs-portsmouth
-🟡 Visiting detail page [31/31]: https://pogo.pk/events/reading-vs-leyton-orient
 🟢 Successfully processed: Champions League [29/31]
+🟡 Visiting detail page [31/31]: https://pogo.pk/events/reading-vs-leyton-orient
 🟢 Successfully processed: EFL [30/31]
 🟢 Successfully processed: EFL [31/31]
+🟢 Successfully processed: Champions League [28/31]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 31

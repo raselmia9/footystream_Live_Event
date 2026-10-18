@@ -21,27 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-19 00:45:00",
-        "team1Title": "Lazio",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lazio-vs-juventus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lazio-vs-juventus/2941"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lazio-vs-juventus/2942"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-19 01:00:00",
         "team1Title": "Real Madrid",

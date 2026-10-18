@@ -21,27 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-18 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AC Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-atalanta",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2939"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2940"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 22:30:00",
         "team1Title": "Real Sociedad",

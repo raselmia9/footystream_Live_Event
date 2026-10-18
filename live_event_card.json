@@ -46,27 +46,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-18 11:00:00",
-        "team1Title": "Fiji",
-        "team2Title": "Cook Islands",
-        "team1Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/fiji-vs-cook-islands",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/fiji-vs-cook-islands/2911"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/fiji-vs-cook-islands/2912"
-            }
-        ]
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-10-18 15:00:00",
         "team1Title": "Snooker Northern Ireland Open",

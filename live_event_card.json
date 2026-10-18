@@ -23,8 +23,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 22:30:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Málaga",
+        "team1Title": "Event Ended",
+        "team2Title": "Real Sociedad",
         "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
         "isHot": true,
@@ -44,8 +44,8 @@
     {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-18 22:30:00",
-        "team1Title": "Northampton Saints",
-        "team2Title": "Cardiff Blues",
+        "team1Title": "Event Ended",
+        "team2Title": "Northampton Saints",
         "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
         "isHot": true,

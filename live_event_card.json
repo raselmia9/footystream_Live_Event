@@ -185,95 +185,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-18 23:00:00",
-        "team1Title": "Tennessee Titans",
-        "team2Title": "Indianapolis Colts",
-        "team1Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/titans-vs-colts",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/titans-vs-colts/2924"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-18 23:00:00",
-        "team1Title": "Lucknow Super Giants",
-        "team2Title": "New Orleans Saints",
-        "team1Logo": "https://cdn.img4every1.org/team/lucknow-super-giants/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/new-york-giants-vs-saints-live",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/new-york-giants-vs-saints-live/2925"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-18 23:00:00",
-        "team1Title": "Philadelphia Eagles",
-        "team2Title": "Carolina Panthers",
-        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/philadelphia-eagles-vs-panthers-live",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/philadelphia-eagles-vs-panthers-live/2926"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/philadelphia-eagles-vs-panthers-live/2927"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-18 23:00:00",
-        "team1Title": "Baltimore Ravens",
-        "team2Title": "Cleveland Browns",
-        "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ravens-vs-browns",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ravens-vs-browns/2922"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-18 23:00:00",
-        "team1Title": "New England Patriots",
-        "team2Title": "New York Jets",
-        "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/patriots-vs-jets",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/patriots-vs-jets/2921"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 20:15:00",
         "team1Title": "Deportivo Alavés",
@@ -508,6 +419,112 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/parma-vs-torino",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Tennessee Titans",
+        "team2Title": "Indianapolis Colts",
+        "team1Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/indianapolis-colts/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/titans-vs-colts",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/titans-vs-colts/2924"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Lucknow Super Giants",
+        "team2Title": "New Orleans Saints",
+        "team1Logo": "https://cdn.img4every1.org/team/lucknow-super-giants/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/new-york-giants-vs-saints-live",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/new-york-giants-vs-saints-live/2925"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Philadelphia Eagles",
+        "team2Title": "Carolina Panthers",
+        "team1Logo": "https://cdn.img4every1.org/team/philadelphia-eagles/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/philadelphia-eagles-vs-panthers-live",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/philadelphia-eagles-vs-panthers-live/2926"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/philadelphia-eagles-vs-panthers-live/2927"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Baltimore Ravens",
+        "team2Title": "Cleveland Browns",
+        "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ravens-vs-browns",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ravens-vs-browns/2922"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "New England Patriots",
+        "team2Title": "New York Jets",
+        "team1Logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/patriots-vs-jets",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/patriots-vs-jets/2921"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Pittsburgh Steelers",
+        "team2Title": "Tampa Bay Buccaneers",
+        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tampa-bay-buccaneers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/steelers-vs-buccaneers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/steelers-vs-buccaneers/2923"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

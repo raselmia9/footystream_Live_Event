@@ -21,44 +21,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Sociedad",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-malaga",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2947"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2948"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-18 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Northampton Saints",
-        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/northampton-vs-cardiff-rugby",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/northampton-vs-cardiff-rugby/2920"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-18 23:00:00",
         "team1Title": "Tennessee Titans",
@@ -203,30 +165,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-19 22:30:00",
-        "team1Title": "Monza",
-        "team2Title": "Cagliari",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/monza-vs-cagliari",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-20 00:45:00",
-        "team1Title": "Parma",
-        "team2Title": "Torino",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-torino",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-19 01:00:00",
         "team1Title": "Real Madrid",
@@ -362,6 +300,30 @@
                 "url": "https://playerdee.top/alpha/cowboys-vs-packers/2936"
             }
         ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-19 22:30:00",
+        "team1Title": "Monza",
+        "team2Title": "Cagliari",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/monza-vs-cagliari",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-20 00:45:00",
+        "team1Title": "Parma",
+        "team2Title": "Torino",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/parma-vs-torino",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",

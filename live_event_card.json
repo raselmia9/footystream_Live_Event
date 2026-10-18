@@ -21,61 +21,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Racing Santander",
-        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/racing-santander-vs-osasuna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/racing-santander-vs-osasuna/2943"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/racing-santander-vs-osasuna/2944"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Leicester Tigers",
-        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/section-paloise/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-pau",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/leicester-tigers-vs-pau/2915"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Challenge Cup",
-        "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Harlequins",
-        "team1Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rugby-club-vannes/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/harlequins-vs-vannes",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/harlequins-vs-vannes/2916"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-18 19:00:00",
         "team1Title": "Manchester United",
@@ -206,80 +151,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 22:30:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Málaga",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-malaga",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2947"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2948"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-19 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Sevilla",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-sevilla",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2949"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2950"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2951"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2952"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-20 01:00:00",
-        "team1Title": "Getafe",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-22 00:00:00",
-        "team1Title": "Levante",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-18 20:15:00",
         "team1Title": "Exeter Chiefs",
@@ -293,23 +164,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/exeter-chiefs-vs-toulouse/2919"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-18 22:30:00",
-        "team1Title": "Northampton Saints",
-        "team2Title": "Cardiff Blues",
-        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/northampton-vs-cardiff-rugby",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/northampton-vs-cardiff-rugby/2920"
             }
         ]
     },
@@ -419,6 +273,97 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/parma-vs-torino",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-18 22:30:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-malaga",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2947"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2948"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-19 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Sevilla",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-sevilla",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2949"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2950"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2951"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2952"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-20 01:00:00",
+        "team1Title": "Getafe",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-22 00:00:00",
+        "team1Title": "Levante",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions Cup",
+        "matchTime": "2026-10-18 22:30:00",
+        "team1Title": "Northampton Saints",
+        "team2Title": "Cardiff Blues",
+        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/northampton-vs-cardiff-rugby",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/northampton-vs-cardiff-rugby/2920"
+            }
+        ]
     },
     {
         "eventTitle": "NFL",
@@ -608,6 +553,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/wolves-vs-portsmouth",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Reading",
+        "team2Title": "Leyton Orient",
+        "team1Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
         "multiWatchPageLink": []
     }
 ]

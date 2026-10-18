@@ -215,6 +215,23 @@
         ]
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-18 23:00:00",
+        "team1Title": "Atlanta Falcons",
+        "team2Title": "Chicago Bears",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chicago-bears/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/falcons-vs-bears",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/falcons-vs-bears/2928"
+            }
+        ]
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-19 00:45:00",
         "team1Title": "Lazio",
@@ -311,6 +328,90 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-19 02:05:00",
+        "team1Title": "Los Angeles Rams",
+        "team2Title": "Arizona Cardinals",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rams-vs-cardinals",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rams-vs-cardinals/2929"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-19 02:25:00",
+        "team1Title": "Los Angeles Chargers",
+        "team2Title": "Kansas City Chiefs",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-chargers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chargers-vs-chiefs",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chargers-vs-chiefs/2932"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/chargers-vs-chiefs/2933"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-19 02:25:00",
+        "team1Title": "Buffalo Bills",
+        "team2Title": "Las Vegas Raiders",
+        "team1Logo": "https://cdn.img4every1.org/team/buffalo-bills/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bills-vs-raiders",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bills-vs-raiders/2930"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bills-vs-raiders/2931"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-19 06:20:00",
+        "team1Title": "Dallas Cowboys",
+        "team2Title": "Green Bay Packers",
+        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cowboys-vs-packers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/cowboys-vs-packers/2934"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/cowboys-vs-packers/2935"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/cowboys-vs-packers/2936"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

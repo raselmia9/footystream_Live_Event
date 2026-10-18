@@ -260,6 +260,18 @@
     },
     {
         "eventTitle": "LaLiga",
+        "matchTime": "2026-10-20 01:00:00",
+        "team1Title": "Getafe",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
         "matchTime": "2026-10-22 00:00:00",
         "team1Title": "Levante",
         "team2Title": "Athletic Club",
@@ -385,6 +397,27 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/crystal-palace-vs-brighton/2954"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-18 19:00:00",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Sunderland",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bournemouth-vs-sunderland",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bournemouth-vs-sunderland/2955"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bournemouth-vs-sunderland/2956"
             }
         ]
     },
@@ -609,6 +642,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-psg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-21 00:45:00",
+        "team1Title": "Wolverhampton Wanderers",
+        "team2Title": "Portsmouth",
+        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/portsmouth/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wolves-vs-portsmouth",
         "multiWatchPageLink": []
     }
 ]

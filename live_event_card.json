@@ -23,8 +23,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Leeds United",
+        "team1Title": "Event Ended",
+        "team2Title": "Manchester United",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
         "isHot": true,
@@ -52,8 +52,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Como",
-        "team2Title": "Fiorentina",
+        "team1Title": "Event Ended",
+        "team2Title": "Como",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
         "isHot": true,
@@ -69,8 +69,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "Crystal Palace",
-        "team2Title": "Brighton & Hove Albion",
+        "team1Title": "Event Ended",
+        "team2Title": "Crystal Palace",
         "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "isHot": true,
@@ -90,8 +90,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-18 19:00:00",
-        "team1Title": "AFC Bournemouth",
-        "team2Title": "Sunderland",
+        "team1Title": "Event Ended",
+        "team2Title": "AFC Bournemouth",
         "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "isHot": true,

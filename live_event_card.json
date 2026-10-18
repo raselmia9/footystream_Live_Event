@@ -76,7 +76,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lecce-vs-udinese",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lecce-vs-udinese/2937"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -88,7 +93,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/como-vs-fiorentina",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/como-vs-fiorentina/2938"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -100,7 +110,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ac-milan-vs-atalanta",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2939"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-atalanta/2940"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -112,7 +131,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lazio-vs-juventus",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lazio-vs-juventus/2941"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lazio-vs-juventus/2942"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

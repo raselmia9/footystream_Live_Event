@@ -6,12 +6,12 @@
 🟡 Visiting detail page [2/33]: https://pogo.pk/events/manchester-united-vs-leeds-united
 🟡 Visiting detail page [1/33]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [3/33]: https://pogo.pk/events/como-vs-fiorentina
-🟢 Successfully processed: Premier League [2/33]
-🟡 Visiting detail page [4/33]: https://pogo.pk/events/crystal-palace-vs-brighton
-🟢 Successfully processed: Serie A [3/33]
 🟢 Successfully processed: Snooker [1/33]
-🟡 Visiting detail page [5/33]: https://pogo.pk/events/bournemouth-vs-sunderland
+🟡 Visiting detail page [4/33]: https://pogo.pk/events/crystal-palace-vs-brighton
+🟢 Successfully processed: Premier League [2/33]
+🟢 Successfully processed: Serie A [3/33]
 🟡 Visiting detail page [6/33]: https://pogo.pk/events/texans-vs-jaguars
+🟡 Visiting detail page [5/33]: https://pogo.pk/events/bournemouth-vs-sunderland
 🟢 Successfully processed: Premier League [4/33]
 🟡 Visiting detail page [7/33]: https://pogo.pk/events/alaves-vs-celta-vigo
 🟢 Successfully processed: NFL [6/33]

@@ -42,44 +42,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-18 20:15:00",
-        "team1Title": "Deportivo Alavés",
-        "team2Title": "Celta de Vigo",
-        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alaves-vs-celta-vigo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/alaves-vs-celta-vigo/2945"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/alaves-vs-celta-vigo/2946"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions Cup",
-        "matchTime": "2026-10-18 20:15:00",
-        "team1Title": "Exeter Chiefs",
-        "team2Title": "Toulouse",
-        "team1Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/exeter-chiefs-vs-toulouse",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/exeter-chiefs-vs-toulouse/2919"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-18 21:30:00",
         "team1Title": "Arsenal",
@@ -149,59 +111,6 @@
                 "url": "https://playerdee.top/alpha/real-sociedad-vs-malaga/2948"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-19 01:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Sevilla",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-sevilla",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2949"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2950"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2951"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2952"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-20 01:00:00",
-        "team1Title": "Getafe",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-22 00:00:00",
-        "team1Title": "Levante",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Champions Cup",
@@ -369,6 +278,59 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/parma-vs-torino",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-19 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Sevilla",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-sevilla",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2949"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2950"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2951"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-sevilla/2952"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-20 01:00:00",
+        "team1Title": "Getafe",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-22 00:00:00",
+        "team1Title": "Levante",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
         "multiWatchPageLink": []
     },
     {

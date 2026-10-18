@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 38
-🟡 Visiting detail page [2/38]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [1/38]: https://pogo.pk/events/shanghai-rolex-masters
+🟡 Visiting detail page [2/38]: https://pogo.pk/events/india-championship
 🟡 Visiting detail page [3/38]: https://pogo.pk/events/fiji-vs-cook-islands
-🟢 Successfully processed: PGA Tour [2/38]
 🟢 Successfully processed: Rugby League World Cup [3/38]
 🟡 Visiting detail page [4/38]: https://pogo.pk/events/snooker-northern-ireland-open
-🟡 Visiting detail page [5/38]: https://pogo.pk/events/lecce-vs-udinese
 🟢 Successfully processed: ATP Tour [1/38]
+🟡 Visiting detail page [5/38]: https://pogo.pk/events/lecce-vs-udinese
+🟢 Successfully processed: PGA Tour [2/38]
 🟡 Visiting detail page [6/38]: https://pogo.pk/events/como-vs-fiorentina
 🟢 Successfully processed: Serie A [5/38]
-🟢 Successfully processed: Serie A [6/38]
 🟡 Visiting detail page [7/38]: https://pogo.pk/events/ac-milan-vs-atalanta
+🟢 Successfully processed: Serie A [6/38]
 🟡 Visiting detail page [8/38]: https://pogo.pk/events/lazio-vs-juventus
 🟢 Successfully processed: Serie A [7/38]
 🟡 Visiting detail page [9/38]: https://pogo.pk/events/monza-vs-cagliari
@@ -25,16 +25,16 @@
 🟢 Successfully processed: Serie A [10/38]
 🟡 Visiting detail page [12/38]: https://pogo.pk/events/alaves-vs-celta-vigo
 🟢 Successfully processed: LaLiga [11/38]
-🟢 Successfully processed: LaLiga [12/38]
 🟡 Visiting detail page [13/38]: https://pogo.pk/events/real-sociedad-vs-malaga
+🟢 Successfully processed: LaLiga [12/38]
 🟡 Visiting detail page [14/38]: https://pogo.pk/events/real-madrid-vs-sevilla
 🟢 Successfully processed: LaLiga [13/38]
 🟡 Visiting detail page [15/38]: https://pogo.pk/events/getafe-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [14/38]
 🟡 Visiting detail page [16/38]: https://pogo.pk/events/levante-vs-athletic-club
-🟢 Successfully processed: LaLiga [16/38]
-🟡 Visiting detail page [17/38]: https://pogo.pk/events/leicester-tigers-vs-pau
 🟢 Successfully processed: LaLiga [15/38]
+🟡 Visiting detail page [17/38]: https://pogo.pk/events/leicester-tigers-vs-pau
+🟢 Successfully processed: LaLiga [16/38]
 🟡 Visiting detail page [18/38]: https://pogo.pk/events/exeter-chiefs-vs-toulouse
 🟢 Successfully processed: Snooker [4/38]
 🟡 Visiting detail page [19/38]: https://pogo.pk/events/northampton-vs-cardiff-rugby
@@ -77,7 +77,7 @@
 🟢 Successfully processed: Champions League [36/38]
 🟡 Visiting detail page [38/38]: https://pogo.pk/events/wolves-vs-portsmouth
 🟢 Successfully processed: Champions League [37/38]
-🟢 Successfully processed: EFL [38/38]
 🟢 Successfully processed: NFL [31/38]
+🟢 Successfully processed: EFL [38/38]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 38

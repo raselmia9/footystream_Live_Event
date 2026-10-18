@@ -4,23 +4,23 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 35
 🟡 Visiting detail page [2/35]: https://pogo.pk/events/racing-santander-vs-osasuna
-🟡 Visiting detail page [3/35]: https://pogo.pk/events/leicester-tigers-vs-pau
 🟡 Visiting detail page [1/35]: https://pogo.pk/events/snooker-northern-ireland-open
+🟡 Visiting detail page [3/35]: https://pogo.pk/events/leicester-tigers-vs-pau
 🟢 Successfully processed: Champions Cup [3/35]
+🟢 Successfully processed: Snooker [1/35]
 🟡 Visiting detail page [4/35]: https://pogo.pk/events/harlequins-vs-vannes
 🟢 Successfully processed: LaLiga [2/35]
-🟢 Successfully processed: Snooker [1/35]
 🟡 Visiting detail page [5/35]: https://pogo.pk/events/manchester-united-vs-leeds-united
 🟡 Visiting detail page [6/35]: https://pogo.pk/events/como-vs-fiorentina
-🟢 Successfully processed: Challenge Cup [4/35]
-🟡 Visiting detail page [7/35]: https://pogo.pk/events/crystal-palace-vs-brighton
 🟢 Successfully processed: Premier League [5/35]
-🟡 Visiting detail page [8/35]: https://pogo.pk/events/bournemouth-vs-sunderland
 🟢 Successfully processed: Serie A [6/35]
+🟡 Visiting detail page [8/35]: https://pogo.pk/events/bournemouth-vs-sunderland
+🟡 Visiting detail page [7/35]: https://pogo.pk/events/crystal-palace-vs-brighton
+🟢 Successfully processed: Challenge Cup [4/35]
 🟡 Visiting detail page [9/35]: https://pogo.pk/events/texans-vs-jaguars
+🟢 Successfully processed: Premier League [8/35]
 🟢 Successfully processed: Premier League [7/35]
 🟡 Visiting detail page [10/35]: https://pogo.pk/events/alaves-vs-celta-vigo
-🟢 Successfully processed: Premier League [8/35]
 🟡 Visiting detail page [11/35]: https://pogo.pk/events/real-sociedad-vs-malaga
 🟢 Successfully processed: NFL [9/35]
 🟡 Visiting detail page [12/35]: https://pogo.pk/events/real-madrid-vs-sevilla
@@ -68,9 +68,9 @@
 🟡 Visiting detail page [33/35]: https://pogo.pk/events/roma-vs-slovan-bratislava
 🟢 Successfully processed: NFL [27/35]
 🟡 Visiting detail page [34/35]: https://pogo.pk/events/barcelona-vs-psg
-🟢 Successfully processed: NFL [28/35]
-🟡 Visiting detail page [35/35]: https://pogo.pk/events/wolves-vs-portsmouth
 🟢 Successfully processed: Champions League [33/35]
+🟡 Visiting detail page [35/35]: https://pogo.pk/events/wolves-vs-portsmouth
+🟢 Successfully processed: NFL [28/35]
 🟢 Successfully processed: Champions League [34/35]
 🟢 Successfully processed: EFL [35/35]
 🟢 Browser closed successfully.

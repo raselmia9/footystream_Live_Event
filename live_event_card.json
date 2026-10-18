@@ -23,8 +23,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Racing Santander",
-        "team2Title": "Osasuna",
+        "team1Title": "Event Ended",
+        "team2Title": "Racing Santander",
         "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "isHot": true,
@@ -44,8 +44,8 @@
     {
         "eventTitle": "Champions Cup",
         "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Leicester Tigers",
-        "team2Title": "Section Paloise",
+        "team1Title": "Event Ended",
+        "team2Title": "Leicester Tigers",
         "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/section-paloise/logo.webp",
         "isHot": true,
@@ -61,8 +61,8 @@
     {
         "eventTitle": "Challenge Cup",
         "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Harlequins",
-        "team2Title": "Rugby Club Vannes",
+        "team1Title": "Event Ended",
+        "team2Title": "Harlequins",
         "team1Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rugby-club-vannes/logo.webp",
         "isHot": true,

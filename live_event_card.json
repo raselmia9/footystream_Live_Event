@@ -165,18 +165,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-20 00:45:00",
-        "team1Title": "Parma",
-        "team2Title": "Torino",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-torino",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-18 18:00:00",
         "team1Title": "Racing Santander",
@@ -222,18 +210,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-madrid-vs-sevilla",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-20 01:00:00",
-        "team1Title": "Getafe",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
         "multiWatchPageLink": []
     },
     {
@@ -296,23 +272,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/northampton-vs-cardiff-rugby/2920"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Challenge Cup",
-        "matchTime": "2026-10-18 18:00:00",
-        "team1Title": "Harlequins",
-        "team2Title": "Rugby Club Vannes",
-        "team1Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rugby-club-vannes/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/harlequins-vs-vannes",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/harlequins-vs-vannes/2916"
             }
         ]
     },
@@ -544,18 +503,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/roma-vs-slovan-bratislava",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "PSG",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-psg",
         "multiWatchPageLink": []
     },
     {

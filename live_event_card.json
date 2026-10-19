@@ -21,6 +21,31 @@
         ]
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-20 06:15:00",
+        "team1Title": "Washington Commanders",
+        "team2Title": "San Francisco 49ers",
+        "team1Logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/commanders-vs-49ers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/commanders-vs-49ers/2974"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/commanders-vs-49ers/2975"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/commanders-vs-49ers/2976"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-20 22:45:00",
         "team1Title": "Borussia Dortmund",

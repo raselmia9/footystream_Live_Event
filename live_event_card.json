@@ -21,31 +21,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-19 06:20:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Dallas Cowboys",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cowboys-vs-packers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/cowboys-vs-packers/2934"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/cowboys-vs-packers/2935"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/cowboys-vs-packers/2936"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-19 22:30:00",
         "team1Title": "Monza",

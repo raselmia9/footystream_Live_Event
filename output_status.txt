@@ -3,33 +3,33 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/monza-vs-cagliari
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/parma-vs-torino
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: Serie A [3/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/getafe-vs-rayo-vallecano
 🟢 Successfully processed: Serie A [2/14]
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/getafe-vs-rayo-vallecano
 🟡 Visiting detail page [5/14]: https://pogo.pk/events/levante-vs-athletic-club
 🟢 Successfully processed: LaLiga [4/14]
-🟡 Visiting detail page [6/14]: https://pogo.pk/events/spurs-vs-coventry-city
 🟢 Successfully processed: LaLiga [5/14]
 🟡 Visiting detail page [7/14]: https://pogo.pk/events/borussia-dortmund-vs-sabah
-🟢 Successfully processed: Premier League [6/14]
-🟡 Visiting detail page [8/14]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
+🟡 Visiting detail page [6/14]: https://pogo.pk/events/spurs-vs-coventry-city
 🟢 Successfully processed: Champions League [7/14]
+🟡 Visiting detail page [8/14]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
+🟢 Successfully processed: Premier League [6/14]
 🟡 Visiting detail page [9/14]: https://pogo.pk/events/porto-vs-psv
 🟢 Successfully processed: Champions League [8/14]
 🟡 Visiting detail page [10/14]: https://pogo.pk/events/napoli-vs-bodo-glimt
 🟢 Successfully processed: Champions League [9/14]
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/roma-vs-slovan-bratislava
-🟢 Successfully processed: Champions League [10/14]
-🟡 Visiting detail page [12/14]: https://pogo.pk/events/barcelona-vs-psg
-🟢 Successfully processed: Champions League [11/14]
-🟡 Visiting detail page [13/14]: https://pogo.pk/events/wolves-vs-portsmouth
-🟢 Successfully processed: Champions League [12/14]
-🟡 Visiting detail page [14/14]: https://pogo.pk/events/reading-vs-leyton-orient
-🟢 Successfully processed: EFL [13/14]
 🟢 Successfully processed: Snooker [1/14]
+🟡 Visiting detail page [12/14]: https://pogo.pk/events/barcelona-vs-psg
+🟢 Successfully processed: Champions League [10/14]
+🟡 Visiting detail page [13/14]: https://pogo.pk/events/wolves-vs-portsmouth
+🟢 Successfully processed: Champions League [11/14]
+🟡 Visiting detail page [14/14]: https://pogo.pk/events/reading-vs-leyton-orient
+🟢 Successfully processed: Champions League [12/14]
+🟢 Successfully processed: EFL [13/14]
 🟢 Successfully processed: EFL [14/14]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 14

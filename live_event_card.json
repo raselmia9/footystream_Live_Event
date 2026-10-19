@@ -23,8 +23,8 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-10-19 06:20:00",
-        "team1Title": "Dallas Cowboys",
-        "team2Title": "Green Bay Packers",
+        "team1Title": "Event Ended",
+        "team2Title": "Dallas Cowboys",
         "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
         "isHot": true,

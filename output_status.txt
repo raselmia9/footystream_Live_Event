@@ -16,13 +16,13 @@
 🟡 Visiting detail page [7/15]: https://pogo.pk/events/spurs-vs-coventry-city
 🟢 Successfully processed: Premier League [7/15]
 🟡 Visiting detail page [8/15]: https://pogo.pk/events/borussia-dortmund-vs-sabah
-🟢 Successfully processed: Snooker [1/15]
-🟡 Visiting detail page [9/15]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
-🟢 Successfully processed: NFL [2/15]
-🟡 Visiting detail page [10/15]: https://pogo.pk/events/porto-vs-psv
 🟢 Successfully processed: Champions League [8/15]
-🟡 Visiting detail page [11/15]: https://pogo.pk/events/napoli-vs-bodo-glimt
+🟡 Visiting detail page [9/15]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
 🟢 Successfully processed: Champions League [9/15]
+🟡 Visiting detail page [10/15]: https://pogo.pk/events/porto-vs-psv
+🟢 Successfully processed: Snooker [1/15]
+🟡 Visiting detail page [11/15]: https://pogo.pk/events/napoli-vs-bodo-glimt
+🟢 Successfully processed: NFL [2/15]
 🟡 Visiting detail page [12/15]: https://pogo.pk/events/roma-vs-slovan-bratislava
 🟢 Successfully processed: Champions League [10/15]
 🟡 Visiting detail page [13/15]: https://pogo.pk/events/barcelona-vs-psg

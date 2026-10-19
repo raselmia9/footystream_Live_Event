@@ -63,18 +63,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-22 00:00:00",
-        "team1Title": "Levante",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-20 01:00:00",
         "team1Title": "Tottenham Hotspur",
@@ -197,6 +185,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-22 00:00:00",
+        "team1Title": "Levante",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
         "multiWatchPageLink": []
     }
 ]

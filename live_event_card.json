@@ -47,7 +47,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/parma-vs-torino",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/parma-vs-torino/2969"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -59,7 +64,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/getafe-vs-rayo-vallecano/2966"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/getafe-vs-rayo-vallecano/2967"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/getafe-vs-rayo-vallecano/2968"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -83,7 +101,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/spurs-vs-coventry-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/spurs-vs-coventry-city/2970"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/spurs-vs-coventry-city/2971"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/spurs-vs-coventry-city/2972"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/spurs-vs-coventry-city/2973"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

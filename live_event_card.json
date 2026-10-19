@@ -23,8 +23,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-19 22:30:00",
-        "team1Title": "Monza",
-        "team2Title": "Cagliari",
+        "team1Title": "Event Ended",
+        "team2Title": "Monza",
         "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
         "isHot": true,
@@ -130,6 +130,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-sabah",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-20 22:45:00",
+        "team1Title": "Fenerbahçe",
+        "team2Title": "Slavia Praha",
+        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/fenerbahce-vs-slavia-praha",
         "multiWatchPageLink": []
     },
     {

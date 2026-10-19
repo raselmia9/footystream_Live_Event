@@ -30,7 +30,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/monza-vs-cagliari",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/monza-vs-cagliari/2965"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

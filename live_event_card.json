@@ -71,18 +71,6 @@
     },
     {
         "eventTitle": "LaLiga",
-        "matchTime": "2026-10-20 01:00:00",
-        "team1Title": "Getafe",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/getafe-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
         "matchTime": "2026-10-22 00:00:00",
         "team1Title": "Levante",
         "team2Title": "Athletic Club",
@@ -108,18 +96,6 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-20 22:45:00",
-        "team1Title": "Borussia Dortmund",
-        "team2Title": "Sabah Baku",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-sabah",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-20 22:45:00",
         "team1Title": "Fenerbahçe",
         "team2Title": "Slavia Praha",
         "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
@@ -127,30 +103,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/fenerbahce-vs-slavia-praha",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "Porto",
-        "team2Title": "PSV",
-        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/porto-vs-psv",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "Napoli",
-        "team2Title": "FK Bodo Glimt",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/napoli-vs-bodo-glimt",
         "multiWatchPageLink": []
     },
     {

@@ -4,26 +4,29 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 11
 🟡 Visiting detail page [2/11]: https://pogo.pk/events/commanders-vs-49ers
-🟡 Visiting detail page [3/11]: https://pogo.pk/events/borussia-dortmund-vs-sabah
 🟡 Visiting detail page [1/11]: https://pogo.pk/events/snooker-northern-ireland-open
+🟡 Visiting detail page [3/11]: https://pogo.pk/events/borussia-dortmund-vs-sabah
 🟢 Successfully processed: Champions League [3/11]
 🟡 Visiting detail page [4/11]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
-🟢 Successfully processed: Champions League [4/11]
+🟢 Successfully processed: Snooker [1/11]
 🟡 Visiting detail page [5/11]: https://pogo.pk/events/porto-vs-psv
 🟢 Successfully processed: Champions League [5/11]
 🟡 Visiting detail page [6/11]: https://pogo.pk/events/napoli-vs-bodo-glimt
-🟢 Successfully processed: Champions League [6/11]
+🔴 ERROR on detail page https://pogo.pk/events/fenerbahce-vs-slavia-praha: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/fenerbahce-vs-slavia-praha", waiting until "load"
+
 🟡 Visiting detail page [7/11]: https://pogo.pk/events/roma-vs-slovan-bratislava
 🟢 Successfully processed: Champions League [7/11]
 🟡 Visiting detail page [8/11]: https://pogo.pk/events/barcelona-vs-psg
-🟢 Successfully processed: Snooker [1/11]
-🟡 Visiting detail page [9/11]: https://pogo.pk/events/wolves-vs-portsmouth
 🟢 Successfully processed: NFL [2/11]
-🟡 Visiting detail page [10/11]: https://pogo.pk/events/reading-vs-leyton-orient
-🟢 Successfully processed: Champions League [8/11]
-🟡 Visiting detail page [11/11]: https://pogo.pk/events/levante-vs-athletic-club
+🟡 Visiting detail page [9/11]: https://pogo.pk/events/wolves-vs-portsmouth
 🟢 Successfully processed: EFL [9/11]
+🟡 Visiting detail page [10/11]: https://pogo.pk/events/reading-vs-leyton-orient
+🟢 Successfully processed: Champions League [6/11]
+🟡 Visiting detail page [11/11]: https://pogo.pk/events/levante-vs-athletic-club
+🟢 Successfully processed: Champions League [8/11]
 🟢 Successfully processed: EFL [10/11]
 🟢 Successfully processed: LaLiga [11/11]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 11
+🟢 Process completed successfully. Total collected events: 10

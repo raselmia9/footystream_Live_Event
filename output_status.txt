@@ -18,12 +18,12 @@
 🟡 Visiting detail page [8/11]: https://pogo.pk/events/barcelona-vs-psg
 🟢 Successfully processed: Champions League [8/11]
 🟡 Visiting detail page [9/11]: https://pogo.pk/events/wolves-vs-portsmouth
-🟢 Successfully processed: EFL [9/11]
-🟡 Visiting detail page [10/11]: https://pogo.pk/events/reading-vs-leyton-orient
 🟢 Successfully processed: Snooker [1/11]
-🟡 Visiting detail page [11/11]: https://pogo.pk/events/levante-vs-athletic-club
+🟡 Visiting detail page [10/11]: https://pogo.pk/events/reading-vs-leyton-orient
 🟢 Successfully processed: NFL [2/11]
-🟢 Successfully processed: EFL [10/11]
+🟡 Visiting detail page [11/11]: https://pogo.pk/events/levante-vs-athletic-club
+🟢 Successfully processed: EFL [9/11]
 🟢 Successfully processed: LaLiga [11/11]
+🟢 Successfully processed: EFL [10/11]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 11

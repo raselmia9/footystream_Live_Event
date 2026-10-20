@@ -2,34 +2,38 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [3/14]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
-🟡 Visiting detail page [2/14]: https://pogo.pk/events/borussia-dortmund-vs-sabah
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/snooker-northern-ireland-open
-🟢 Successfully processed: Champions League [3/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/world-gymnastics-championship
-🟢 Successfully processed: Snooker [1/14]
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/wolves-vs-portsmouth
-🟢 Successfully processed: Champions League [2/14]
-🟡 Visiting detail page [6/14]: https://pogo.pk/events/gillingham-vs-port-vale
-🟢 Successfully processed: EFL [5/14]
-🟡 Visiting detail page [7/14]: https://pogo.pk/events/reading-vs-leyton-orient
-🟢 Successfully processed: EFL [7/14]
-🟡 Visiting detail page [8/14]: https://pogo.pk/events/porto-vs-psv
-🟢 Successfully processed: Champions League [8/14]
-🟡 Visiting detail page [9/14]: https://pogo.pk/events/napoli-vs-bodo-glimt
-🟢 Successfully processed: Champions League [9/14]
-🟡 Visiting detail page [10/14]: https://pogo.pk/events/roma-vs-slovan-bratislava
-🟢 Successfully processed: Gymnastics [4/14]
-🟡 Visiting detail page [11/14]: https://pogo.pk/events/barcelona-vs-psg
-🟢 Successfully processed: EFL [6/14]
-🟡 Visiting detail page [12/14]: https://pogo.pk/events/liverpool-vs-villarreal
-🟢 Successfully processed: Champions League [10/14]
-🟡 Visiting detail page [13/14]: https://pogo.pk/events/manchester-city-vs-athens
-🟢 Successfully processed: Champions League [11/14]
-🟡 Visiting detail page [14/14]: https://pogo.pk/events/levante-vs-athletic-club
-🟢 Successfully processed: Champions League [13/14]
-🟢 Successfully processed: Champions League [12/14]
-🟢 Successfully processed: LaLiga [14/14]
+🟢 Total unique detail links to process in parallel: 16
+🟡 Visiting detail page [2/16]: https://pogo.pk/events/liverpool-vs-villarreal
+🟡 Visiting detail page [1/16]: https://pogo.pk/events/barcelona-vs-psg
+🟡 Visiting detail page [3/16]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: Champions League [1/16]
+🟡 Visiting detail page [4/16]: https://pogo.pk/events/borussia-dortmund-vs-sabah
+🟢 Successfully processed: Champions League [2/16]
+🟢 Successfully processed: Snooker [3/16]
+🟡 Visiting detail page [5/16]: https://pogo.pk/events/fenerbahce-vs-slavia-praha
+🟡 Visiting detail page [6/16]: https://pogo.pk/events/world-gymnastics-championship
+🟢 Successfully processed: Champions League [4/16]
+🟡 Visiting detail page [7/16]: https://pogo.pk/events/wolves-vs-portsmouth
+🟢 Successfully processed: Champions League [5/16]
+🟡 Visiting detail page [8/16]: https://pogo.pk/events/gillingham-vs-port-vale
+🟢 Successfully processed: Gymnastics [6/16]
+🟡 Visiting detail page [9/16]: https://pogo.pk/events/reading-vs-leyton-orient
+🟢 Successfully processed: EFL [9/16]
+🟡 Visiting detail page [10/16]: https://pogo.pk/events/porto-vs-psv
+🟢 Successfully processed: Champions League [10/16]
+🟡 Visiting detail page [11/16]: https://pogo.pk/events/napoli-vs-bodo-glimt
+🟢 Successfully processed: Champions League [11/16]
+🟡 Visiting detail page [12/16]: https://pogo.pk/events/roma-vs-slovan-bratislava
+🟢 Successfully processed: Champions League [12/16]
+🟡 Visiting detail page [13/16]: https://pogo.pk/events/manchester-city-vs-athens
+🟢 Successfully processed: EFL [7/16]
+🟡 Visiting detail page [14/16]: https://pogo.pk/events/stuttgart-vs-atletico-madrid
+🟢 Successfully processed: EFL [8/16]
+🟡 Visiting detail page [15/16]: https://pogo.pk/events/manchester-united-vs-como
+🟢 Successfully processed: Champions League [14/16]
+🟡 Visiting detail page [16/16]: https://pogo.pk/events/levante-vs-athletic-club
+🟢 Successfully processed: Champions League [15/16]
+🟢 Successfully processed: LaLiga [16/16]
+🟢 Successfully processed: Champions League [13/16]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 14
+🟢 Process completed successfully. Total collected events: 16

@@ -54,6 +54,27 @@
         ]
     },
     {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "AEK Athens",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-athens",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-athens/2996"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-athens/2997"
+            }
+        ]
+    },
+    {
         "eventTitle": "Snooker",
         "matchTime": "2026-10-18 15:00:00",
         "team1Title": "Snooker Northern Ireland Open",
@@ -197,7 +218,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/porto-vs-psv",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/porto-vs-psv/3001"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -226,27 +252,6 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "Manchester City",
-        "team2Title": "AEK Athens",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-city-vs-athens",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-athens/2996"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-athens/2997"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
         "team1Title": "Stuttgart",
         "team2Title": "Atlético Madrid",
         "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
@@ -254,7 +259,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/stuttgart-vs-atletico-madrid",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-atletico-madrid/2998"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-atletico-madrid/2999"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-atletico-madrid/3000"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -266,6 +284,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-como",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 22:45:00",
+        "team1Title": "Lille",
+        "team2Title": "Galatasaray",
+        "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lille-vs-galatasaray",
         "multiWatchPageLink": []
     },
     {

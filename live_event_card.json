@@ -59,6 +59,18 @@
     },
     {
         "eventTitle": "Champions League",
+        "matchTime": "2026-10-20 22:45:00",
+        "team1Title": "Fenerbahçe",
+        "team2Title": "Slavia Praha",
+        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/fenerbahce-vs-slavia-praha",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
         "matchTime": "2026-10-21 01:00:00",
         "team1Title": "Porto",
         "team2Title": "PSV",

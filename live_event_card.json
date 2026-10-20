@@ -100,52 +100,6 @@
         ]
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-20 22:45:00",
-        "team1Title": "Borussia Dortmund",
-        "team2Title": "Sabah Baku",
-        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-sabah",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-sabah/2984"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-sabah/2985"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-sabah/2986"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-20 22:45:00",
-        "team1Title": "Fenerbahçe",
-        "team2Title": "Slavia Praha",
-        "team1Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/fenerbahce-vs-slavia-praha",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/fenerbahce-vs-slavia-praha/2981"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/fenerbahce-vs-slavia-praha/2987"
-            }
-        ]
-    },
-    {
         "eventTitle": "Gymnastics",
         "matchTime": "2026-10-21 00:00:00",
         "team1Title": "World Gymnastics Championship",
@@ -255,6 +209,27 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Gillingham",
+        "team2Title": "Port Vale",
+        "team1Logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/port-vale/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/gillingham-vs-port-vale",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2978"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2979"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-21 01:00:00",
         "team1Title": "Stuttgart",
@@ -304,36 +279,51 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "Gillingham",
-        "team2Title": "Port Vale",
-        "team1Logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/port-vale/logo.webp",
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/gillingham-vs-port-vale",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2978"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2979"
-            }
-        ]
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-rb-leipzig",
+        "multiWatchPageLink": []
     },
     {
-        "eventTitle": "EFL",
+        "eventTitle": "Champions League",
         "matchTime": "2026-10-22 01:00:00",
-        "team1Title": "Reading",
-        "team2Title": "Leyton Orient",
-        "team1Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
+        "team1Title": "Inter Milan",
+        "team2Title": "Shakhtar Donetsk",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "LASK",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-lask",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Viking",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/aston-villa-vs-viking",
         "multiWatchPageLink": []
     },
     {
@@ -346,6 +336,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Reading",
+        "team2Title": "Leyton Orient",
+        "team1Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
         "multiWatchPageLink": []
     }
 ]

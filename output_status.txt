@@ -14,9 +14,9 @@
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/roma-vs-slovan-bratislava
 🟢 Successfully processed: Champions League [5/12]
 🟡 Visiting detail page [7/12]: https://pogo.pk/events/barcelona-vs-psg
-🟢 Successfully processed: Champions League [6/12]
-🟡 Visiting detail page [8/12]: https://pogo.pk/events/world-gymnastics-championship
 🟢 Successfully processed: Champions League [7/12]
+🟡 Visiting detail page [8/12]: https://pogo.pk/events/world-gymnastics-championship
+🟢 Successfully processed: Champions League [6/12]
 🟡 Visiting detail page [9/12]: https://pogo.pk/events/wolves-vs-portsmouth
 🟢 Successfully processed: EFL [9/12]
 🟡 Visiting detail page [10/12]: https://pogo.pk/events/gillingham-vs-port-vale

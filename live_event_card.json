@@ -180,39 +180,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "Gillingham",
-        "team2Title": "Port Vale",
-        "team1Logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/port-vale/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/gillingham-vs-port-vale",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2978"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2979"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-22 01:00:00",
-        "team1Title": "Reading",
-        "team2Title": "Leyton Orient",
-        "team1Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-21 01:00:00",
         "team1Title": "Porto",
@@ -334,6 +301,39 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lille-vs-galatasaray",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Gillingham",
+        "team2Title": "Port Vale",
+        "team1Logo": "https://cdn.img4every1.org/team/gillingham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/port-vale/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/gillingham-vs-port-vale",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2978"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/gillingham-vs-port-vale/2979"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Reading",
+        "team2Title": "Leyton Orient",
+        "team1Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
         "multiWatchPageLink": []
     },
     {

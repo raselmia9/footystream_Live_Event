@@ -30,7 +30,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-sabah",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-sabah/2984"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-sabah/2985"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-sabah/2986"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -42,7 +55,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/fenerbahce-vs-slavia-praha",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/fenerbahce-vs-slavia-praha/2981"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/fenerbahce-vs-slavia-praha/2987"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

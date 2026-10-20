@@ -67,54 +67,6 @@
         ]
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "Porto",
-        "team2Title": "PSV",
-        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/porto-vs-psv",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "Napoli",
-        "team2Title": "FK Bodo Glimt",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/napoli-vs-bodo-glimt",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Slovan Bratislava",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-slovan-bratislava",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 01:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "PSG",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-psg",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Gymnastics",
         "matchTime": "2026-10-21 00:00:00",
         "team1Title": "World Gymnastics Championship",
@@ -174,6 +126,78 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Porto",
+        "team2Title": "PSV",
+        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/porto-vs-psv",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Napoli",
+        "team2Title": "FK Bodo Glimt",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-bodo-glimt",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Slovan Bratislava",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-slovan-bratislava",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "PSG",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-psg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 01:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "AEK Athens",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-athens",
         "multiWatchPageLink": []
     },
     {

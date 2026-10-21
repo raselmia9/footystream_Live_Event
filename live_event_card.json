@@ -108,68 +108,6 @@
         ]
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Manchester United",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-united-vs-como",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3011"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3012"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3013"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3014"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3015"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3019"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-21 22:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Lille",
-        "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lille-vs-galatasaray",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lille-vs-galatasaray/3016"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lille-vs-galatasaray/3017"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/lille-vs-galatasaray/3018"
-            }
-        ]
-    },
-    {
         "eventTitle": "Gymnastics",
         "matchTime": "2026-10-22 00:00:00",
         "team1Title": "World Gymnastics Championship",
@@ -275,6 +213,18 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Reading",
+        "team2Title": "Leyton Orient",
+        "team1Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-22 01:00:00",
         "team1Title": "Real Betis",
@@ -298,42 +248,6 @@
                 "url": "https://playerdee.top/alpha/real-betis-vs-feyenoord/3049"
             }
         ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-22 01:00:00",
-        "team1Title": "Reading",
-        "team2Title": "Leyton Orient",
-        "team1Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leyton-orient/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-24 01:00:00",
-        "team1Title": "Bolton Wanderers",
-        "team2Title": "Middlesbrough",
-        "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bolton-wanderers-vs-middlesbrough",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-24 17:30:00",
-        "team1Title": "Norwich City",
-        "team2Title": "Charlton Athletic",
-        "team1Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/norwich-city-vs-charlton-athletic",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "PGA Tour",
@@ -656,6 +570,42 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 19:00:00",
+        "team1Title": "Getafe",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/getafe-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-24 01:00:00",
+        "team1Title": "Bolton Wanderers",
+        "team2Title": "Middlesbrough",
+        "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bolton-wanderers-vs-middlesbrough",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-24 17:30:00",
+        "team1Title": "Norwich City",
+        "team2Title": "Charlton Athletic",
+        "team1Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/norwich-city-vs-charlton-athletic",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-24 01:00:00",
         "team1Title": "Nottingham Forest",
@@ -713,6 +663,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-tottenham-hotspur",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-25 20:00:00",
+        "team1Title": "Brentford",
+        "team2Title": "Hull City",
+        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brentford-vs-hull-city",
         "multiWatchPageLink": []
     },
     {

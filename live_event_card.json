@@ -108,23 +108,6 @@
         ]
     },
     {
-        "eventTitle": "Gymnastics",
-        "matchTime": "2026-10-22 00:00:00",
-        "team1Title": "World Gymnastics Championship",
-        "team2Title": "Gymnastics",
-        "team1Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/world-gymnastics-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/world-gymnastics-championship/2977"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-22 00:00:00",
         "team1Title": "Levante",
@@ -271,6 +254,23 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/pga-lpga-golf/3029"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Gymnastics",
+        "matchTime": "2026-10-22 22:00:00",
+        "team1Title": "World Gymnastics Championship",
+        "team2Title": "Gymnastics",
+        "team1Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/world-gymnastics-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/world-gymnastics-championship/2977"
             }
         ]
     },

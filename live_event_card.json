@@ -160,6 +160,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-24 01:00:00",
+        "team1Title": "Deportivo Alavés",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/alaves-vs-malaga",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-22 01:00:00",
         "team1Title": "Reading",
@@ -169,6 +181,124 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-22 22:45:00",
+        "team1Title": "Juventus",
+        "team2Title": "Rennes",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/juventus-vs-rennes",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-22 22:45:00",
+        "team1Title": "Sunderland",
+        "team2Title": "Lech Poznan",
+        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sunderland-vs-lech-poznan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-22 22:45:00",
+        "team1Title": "OFI",
+        "team2Title": "Bayer Leverkusen",
+        "team1Logo": "https://cdn.img4every1.org/team/ofi/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ofi-vs-bayer-leverkusen",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-22 22:45:00",
+        "team1Title": "Sturm Graz",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sturm-graz/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/marseille-vs-sturm-graz",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-23 01:00:00",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "AC Milan",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bournemouth-vs-milan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-23 01:00:00",
+        "team1Title": "Celtic",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/celtic-vs-celta-vigo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-10-22 22:45:00",
+        "team1Title": "Brighton & Hove Albion",
+        "team2Title": "Jablonec",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jablonec/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brighton-vs-jablonec",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brighton-vs-jablonec/3020"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-10-22 22:45:00",
+        "team1Title": "Hearts",
+        "team2Title": "Trabzonspor",
+        "team1Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/trabzonspor/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hearts-vs-trabzonspor",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hearts-vs-trabzonspor/3021"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 01:00:00",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/nottm-forest-vs-ipswich",
         "multiWatchPageLink": []
     }
 ]

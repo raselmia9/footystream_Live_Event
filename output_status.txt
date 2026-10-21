@@ -2,26 +2,46 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 10
-🟡 Visiting detail page [1/10]: https://pogo.pk/events/snooker-northern-ireland-open
-🟡 Visiting detail page [2/10]: https://pogo.pk/events/manchester-united-vs-como
-🟡 Visiting detail page [3/10]: https://pogo.pk/events/lille-vs-galatasaray
-🟢 Successfully processed: Champions League [2/10]
-🟡 Visiting detail page [4/10]: https://pogo.pk/events/real-madrid-vs-rb-leipzig
-🟢 Successfully processed: Snooker [1/10]
-🟡 Visiting detail page [5/10]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
-🟢 Successfully processed: Champions League [3/10]
-🟡 Visiting detail page [6/10]: https://pogo.pk/events/sporting-cp-vs-lask
-🟢 Successfully processed: Champions League [4/10]
-🟡 Visiting detail page [7/10]: https://pogo.pk/events/aston-villa-vs-viking
-🟢 Successfully processed: Champions League [5/10]
-🟡 Visiting detail page [8/10]: https://pogo.pk/events/world-gymnastics-championship
-🟢 Successfully processed: Champions League [7/10]
-🟡 Visiting detail page [9/10]: https://pogo.pk/events/levante-vs-athletic-club
-🟢 Successfully processed: Champions League [6/10]
-🟡 Visiting detail page [10/10]: https://pogo.pk/events/reading-vs-leyton-orient
-🟢 Successfully processed: LaLiga [9/10]
-🟢 Successfully processed: EFL [10/10]
-🟢 Successfully processed: Gymnastics [8/10]
+🟢 Total unique detail links to process in parallel: 20
+🟡 Visiting detail page [2/20]: https://pogo.pk/events/manchester-united-vs-como
+🟡 Visiting detail page [3/20]: https://pogo.pk/events/lille-vs-galatasaray
+🟡 Visiting detail page [1/20]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: Champions League [3/20]
+🟢 Successfully processed: Snooker [1/20]
+🟡 Visiting detail page [4/20]: https://pogo.pk/events/real-madrid-vs-rb-leipzig
+🟡 Visiting detail page [5/20]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
+🟢 Successfully processed: Champions League [2/20]
+🟡 Visiting detail page [6/20]: https://pogo.pk/events/sporting-cp-vs-lask
+🟢 Successfully processed: Champions League [5/20]
+🟡 Visiting detail page [7/20]: https://pogo.pk/events/aston-villa-vs-viking
+🟢 Successfully processed: Champions League [4/20]
+🟡 Visiting detail page [8/20]: https://pogo.pk/events/world-gymnastics-championship
+🟢 Successfully processed: Champions League [6/20]
+🟡 Visiting detail page [9/20]: https://pogo.pk/events/levante-vs-athletic-club
+🟢 Successfully processed: Champions League [7/20]
+🟡 Visiting detail page [10/20]: https://pogo.pk/events/alaves-vs-malaga
+🟢 Successfully processed: LaLiga [9/20]
+🟡 Visiting detail page [11/20]: https://pogo.pk/events/reading-vs-leyton-orient
+🟢 Successfully processed: LaLiga [10/20]
+🟡 Visiting detail page [12/20]: https://pogo.pk/events/juventus-vs-rennes
+🟢 Successfully processed: EFL [11/20]
+🟡 Visiting detail page [13/20]: https://pogo.pk/events/sunderland-vs-lech-poznan
+🟢 Successfully processed: Europa League [12/20]
+🟡 Visiting detail page [14/20]: https://pogo.pk/events/ofi-vs-bayer-leverkusen
+🟢 Successfully processed: Europa League [13/20]
+🟡 Visiting detail page [15/20]: https://pogo.pk/events/marseille-vs-sturm-graz
+🟢 Successfully processed: Europa League [14/20]
+🟡 Visiting detail page [16/20]: https://pogo.pk/events/bournemouth-vs-milan
+🟢 Successfully processed: Europa League [15/20]
+🟡 Visiting detail page [17/20]: https://pogo.pk/events/celtic-vs-celta-vigo
+🟢 Successfully processed: Europa League [16/20]
+🟡 Visiting detail page [18/20]: https://pogo.pk/events/brighton-vs-jablonec
+🟢 Successfully processed: Europa League [17/20]
+🟡 Visiting detail page [19/20]: https://pogo.pk/events/hearts-vs-trabzonspor
+🟢 Successfully processed: Gymnastics [8/20]
+🟡 Visiting detail page [20/20]: https://pogo.pk/events/nottm-forest-vs-ipswich
+🟢 Successfully processed: Premier League [20/20]
+🟢 Successfully processed: Conference League [18/20]
+🟢 Successfully processed: Conference League [19/20]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 10
+🟢 Process completed successfully. Total collected events: 20

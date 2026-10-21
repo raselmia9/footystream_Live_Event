@@ -30,7 +30,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-como",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3011"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3012"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3013"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3014"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3015"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3019"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -42,7 +67,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lille-vs-galatasaray",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lille-vs-galatasaray/3016"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lille-vs-galatasaray/3017"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/lille-vs-galatasaray/3018"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

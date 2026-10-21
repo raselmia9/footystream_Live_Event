@@ -25,6 +25,10 @@
             {
                 "channel": "Link 4",
                 "url": "https://playerdee.top/alpha/real-madrid-vs-rb-leipzig/3038"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-rb-leipzig/3053"
             }
         ]
     },
@@ -75,6 +79,10 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/arsenal-vs-bayern/3034"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/arsenal-vs-bayern/3052"
             }
         ]
     },
@@ -315,7 +323,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lens-vs-club-brugge",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lens-vs-club-brugge/3050"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lens-vs-club-brugge/3051"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

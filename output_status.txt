@@ -3,38 +3,26 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 44
-🟡 Visiting detail page [3/44]: https://pogo.pk/events/lille-vs-galatasaray
 🟡 Visiting detail page [2/44]: https://pogo.pk/events/manchester-united-vs-como
+🟡 Visiting detail page [3/44]: https://pogo.pk/events/lille-vs-galatasaray
 🟡 Visiting detail page [1/44]: https://pogo.pk/events/snooker-northern-ireland-open
-🔴 ERROR on detail page https://pogo.pk/events/manchester-united-vs-como: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/manchester-united-vs-como", waiting until "load"
-
-🔴 ERROR on detail page https://pogo.pk/events/snooker-northern-ireland-open: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/snooker-northern-ireland-open", waiting until "load"
-
-🟡 Visiting detail page [5/44]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
-🟡 Visiting detail page [4/44]: https://pogo.pk/events/real-madrid-vs-rb-leipzig
 🟢 Successfully processed: Champions League [3/44]
+🟡 Visiting detail page [4/44]: https://pogo.pk/events/real-madrid-vs-rb-leipzig
+🟢 Successfully processed: Snooker [1/44]
+🟡 Visiting detail page [5/44]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
+🟢 Successfully processed: Champions League [2/44]
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/sporting-cp-vs-lask
-🟢 Successfully processed: Champions League [6/44]
+🟢 Successfully processed: Champions League [4/44]
 🟡 Visiting detail page [7/44]: https://pogo.pk/events/aston-villa-vs-viking
-🟢 Successfully processed: Champions League [7/44]
+🟢 Successfully processed: Champions League [5/44]
 🟡 Visiting detail page [8/44]: https://pogo.pk/events/world-gymnastics-championship
-🔴 ERROR on detail page https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk", waiting until "load"
-
-🔴 ERROR on detail page https://pogo.pk/events/real-madrid-vs-rb-leipzig: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/real-madrid-vs-rb-leipzig", waiting until "load"
-
+🟢 Successfully processed: Champions League [6/44]
 🟡 Visiting detail page [9/44]: https://pogo.pk/events/levante-vs-athletic-club
+🟢 Successfully processed: Champions League [7/44]
 🟡 Visiting detail page [10/44]: https://pogo.pk/events/alaves-vs-malaga
-🟢 Successfully processed: LaLiga [10/44]
 🟢 Successfully processed: LaLiga [9/44]
 🟡 Visiting detail page [11/44]: https://pogo.pk/events/elche-vs-rayo-vallecano
+🟢 Successfully processed: LaLiga [10/44]
 🟡 Visiting detail page [12/44]: https://pogo.pk/events/racing-vs-espanyol
 🟢 Successfully processed: Gymnastics [8/44]
 🟡 Visiting detail page [13/44]: https://pogo.pk/events/valencia-vs-villarreal
@@ -42,9 +30,9 @@ Call log:
 🟡 Visiting detail page [14/44]: https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [12/44]
 🟡 Visiting detail page [15/44]: https://pogo.pk/events/reading-vs-leyton-orient
-🟢 Successfully processed: LaLiga [14/44]
-🟡 Visiting detail page [16/44]: https://pogo.pk/events/bolton-wanderers-vs-middlesbrough
 🟢 Successfully processed: LaLiga [13/44]
+🟡 Visiting detail page [16/44]: https://pogo.pk/events/bolton-wanderers-vs-middlesbrough
+🟢 Successfully processed: LaLiga [14/44]
 🟡 Visiting detail page [17/44]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
 🟢 Successfully processed: EFL [15/44]
 🟡 Visiting detail page [18/44]: https://pogo.pk/events/pga-lpga-golf
@@ -58,11 +46,11 @@ Call log:
 🟡 Visiting detail page [22/44]: https://pogo.pk/events/marseille-vs-sturm-graz
 🟢 Successfully processed: Europa League [21/44]
 🟡 Visiting detail page [23/44]: https://pogo.pk/events/bournemouth-vs-milan
-🟢 Successfully processed: Europa League [22/44]
-🟡 Visiting detail page [24/44]: https://pogo.pk/events/celtic-vs-celta-vigo
-🟢 Successfully processed: Europa League [24/44]
-🟡 Visiting detail page [25/44]: https://pogo.pk/events/brighton-vs-jablonec
 🟢 Successfully processed: Europa League [23/44]
+🟡 Visiting detail page [24/44]: https://pogo.pk/events/celtic-vs-celta-vigo
+🟢 Successfully processed: Europa League [22/44]
+🟡 Visiting detail page [25/44]: https://pogo.pk/events/brighton-vs-jablonec
+🟢 Successfully processed: Europa League [24/44]
 🟡 Visiting detail page [26/44]: https://pogo.pk/events/hearts-vs-trabzonspor
 🟢 Successfully processed: PGA Tour [18/44]
 🟡 Visiting detail page [27/44]: https://pogo.pk/events/stuttgart-vs-borussia-mgladbach
@@ -74,13 +62,13 @@ Call log:
 🟡 Visiting detail page [30/44]: https://pogo.pk/events/toulouse-vs-troyes
 🟢 Successfully processed: Conference League [25/44]
 🟡 Visiting detail page [31/44]: https://pogo.pk/events/lens-vs-paris
-🟢 Successfully processed: Conference League [26/44]
-🟡 Visiting detail page [32/44]: https://pogo.pk/events/torino-vs-monza
 🟢 Successfully processed: French Ligue 1 [30/44]
+🟡 Visiting detail page [32/44]: https://pogo.pk/events/torino-vs-monza
+🟢 Successfully processed: Conference League [26/44]
 🟡 Visiting detail page [33/44]: https://pogo.pk/events/bologna-vs-cagliari
-🟢 Successfully processed: French Ligue 1 [31/44]
-🟡 Visiting detail page [34/44]: https://pogo.pk/events/como-vs-sassuolo
 🟢 Successfully processed: Serie A [32/44]
+🟡 Visiting detail page [34/44]: https://pogo.pk/events/como-vs-sassuolo
+🟢 Successfully processed: French Ligue 1 [31/44]
 🟡 Visiting detail page [35/44]: https://pogo.pk/events/roma-vs-napoli
 🟢 Successfully processed: Serie A [33/44]
 🟡 Visiting detail page [36/44]: https://pogo.pk/events/parma-vs-lazio
@@ -90,9 +78,9 @@ Call log:
 🟡 Visiting detail page [38/44]: https://pogo.pk/events/manchester-city-vs-aston-villa
 🟢 Successfully processed: Premier League [37/44]
 🟡 Visiting detail page [39/44]: https://pogo.pk/events/fulahm-vs-coventry-city
-🟢 Successfully processed: Premier League [38/44]
-🟡 Visiting detail page [40/44]: https://pogo.pk/events/arsenal-vs-everton
 🟢 Successfully processed: Premier League [39/44]
+🟡 Visiting detail page [40/44]: https://pogo.pk/events/arsenal-vs-everton
+🟢 Successfully processed: Premier League [38/44]
 🟡 Visiting detail page [41/44]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
 🟢 Successfully processed: Premier League [40/44]
 🟡 Visiting detail page [42/44]: https://pogo.pk/events/macarthur-vs-newcastle-jets
@@ -104,4 +92,4 @@ Call log:
 🟢 Successfully processed: A League [43/44]
 🟢 Successfully processed: A League [44/44]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 40
+🟢 Process completed successfully. Total collected events: 44

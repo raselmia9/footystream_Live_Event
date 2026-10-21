@@ -1,5 +1,63 @@
 [
     {
+        "eventTitle": "Snooker",
+        "matchTime": "2026-10-18 15:00:00",
+        "team1Title": "Snooker Northern Ireland Open",
+        "team2Title": "Snooker",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/snooker-northern-ireland-open",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/2913"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/2914"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-21 22:45:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Como",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-united-vs-como",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3011"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3012"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3013"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3014"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3015"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-como/3019"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-21 22:45:00",
         "team1Title": "Lille",
@@ -23,6 +81,30 @@
                 "url": "https://playerdee.top/alpha/lille-vs-galatasaray/3018"
             }
         ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-rb-leipzig",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Shakhtar Donetsk",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Champions League",

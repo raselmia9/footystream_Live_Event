@@ -33,7 +33,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-bayern",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-bayern/3032"
+            }
+        ]
     },
     {
         "eventTitle": "Snooker",
@@ -119,54 +124,6 @@
         ]
     },
     {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-22 01:00:00",
-        "team1Title": "Sporting CP",
-        "team2Title": "LASK",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-lask",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-22 01:00:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Viking",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/aston-villa-vs-viking",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-22 01:00:00",
-        "team1Title": "Lens",
-        "team2Title": "Club Brugge",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lens-vs-club-brugge",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-10-22 01:00:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Feyenoord",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-feyenoord",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Gymnastics",
         "matchTime": "2026-10-22 00:00:00",
         "team1Title": "World Gymnastics Championship",
@@ -193,7 +150,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/levante-vs-athletic-club/3030"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/levante-vs-athletic-club/3031"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -253,6 +219,54 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "LASK",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-lask",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Viking",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/aston-villa-vs-viking",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Lens",
+        "team2Title": "Club Brugge",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lens-vs-club-brugge",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-10-22 01:00:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Feyenoord",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-betis-vs-feyenoord",
         "multiWatchPageLink": []
     },
     {

@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 47
+🟡 Visiting detail page [2/47]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
 🟡 Visiting detail page [3/47]: https://pogo.pk/events/arsenal-vs-bayern
 🟡 Visiting detail page [1/47]: https://pogo.pk/events/real-madrid-vs-rb-leipzig
-🟡 Visiting detail page [2/47]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
-🟢 Successfully processed: Champions League [3/47]
-🟢 Successfully processed: Champions League [2/47]
 🟢 Successfully processed: Champions League [1/47]
-🟡 Visiting detail page [5/47]: https://pogo.pk/events/levante-vs-athletic-club
-🟡 Visiting detail page [6/47]: https://pogo.pk/events/sporting-cp-vs-lask
 🟡 Visiting detail page [4/47]: https://pogo.pk/events/snooker-northern-ireland-open
-🟢 Successfully processed: LaLiga [5/47]
+🟢 Successfully processed: Champions League [2/47]
+🟡 Visiting detail page [5/47]: https://pogo.pk/events/levante-vs-athletic-club
+🟢 Successfully processed: Champions League [3/47]
+🟡 Visiting detail page [6/47]: https://pogo.pk/events/sporting-cp-vs-lask
 🟢 Successfully processed: Snooker [4/47]
 🟡 Visiting detail page [7/47]: https://pogo.pk/events/aston-villa-vs-viking
+🟢 Successfully processed: LaLiga [5/47]
 🟡 Visiting detail page [8/47]: https://pogo.pk/events/lens-vs-club-brugge
 🟢 Successfully processed: Champions League [6/47]
 🟡 Visiting detail page [9/47]: https://pogo.pk/events/reading-vs-leyton-orient
@@ -30,15 +30,15 @@
 🟡 Visiting detail page [14/47]: https://pogo.pk/events/sunderland-vs-lech-poznan
 🟢 Successfully processed: Europa League [14/47]
 🟡 Visiting detail page [15/47]: https://pogo.pk/events/ofi-vs-bayer-leverkusen
-🟢 Successfully processed: Europa League [15/47]
-🟡 Visiting detail page [16/47]: https://pogo.pk/events/marseille-vs-sturm-graz
-🟢 Successfully processed: Europa League [16/47]
-🟡 Visiting detail page [17/47]: https://pogo.pk/events/bournemouth-vs-milan
 🟢 Successfully processed: PGA Tour [11/47]
-🟡 Visiting detail page [18/47]: https://pogo.pk/events/celtic-vs-celta-vigo
+🟡 Visiting detail page [16/47]: https://pogo.pk/events/marseille-vs-sturm-graz
 🟢 Successfully processed: Gymnastics [12/47]
-🟡 Visiting detail page [19/47]: https://pogo.pk/events/brighton-vs-jablonec
+🟡 Visiting detail page [17/47]: https://pogo.pk/events/bournemouth-vs-milan
+🟢 Successfully processed: Europa League [15/47]
+🟡 Visiting detail page [18/47]: https://pogo.pk/events/celtic-vs-celta-vigo
 🟢 Successfully processed: Europa League [17/47]
+🟡 Visiting detail page [19/47]: https://pogo.pk/events/brighton-vs-jablonec
+🟢 Successfully processed: Europa League [16/47]
 🟡 Visiting detail page [20/47]: https://pogo.pk/events/hearts-vs-trabzonspor
 🟢 Successfully processed: Europa League [18/47]
 🟡 Visiting detail page [21/47]: https://pogo.pk/events/stuttgart-vs-borussia-mgladbach
@@ -50,11 +50,11 @@
 🟡 Visiting detail page [24/47]: https://pogo.pk/events/toulouse-vs-troyes
 🟢 Successfully processed: French Ligue 1 [24/47]
 🟡 Visiting detail page [25/47]: https://pogo.pk/events/lens-vs-paris
-🟢 Successfully processed: Conference League [19/47]
-🟡 Visiting detail page [26/47]: https://pogo.pk/events/torino-vs-monza
-🟢 Successfully processed: French Ligue 1 [25/47]
-🟡 Visiting detail page [27/47]: https://pogo.pk/events/bologna-vs-cagliari
 🟢 Successfully processed: Conference League [20/47]
+🟡 Visiting detail page [26/47]: https://pogo.pk/events/torino-vs-monza
+🟢 Successfully processed: Conference League [19/47]
+🟡 Visiting detail page [27/47]: https://pogo.pk/events/bologna-vs-cagliari
+🟢 Successfully processed: French Ligue 1 [25/47]
 🟡 Visiting detail page [28/47]: https://pogo.pk/events/como-vs-sassuolo
 🟢 Successfully processed: Serie A [26/47]
 🟡 Visiting detail page [29/47]: https://pogo.pk/events/roma-vs-napoli
@@ -78,9 +78,9 @@
 🟡 Visiting detail page [38/47]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
 🟢 Successfully processed: EFL [37/47]
 🟡 Visiting detail page [39/47]: https://pogo.pk/events/nottm-forest-vs-ipswich
-🟢 Successfully processed: EFL [38/47]
-🟡 Visiting detail page [40/47]: https://pogo.pk/events/manchester-city-vs-aston-villa
 🟢 Successfully processed: Serie A [29/47]
+🟡 Visiting detail page [40/47]: https://pogo.pk/events/manchester-city-vs-aston-villa
+🟢 Successfully processed: EFL [38/47]
 🟡 Visiting detail page [41/47]: https://pogo.pk/events/fulahm-vs-coventry-city
 🟢 Successfully processed: Premier League [39/47]
 🟡 Visiting detail page [42/47]: https://pogo.pk/events/arsenal-vs-everton
@@ -94,8 +94,8 @@
 🟡 Visiting detail page [46/47]: https://pogo.pk/events/auckland-vs-western-sydney-wanderers
 🟢 Successfully processed: Premier League [44/47]
 🟡 Visiting detail page [47/47]: https://pogo.pk/events/melbourne-city-vs-melbourne-victory
-🟢 Successfully processed: A League [45/47]
 🟢 Successfully processed: A League [46/47]
+🟢 Successfully processed: A League [45/47]
 🟢 Successfully processed: A League [47/47]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 47

@@ -256,6 +256,31 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-22 08:00:00",
+        "team1Title": "PGA / LPGA Golf",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/pga-lpga-golf",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3027"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3028"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3029"
+            }
+        ]
+    },
+    {
         "eventTitle": "Europa League",
         "matchTime": "2026-10-22 22:45:00",
         "team1Title": "Juventus",

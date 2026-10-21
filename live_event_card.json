@@ -108,27 +108,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-22 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/levante-vs-athletic-club",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/levante-vs-athletic-club/3030"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/levante-vs-athletic-club/3031"
-            }
-        ]
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-22 01:00:00",
         "team1Title": "Sporting CP",

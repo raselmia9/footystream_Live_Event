@@ -4,8 +4,8 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 10
 🟡 Visiting detail page [3/10]: https://pogo.pk/events/lille-vs-galatasaray
-🟡 Visiting detail page [1/10]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [2/10]: https://pogo.pk/events/manchester-united-vs-como
+🟡 Visiting detail page [1/10]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: Champions League [2/10]
 🟢 Successfully processed: Champions League [3/10]
 🟡 Visiting detail page [4/10]: https://pogo.pk/events/real-madrid-vs-rb-leipzig
@@ -20,8 +20,8 @@
 🟡 Visiting detail page [9/10]: https://pogo.pk/events/levante-vs-athletic-club
 🟢 Successfully processed: LaLiga [9/10]
 🟡 Visiting detail page [10/10]: https://pogo.pk/events/reading-vs-leyton-orient
-🟢 Successfully processed: EFL [10/10]
 🟢 Successfully processed: Snooker [1/10]
+🟢 Successfully processed: EFL [10/10]
 🟢 Successfully processed: Gymnastics [8/10]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 10

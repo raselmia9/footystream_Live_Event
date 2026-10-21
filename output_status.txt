@@ -3,24 +3,24 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 47
-🟡 Visiting detail page [2/47]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
 🟡 Visiting detail page [1/47]: https://pogo.pk/events/real-madrid-vs-rb-leipzig
 🟡 Visiting detail page [3/47]: https://pogo.pk/events/arsenal-vs-bayern
-🟢 Successfully processed: Champions League [3/47]
-🟡 Visiting detail page [4/47]: https://pogo.pk/events/snooker-northern-ireland-open
+🟡 Visiting detail page [2/47]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
 🟢 Successfully processed: Champions League [2/47]
+🟡 Visiting detail page [4/47]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: Champions League [1/47]
+🟢 Successfully processed: Champions League [3/47]
 🟡 Visiting detail page [5/47]: https://pogo.pk/events/manchester-united-vs-como
 🟡 Visiting detail page [6/47]: https://pogo.pk/events/lille-vs-galatasaray
 🟢 Successfully processed: Snooker [4/47]
 🟡 Visiting detail page [7/47]: https://pogo.pk/events/sporting-cp-vs-lask
-🟢 Successfully processed: Champions League [6/47]
-🟡 Visiting detail page [8/47]: https://pogo.pk/events/aston-villa-vs-viking
 🟢 Successfully processed: Champions League [5/47]
+🟡 Visiting detail page [8/47]: https://pogo.pk/events/aston-villa-vs-viking
+🟢 Successfully processed: Champions League [6/47]
 🟡 Visiting detail page [9/47]: https://pogo.pk/events/lens-vs-club-brugge
 🟢 Successfully processed: Champions League [7/47]
-🟢 Successfully processed: Champions League [8/47]
 🟡 Visiting detail page [10/47]: https://pogo.pk/events/real-betis-vs-feyenoord
+🟢 Successfully processed: Champions League [8/47]
 🟡 Visiting detail page [11/47]: https://pogo.pk/events/world-gymnastics-championship
 🟢 Successfully processed: Champions League [9/47]
 🟡 Visiting detail page [12/47]: https://pogo.pk/events/levante-vs-athletic-club
@@ -40,9 +40,9 @@
 🟡 Visiting detail page [19/47]: https://pogo.pk/events/bolton-wanderers-vs-middlesbrough
 🟢 Successfully processed: EFL [18/47]
 🟡 Visiting detail page [20/47]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
+🟢 Successfully processed: EFL [20/47]
 🟢 Successfully processed: EFL [19/47]
 🟡 Visiting detail page [21/47]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: EFL [20/47]
 🟡 Visiting detail page [22/47]: https://pogo.pk/events/juventus-vs-rennes
 🟢 Successfully processed: Europa League [22/47]
 🟡 Visiting detail page [23/47]: https://pogo.pk/events/sunderland-vs-lech-poznan
@@ -70,9 +70,9 @@
 🟡 Visiting detail page [34/47]: https://pogo.pk/events/lens-vs-paris
 🟢 Successfully processed: Conference League [28/47]
 🟡 Visiting detail page [35/47]: https://pogo.pk/events/torino-vs-monza
-🟢 Successfully processed: French Ligue 1 [34/47]
-🟡 Visiting detail page [36/47]: https://pogo.pk/events/bologna-vs-cagliari
 🟢 Successfully processed: Conference League [29/47]
+🟡 Visiting detail page [36/47]: https://pogo.pk/events/bologna-vs-cagliari
+🟢 Successfully processed: French Ligue 1 [34/47]
 🟡 Visiting detail page [37/47]: https://pogo.pk/events/como-vs-sassuolo
 🟢 Successfully processed: Serie A [35/47]
 🟡 Visiting detail page [38/47]: https://pogo.pk/events/roma-vs-napoli

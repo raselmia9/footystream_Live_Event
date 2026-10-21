@@ -172,6 +172,54 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-24 18:00:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/elche-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-24 20:15:00",
+        "team1Title": "Racing Santander",
+        "team2Title": "Espanyol",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/racing-vs-espanyol",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-24 22:30:00",
+        "team1Title": "Valencia",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/valencia-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 01:00:00",
+        "team1Title": "Atlético Madrid",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-22 01:00:00",
         "team1Title": "Reading",
@@ -181,6 +229,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/reading-vs-leyton-orient",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-24 01:00:00",
+        "team1Title": "Bolton Wanderers",
+        "team2Title": "Middlesbrough",
+        "team1Logo": "https://cdn.img4every1.org/team/bolton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bolton-wanderers-vs-middlesbrough",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-24 17:30:00",
+        "team1Title": "Norwich City",
+        "team2Title": "Charlton Athletic",
+        "team1Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/norwich-city-vs-charlton-athletic",
         "multiWatchPageLink": []
     },
     {
@@ -290,6 +362,135 @@
         ]
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-24 00:30:00",
+        "team1Title": "Stuttgart",
+        "team2Title": "Borussia M'gladbach",
+        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/stuttgart-vs-borussia-mgladbach",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-24 22:30:00",
+        "team1Title": "Eintracht Frankfurt",
+        "team2Title": "Borussia Dortmund",
+        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-dortmund",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Title": "Brest",
+        "team2Title": "Nice",
+        "team1Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nice/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brest-vs-nice",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-24 21:15:00",
+        "team1Title": "Toulouse",
+        "team2Title": "Troyes",
+        "team1Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/toulouse-vs-troyes",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-25 00:45:00",
+        "team1Title": "Lens",
+        "team2Title": "Paris FC",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lens-vs-paris",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Title": "Torino",
+        "team2Title": "Monza",
+        "team1Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/torino-vs-monza",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-24 19:00:00",
+        "team1Title": "Bologna",
+        "team2Title": "Cagliari",
+        "team1Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bologna-vs-cagliari",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-24 19:00:00",
+        "team1Title": "Como",
+        "team2Title": "Sassuolo",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-sassuolo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-24 22:00:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Napoli",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-napoli",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-napoli/3022"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/roma-vs-napoli/3023"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-25 00:45:00",
+        "team1Title": "Parma",
+        "team2Title": "Lazio",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/parma-vs-lazio",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-24 01:00:00",
         "team1Title": "Nottingham Forest",
@@ -300,5 +501,104 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/nottm-forest-vs-ipswich",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 17:30:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Aston Villa",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-aston-villa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 20:00:00",
+        "team1Title": "Fulham",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/fulahm-vs-coventry-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 20:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 22:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Tottenham Hotspur",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-tottenham-hotspur",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-24 10:00:00",
+        "team1Title": "Macarthur",
+        "team2Title": "Newcastle Jets",
+        "team1Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/macarthur-vs-newcastle-jets",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/macarthur-vs-newcastle-jets/3024"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-24 12:00:00",
+        "team1Title": "Auckland",
+        "team2Title": "Western Sydney Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/auckland-vs-western-sydney-wanderers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/auckland-vs-western-sydney-wanderers/3025"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-24 14:40:00",
+        "team1Title": "Melbourne City",
+        "team2Title": "Melbourne Victory",
+        "team1Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/melbourne-city-vs-melbourne-victory",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/melbourne-city-vs-melbourne-victory/3026"
+            }
+        ]
     }
 ]

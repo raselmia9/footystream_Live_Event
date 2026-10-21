@@ -110,8 +110,8 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-21 22:45:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Como",
+        "team1Title": "Event Ended",
+        "team2Title": "Manchester United",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "isHot": true,
@@ -147,8 +147,8 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-10-21 22:45:00",
-        "team1Title": "Lille",
-        "team2Title": "Galatasaray",
+        "team1Title": "Event Ended",
+        "team2Title": "Lille",
         "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
         "isHot": true,

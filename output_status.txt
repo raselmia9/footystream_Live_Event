@@ -6,13 +6,13 @@
 🟡 Visiting detail page [3/10]: https://pogo.pk/events/lille-vs-galatasaray
 🟡 Visiting detail page [2/10]: https://pogo.pk/events/manchester-united-vs-como
 🟡 Visiting detail page [1/10]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: Champions League [2/10]
 🟢 Successfully processed: Champions League [3/10]
 🟡 Visiting detail page [4/10]: https://pogo.pk/events/real-madrid-vs-rb-leipzig
-🟢 Successfully processed: Champions League [2/10]
 🟡 Visiting detail page [5/10]: https://pogo.pk/events/inter-milan-vs-shakhtar-donetsk
+🟢 Successfully processed: Champions League [5/10]
 🟢 Successfully processed: Champions League [4/10]
 🟡 Visiting detail page [6/10]: https://pogo.pk/events/sporting-cp-vs-lask
-🟢 Successfully processed: Champions League [5/10]
 🟡 Visiting detail page [7/10]: https://pogo.pk/events/aston-villa-vs-viking
 🟢 Successfully processed: Champions League [6/10]
 🟡 Visiting detail page [8/10]: https://pogo.pk/events/world-gymnastics-championship

@@ -155,6 +155,40 @@
         ]
     },
     {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-10-22 22:45:00",
+        "team1Title": "Brighton & Hove Albion",
+        "team2Title": "Jablonec",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/jablonec/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brighton-vs-jablonec",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brighton-vs-jablonec/3020"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-10-22 22:45:00",
+        "team1Title": "Hearts",
+        "team2Title": "Trabzonspor",
+        "team1Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/trabzonspor/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hearts-vs-trabzonspor",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hearts-vs-trabzonspor/3021"
+            }
+        ]
+    },
+    {
         "eventTitle": "Europa League",
         "matchTime": "2026-10-22 22:45:00",
         "team1Title": "Sturm Graz",
@@ -213,36 +247,60 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Conference League",
-        "matchTime": "2026-10-22 22:45:00",
-        "team1Title": "Brighton & Hove Albion",
-        "team2Title": "Jablonec",
-        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/jablonec/logo.webp",
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-23 01:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Besiktas",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brighton-vs-jablonec",
+        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-besiktas",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-23 01:00:00",
+        "team1Title": "Olympique Lyonnais",
+        "team2Title": "Hoffenheim",
+        "team1Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lyon-vs-hoffenheim",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-23 01:00:00",
+        "team1Title": "Benfica",
+        "team2Title": "Omonia Nicosia",
+        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/omonia-nicosia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/benfica-vs-omonia-nicosia",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brighton-vs-jablonec/3020"
+                "url": "https://playerdee.top/alpha/benfica-vs-omonia-nicosia/3065"
             }
         ]
     },
     {
-        "eventTitle": "Conference League",
-        "matchTime": "2026-10-22 22:45:00",
-        "team1Title": "Hearts",
-        "team2Title": "Trabzonspor",
-        "team1Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/trabzonspor/logo.webp",
+        "eventTitle": "Europa League",
+        "matchTime": "2026-10-23 01:00:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Lillestrøm",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lillestrom/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hearts-vs-trabzonspor",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-lillestr-m",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/hearts-vs-trabzonspor/3021"
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-lillestr-m/3073"
             }
         ]
     },

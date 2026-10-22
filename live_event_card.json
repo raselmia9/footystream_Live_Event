@@ -206,6 +206,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/marseille-vs-sturm-graz/3070"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/marseille-vs-sturm-graz/3077"
             }
         ]
     },
@@ -244,7 +248,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/celtic-vs-celta-vigo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/celtic-vs-celta-vigo/3074"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -256,7 +265,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/crystal-palace-vs-besiktas",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/crystal-palace-vs-besiktas/3075"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -268,7 +282,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lyon-vs-hoffenheim",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lyon-vs-hoffenheim/3076"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -284,6 +303,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/benfica-vs-omonia-nicosia/3065"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/benfica-vs-omonia-nicosia/3080"
             }
         ]
     },
@@ -301,6 +324,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/real-sociedad-vs-lillestr-m/3073"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-lillestr-m/3078"
             }
         ]
     },
@@ -322,6 +349,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/monaco-vs-freiburg/3072"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/monaco-vs-freiburg/3079"
             }
         ]
     },

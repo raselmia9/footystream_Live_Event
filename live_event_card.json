@@ -386,23 +386,6 @@
     },
     {
         "eventTitle": "A League",
-        "matchTime": "2026-10-24 10:00:00",
-        "team1Title": "Macarthur",
-        "team2Title": "Newcastle Jets",
-        "team1Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/macarthur-vs-newcastle-jets",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/macarthur-vs-newcastle-jets/3024"
-            }
-        ]
-    },
-    {
-        "eventTitle": "A League",
         "matchTime": "2026-10-24 12:00:00",
         "team1Title": "Auckland",
         "team2Title": "Western Sydney Wanderers",

@@ -71,23 +71,6 @@
         ]
     },
     {
-        "eventTitle": "Gymnastics",
-        "matchTime": "2026-10-22 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "World Gymnastics Championship",
-        "team1Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/gymnastics/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/world-gymnastics-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/world-gymnastics-championship/2977"
-            }
-        ]
-    },
-    {
         "eventTitle": "Europa League",
         "matchTime": "2026-10-22 22:45:00",
         "team1Title": "Juventus",

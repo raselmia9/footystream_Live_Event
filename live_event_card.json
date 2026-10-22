@@ -97,7 +97,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/juventus-vs-rennes",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/juventus-vs-rennes/3058"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/juventus-vs-rennes/3059"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/juventus-vs-rennes/3060"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/juventus-vs-rennes/3062"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -109,7 +126,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sunderland-vs-lech-poznan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sunderland-vs-lech-poznan/3061"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -121,7 +143,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ofi-vs-bayer-leverkusen",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ofi-vs-bayer-leverkusen/3063"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/ofi-vs-bayer-leverkusen/3064"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -133,7 +164,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/marseille-vs-sturm-graz",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/marseille-vs-sturm-graz/3069"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/marseille-vs-sturm-graz/3070"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -145,7 +185,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bournemouth-vs-milan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bournemouth-vs-milan/3066"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bournemouth-vs-milan/3067"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/bournemouth-vs-milan/3068"
+            }
+        ]
     },
     {
         "eventTitle": "Europa League",
@@ -190,6 +243,44 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/hearts-vs-trabzonspor/3021"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-10-23 01:00:00",
+        "team1Title": "AS Monaco",
+        "team2Title": "Freiburg",
+        "team1Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/monaco-vs-freiburg",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/monaco-vs-freiburg/3071"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/monaco-vs-freiburg/3072"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-10-23 04:00:00",
+        "team1Title": "MotoGP Australian Grand Prix",
+        "team2Title": "MotoGP",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australian-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australian-grand-prix/3057"
             }
         ]
     },

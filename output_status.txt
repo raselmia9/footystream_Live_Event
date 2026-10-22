@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 38
 🟡 Visiting detail page [2/38]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [1/38]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [3/38]: https://pogo.pk/events/world-gymnastics-championship
-🟢 Successfully processed: Gymnastics [3/38]
-🟡 Visiting detail page [4/38]: https://pogo.pk/events/juventus-vs-rennes
-🟢 Successfully processed: PGA Tour [2/38]
-🟡 Visiting detail page [5/38]: https://pogo.pk/events/sunderland-vs-lech-poznan
+🟡 Visiting detail page [1/38]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: Snooker [1/38]
+🟡 Visiting detail page [4/38]: https://pogo.pk/events/juventus-vs-rennes
+🟢 Successfully processed: Gymnastics [3/38]
+🟡 Visiting detail page [5/38]: https://pogo.pk/events/sunderland-vs-lech-poznan
+🟢 Successfully processed: PGA Tour [2/38]
 🟡 Visiting detail page [6/38]: https://pogo.pk/events/ofi-vs-bayer-leverkusen
 🟢 Successfully processed: Europa League [4/38]
 🟡 Visiting detail page [7/38]: https://pogo.pk/events/marseille-vs-sturm-graz

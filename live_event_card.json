@@ -97,7 +97,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/stuttgart-vs-borussia-mgladbach",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-borussia-mgladbach/3081"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",
@@ -121,7 +126,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/brest-vs-nice",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brest-vs-nice/3082"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/brest-vs-nice/3083"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -157,7 +171,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/torino-vs-monza",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/torino-vs-monza/3084"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

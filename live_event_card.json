@@ -230,6 +230,18 @@
     },
     {
         "eventTitle": "LaLiga",
+        "matchTime": "2026-10-24 18:00:00",
+        "team1Title": "Elche CF",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/elche-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
         "matchTime": "2026-10-24 20:15:00",
         "team1Title": "Racing Santander",
         "team2Title": "Espanyol",

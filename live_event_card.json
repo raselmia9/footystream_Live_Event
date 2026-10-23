@@ -117,6 +117,91 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Title": "Lions",
+        "team2Title": "Edinburgh",
+        "team1Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lions-vs-edinburgh",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lions-vs-edinburgh/3094"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Title": "Zebre",
+        "team2Title": "Connacht",
+        "team1Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/zebre-vs-connacht",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/zebre-vs-connacht/3093"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Title": "The Sharks",
+        "team2Title": "Cardiff Blues",
+        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sharks-vs-cardiff-rugby",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sharks-vs-cardiff-rugby/3092"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Title": "Bath Rugby",
+        "team2Title": "Gloucester Rugby",
+        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bath-rugby-vs-gloucester",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bath-rugby-vs-gloucester/3096"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-24 00:45:00",
+        "team1Title": "Sale Sharks",
+        "team2Title": "Newcastle Red Bulls",
+        "team1Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-red-bulls/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sale-sharks-vs-newcastle-red-bulls",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sale-sharks-vs-newcastle-red-bulls/3097"
+            }
+        ]
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-24 00:45:00",
         "team1Title": "Brest",
@@ -175,6 +260,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/torino-vs-monza/3084"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/torino-vs-monza/3085"
             }
         ]
     },
@@ -245,7 +334,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/alaves-vs-malaga",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/alaves-vs-malaga/3090"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/alaves-vs-malaga/3091"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -317,7 +415,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bolton-wanderers-vs-middlesbrough",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bolton-wanderers-vs-middlesbrough/3095"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -341,7 +444,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/nottm-forest-vs-ipswich",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/nottm-forest-vs-ipswich/3086"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/nottm-forest-vs-ipswich/3087"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/nottm-forest-vs-ipswich/3088"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/nottm-forest-vs-ipswich/3089"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -404,6 +524,23 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "MLB",
+        "matchTime": "2026-10-24 06:00:00",
+        "team1Title": "Milwaukee Brewers",
+        "team2Title": "Tampa Bay Rays",
+        "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brewers-vs-rays",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brewers-vs-rays/3098"
+            }
+        ]
+    },
+    {
         "eventTitle": "A League",
         "matchTime": "2026-10-24 10:00:00",
         "team1Title": "Macarthur",
@@ -451,6 +588,48 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/melbourne-city-vs-melbourne-victory/3026"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-24 10:25:00",
+        "team1Title": "Papua New Guinea",
+        "team2Title": "Samoa",
+        "team1Logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/png-vs-samoa",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/png-vs-samoa/3099"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/png-vs-samoa/3102"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-24 12:30:00",
+        "team1Title": "England",
+        "team2Title": "France",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-france",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-france/3100"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/england-vs-france/3101"
             }
         ]
     }

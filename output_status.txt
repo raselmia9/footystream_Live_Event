@@ -6,23 +6,23 @@
 🟡 Visiting detail page [2/31]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [3/31]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/f1-united-states-grand-prix
-🟢 Successfully processed: PGA Tour [3/31]
 🟢 Successfully processed: Formula 1 [1/31]
-🟢 Successfully processed: Snooker [2/31]
 🟡 Visiting detail page [4/31]: https://pogo.pk/events/australian-grand-prix
+🟢 Successfully processed: Snooker [2/31]
 🟡 Visiting detail page [5/31]: https://pogo.pk/events/stuttgart-vs-borussia-mgladbach
+🟢 Successfully processed: PGA Tour [3/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
 🟢 Successfully processed: Bundesliga [6/31]
 🟢 Successfully processed: Bundesliga [5/31]
-🟡 Visiting detail page [8/31]: https://pogo.pk/events/toulouse-vs-troyes
 🟡 Visiting detail page [7/31]: https://pogo.pk/events/brest-vs-nice
+🟡 Visiting detail page [8/31]: https://pogo.pk/events/toulouse-vs-troyes
 🟢 Successfully processed: French Ligue 1 [7/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/lens-vs-paris
 🟢 Successfully processed: French Ligue 1 [8/31]
 🟡 Visiting detail page [10/31]: https://pogo.pk/events/torino-vs-monza
-🟢 Successfully processed: Serie A [10/31]
 🟢 Successfully processed: French Ligue 1 [9/31]
 🟡 Visiting detail page [11/31]: https://pogo.pk/events/bologna-vs-cagliari
+🟢 Successfully processed: Serie A [10/31]
 🟡 Visiting detail page [12/31]: https://pogo.pk/events/como-vs-sassuolo
 🟢 Successfully processed: Serie A [11/31]
 🟡 Visiting detail page [13/31]: https://pogo.pk/events/roma-vs-napoli
@@ -50,9 +50,9 @@
 🟡 Visiting detail page [24/31]: https://pogo.pk/events/manchester-city-vs-aston-villa
 🟢 Successfully processed: Premier League [23/31]
 🟡 Visiting detail page [25/31]: https://pogo.pk/events/fulahm-vs-coventry-city
+🟢 Successfully processed: Serie A [13/31]
 🟢 Successfully processed: Premier League [24/31]
 🟡 Visiting detail page [26/31]: https://pogo.pk/events/arsenal-vs-everton
-🟢 Successfully processed: Serie A [13/31]
 🟡 Visiting detail page [27/31]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
 🟢 Successfully processed: Premier League [25/31]
 🟡 Visiting detail page [28/31]: https://pogo.pk/events/brentford-vs-hull-city

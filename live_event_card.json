@@ -90,8 +90,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-24 00:30:00",
-        "team1Title": "Stuttgart",
-        "team2Title": "Borussia M'gladbach",
+        "team1Title": "Event Ended",
+        "team2Title": "Stuttgart",
         "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
         "isHot": true,

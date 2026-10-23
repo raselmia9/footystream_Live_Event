@@ -7,14 +7,14 @@
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [3/31]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: Formula 1 [1/31]
-🟡 Visiting detail page [4/31]: https://pogo.pk/events/australian-grand-prix
 🟢 Successfully processed: Snooker [2/31]
-🟢 Successfully processed: PGA Tour [3/31]
+🟡 Visiting detail page [4/31]: https://pogo.pk/events/australian-grand-prix
 🟡 Visiting detail page [5/31]: https://pogo.pk/events/stuttgart-vs-borussia-mgladbach
+🟢 Successfully processed: PGA Tour [3/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
 🟢 Successfully processed: Bundesliga [5/31]
-🟢 Successfully processed: Bundesliga [6/31]
 🟡 Visiting detail page [7/31]: https://pogo.pk/events/brest-vs-nice
+🟢 Successfully processed: Bundesliga [6/31]
 🟡 Visiting detail page [8/31]: https://pogo.pk/events/toulouse-vs-troyes
 🟢 Successfully processed: French Ligue 1 [7/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/lens-vs-paris
@@ -46,8 +46,8 @@
 🟡 Visiting detail page [22/31]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
 🟢 Successfully processed: EFL [21/31]
 🟡 Visiting detail page [23/31]: https://pogo.pk/events/nottm-forest-vs-ipswich
-🟢 Successfully processed: Serie A [13/31]
 🟢 Successfully processed: EFL [22/31]
+🟢 Successfully processed: Serie A [13/31]
 🟡 Visiting detail page [25/31]: https://pogo.pk/events/fulahm-vs-coventry-city
 🟡 Visiting detail page [24/31]: https://pogo.pk/events/manchester-city-vs-aston-villa
 🟢 Successfully processed: Premier League [23/31]

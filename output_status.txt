@@ -6,15 +6,15 @@
 🟡 Visiting detail page [3/31]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/31]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/f1-united-states-grand-prix
-🟢 Successfully processed: Formula 1 [1/31]
-🟢 Successfully processed: PGA Tour [3/31]
-🟡 Visiting detail page [4/31]: https://pogo.pk/events/australian-grand-prix
-🟡 Visiting detail page [5/31]: https://pogo.pk/events/stuttgart-vs-borussia-mgladbach
 🟢 Successfully processed: Snooker [2/31]
+🟢 Successfully processed: PGA Tour [3/31]
+🟢 Successfully processed: Formula 1 [1/31]
+🟡 Visiting detail page [4/31]: https://pogo.pk/events/australian-grand-prix
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
+🟡 Visiting detail page [5/31]: https://pogo.pk/events/stuttgart-vs-borussia-mgladbach
 🟢 Successfully processed: Bundesliga [6/31]
-🟡 Visiting detail page [7/31]: https://pogo.pk/events/brest-vs-nice
 🟢 Successfully processed: Bundesliga [5/31]
+🟡 Visiting detail page [7/31]: https://pogo.pk/events/brest-vs-nice
 🟡 Visiting detail page [8/31]: https://pogo.pk/events/toulouse-vs-troyes
 🟢 Successfully processed: French Ligue 1 [7/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/lens-vs-paris
@@ -28,9 +28,9 @@
 🟡 Visiting detail page [13/31]: https://pogo.pk/events/roma-vs-napoli
 🟢 Successfully processed: Serie A [12/31]
 🟡 Visiting detail page [14/31]: https://pogo.pk/events/parma-vs-lazio
-🟢 Successfully processed: MotoGP [4/31]
-🟡 Visiting detail page [15/31]: https://pogo.pk/events/alaves-vs-malaga
 🟢 Successfully processed: Serie A [14/31]
+🟡 Visiting detail page [15/31]: https://pogo.pk/events/alaves-vs-malaga
+🟢 Successfully processed: MotoGP [4/31]
 🟡 Visiting detail page [16/31]: https://pogo.pk/events/elche-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [15/31]
 🟡 Visiting detail page [17/31]: https://pogo.pk/events/racing-vs-espanyol
@@ -56,9 +56,9 @@
 🟡 Visiting detail page [27/31]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
 🟢 Successfully processed: Premier League [25/31]
 🟡 Visiting detail page [28/31]: https://pogo.pk/events/brentford-vs-hull-city
-🟢 Successfully processed: Premier League [27/31]
-🟡 Visiting detail page [29/31]: https://pogo.pk/events/macarthur-vs-newcastle-jets
 🟢 Successfully processed: Premier League [26/31]
+🟡 Visiting detail page [29/31]: https://pogo.pk/events/macarthur-vs-newcastle-jets
+🟢 Successfully processed: Premier League [27/31]
 🟡 Visiting detail page [30/31]: https://pogo.pk/events/auckland-vs-western-sydney-wanderers
 🟢 Successfully processed: Premier League [28/31]
 🟡 Visiting detail page [31/31]: https://pogo.pk/events/melbourne-city-vs-melbourne-victory

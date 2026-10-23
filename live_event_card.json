@@ -136,6 +136,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-25 00:45:00",
+        "team1Title": "Lens",
+        "team2Title": "Paris FC",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lens-vs-paris",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-24 00:45:00",
         "team1Title": "Torino",
@@ -298,6 +310,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/norwich-city-vs-charlton-athletic",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 01:00:00",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/nottm-forest-vs-ipswich",
         "multiWatchPageLink": []
     },
     {

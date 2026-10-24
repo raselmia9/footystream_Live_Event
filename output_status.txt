@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 29
-🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/29]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [1/29]: https://pogo.pk/events/f1-united-states-grand-prix
-🟢 Successfully processed: Formula 1 [1/29]
-🟡 Visiting detail page [4/29]: https://pogo.pk/events/australian-grand-prix
+🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: Snooker [2/29]
+🟡 Visiting detail page [4/29]: https://pogo.pk/events/australian-grand-prix
+🟢 Successfully processed: Formula 1 [1/29]
 🟡 Visiting detail page [5/29]: https://pogo.pk/events/macarthur-vs-newcastle-jets
 🟢 Successfully processed: PGA Tour [3/29]
 🟡 Visiting detail page [6/29]: https://pogo.pk/events/png-vs-samoa
@@ -48,9 +48,9 @@
 🟡 Visiting detail page [23/29]: https://pogo.pk/events/bologna-vs-cagliari
 🟢 Successfully processed: LaLiga [21/29]
 🟡 Visiting detail page [24/29]: https://pogo.pk/events/como-vs-sassuolo
-🟢 Successfully processed: LaLiga [22/29]
-🟡 Visiting detail page [25/29]: https://pogo.pk/events/roma-vs-napoli
 🟢 Successfully processed: Serie A [23/29]
+🟡 Visiting detail page [25/29]: https://pogo.pk/events/roma-vs-napoli
+🟢 Successfully processed: LaLiga [22/29]
 🟡 Visiting detail page [26/29]: https://pogo.pk/events/parma-vs-lazio
 🟢 Successfully processed: Serie A [24/29]
 🟡 Visiting detail page [27/29]: https://pogo.pk/events/toulouse-vs-troyes

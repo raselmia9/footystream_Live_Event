@@ -94,8 +94,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-24 18:00:00",
-        "team1Title": "Elche CF",
-        "team2Title": "Rayo Vallecano",
+        "team1Title": "Event Ended",
+        "team2Title": "Elche CF",
         "team1Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
         "isHot": true,

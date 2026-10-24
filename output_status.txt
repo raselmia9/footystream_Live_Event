@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
-🟡 Visiting detail page [3/30]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [1/30]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [2/30]: https://pogo.pk/events/snooker-northern-ireland-open
-🟢 Successfully processed: Formula 1 [1/30]
-🟢 Successfully processed: PGA Tour [3/30]
-🟡 Visiting detail page [5/30]: https://pogo.pk/events/brewers-vs-rays
-🟡 Visiting detail page [4/30]: https://pogo.pk/events/australian-grand-prix
+🟡 Visiting detail page [1/30]: https://pogo.pk/events/f1-united-states-grand-prix
+🟡 Visiting detail page [3/30]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: Snooker [2/30]
+🟢 Successfully processed: Formula 1 [1/30]
+🟡 Visiting detail page [4/30]: https://pogo.pk/events/australian-grand-prix
+🟡 Visiting detail page [5/30]: https://pogo.pk/events/brewers-vs-rays
+🟢 Successfully processed: PGA Tour [3/30]
 🟡 Visiting detail page [6/30]: https://pogo.pk/events/macarthur-vs-newcastle-jets
 🟢 Successfully processed: MLB [5/30]
 🟡 Visiting detail page [7/30]: https://pogo.pk/events/auckland-vs-western-sydney-wanderers
@@ -42,9 +42,9 @@
 🟡 Visiting detail page [20/30]: https://pogo.pk/events/valencia-vs-villarreal
 🟢 Successfully processed: LaLiga [19/30]
 🟡 Visiting detail page [21/30]: https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna
-🟢 Successfully processed: LaLiga [20/30]
-🟡 Visiting detail page [22/30]: https://pogo.pk/events/getafe-vs-athletic-club
 🟢 Successfully processed: Rugby League World Cup [10/30]
+🟡 Visiting detail page [22/30]: https://pogo.pk/events/getafe-vs-athletic-club
+🟢 Successfully processed: LaLiga [20/30]
 🟡 Visiting detail page [23/30]: https://pogo.pk/events/real-betis-vs-celta-vigo
 🟢 Successfully processed: LaLiga [21/30]
 🟡 Visiting detail page [24/30]: https://pogo.pk/events/bologna-vs-cagliari

@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
-🟡 Visiting detail page [2/31]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [3/31]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/31]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: Formula 1 [1/31]
 🟢 Successfully processed: PGA Tour [3/31]
 🟡 Visiting detail page [4/31]: https://pogo.pk/events/australian-grand-prix
 🟢 Successfully processed: Snooker [2/31]
 🟡 Visiting detail page [5/31]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
-🟢 Successfully processed: Formula 1 [1/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/manchester-city-vs-aston-villa
-🟢 Successfully processed: MotoGP [4/31]
-🟡 Visiting detail page [7/31]: https://pogo.pk/events/bulls-vs-ulster
 🟢 Successfully processed: EFL [5/31]
+🟡 Visiting detail page [7/31]: https://pogo.pk/events/bulls-vs-ulster
+🟢 Successfully processed: MotoGP [4/31]
 🟡 Visiting detail page [8/31]: https://pogo.pk/events/elche-vs-rayo-vallecano
 🟢 Successfully processed: Premier League [6/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/bologna-vs-cagliari
@@ -34,9 +34,9 @@
 🟡 Visiting detail page [16/31]: https://pogo.pk/events/crystal-palace-vs-newcastle-united
 🟢 Successfully processed: Premier League [15/31]
 🟡 Visiting detail page [17/31]: https://pogo.pk/events/glasgow-warriors-vs-benetton-treviso
-🟢 Successfully processed: Premier League [16/31]
-🟡 Visiting detail page [18/31]: https://pogo.pk/events/scarlets-vs-stormers
 🟢 Successfully processed: Premier League [13/31]
+🟡 Visiting detail page [18/31]: https://pogo.pk/events/scarlets-vs-stormers
+🟢 Successfully processed: Premier League [16/31]
 🟡 Visiting detail page [19/31]: https://pogo.pk/events/southampton-vs-west-ham
 🟢 Successfully processed: United Rugby [17/31]
 🟡 Visiting detail page [20/31]: https://pogo.pk/events/leicester-tigers-vs-northampton

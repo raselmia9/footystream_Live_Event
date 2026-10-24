@@ -94,8 +94,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-24 17:30:00",
-        "team1Title": "Norwich City",
-        "team2Title": "Charlton Athletic",
+        "team1Title": "Event Ended",
+        "team2Title": "Norwich City",
         "team1Logo": "https://cdn.img4every1.org/team/norwich-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
         "isHot": true,
@@ -115,8 +115,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-24 17:30:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Aston Villa",
+        "team1Title": "Event Ended",
+        "team2Title": "Manchester City",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "isHot": true,

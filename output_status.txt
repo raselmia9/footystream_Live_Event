@@ -7,11 +7,11 @@
 🟡 Visiting detail page [1/14]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: Formula 1 [1/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/australian-grand-prix
 🟢 Successfully processed: Snooker [2/14]
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev
 🟢 Successfully processed: PGA Tour [3/14]
+🟡 Visiting detail page [5/14]: https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/getafe-vs-athletic-club
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/australian-grand-prix
 🟢 Successfully processed: LaLiga [6/14]
 🟡 Visiting detail page [7/14]: https://pogo.pk/events/real-betis-vs-celta-vigo
 🟢 Successfully processed: LaLiga [7/14]
@@ -22,14 +22,14 @@
 🟡 Visiting detail page [10/14]: https://pogo.pk/events/brentford-vs-hull-city
 🟢 Successfully processed: Premier League [10/14]
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/liverpool-vs-brighton
-🟢 Successfully processed: MotoGP [4/14]
+🟢 Successfully processed: Premier League [11/14]
 🟡 Visiting detail page [12/14]: https://pogo.pk/events/crystal-palace-vs-newcastle-united
 🟢 Successfully processed: UFC [5/14]
 🟡 Visiting detail page [13/14]: https://pogo.pk/events/manchester-united-vs-bournemouth
-🟢 Successfully processed: Premier League [11/14]
+🟢 Successfully processed: MotoGP [4/14]
 🟡 Visiting detail page [14/14]: https://pogo.pk/events/sunderland-vs-leeds-utd
 🟢 Successfully processed: Premier League [12/14]
-🟢 Successfully processed: Premier League [13/14]
 🟢 Successfully processed: Premier League [14/14]
+🟢 Successfully processed: Premier League [13/14]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 14

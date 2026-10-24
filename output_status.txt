@@ -8,9 +8,9 @@
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/f1-united-states-grand-prix
 🟢 Successfully processed: Snooker [2/31]
 🟡 Visiting detail page [4/31]: https://pogo.pk/events/australian-grand-prix
-🟢 Successfully processed: PGA Tour [3/31]
-🟡 Visiting detail page [5/31]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
 🟢 Successfully processed: Formula 1 [1/31]
+🟡 Visiting detail page [5/31]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
+🟢 Successfully processed: PGA Tour [3/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/manchester-city-vs-aston-villa
 🟢 Successfully processed: MotoGP [4/31]
 🟡 Visiting detail page [7/31]: https://pogo.pk/events/bulls-vs-ulster
@@ -31,8 +31,8 @@
 🟢 Successfully processed: Premier League [12/31]
 🟡 Visiting detail page [15/31]: https://pogo.pk/events/liverpool-vs-brighton
 🟢 Successfully processed: Premier League [14/31]
-🟢 Successfully processed: Premier League [15/31]
 🟡 Visiting detail page [16/31]: https://pogo.pk/events/crystal-palace-vs-newcastle-united
+🟢 Successfully processed: Premier League [15/31]
 🟡 Visiting detail page [17/31]: https://pogo.pk/events/glasgow-warriors-vs-benetton-treviso
 🟢 Successfully processed: Premier League [16/31]
 🟡 Visiting detail page [18/31]: https://pogo.pk/events/scarlets-vs-stormers
@@ -52,18 +52,18 @@
 🟡 Visiting detail page [25/31]: https://pogo.pk/events/real-betis-vs-celta-vigo
 🟢 Successfully processed: LaLiga [24/31]
 🟡 Visiting detail page [26/31]: https://pogo.pk/events/real-sociedad-vs-levante
-🟢 Successfully processed: LaLiga [25/31]
-🟡 Visiting detail page [27/31]: https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev
 🟢 Successfully processed: LaLiga [22/31]
+🟡 Visiting detail page [27/31]: https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev
+🟢 Successfully processed: LaLiga [25/31]
 🟡 Visiting detail page [28/31]: https://pogo.pk/events/roma-vs-napoli
 🟢 Successfully processed: LaLiga [26/31]
 🟡 Visiting detail page [29/31]: https://pogo.pk/events/parma-vs-lazio
-🟢 Successfully processed: Serie A [28/31]
-🟡 Visiting detail page [30/31]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
 🟢 Successfully processed: UFC [27/31]
+🟡 Visiting detail page [30/31]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
+🟢 Successfully processed: Serie A [28/31]
 🟡 Visiting detail page [31/31]: https://pogo.pk/events/lens-vs-paris
 🟢 Successfully processed: Serie A [29/31]
-🟢 Successfully processed: French Ligue 1 [31/31]
 🟢 Successfully processed: Bundesliga [30/31]
+🟢 Successfully processed: French Ligue 1 [31/31]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 31

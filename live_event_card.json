@@ -94,8 +94,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-24 19:00:00",
-        "team1Title": "Bologna",
-        "team2Title": "Cagliari",
+        "team1Title": "Event Ended",
+        "team2Title": "Bologna",
         "team1Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
         "isHot": true,
@@ -106,8 +106,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-24 19:00:00",
-        "team1Title": "Como",
-        "team2Title": "Sassuolo",
+        "team1Title": "Event Ended",
+        "team2Title": "Como",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "isHot": true,

@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
 🟡 Visiting detail page [1/30]: https://pogo.pk/events/f1-united-states-grand-prix
-🟡 Visiting detail page [2/30]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [3/30]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: Formula 1 [1/30]
-🟡 Visiting detail page [4/30]: https://pogo.pk/events/australian-grand-prix
+🟡 Visiting detail page [2/30]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: Snooker [2/30]
-🟡 Visiting detail page [5/30]: https://pogo.pk/events/bologna-vs-cagliari
 🟢 Successfully processed: PGA Tour [3/30]
+🟢 Successfully processed: Formula 1 [1/30]
+🟡 Visiting detail page [5/30]: https://pogo.pk/events/bologna-vs-cagliari
+🟡 Visiting detail page [4/30]: https://pogo.pk/events/australian-grand-prix
 🟡 Visiting detail page [6/30]: https://pogo.pk/events/como-vs-sassuolo
 🟢 Successfully processed: Serie A [5/30]
 🟡 Visiting detail page [7/30]: https://pogo.pk/events/fulahm-vs-coventry-city
@@ -57,10 +57,10 @@
 🟢 Successfully processed: LaLiga [27/30]
 🟡 Visiting detail page [28/30]: https://pogo.pk/events/real-sociedad-vs-levante
 🟢 Successfully processed: Bundesliga [23/30]
-🟢 Successfully processed: LaLiga [28/30]
 🟡 Visiting detail page [29/30]: https://pogo.pk/events/barcelona-vs-real-madrid
-🟡 Visiting detail page [30/30]: https://pogo.pk/events/lens-vs-paris
 🟢 Successfully processed: LaLiga [24/30]
+🟡 Visiting detail page [30/30]: https://pogo.pk/events/lens-vs-paris
+🟢 Successfully processed: LaLiga [28/30]
 🟢 Successfully processed: LaLiga [29/30]
 🟢 Successfully processed: French Ligue 1 [30/30]
 🟢 Browser closed successfully.

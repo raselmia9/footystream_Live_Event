@@ -92,23 +92,6 @@
         ]
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-24 12:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Auckland",
-        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/auckland-vs-western-sydney-wanderers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/auckland-vs-western-sydney-wanderers/3025"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-24 12:30:00",
         "team1Title": "England",

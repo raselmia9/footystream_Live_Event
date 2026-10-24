@@ -92,23 +92,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-24 16:45:00",
-        "team1Title": "Bulls",
-        "team2Title": "Ulster",
-        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bulls-vs-ulster",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bulls-vs-ulster/3109"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-24 17:30:00",
         "team1Title": "Norwich City",
@@ -159,90 +142,21 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-24 20:00:00",
-        "team1Title": "Fulham",
-        "team2Title": "Coventry City",
-        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 17:45:00",
+        "team1Title": "Bulls",
+        "team2Title": "Ulster",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/fulahm-vs-coventry-city",
+        "detailsPage": "https://pogo.pk/events/bulls-vs-ulster",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/fulahm-vs-coventry-city/3119"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/fulahm-vs-coventry-city/3120"
+                "url": "https://playerdee.top/alpha/bulls-vs-ulster/3109"
             }
         ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-24 20:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Everton",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/arsenal-vs-everton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3115"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3116"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3117"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3118"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-24 22:30:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Tottenham Hotspur",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-tottenham-hotspur",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Title": "Brentford",
-        "team2Title": "Hull City",
-        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brentford-vs-hull-city",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-brighton",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",
@@ -275,7 +189,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/racing-vs-espanyol",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/racing-vs-espanyol/3121"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/racing-vs-espanyol/3122"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -287,7 +210,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/valencia-vs-villarreal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/valencia-vs-villarreal/3130"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/valencia-vs-villarreal/3131"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -367,11 +299,11 @@
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/roma-vs-napoli/3022"
+                "url": "https://playerdee.top/alpha/roma-vs-napoli/3135"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/roma-vs-napoli/3023"
+                "url": "https://playerdee.top/alpha/roma-vs-napoli/3137"
             }
         ]
     },
@@ -385,31 +317,199 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/parma-vs-lazio",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/parma-vs-lazio/3140"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/parma-vs-lazio/3141"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 20:00:00",
+        "team1Title": "Fulham",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/fulahm-vs-coventry-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/fulahm-vs-coventry-city/3119"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/fulahm-vs-coventry-city/3120"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 20:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-everton",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3115"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3116"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3117"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3118"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-24 22:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Tottenham Hotspur",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-tottenham-hotspur",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chelsea-vs-tottenham-hotspur/3125"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/chelsea-vs-tottenham-hotspur/3126"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/chelsea-vs-tottenham-hotspur/3127"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/chelsea-vs-tottenham-hotspur/3128"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-25 20:00:00",
+        "team1Title": "Brentford",
+        "team2Title": "Hull City",
+        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brentford-vs-hull-city",
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-24 21:15:00",
-        "team1Title": "Toulouse",
-        "team2Title": "Troyes",
-        "team1Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-25 20:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/toulouse-vs-troyes",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-brighton",
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-25 00:45:00",
-        "team1Title": "Lens",
-        "team2Title": "Paris FC",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-25 20:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lens-vs-paris",
+        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 20:00:00",
+        "team1Title": "Glasgow Warriors",
+        "team2Title": "Benetton",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-benetton-treviso",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/glasgow-warriors-vs-benetton-treviso/3133"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-24 20:00:00",
+        "team1Title": "Scarlets",
+        "team2Title": "Stormers",
+        "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/scarlets-vs-stormers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/scarlets-vs-stormers/3132"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-24 20:00:00",
+        "team1Title": "Southampton",
+        "team2Title": "West Ham United",
+        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/southampton-vs-west-ham",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/southampton-vs-west-ham/3136"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-24 20:05:00",
+        "team1Title": "Leicester Tigers",
+        "team2Title": "Northampton Saints",
+        "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/leicester-tigers-vs-northampton",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/leicester-tigers-vs-northampton/3134"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",
@@ -421,6 +521,32 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-dortmund",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-dortmund/3129"
+            }
+        ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-25 00:45:00",
+        "team1Title": "Lens",
+        "team2Title": "Paris FC",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lens-vs-paris",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lens-vs-paris/3138"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lens-vs-paris/3139"
+            }
+        ]
     }
 ]

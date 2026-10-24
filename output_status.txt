@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 20
-🟡 Visiting detail page [2/20]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [3/20]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/20]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [1/20]: https://pogo.pk/events/f1-united-states-grand-prix
+🟢 Successfully processed: Snooker [2/20]
+🟡 Visiting detail page [4/20]: https://pogo.pk/events/australian-grand-prix
 🟢 Successfully processed: PGA Tour [3/20]
 🟢 Successfully processed: Formula 1 [1/20]
-🟡 Visiting detail page [4/20]: https://pogo.pk/events/australian-grand-prix
-🟡 Visiting detail page [5/20]: https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev
-🟢 Successfully processed: Snooker [2/20]
 🟡 Visiting detail page [6/20]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
-🟢 Successfully processed: UFC [5/20]
-🟡 Visiting detail page [7/20]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
+🟡 Visiting detail page [5/20]: https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev
 🟢 Successfully processed: MotoGP [4/20]
+🟡 Visiting detail page [7/20]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
+🟢 Successfully processed: UFC [5/20]
 🟡 Visiting detail page [8/20]: https://pogo.pk/events/valencia-vs-villarreal
 🟢 Successfully processed: Premier League [6/20]
 🟡 Visiting detail page [9/20]: https://pogo.pk/events/parma-vs-lazio

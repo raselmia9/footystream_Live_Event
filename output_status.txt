@@ -3,26 +3,26 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
-🟡 Visiting detail page [3/30]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/30]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [1/30]: https://pogo.pk/events/f1-united-states-grand-prix
+🟡 Visiting detail page [3/30]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: Formula 1 [1/30]
-🟡 Visiting detail page [4/30]: https://pogo.pk/events/australian-grand-prix
-🟢 Successfully processed: PGA Tour [3/30]
-🟡 Visiting detail page [5/30]: https://pogo.pk/events/brewers-vs-rays
 🟢 Successfully processed: Snooker [2/30]
+🟢 Successfully processed: PGA Tour [3/30]
+🟡 Visiting detail page [4/30]: https://pogo.pk/events/australian-grand-prix
 🟡 Visiting detail page [6/30]: https://pogo.pk/events/macarthur-vs-newcastle-jets
+🟡 Visiting detail page [5/30]: https://pogo.pk/events/brewers-vs-rays
 🟢 Successfully processed: MotoGP [4/30]
-🟡 Visiting detail page [7/30]: https://pogo.pk/events/auckland-vs-western-sydney-wanderers
 🟢 Successfully processed: MLB [5/30]
-🟡 Visiting detail page [8/30]: https://pogo.pk/events/melbourne-city-vs-melbourne-victory
 🟢 Successfully processed: A League [6/30]
+🟡 Visiting detail page [7/30]: https://pogo.pk/events/auckland-vs-western-sydney-wanderers
+🟡 Visiting detail page [8/30]: https://pogo.pk/events/melbourne-city-vs-melbourne-victory
 🟡 Visiting detail page [9/30]: https://pogo.pk/events/png-vs-samoa
-🟢 Successfully processed: A League [7/30]
-🟡 Visiting detail page [10/30]: https://pogo.pk/events/england-vs-france
+🟢 Successfully processed: Rugby League World Cup [9/30]
 🟢 Successfully processed: A League [8/30]
 🟡 Visiting detail page [11/30]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
-🟢 Successfully processed: Rugby League World Cup [9/30]
+🟡 Visiting detail page [10/30]: https://pogo.pk/events/england-vs-france
+🟢 Successfully processed: A League [7/30]
 🟡 Visiting detail page [12/30]: https://pogo.pk/events/manchester-city-vs-aston-villa
 🟢 Successfully processed: EFL [11/30]
 🟡 Visiting detail page [13/30]: https://pogo.pk/events/fulahm-vs-coventry-city

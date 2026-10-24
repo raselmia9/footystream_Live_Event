@@ -3,15 +3,15 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 25
-🟡 Visiting detail page [2/25]: https://pogo.pk/events/snooker-northern-ireland-open
-🟡 Visiting detail page [1/25]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [3/25]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [1/25]: https://pogo.pk/events/f1-united-states-grand-prix
+🟡 Visiting detail page [2/25]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: Formula 1 [1/25]
 🟡 Visiting detail page [4/25]: https://pogo.pk/events/australian-grand-prix
-🟢 Successfully processed: Snooker [2/25]
 🟢 Successfully processed: PGA Tour [3/25]
-🟡 Visiting detail page [6/25]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
 🟡 Visiting detail page [5/25]: https://pogo.pk/events/bulls-vs-ulster
+🟢 Successfully processed: Snooker [2/25]
+🟡 Visiting detail page [6/25]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
 🟢 Successfully processed: MotoGP [4/25]
 🟡 Visiting detail page [7/25]: https://pogo.pk/events/manchester-city-vs-aston-villa
 🟢 Successfully processed: United Rugby [5/25]
@@ -22,9 +22,9 @@
 🟡 Visiting detail page [10/25]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
 🟢 Successfully processed: Premier League [8/25]
 🟡 Visiting detail page [11/25]: https://pogo.pk/events/brentford-vs-hull-city
-🟢 Successfully processed: Premier League [10/25]
-🟡 Visiting detail page [12/25]: https://pogo.pk/events/liverpool-vs-brighton
 🟢 Successfully processed: Premier League [9/25]
+🟡 Visiting detail page [12/25]: https://pogo.pk/events/liverpool-vs-brighton
+🟢 Successfully processed: Premier League [10/25]
 🟡 Visiting detail page [13/25]: https://pogo.pk/events/elche-vs-rayo-vallecano
 🟢 Successfully processed: Premier League [11/25]
 🟡 Visiting detail page [14/25]: https://pogo.pk/events/racing-vs-espanyol

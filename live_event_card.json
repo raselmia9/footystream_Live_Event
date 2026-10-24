@@ -180,84 +180,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-24 20:15:00",
-        "team1Title": "Racing Santander",
-        "team2Title": "Espanyol",
-        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/racing-vs-espanyol",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/racing-vs-espanyol/3121"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/racing-vs-espanyol/3122"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-24 22:30:00",
-        "team1Title": "Valencia",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/valencia-vs-villarreal",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/valencia-vs-villarreal/3130"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/valencia-vs-villarreal/3131"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 01:00:00",
-        "team1Title": "Atlético Madrid",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 19:00:00",
-        "team1Title": "Getafe",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/getafe-vs-athletic-club",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 21:15:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Celta de Vigo",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-celta-vigo",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-24 19:00:00",
         "team1Title": "Bologna",
@@ -510,6 +432,96 @@
                 "url": "https://playerdee.top/alpha/leicester-tigers-vs-northampton/3134"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-24 20:15:00",
+        "team1Title": "Racing Santander",
+        "team2Title": "Espanyol",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/racing-vs-espanyol",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/racing-vs-espanyol/3121"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/racing-vs-espanyol/3122"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-24 22:30:00",
+        "team1Title": "Valencia",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/valencia-vs-villarreal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/valencia-vs-villarreal/3130"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/valencia-vs-villarreal/3131"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 01:00:00",
+        "team1Title": "Atlético Madrid",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 19:00:00",
+        "team1Title": "Getafe",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/getafe-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 21:15:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-betis-vs-celta-vigo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 23:30:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-levante",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",

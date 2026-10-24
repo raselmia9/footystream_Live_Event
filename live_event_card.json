@@ -90,8 +90,8 @@
     {
         "eventTitle": "MLB",
         "matchTime": "2026-10-24 06:00:00",
-        "team1Title": "Milwaukee Brewers",
-        "team2Title": "Tampa Bay Rays",
+        "team1Title": "Event Ended",
+        "team2Title": "Milwaukee Brewers",
         "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
         "isHot": true,

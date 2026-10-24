@@ -185,7 +185,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/fulahm-vs-coventry-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/fulahm-vs-coventry-city/3119"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/fulahm-vs-coventry-city/3120"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -197,7 +206,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-everton",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3115"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3116"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3117"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/arsenal-vs-everton/3118"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -338,7 +364,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/como-vs-sassuolo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/como-vs-sassuolo/3114"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

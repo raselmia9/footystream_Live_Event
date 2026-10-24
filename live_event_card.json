@@ -111,8 +111,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-24 22:30:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Tottenham Hotspur",
+        "team1Title": "Event Ended",
+        "team2Title": "Chelsea",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
         "isHot": true,
@@ -140,8 +140,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-24 22:30:00",
-        "team1Title": "Eintracht Frankfurt",
-        "team2Title": "Borussia Dortmund",
+        "team1Title": "Event Ended",
+        "team2Title": "Eintracht Frankfurt",
         "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "isHot": true,
@@ -161,8 +161,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-24 22:30:00",
-        "team1Title": "Valencia",
-        "team2Title": "Villarreal",
+        "team1Title": "Event Ended",
+        "team2Title": "Valencia",
         "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "isHot": true,

@@ -46,6 +46,31 @@
         ]
     },
     {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-22 08:00:00",
+        "team1Title": "PGA / LPGA Golf",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/pga-lpga-golf",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3027"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3028"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3029"
+            }
+        ]
+    },
+    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-10-23 04:00:00",
         "team1Title": "MotoGP Australian Grand Prix",
@@ -110,6 +135,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/auckland-vs-western-sydney-wanderers/3025"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-24 14:40:00",
+        "team1Title": "Melbourne City",
+        "team2Title": "Melbourne Victory",
+        "team1Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/melbourne-city-vs-melbourne-victory",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/melbourne-city-vs-melbourne-victory/3026"
             }
         ]
     },

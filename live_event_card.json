@@ -92,23 +92,6 @@
         ]
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-10-24 22:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Alexander Volkanovski",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev/3142"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-25 19:00:00",
         "team1Title": "Getafe",

@@ -109,60 +109,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-25 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Parma",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-lazio",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/parma-vs-lazio/3140"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/parma-vs-lazio/3141"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-25 00:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Lens",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lens-vs-paris",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lens-vs-paris/3138"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lens-vs-paris/3139"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 01:00:00",
-        "team1Title": "Atlético Madrid",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-25 19:00:00",
         "team1Title": "Getafe",

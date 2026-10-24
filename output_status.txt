@@ -3,61 +3,61 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 28
-🟡 Visiting detail page [1/28]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [2/28]: https://pogo.pk/events/snooker-northern-ireland-open
+🟡 Visiting detail page [1/28]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [3/28]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: Snooker [2/28]
 🟢 Successfully processed: Formula 1 [1/28]
+🟢 Successfully processed: Snooker [2/28]
 🟡 Visiting detail page [4/28]: https://pogo.pk/events/australian-grand-prix
 🟡 Visiting detail page [5/28]: https://pogo.pk/events/fulahm-vs-coventry-city
 🟢 Successfully processed: PGA Tour [3/28]
 🟡 Visiting detail page [6/28]: https://pogo.pk/events/glasgow-warriors-vs-benetton-treviso
-🟢 Successfully processed: MotoGP [4/28]
 🟢 Successfully processed: Premier League [5/28]
 🟡 Visiting detail page [7/28]: https://pogo.pk/events/southampton-vs-west-ham
-🟡 Visiting detail page [8/28]: https://pogo.pk/events/scarlets-vs-stormers
 🟢 Successfully processed: United Rugby [6/28]
+🟡 Visiting detail page [8/28]: https://pogo.pk/events/scarlets-vs-stormers
+🟢 Successfully processed: MotoGP [4/28]
 🟡 Visiting detail page [9/28]: https://pogo.pk/events/arsenal-vs-everton
 🟢 Successfully processed: EFL [7/28]
-🟢 Successfully processed: United Rugby [8/28]
 🟡 Visiting detail page [10/28]: https://pogo.pk/events/leicester-tigers-vs-northampton
-🟡 Visiting detail page [11/28]: https://pogo.pk/events/racing-vs-espanyol
+🟢 Successfully processed: United Rugby [8/28]
 🟢 Successfully processed: Premier League [9/28]
 🟡 Visiting detail page [12/28]: https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev
-🟢 Successfully processed: Premiership Rugby [10/28]
-🟡 Visiting detail page [13/28]: https://pogo.pk/events/roma-vs-napoli
+🟡 Visiting detail page [11/28]: https://pogo.pk/events/racing-vs-espanyol
 🟢 Successfully processed: LaLiga [11/28]
-🟡 Visiting detail page [14/28]: https://pogo.pk/events/parma-vs-lazio
+🟡 Visiting detail page [13/28]: https://pogo.pk/events/roma-vs-napoli
 🟢 Successfully processed: UFC [12/28]
-🟡 Visiting detail page [15/28]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
-🟢 Successfully processed: Serie A [13/28]
-🟡 Visiting detail page [16/28]: https://pogo.pk/events/brentford-vs-hull-city
-🟢 Successfully processed: Serie A [14/28]
-🟡 Visiting detail page [17/28]: https://pogo.pk/events/liverpool-vs-brighton
+🟡 Visiting detail page [14/28]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
+🟢 Successfully processed: Premiership Rugby [10/28]
+🟡 Visiting detail page [15/28]: https://pogo.pk/events/brentford-vs-hull-city
 🟢 Successfully processed: Premier League [15/28]
-🟡 Visiting detail page [18/28]: https://pogo.pk/events/crystal-palace-vs-newcastle-united
+🟡 Visiting detail page [16/28]: https://pogo.pk/events/liverpool-vs-brighton
 🟢 Successfully processed: Premier League [16/28]
-🟡 Visiting detail page [19/28]: https://pogo.pk/events/manchester-united-vs-bournemouth
+🟡 Visiting detail page [17/28]: https://pogo.pk/events/crystal-palace-vs-newcastle-united
 🟢 Successfully processed: Premier League [17/28]
-🟡 Visiting detail page [20/28]: https://pogo.pk/events/sunderland-vs-leeds-utd
+🟡 Visiting detail page [18/28]: https://pogo.pk/events/manchester-united-vs-bournemouth
 🟢 Successfully processed: Premier League [18/28]
-🟡 Visiting detail page [21/28]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
+🟡 Visiting detail page [19/28]: https://pogo.pk/events/sunderland-vs-leeds-utd
 🟢 Successfully processed: Premier League [19/28]
-🟡 Visiting detail page [22/28]: https://pogo.pk/events/valencia-vs-villarreal
-🟢 Successfully processed: Premier League [20/28]
-🟡 Visiting detail page [23/28]: https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna
-🟢 Successfully processed: LaLiga [23/28]
-🟡 Visiting detail page [24/28]: https://pogo.pk/events/getafe-vs-athletic-club
-🟢 Successfully processed: LaLiga [24/28]
-🟡 Visiting detail page [25/28]: https://pogo.pk/events/real-betis-vs-celta-vigo
-🟢 Successfully processed: LaLiga [25/28]
-🟡 Visiting detail page [26/28]: https://pogo.pk/events/real-sociedad-vs-levante
-🟢 Successfully processed: LaLiga [26/28]
-🟡 Visiting detail page [27/28]: https://pogo.pk/events/barcelona-vs-real-madrid
-🟢 Successfully processed: LaLiga [27/28]
-🟡 Visiting detail page [28/28]: https://pogo.pk/events/lens-vs-paris
-🟢 Successfully processed: Bundesliga [21/28]
+🟡 Visiting detail page [20/28]: https://pogo.pk/events/eintracht-frankfurt-vs-dortmund
+🟢 Successfully processed: Premier League [14/28]
+🟡 Visiting detail page [21/28]: https://pogo.pk/events/valencia-vs-villarreal
+🟢 Successfully processed: Serie A [13/28]
+🟡 Visiting detail page [22/28]: https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [22/28]
+🟡 Visiting detail page [23/28]: https://pogo.pk/events/getafe-vs-athletic-club
+🟢 Successfully processed: LaLiga [23/28]
+🟡 Visiting detail page [24/28]: https://pogo.pk/events/real-betis-vs-celta-vigo
+🟢 Successfully processed: LaLiga [24/28]
+🟡 Visiting detail page [25/28]: https://pogo.pk/events/real-sociedad-vs-levante
+🟢 Successfully processed: LaLiga [25/28]
+🟡 Visiting detail page [26/28]: https://pogo.pk/events/barcelona-vs-real-madrid
+🟢 Successfully processed: LaLiga [26/28]
+🟡 Visiting detail page [27/28]: https://pogo.pk/events/parma-vs-lazio
+🟢 Successfully processed: LaLiga [21/28]
+🟡 Visiting detail page [28/28]: https://pogo.pk/events/lens-vs-paris
+🟢 Successfully processed: Bundesliga [20/28]
+🟢 Successfully processed: Serie A [27/28]
 🟢 Successfully processed: French Ligue 1 [28/28]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 28

@@ -94,8 +94,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-24 20:00:00",
-        "team1Title": "Fulham",
-        "team2Title": "Coventry City",
+        "team1Title": "Event Ended",
+        "team2Title": "Fulham",
         "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
         "isHot": true,
@@ -115,8 +115,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-24 20:00:00",
-        "team1Title": "Glasgow Warriors",
-        "team2Title": "Benetton",
+        "team1Title": "Event Ended",
+        "team2Title": "Glasgow Warriors",
         "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
         "isHot": true,
@@ -132,8 +132,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-24 20:00:00",
-        "team1Title": "Southampton",
-        "team2Title": "West Ham United",
+        "team1Title": "Event Ended",
+        "team2Title": "Southampton",
         "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
         "isHot": true,
@@ -149,8 +149,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-24 20:00:00",
-        "team1Title": "Scarlets",
-        "team2Title": "Stormers",
+        "team1Title": "Event Ended",
+        "team2Title": "Scarlets",
         "team1Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
         "isHot": true,
@@ -166,8 +166,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-24 20:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Everton",
+        "team1Title": "Event Ended",
+        "team2Title": "Arsenal",
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
         "isHot": true,
@@ -265,27 +265,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/roma-vs-napoli/3137"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-25 00:45:00",
-        "team1Title": "Parma",
-        "team2Title": "Lazio",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-lazio",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/parma-vs-lazio/3140"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/parma-vs-lazio/3141"
             }
         ]
     },
@@ -392,6 +371,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-dortmund/3129"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-dortmund/3143"
             }
         ]
     },
@@ -475,6 +458,27 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-real-madrid",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-25 00:45:00",
+        "team1Title": "Parma",
+        "team2Title": "Lazio",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/parma-vs-lazio",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/parma-vs-lazio/3140"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/parma-vs-lazio/3141"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",

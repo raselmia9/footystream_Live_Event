@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
-🟡 Visiting detail page [2/17]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [3/17]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/17]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [1/17]: https://pogo.pk/events/f1-united-states-grand-prix
 🟢 Successfully processed: Formula 1 [1/17]
-🟡 Visiting detail page [4/17]: https://pogo.pk/events/australian-grand-prix
+🟢 Successfully processed: Snooker [2/17]
 🟢 Successfully processed: PGA Tour [3/17]
 🟡 Visiting detail page [5/17]: https://pogo.pk/events/alexander-volkano-vs-ki-vs-mo-vs-ar-evloev
-🟢 Successfully processed: Snooker [2/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/australian-grand-prix
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/parma-vs-lazio
 🟢 Successfully processed: MotoGP [4/17]
 🟡 Visiting detail page [7/17]: https://pogo.pk/events/lens-vs-paris
-🟢 Successfully processed: UFC [5/17]
-🟡 Visiting detail page [8/17]: https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna
 🟢 Successfully processed: Serie A [6/17]
+🟡 Visiting detail page [8/17]: https://pogo.pk/events/atletico-madrid-vs-deportivo-la-coruna
+🟢 Successfully processed: UFC [5/17]
 🟡 Visiting detail page [9/17]: https://pogo.pk/events/getafe-vs-athletic-club
 🟢 Successfully processed: LaLiga [8/17]
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/real-betis-vs-celta-vigo
@@ -34,8 +34,8 @@
 🟡 Visiting detail page [16/17]: https://pogo.pk/events/manchester-united-vs-bournemouth
 🟢 Successfully processed: Premier League [15/17]
 🟡 Visiting detail page [17/17]: https://pogo.pk/events/sunderland-vs-leeds-utd
+🟢 Successfully processed: French Ligue 1 [7/17]
 🟢 Successfully processed: Premier League [16/17]
 🟢 Successfully processed: Premier League [17/17]
-🟢 Successfully processed: French Ligue 1 [7/17]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 17

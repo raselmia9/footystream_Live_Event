@@ -105,40 +105,6 @@
         ]
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-24 12:00:00",
-        "team1Title": "Auckland",
-        "team2Title": "Western Sydney Wanderers",
-        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/auckland-vs-western-sydney-wanderers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/auckland-vs-western-sydney-wanderers/3025"
-            }
-        ]
-    },
-    {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-24 14:40:00",
-        "team1Title": "Melbourne City",
-        "team2Title": "Melbourne Victory",
-        "team1Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/melbourne-city-vs-melbourne-victory",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/melbourne-city-vs-melbourne-victory/3026"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-24 10:25:00",
         "team1Title": "Papua New Guinea",
@@ -177,6 +143,40 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/england-vs-france/3101"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-24 12:00:00",
+        "team1Title": "Auckland",
+        "team2Title": "Western Sydney Wanderers",
+        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/auckland-vs-western-sydney-wanderers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/auckland-vs-western-sydney-wanderers/3025"
+            }
+        ]
+    },
+    {
+        "eventTitle": "A League",
+        "matchTime": "2026-10-24 14:40:00",
+        "team1Title": "Melbourne City",
+        "team2Title": "Melbourne Victory",
+        "team1Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/melbourne-victory/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/melbourne-city-vs-melbourne-victory",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/melbourne-city-vs-melbourne-victory/3026"
             }
         ]
     },

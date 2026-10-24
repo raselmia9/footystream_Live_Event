@@ -4,24 +4,24 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 26
 🟡 Visiting detail page [3/26]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [2/26]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [1/26]: https://pogo.pk/events/f1-united-states-grand-prix
+🟡 Visiting detail page [2/26]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: Formula 1 [1/26]
 🟢 Successfully processed: Snooker [2/26]
-🟢 Successfully processed: PGA Tour [3/26]
 🟡 Visiting detail page [4/26]: https://pogo.pk/events/australian-grand-prix
-🟡 Visiting detail page [6/26]: https://pogo.pk/events/bulls-vs-ulster
 🟡 Visiting detail page [5/26]: https://pogo.pk/events/melbourne-city-vs-melbourne-victory
+🟢 Successfully processed: PGA Tour [3/26]
+🟡 Visiting detail page [6/26]: https://pogo.pk/events/bulls-vs-ulster
+🟢 Successfully processed: A League [5/26]
 🟢 Successfully processed: MotoGP [4/26]
-🟢 Successfully processed: United Rugby [6/26]
 🟡 Visiting detail page [7/26]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
 🟡 Visiting detail page [8/26]: https://pogo.pk/events/manchester-city-vs-aston-villa
-🟢 Successfully processed: A League [5/26]
+🟢 Successfully processed: United Rugby [6/26]
 🟡 Visiting detail page [9/26]: https://pogo.pk/events/fulahm-vs-coventry-city
-🟢 Successfully processed: Premier League [8/26]
 🟢 Successfully processed: EFL [7/26]
-🟡 Visiting detail page [11/26]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
 🟡 Visiting detail page [10/26]: https://pogo.pk/events/arsenal-vs-everton
+🟢 Successfully processed: Premier League [8/26]
+🟡 Visiting detail page [11/26]: https://pogo.pk/events/chelsea-vs-tottenham-hotspur
 🟢 Successfully processed: Premier League [9/26]
 🟡 Visiting detail page [12/26]: https://pogo.pk/events/brentford-vs-hull-city
 🟢 Successfully processed: Premier League [11/26]

@@ -6,27 +6,27 @@
 🟡 Visiting detail page [2/13]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [3/13]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [1/13]: https://pogo.pk/events/f1-united-states-grand-prix
-🟢 Successfully processed: Snooker [2/13]
-🟢 Successfully processed: Formula 1 [1/13]
 🟢 Successfully processed: PGA Tour [3/13]
+🟢 Successfully processed: Formula 1 [1/13]
+🟡 Visiting detail page [4/13]: https://pogo.pk/events/australian-grand-prix
+🟢 Successfully processed: Snooker [2/13]
 🟡 Visiting detail page [5/13]: https://pogo.pk/events/getafe-vs-athletic-club
 🟡 Visiting detail page [6/13]: https://pogo.pk/events/real-betis-vs-celta-vigo
-🟡 Visiting detail page [4/13]: https://pogo.pk/events/australian-grand-prix
 🟢 Successfully processed: LaLiga [6/13]
 🟢 Successfully processed: LaLiga [5/13]
-🟡 Visiting detail page [8/13]: https://pogo.pk/events/barcelona-vs-real-madrid
 🟡 Visiting detail page [7/13]: https://pogo.pk/events/real-sociedad-vs-levante
+🟡 Visiting detail page [8/13]: https://pogo.pk/events/barcelona-vs-real-madrid
 🟢 Successfully processed: LaLiga [7/13]
-🟢 Successfully processed: LaLiga [8/13]
 🟡 Visiting detail page [9/13]: https://pogo.pk/events/brentford-vs-hull-city
+🟢 Successfully processed: LaLiga [8/13]
 🟡 Visiting detail page [10/13]: https://pogo.pk/events/liverpool-vs-brighton
-🟢 Successfully processed: Premier League [10/13]
 🟢 Successfully processed: Premier League [9/13]
-🟡 Visiting detail page [12/13]: https://pogo.pk/events/manchester-united-vs-bournemouth
 🟡 Visiting detail page [11/13]: https://pogo.pk/events/crystal-palace-vs-newcastle-united
-🟢 Successfully processed: Premier League [12/13]
-🟡 Visiting detail page [13/13]: https://pogo.pk/events/sunderland-vs-leeds-utd
+🟢 Successfully processed: Premier League [10/13]
+🟡 Visiting detail page [12/13]: https://pogo.pk/events/manchester-united-vs-bournemouth
 🟢 Successfully processed: Premier League [11/13]
+🟡 Visiting detail page [13/13]: https://pogo.pk/events/sunderland-vs-leeds-utd
+🟢 Successfully processed: Premier League [12/13]
 🟢 Successfully processed: Premier League [13/13]
 🟢 Successfully processed: MotoGP [4/13]
 🟢 Browser closed successfully.

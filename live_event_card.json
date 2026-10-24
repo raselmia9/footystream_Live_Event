@@ -42,6 +42,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/2914"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/3110"
             }
         ]
     },
@@ -152,7 +156,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/norwich-city-vs-charlton-athletic",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/norwich-city-vs-charlton-athletic/3107"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/norwich-city-vs-charlton-athletic/3108"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -164,7 +177,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-city-vs-aston-villa",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-aston-villa/3103"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-aston-villa/3104"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-aston-villa/3105"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-aston-villa/3106"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

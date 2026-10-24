@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
-🟡 Visiting detail page [1/30]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [3/30]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/30]: https://pogo.pk/events/snooker-northern-ireland-open
+🟡 Visiting detail page [1/30]: https://pogo.pk/events/f1-united-states-grand-prix
 🟢 Successfully processed: Formula 1 [1/30]
 🟡 Visiting detail page [4/30]: https://pogo.pk/events/australian-grand-prix
-🟢 Successfully processed: Snooker [2/30]
-🟡 Visiting detail page [5/30]: https://pogo.pk/events/brewers-vs-rays
 🟢 Successfully processed: PGA Tour [3/30]
+🟡 Visiting detail page [5/30]: https://pogo.pk/events/brewers-vs-rays
+🟢 Successfully processed: Snooker [2/30]
 🟡 Visiting detail page [6/30]: https://pogo.pk/events/macarthur-vs-newcastle-jets
 🟢 Successfully processed: MotoGP [4/30]
 🟡 Visiting detail page [7/30]: https://pogo.pk/events/auckland-vs-western-sydney-wanderers

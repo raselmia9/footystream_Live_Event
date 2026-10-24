@@ -88,23 +88,6 @@
         ]
     },
     {
-        "eventTitle": "MLB",
-        "matchTime": "2026-10-24 06:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Milwaukee Brewers",
-        "team1Logo": "https://cdn.img4every1.org/team/milwaukee-brewers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tampa-bay-rays/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brewers-vs-rays",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brewers-vs-rays/3098"
-            }
-        ]
-    },
-    {
         "eventTitle": "A League",
         "matchTime": "2026-10-24 10:00:00",
         "team1Title": "Macarthur",

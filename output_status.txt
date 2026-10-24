@@ -7,22 +7,22 @@
 🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [1/29]: https://pogo.pk/events/f1-united-states-grand-prix
 🟢 Successfully processed: Formula 1 [1/29]
-🟢 Successfully processed: Snooker [2/29]
 🟢 Successfully processed: PGA Tour [3/29]
-🟡 Visiting detail page [4/29]: https://pogo.pk/events/australian-grand-prix
-🟡 Visiting detail page [6/29]: https://pogo.pk/events/png-vs-samoa
 🟡 Visiting detail page [5/29]: https://pogo.pk/events/macarthur-vs-newcastle-jets
-🟢 Successfully processed: MotoGP [4/29]
-🟡 Visiting detail page [7/29]: https://pogo.pk/events/england-vs-france
+🟡 Visiting detail page [4/29]: https://pogo.pk/events/australian-grand-prix
+🟢 Successfully processed: Snooker [2/29]
+🟡 Visiting detail page [6/29]: https://pogo.pk/events/png-vs-samoa
 🟢 Successfully processed: A League [5/29]
+🟡 Visiting detail page [7/29]: https://pogo.pk/events/auckland-vs-western-sydney-wanderers
+🟢 Successfully processed: MotoGP [4/29]
+🟡 Visiting detail page [8/29]: https://pogo.pk/events/melbourne-city-vs-melbourne-victory
 🟢 Successfully processed: Rugby League World Cup [6/29]
-🟡 Visiting detail page [8/29]: https://pogo.pk/events/auckland-vs-western-sydney-wanderers
-🟡 Visiting detail page [9/29]: https://pogo.pk/events/melbourne-city-vs-melbourne-victory
-🟢 Successfully processed: Rugby League World Cup [7/29]
+🟡 Visiting detail page [9/29]: https://pogo.pk/events/england-vs-france
+🟢 Successfully processed: A League [7/29]
 🟡 Visiting detail page [10/29]: https://pogo.pk/events/norwich-city-vs-charlton-athletic
 🟢 Successfully processed: A League [8/29]
 🟡 Visiting detail page [11/29]: https://pogo.pk/events/manchester-city-vs-aston-villa
-🟢 Successfully processed: A League [9/29]
+🟢 Successfully processed: Rugby League World Cup [9/29]
 🟡 Visiting detail page [12/29]: https://pogo.pk/events/fulahm-vs-coventry-city
 🟢 Successfully processed: EFL [10/29]
 🟡 Visiting detail page [13/29]: https://pogo.pk/events/arsenal-vs-everton

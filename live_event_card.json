@@ -92,27 +92,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-24 12:30:00",
-        "team1Title": "England",
-        "team2Title": "France",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-france",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/england-vs-france/3100"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/england-vs-france/3101"
-            }
-        ]
-    },
-    {
         "eventTitle": "A League",
         "matchTime": "2026-10-24 14:40:00",
         "team1Title": "Melbourne City",

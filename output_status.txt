@@ -7,14 +7,14 @@
 🟡 Visiting detail page [2/19]: https://pogo.pk/events/barcelona-vs-real-madrid
 🟡 Visiting detail page [1/19]: https://pogo.pk/events/f1-united-states-grand-prix
 🟢 Successfully processed: LaLiga [2/19]
-🟢 Successfully processed: Formula 1 [1/19]
-🟡 Visiting detail page [5/19]: https://pogo.pk/events/ac-milan-vs-udinese
 🟡 Visiting detail page [4/19]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: PGA Tour [3/19]
+🟡 Visiting detail page [5/19]: https://pogo.pk/events/ac-milan-vs-udinese
+🟢 Successfully processed: Formula 1 [1/19]
 🟡 Visiting detail page [6/19]: https://pogo.pk/events/cardinals-vs-broncos
-🟢 Successfully processed: Serie A [5/19]
 🟢 Successfully processed: Snooker [4/19]
 🟡 Visiting detail page [7/19]: https://pogo.pk/events/rams-vs-raiders
+🟢 Successfully processed: Serie A [5/19]
 🟡 Visiting detail page [8/19]: https://pogo.pk/events/detroit-lions-vs-green-bay-packers
 🟢 Successfully processed: NFL [6/19]
 🟡 Visiting detail page [9/19]: https://pogo.pk/events/chiefs-vs-seahawks
@@ -28,18 +28,18 @@
 🟡 Visiting detail page [13/19]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
 🟢 Successfully processed: EFL [12/19]
 🟡 Visiting detail page [14/19]: https://pogo.pk/events/arsenal-vs-fleetwood-town
-🟢 Successfully processed: EFL [13/19]
+🟢 Successfully processed: NFL [9/19]
 🟡 Visiting detail page [15/19]: https://pogo.pk/events/manchester-city-vs-brighton
-🟢 Successfully processed: EFL [14/19]
+🟢 Successfully processed: EFL [13/19]
 🟡 Visiting detail page [16/19]: https://pogo.pk/events/sevilla-vs-osasuna
 🟢 Successfully processed: EFL [15/19]
 🟡 Visiting detail page [17/19]: https://pogo.pk/events/lazio-vs-sassuolo
-🟢 Successfully processed: NFL [9/19]
+🟢 Successfully processed: EFL [14/19]
 🟡 Visiting detail page [18/19]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
-🟢 Successfully processed: LaLiga [16/19]
-🟡 Visiting detail page [19/19]: https://pogo.pk/events/liverpool-vs-chelsea
 🟢 Successfully processed: Serie A [17/19]
+🟡 Visiting detail page [19/19]: https://pogo.pk/events/liverpool-vs-chelsea
 🟢 Successfully processed: Premier League [19/19]
+🟢 Successfully processed: LaLiga [16/19]
 🟢 Successfully processed: Bundesliga [18/19]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 19

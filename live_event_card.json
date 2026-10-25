@@ -151,7 +151,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/getafe-vs-athletic-club",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3173"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3174"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3175"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -381,7 +394,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-bournemouth",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3170"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3171"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3172"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

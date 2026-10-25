@@ -104,31 +104,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Getafe",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/getafe-vs-athletic-club",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3173"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3174"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/getafe-vs-athletic-club/3175"
-            }
-        ]
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-10-25 19:00:00",
         "team1Title": "Snooker Northern Ireland Open",
@@ -291,76 +266,6 @@
                 "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3178"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 23:30:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-levante",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3179"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3180"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3181"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-26 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Real Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-madrid",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3182"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3183"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3184"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3185"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3186"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-27 02:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "French Ligue 1",
@@ -627,6 +532,76 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lazio-vs-sassuolo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 23:30:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-levante",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3179"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3180"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3181"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-26 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Real Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-madrid",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3182"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3183"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3184"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3185"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3186"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-27 02:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
         "multiWatchPageLink": []
     },
     {

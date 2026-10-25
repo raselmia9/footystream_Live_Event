@@ -188,72 +188,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Title": "Crystal Palace",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3162"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3163"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 22:30:00",
-        "team1Title": "Sunderland",
-        "team2Title": "Leeds United",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sunderland-vs-leeds-utd",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3192"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3193"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3194"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3195"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3196"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-29 02:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Chelsea",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-chelsea",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-25 20:00:00",
         "team1Title": "Lille",
@@ -275,37 +209,29 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-25 22:15:00",
-        "team1Title": "Le Havre",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-25 20:00:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/marseille-vs-le-havre",
+        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3189"
+                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3162"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3190"
+                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3163"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3202"
             }
         ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-27 01:30:00",
-        "team1Title": "PSG",
-        "team2Title": "Olympique Lyonnais",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-lyon",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",
@@ -468,6 +394,84 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-25 22:15:00",
+        "team1Title": "Le Havre",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/marseille-vs-le-havre",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3189"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3190"
+            }
+        ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-27 01:30:00",
+        "team1Title": "PSG",
+        "team2Title": "Olympique Lyonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-lyon",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-25 22:30:00",
+        "team1Title": "Sunderland",
+        "team2Title": "Leeds United",
+        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sunderland-vs-leeds-utd",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3192"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3193"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3194"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3195"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3196"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-29 02:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Chelsea",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-chelsea",
         "multiWatchPageLink": []
     },
     {

@@ -25,39 +25,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-26 02:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "FC Barcelona",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-madrid",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3182"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3183"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3184"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3185"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3186"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-22 08:00:00",
         "team1Title": "PGA / LPGA Golf",

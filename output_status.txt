@@ -2,42 +2,40 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [2/18]: https://pogo.pk/events/barcelona-vs-real-madrid
-🟡 Visiting detail page [3/18]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [1/18]: https://pogo.pk/events/f1-united-states-grand-prix
-🟢 Successfully processed: Formula 1 [1/18]
-🟢 Successfully processed: PGA Tour [3/18]
-🟡 Visiting detail page [5/18]: https://pogo.pk/events/cardinals-vs-broncos
-🟡 Visiting detail page [4/18]: https://pogo.pk/events/snooker-northern-ireland-open
-🟢 Successfully processed: LaLiga [2/18]
-🟡 Visiting detail page [6/18]: https://pogo.pk/events/rams-vs-raiders
-🟢 Successfully processed: Snooker [4/18]
-🟡 Visiting detail page [7/18]: https://pogo.pk/events/detroit-lions-vs-green-bay-packers
-🟢 Successfully processed: NFL [6/18]
-🟡 Visiting detail page [8/18]: https://pogo.pk/events/chiefs-vs-seahawks
-🟢 Successfully processed: NFL [5/18]
-🟡 Visiting detail page [9/18]: https://pogo.pk/events/ballon-dor
-🟢 Successfully processed: Friendly [9/18]
-🟡 Visiting detail page [10/18]: https://pogo.pk/events/psg-vs-lyon
-🟢 Successfully processed: French Ligue 1 [10/18]
-🟡 Visiting detail page [11/18]: https://pogo.pk/events/walsall-vs-salford-city
-🟢 Successfully processed: EFL [11/18]
-🟡 Visiting detail page [12/18]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
-🟢 Successfully processed: EFL [12/18]
-🟡 Visiting detail page [13/18]: https://pogo.pk/events/arsenal-vs-fleetwood-town
-🟢 Successfully processed: NFL [7/18]
-🟡 Visiting detail page [14/18]: https://pogo.pk/events/manchester-city-vs-brighton
-🟢 Successfully processed: NFL [8/18]
-🟡 Visiting detail page [15/18]: https://pogo.pk/events/sevilla-vs-osasuna
-🟢 Successfully processed: EFL [13/18]
-🟡 Visiting detail page [16/18]: https://pogo.pk/events/lazio-vs-sassuolo
-🟢 Successfully processed: EFL [14/18]
-🟡 Visiting detail page [17/18]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
-🟢 Successfully processed: LaLiga [15/18]
-🟡 Visiting detail page [18/18]: https://pogo.pk/events/liverpool-vs-chelsea
-🟢 Successfully processed: Serie A [16/18]
-🟢 Successfully processed: Premier League [18/18]
-🟢 Successfully processed: Bundesliga [17/18]
+🟢 Total unique detail links to process in parallel: 17
+🟡 Visiting detail page [1/17]: https://pogo.pk/events/f1-united-states-grand-prix
+🟡 Visiting detail page [2/17]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [3/17]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: Snooker [3/17]
+🟢 Successfully processed: PGA Tour [2/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/cardinals-vs-broncos
+🟢 Successfully processed: Formula 1 [1/17]
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/rams-vs-raiders
+🟡 Visiting detail page [6/17]: https://pogo.pk/events/detroit-lions-vs-green-bay-packers
+🟢 Successfully processed: NFL [4/17]
+🟢 Successfully processed: NFL [5/17]
+🟡 Visiting detail page [7/17]: https://pogo.pk/events/chiefs-vs-seahawks
+🟢 Successfully processed: NFL [6/17]
+🟡 Visiting detail page [8/17]: https://pogo.pk/events/ballon-dor
+🟡 Visiting detail page [9/17]: https://pogo.pk/events/psg-vs-lyon
+🟢 Successfully processed: Friendly [8/17]
+🟡 Visiting detail page [10/17]: https://pogo.pk/events/walsall-vs-salford-city
+🟢 Successfully processed: French Ligue 1 [9/17]
+🟡 Visiting detail page [11/17]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
+🟢 Successfully processed: EFL [10/17]
+🟡 Visiting detail page [12/17]: https://pogo.pk/events/arsenal-vs-fleetwood-town
+🟢 Successfully processed: EFL [11/17]
+🟡 Visiting detail page [13/17]: https://pogo.pk/events/manchester-city-vs-brighton
+🟢 Successfully processed: EFL [12/17]
+🟡 Visiting detail page [14/17]: https://pogo.pk/events/sevilla-vs-osasuna
+🟢 Successfully processed: EFL [13/17]
+🟡 Visiting detail page [15/17]: https://pogo.pk/events/lazio-vs-sassuolo
+🟢 Successfully processed: LaLiga [14/17]
+🟡 Visiting detail page [16/17]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
+🟢 Successfully processed: Serie A [15/17]
+🟡 Visiting detail page [17/17]: https://pogo.pk/events/liverpool-vs-chelsea
+🟢 Successfully processed: Premier League [17/17]
+🟢 Successfully processed: NFL [7/17]
+🟢 Successfully processed: Bundesliga [16/17]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 18
+🟢 Process completed successfully. Total collected events: 17

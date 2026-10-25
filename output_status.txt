@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 39
 🟡 Visiting detail page [2/39]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [1/39]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [3/39]: https://pogo.pk/events/australian-grand-prix
+🟡 Visiting detail page [1/39]: https://pogo.pk/events/f1-united-states-grand-prix
 🟢 Successfully processed: MotoGP [3/39]
 🟢 Successfully processed: PGA Tour [2/39]
+🟡 Visiting detail page [5/39]: https://pogo.pk/events/australia-vs-fiji
 🟡 Visiting detail page [4/39]: https://pogo.pk/events/new-zealand-vs-cook-islands
 🟢 Successfully processed: Formula 1 [1/39]
-🟡 Visiting detail page [5/39]: https://pogo.pk/events/australia-vs-fiji
 🟡 Visiting detail page [6/39]: https://pogo.pk/events/inter-milan-vs-fiorentina
 🟢 Successfully processed: Rugby League World Cup [4/39]
 🟡 Visiting detail page [7/39]: https://pogo.pk/events/juventus-vs-lecce
@@ -28,11 +28,11 @@
 🟡 Visiting detail page [13/39]: https://pogo.pk/events/barcelona-vs-real-madrid
 🟢 Successfully processed: LaLiga [13/39]
 🟡 Visiting detail page [14/39]: https://pogo.pk/events/sevilla-vs-osasuna
-🟢 Successfully processed: Serie A [7/39]
-🟡 Visiting detail page [15/39]: https://pogo.pk/events/snooker-northern-ireland-open
-🟢 Successfully processed: Serie A [8/39]
-🟡 Visiting detail page [16/39]: https://pogo.pk/events/steelers-vs-saints
 🟢 Successfully processed: LaLiga [14/39]
+🟡 Visiting detail page [15/39]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: Serie A [7/39]
+🟡 Visiting detail page [16/39]: https://pogo.pk/events/steelers-vs-saints
+🟢 Successfully processed: Serie A [8/39]
 🟡 Visiting detail page [17/39]: https://pogo.pk/events/miami-dolphins-vs-jets
 🟢 Successfully processed: NFL [17/39]
 🟡 Visiting detail page [18/39]: https://pogo.pk/events/titans-vs-browns

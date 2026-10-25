@@ -51,27 +51,6 @@
     },
     {
         "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-25 11:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "New Zealand",
-        "team1Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/new-zealand-vs-cook-islands",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/new-zealand-vs-cook-islands/3151"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/new-zealand-vs-cook-islands/3152"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-25 15:05:00",
         "team1Title": "Australia",
         "team2Title": "Fiji",

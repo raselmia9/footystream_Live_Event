@@ -100,31 +100,10 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-25 22:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Le Havre",
-        "team1Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/marseille-vs-le-havre",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3189"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3190"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-25 22:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Freiburg",
+        "team1Title": "Event Ended",
+        "team2Title": "Bayern München",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
         "isHot": true,
@@ -144,8 +123,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-25 22:30:00",
-        "team1Title": "Sunderland",
-        "team2Title": "Leeds United",
+        "team1Title": "Event Ended",
+        "team2Title": "Sunderland",
         "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
         "isHot": true,

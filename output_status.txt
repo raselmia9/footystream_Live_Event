@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 37
 🟡 Visiting detail page [2/37]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [1/37]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [3/37]: https://pogo.pk/events/australia-vs-fiji
+🟡 Visiting detail page [1/37]: https://pogo.pk/events/f1-united-states-grand-prix
 🟢 Successfully processed: Formula 1 [1/37]
-🟢 Successfully processed: PGA Tour [2/37]
 🟡 Visiting detail page [4/37]: https://pogo.pk/events/inter-milan-vs-fiorentina
+🟢 Successfully processed: PGA Tour [2/37]
 🟡 Visiting detail page [5/37]: https://pogo.pk/events/juventus-vs-lecce
 🟢 Successfully processed: Rugby League World Cup [3/37]
 🟡 Visiting detail page [6/37]: https://pogo.pk/events/ac-milan-vs-udinese
-🟢 Successfully processed: Serie A [5/37]
-🟡 Visiting detail page [7/37]: https://pogo.pk/events/lazio-vs-sassuolo
 🟢 Successfully processed: Serie A [4/37]
-🟢 Successfully processed: Serie A [6/37]
+🟡 Visiting detail page [7/37]: https://pogo.pk/events/lazio-vs-sassuolo
+🟢 Successfully processed: Serie A [5/37]
 🟡 Visiting detail page [8/37]: https://pogo.pk/events/getafe-vs-athletic-club
+🟢 Successfully processed: Serie A [6/37]
 🟡 Visiting detail page [9/37]: https://pogo.pk/events/real-betis-vs-celta-vigo
 🟢 Successfully processed: Serie A [7/37]
 🟡 Visiting detail page [10/37]: https://pogo.pk/events/real-sociedad-vs-levante
@@ -27,8 +27,8 @@
 🟢 Successfully processed: LaLiga [10/37]
 🟡 Visiting detail page [13/37]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: LaLiga [11/37]
-🟢 Successfully processed: LaLiga [12/37]
 🟡 Visiting detail page [14/37]: https://pogo.pk/events/steelers-vs-saints
+🟢 Successfully processed: LaLiga [12/37]
 🟡 Visiting detail page [15/37]: https://pogo.pk/events/miami-dolphins-vs-jets
 🟢 Successfully processed: NFL [15/37]
 🟡 Visiting detail page [16/37]: https://pogo.pk/events/titans-vs-browns

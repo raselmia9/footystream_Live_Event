@@ -51,40 +51,6 @@
     },
     {
         "eventTitle": "NFL",
-        "matchTime": "2026-10-26 02:05:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Arizona Cardinals",
-        "team1Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cardinals-vs-broncos",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/cardinals-vs-broncos/3204"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-26 02:05:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Los Angeles Rams",
-        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rams-vs-raiders",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/rams-vs-raiders/3205"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
         "matchTime": "2026-10-26 02:25:00",
         "team1Title": "Detroit Lions",
         "team2Title": "Green Bay Packers",

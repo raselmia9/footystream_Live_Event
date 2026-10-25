@@ -67,23 +67,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-25 20:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayer Leverkusen",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-hoffenheim",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-hoffenheim/3149"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-25 21:00:00",
         "team1Title": "Harlequins",
@@ -160,6 +143,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/bayern-munchen-vs-freiburg/3150"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-freiburg/3203"
             }
         ]
     },

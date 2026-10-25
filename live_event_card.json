@@ -310,7 +310,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/brentford-vs-hull-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3164"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3165"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -322,7 +331,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/liverpool-vs-brighton",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3166"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3167"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3168"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3169"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -334,7 +360,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3162"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3163"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

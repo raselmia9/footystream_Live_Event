@@ -25,60 +25,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-brighton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3166"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3167"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3168"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/liverpool-vs-brighton/3169"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Title": "Manchester United",
-        "team2Title": "AFC Bournemouth",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-united-vs-bournemouth",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3170"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3171"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-bournemouth/3172"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-22 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -138,73 +84,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/steelers-vs-saints/3191"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Title": "Brentford",
-        "team2Title": "Hull City",
-        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brentford-vs-hull-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3164"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/brentford-vs-hull-city/3165"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Title": "Lille",
-        "team2Title": "AS Monaco",
-        "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/as-monaco/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lille-vs-monaco",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lille-vs-monaco/3187"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lille-vs-monaco/3188"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 20:00:00",
-        "team1Title": "Crystal Palace",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-newcastle-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3162"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3163"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/crystal-palace-vs-newcastle-united/3202"
             }
         ]
     },
@@ -287,18 +166,6 @@
                 "url": "https://playerdee.top/alpha/marseille-vs-le-havre/3190"
             }
         ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-27 01:30:00",
-        "team1Title": "PSG",
-        "team2Title": "Olympique Lyonnais",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-lyon",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",
@@ -614,6 +481,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ballon-dor",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-27 01:30:00",
+        "team1Title": "PSG",
+        "team2Title": "Olympique Lyonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-lyon",
         "multiWatchPageLink": []
     },
     {

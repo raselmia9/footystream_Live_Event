@@ -102,8 +102,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-25 22:15:00",
-        "team1Title": "Le Havre",
-        "team2Title": "Team 2",
+        "team1Title": "Event Ended",
+        "team2Title": "Le Havre",
         "team1Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
         "isHot": true,

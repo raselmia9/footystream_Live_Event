@@ -6,15 +6,15 @@
 🟡 Visiting detail page [1/19]: https://pogo.pk/events/f1-united-states-grand-prix
 🟡 Visiting detail page [2/19]: https://pogo.pk/events/barcelona-vs-real-madrid
 🟡 Visiting detail page [3/19]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: Formula 1 [1/19]
+🟢 Successfully processed: PGA Tour [3/19]
 🟡 Visiting detail page [4/19]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: LaLiga [2/19]
 🟡 Visiting detail page [5/19]: https://pogo.pk/events/ac-milan-vs-udinese
-🟢 Successfully processed: PGA Tour [3/19]
+🟢 Successfully processed: Formula 1 [1/19]
 🟡 Visiting detail page [6/19]: https://pogo.pk/events/cardinals-vs-broncos
-🟢 Successfully processed: Snooker [4/19]
-🟡 Visiting detail page [7/19]: https://pogo.pk/events/rams-vs-raiders
 🟢 Successfully processed: Serie A [5/19]
+🟡 Visiting detail page [7/19]: https://pogo.pk/events/rams-vs-raiders
+🟢 Successfully processed: Snooker [4/19]
 🟡 Visiting detail page [8/19]: https://pogo.pk/events/detroit-lions-vs-green-bay-packers
 🟢 Successfully processed: NFL [6/19]
 🟡 Visiting detail page [9/19]: https://pogo.pk/events/chiefs-vs-seahawks

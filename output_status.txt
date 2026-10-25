@@ -3,28 +3,28 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
+🟡 Visiting detail page [3/17]: https://pogo.pk/events/snooker-northern-ireland-open
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [1/17]: https://pogo.pk/events/f1-united-states-grand-prix
-🟡 Visiting detail page [3/17]: https://pogo.pk/events/snooker-northern-ireland-open
-🟢 Successfully processed: Snooker [3/17]
 🟢 Successfully processed: PGA Tour [2/17]
 🟡 Visiting detail page [4/17]: https://pogo.pk/events/cardinals-vs-broncos
-🟡 Visiting detail page [5/17]: https://pogo.pk/events/rams-vs-raiders
 🟢 Successfully processed: Formula 1 [1/17]
+🟢 Successfully processed: Snooker [3/17]
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/rams-vs-raiders
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/detroit-lions-vs-green-bay-packers
 🟢 Successfully processed: NFL [4/17]
 🟢 Successfully processed: NFL [5/17]
-🟢 Successfully processed: NFL [6/17]
 🟡 Visiting detail page [7/17]: https://pogo.pk/events/chiefs-vs-seahawks
 🟡 Visiting detail page [8/17]: https://pogo.pk/events/ballon-dor
+🟢 Successfully processed: NFL [6/17]
 🟡 Visiting detail page [9/17]: https://pogo.pk/events/psg-vs-lyon
 🟢 Successfully processed: Friendly [8/17]
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/walsall-vs-salford-city
 🟢 Successfully processed: French Ligue 1 [9/17]
 🟡 Visiting detail page [11/17]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
 🟢 Successfully processed: EFL [10/17]
-🟢 Successfully processed: EFL [11/17]
 🟡 Visiting detail page [12/17]: https://pogo.pk/events/arsenal-vs-fleetwood-town
+🟢 Successfully processed: EFL [11/17]
 🟡 Visiting detail page [13/17]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [12/17]
 🟡 Visiting detail page [14/17]: https://pogo.pk/events/sevilla-vs-osasuna

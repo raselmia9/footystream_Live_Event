@@ -52,8 +52,8 @@
     {
         "eventTitle": "Snooker",
         "matchTime": "2026-10-25 19:00:00",
-        "team1Title": "Snooker Northern Ireland Open",
-        "team2Title": "Snooker",
+        "team1Title": "Event Ended",
+        "team2Title": "Snooker Northern Ireland Open",
         "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
         "isHot": true,

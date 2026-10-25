@@ -52,8 +52,8 @@
     {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-10-25 11:00:00",
-        "team1Title": "New Zealand",
-        "team2Title": "Cook Islands",
+        "team1Title": "Event Ended",
+        "team2Title": "New Zealand",
         "team1Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
         "isHot": true,
@@ -331,6 +331,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/brentford-vs-hull-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-25 20:00:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-brighton",
         "multiWatchPageLink": []
     },
     {

@@ -540,18 +540,6 @@
     },
     {
         "eventTitle": "EFL",
-        "matchTime": "2026-10-28 01:45:00",
-        "team1Title": "Bradford City",
-        "team2Title": "Peterborough United",
-        "team1Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bradford-city-vs-peterborough-utd",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
         "matchTime": "2026-10-28 02:00:00",
         "team1Title": "Arsenal",
         "team2Title": "Fleetwood Town",

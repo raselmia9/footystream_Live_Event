@@ -4,17 +4,17 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 36
 🟡 Visiting detail page [1/36]: https://pogo.pk/events/f1-united-states-grand-prix
-🟡 Visiting detail page [3/36]: https://pogo.pk/events/inter-milan-vs-fiorentina
 🟡 Visiting detail page [2/36]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [3/36]: https://pogo.pk/events/inter-milan-vs-fiorentina
 🟢 Successfully processed: Serie A [3/36]
-🟡 Visiting detail page [4/36]: https://pogo.pk/events/getafe-vs-athletic-club
-🟢 Successfully processed: Formula 1 [1/36]
-🟡 Visiting detail page [5/36]: https://pogo.pk/events/real-betis-vs-celta-vigo
 🟢 Successfully processed: PGA Tour [2/36]
+🟡 Visiting detail page [4/36]: https://pogo.pk/events/getafe-vs-athletic-club
+🟡 Visiting detail page [5/36]: https://pogo.pk/events/real-betis-vs-celta-vigo
+🟢 Successfully processed: Formula 1 [1/36]
 🟡 Visiting detail page [6/36]: https://pogo.pk/events/real-sociedad-vs-levante
-🟢 Successfully processed: LaLiga [4/36]
-🟡 Visiting detail page [7/36]: https://pogo.pk/events/barcelona-vs-real-madrid
 🟢 Successfully processed: LaLiga [5/36]
+🟡 Visiting detail page [7/36]: https://pogo.pk/events/barcelona-vs-real-madrid
+🟢 Successfully processed: LaLiga [4/36]
 🟡 Visiting detail page [8/36]: https://pogo.pk/events/sevilla-vs-osasuna
 🟢 Successfully processed: LaLiga [6/36]
 🟡 Visiting detail page [9/36]: https://pogo.pk/events/snooker-northern-ireland-open

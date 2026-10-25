@@ -27,8 +27,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-26 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Real Madrid",
+        "team1Title": "Event Ended",
+        "team2Title": "FC Barcelona",
         "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "isHot": true,
@@ -96,27 +96,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/3155"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-26 01:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Udinese",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-udinese",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-udinese/3147"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-udinese/3148"
             }
         ]
     },

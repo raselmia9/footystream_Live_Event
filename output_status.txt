@@ -2,66 +2,64 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 30
-🟡 Visiting detail page [1/30]: https://pogo.pk/events/f1-united-states-grand-prix
-🟡 Visiting detail page [2/30]: https://pogo.pk/events/barcelona-vs-real-madrid
-🟡 Visiting detail page [3/30]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: PGA Tour [3/30]
-🟢 Successfully processed: Formula 1 [1/30]
-🟢 Successfully processed: LaLiga [2/30]
-🟡 Visiting detail page [4/30]: https://pogo.pk/events/snooker-northern-ireland-open
-🟡 Visiting detail page [5/30]: https://pogo.pk/events/real-betis-vs-celta-vigo
-🟡 Visiting detail page [6/30]: https://pogo.pk/events/marseille-vs-le-havre
-🟢 Successfully processed: Snooker [4/30]
-🟡 Visiting detail page [7/30]: https://pogo.pk/events/bayern-munchen-vs-freiburg
-🟢 Successfully processed: French Ligue 1 [6/30]
-🟡 Visiting detail page [8/30]: https://pogo.pk/events/sunderland-vs-leeds-utd
-🟢 Successfully processed: LaLiga [5/30]
-🟡 Visiting detail page [9/30]: https://pogo.pk/events/miami-dolphins-vs-jets
-🟢 Successfully processed: Bundesliga [7/30]
-🟡 Visiting detail page [10/30]: https://pogo.pk/events/titans-vs-browns
-🟢 Successfully processed: NFL [9/30]
-🟡 Visiting detail page [11/30]: https://pogo.pk/events/giants-vs-texans
-🟢 Successfully processed: Premier League [8/30]
-🟡 Visiting detail page [12/30]: https://pogo.pk/events/falcons-vs-49ers
-🟢 Successfully processed: NFL [10/30]
-🟡 Visiting detail page [13/30]: https://pogo.pk/events/baltimore-ravens-vs-cincinnati-bengals
-🟢 Successfully processed: NFL [11/30]
-🟡 Visiting detail page [14/30]: https://pogo.pk/events/juventus-vs-lecce
-🟢 Successfully processed: NFL [12/30]
-🟡 Visiting detail page [15/30]: https://pogo.pk/events/real-sociedad-vs-levante
-🟢 Successfully processed: NFL [13/30]
-🟡 Visiting detail page [16/30]: https://pogo.pk/events/sevilla-vs-osasuna
-🟢 Successfully processed: Serie A [14/30]
-🟡 Visiting detail page [17/30]: https://pogo.pk/events/ac-milan-vs-udinese
-🟢 Successfully processed: LaLiga [15/30]
-🟡 Visiting detail page [18/30]: https://pogo.pk/events/lazio-vs-sassuolo
-🟢 Successfully processed: LaLiga [16/30]
-🟡 Visiting detail page [19/30]: https://pogo.pk/events/cardinals-vs-broncos
-🟢 Successfully processed: Serie A [18/30]
-🟡 Visiting detail page [20/30]: https://pogo.pk/events/rams-vs-raiders
-🟢 Successfully processed: Serie A [17/30]
-🟡 Visiting detail page [21/30]: https://pogo.pk/events/detroit-lions-vs-green-bay-packers
-🟢 Successfully processed: NFL [19/30]
-🟡 Visiting detail page [22/30]: https://pogo.pk/events/chiefs-vs-seahawks
-🟢 Successfully processed: NFL [20/30]
-🟡 Visiting detail page [23/30]: https://pogo.pk/events/ballon-dor
-🟢 Successfully processed: Friendly [23/30]
-🟡 Visiting detail page [24/30]: https://pogo.pk/events/psg-vs-lyon
-🟢 Successfully processed: French Ligue 1 [24/30]
-🟡 Visiting detail page [25/30]: https://pogo.pk/events/walsall-vs-salford-city
-🟢 Successfully processed: EFL [25/30]
-🟡 Visiting detail page [26/30]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
-🟢 Successfully processed: EFL [26/30]
-🟡 Visiting detail page [27/30]: https://pogo.pk/events/arsenal-vs-fleetwood-town
-🟢 Successfully processed: EFL [27/30]
-🟡 Visiting detail page [28/30]: https://pogo.pk/events/manchester-city-vs-brighton
-🟢 Successfully processed: EFL [28/30]
-🟡 Visiting detail page [29/30]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
-🟢 Successfully processed: NFL [21/30]
-🟡 Visiting detail page [30/30]: https://pogo.pk/events/liverpool-vs-chelsea
-🟢 Successfully processed: NFL [22/30]
-🟢 Successfully processed: Premier League [30/30]
-🟢 Successfully processed: Bundesliga [29/30]
+🟢 Total unique detail links to process in parallel: 29
+🟡 Visiting detail page [2/29]: https://pogo.pk/events/barcelona-vs-real-madrid
+🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [1/29]: https://pogo.pk/events/f1-united-states-grand-prix
+🟢 Successfully processed: LaLiga [2/29]
+🟡 Visiting detail page [4/29]: https://pogo.pk/events/snooker-northern-ireland-open
+🟢 Successfully processed: PGA Tour [3/29]
+🟢 Successfully processed: Formula 1 [1/29]
+🟡 Visiting detail page [6/29]: https://pogo.pk/events/bayern-munchen-vs-freiburg
+🟡 Visiting detail page [5/29]: https://pogo.pk/events/marseille-vs-le-havre
+🟢 Successfully processed: Snooker [4/29]
+🟡 Visiting detail page [7/29]: https://pogo.pk/events/sunderland-vs-leeds-utd
+🟢 Successfully processed: French Ligue 1 [5/29]
+🟡 Visiting detail page [8/29]: https://pogo.pk/events/miami-dolphins-vs-jets
+🟢 Successfully processed: Bundesliga [6/29]
+🟡 Visiting detail page [9/29]: https://pogo.pk/events/titans-vs-browns
+🟢 Successfully processed: Premier League [7/29]
+🟡 Visiting detail page [10/29]: https://pogo.pk/events/giants-vs-texans
+🟢 Successfully processed: NFL [8/29]
+🟡 Visiting detail page [11/29]: https://pogo.pk/events/falcons-vs-49ers
+🟢 Successfully processed: NFL [9/29]
+🟡 Visiting detail page [12/29]: https://pogo.pk/events/baltimore-ravens-vs-cincinnati-bengals
+🟢 Successfully processed: NFL [10/29]
+🟡 Visiting detail page [13/29]: https://pogo.pk/events/juventus-vs-lecce
+🟢 Successfully processed: NFL [11/29]
+🟡 Visiting detail page [14/29]: https://pogo.pk/events/real-sociedad-vs-levante
+🟢 Successfully processed: NFL [12/29]
+🟡 Visiting detail page [15/29]: https://pogo.pk/events/ac-milan-vs-udinese
+🟢 Successfully processed: Serie A [13/29]
+🟡 Visiting detail page [16/29]: https://pogo.pk/events/lazio-vs-sassuolo
+🟢 Successfully processed: LaLiga [14/29]
+🟡 Visiting detail page [17/29]: https://pogo.pk/events/cardinals-vs-broncos
+🟢 Successfully processed: Serie A [15/29]
+🟡 Visiting detail page [18/29]: https://pogo.pk/events/rams-vs-raiders
+🟢 Successfully processed: Serie A [16/29]
+🟡 Visiting detail page [19/29]: https://pogo.pk/events/detroit-lions-vs-green-bay-packers
+🟢 Successfully processed: NFL [17/29]
+🟡 Visiting detail page [20/29]: https://pogo.pk/events/chiefs-vs-seahawks
+🟢 Successfully processed: NFL [18/29]
+🟡 Visiting detail page [21/29]: https://pogo.pk/events/ballon-dor
+🟢 Successfully processed: NFL [19/29]
+🟡 Visiting detail page [22/29]: https://pogo.pk/events/psg-vs-lyon
+🟢 Successfully processed: Friendly [21/29]
+🟡 Visiting detail page [23/29]: https://pogo.pk/events/walsall-vs-salford-city
+🟢 Successfully processed: French Ligue 1 [22/29]
+🟡 Visiting detail page [24/29]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
+🟢 Successfully processed: EFL [23/29]
+🟡 Visiting detail page [25/29]: https://pogo.pk/events/arsenal-vs-fleetwood-town
+🟢 Successfully processed: EFL [24/29]
+🟡 Visiting detail page [26/29]: https://pogo.pk/events/manchester-city-vs-brighton
+🟢 Successfully processed: EFL [25/29]
+🟡 Visiting detail page [27/29]: https://pogo.pk/events/sevilla-vs-osasuna
+🟢 Successfully processed: EFL [26/29]
+🟡 Visiting detail page [28/29]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
+🟢 Successfully processed: LaLiga [27/29]
+🟡 Visiting detail page [29/29]: https://pogo.pk/events/liverpool-vs-chelsea
+🟢 Successfully processed: Premier League [29/29]
+🟢 Successfully processed: NFL [20/29]
+🟢 Successfully processed: Bundesliga [28/29]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 30
+🟢 Process completed successfully. Total collected events: 29

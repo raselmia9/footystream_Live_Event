@@ -100,31 +100,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 21:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Betis",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-celta-vigo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3176"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3177"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-betis-vs-celta-vigo/3178"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-25 22:15:00",
         "team1Title": "Le Havre",
@@ -335,18 +310,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-27 02:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-26 01:45:00",
         "team1Title": "AC Milan",
@@ -525,6 +488,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-city-vs-brighton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-27 02:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
         "multiWatchPageLink": []
     },
     {

@@ -189,27 +189,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-25 23:00:00",
-        "team1Title": "Juventus",
-        "team2Title": "Lecce",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/juventus-vs-lecce",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/juventus-vs-lecce/3145"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/juventus-vs-lecce/3146"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-25 23:30:00",
         "team1Title": "Real Sociedad",

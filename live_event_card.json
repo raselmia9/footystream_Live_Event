@@ -324,6 +324,18 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-25 20:00:00",
+        "team1Title": "Brentford",
+        "team2Title": "Hull City",
+        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brentford-vs-hull-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-25 20:00:00",
         "team1Title": "Liverpool",
         "team2Title": "Brighton & Hove Albion",
         "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
@@ -355,18 +367,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-bournemouth",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 22:30:00",
-        "team1Title": "Sunderland",
-        "team2Title": "Leeds United",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sunderland-vs-leeds-utd",
         "multiWatchPageLink": []
     },
     {

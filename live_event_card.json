@@ -100,60 +100,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-25 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayern München",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-freiburg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-freiburg/3150"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-freiburg/3203"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-25 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sunderland-vs-leeds-utd",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3192"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3193"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3194"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3195"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/sunderland-vs-leeds-utd/3196"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-25 23:00:00",
         "team1Title": "Miami Dolphins",

@@ -100,27 +100,10 @@
         ]
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-25 21:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Harlequins",
-        "team1Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/harlequins-vs-saracens",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/harlequins-vs-saracens/3157"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-25 21:15:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Celta de Vigo",
+        "team1Title": "Event Ended",
+        "team2Title": "Real Betis",
         "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
         "isHot": true,

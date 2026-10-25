@@ -25,31 +25,6 @@
         ]
     },
     {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-10-18 15:00:00",
-        "team1Title": "Snooker Northern Ireland Open",
-        "team2Title": "Snooker",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/snooker-northern-ireland-open",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/2913"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/2914"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/3110"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-22 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -92,6 +67,48 @@
         ]
     },
     {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-25 11:00:00",
+        "team1Title": "New Zealand",
+        "team2Title": "Cook Islands",
+        "team1Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cook-islands/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/new-zealand-vs-cook-islands",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/new-zealand-vs-cook-islands/3151"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/new-zealand-vs-cook-islands/3152"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-25 15:05:00",
+        "team1Title": "Australia",
+        "team2Title": "Fiji",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-fiji",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australia-vs-fiji/3153"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/australia-vs-fiji/3154"
+            }
+        ]
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-25 17:30:00",
         "team1Title": "Inter Milan",
@@ -105,6 +122,48 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/inter-milan-vs-fiorentina/3144"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-25 23:00:00",
+        "team1Title": "Juventus",
+        "team2Title": "Lecce",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/juventus-vs-lecce",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/juventus-vs-lecce/3145"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/juventus-vs-lecce/3146"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-26 01:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ac-milan-vs-udinese",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-udinese/3147"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-udinese/3148"
             }
         ]
     },
@@ -154,6 +213,105 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-real-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Snooker",
+        "matchTime": "2026-10-25 19:00:00",
+        "team1Title": "Snooker Northern Ireland Open",
+        "team2Title": "Snooker",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/snooker-northern-ireland-open",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/3155"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-25 19:30:00",
+        "team1Title": "Pittsburgh Steelers",
+        "team2Title": "New Orleans Saints",
+        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/steelers-vs-saints",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/steelers-vs-saints/3156"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-25 23:00:00",
+        "team1Title": "Miami Dolphins",
+        "team2Title": "New York Jets",
+        "team1Logo": "https://cdn.img4every1.org/team/miami-dolphins/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-york-jets/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/miami-dolphins-vs-jets",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-25 23:00:00",
+        "team1Title": "Tennessee Titans",
+        "team2Title": "Cleveland Browns",
+        "team1Logo": "https://cdn.img4every1.org/team/tennessee-titans/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cleveland-browns/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/titans-vs-browns",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-25 23:00:00",
+        "team1Title": "New York Giants",
+        "team2Title": "Houston Texans",
+        "team1Logo": "https://cdn.img4every1.org/team/new-york-giants/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/houston-texans/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/giants-vs-texans",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-25 23:00:00",
+        "team1Title": "Atlanta Falcons",
+        "team2Title": "San Francisco 49ers",
+        "team1Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/falcons-vs-49ers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/falcons-vs-49ers/3158"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-25 23:00:00",
+        "team1Title": "Baltimore Ravens",
+        "team2Title": "Cincinnati Bengals",
+        "team1Logo": "https://cdn.img4every1.org/team/baltimore-ravens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/baltimore-ravens-vs-cincinnati-bengals",
         "multiWatchPageLink": []
     },
     {
@@ -215,5 +373,56 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sunderland-vs-leeds-utd",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-25 20:30:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Hoffenheim",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-hoffenheim",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-hoffenheim/3149"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-25 22:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Freiburg",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-freiburg",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-freiburg/3150"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-25 21:00:00",
+        "team1Title": "Harlequins",
+        "team2Title": "Saracens",
+        "team1Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/harlequins-vs-saracens",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/harlequins-vs-saracens/3157"
+            }
+        ]
     }
 ]

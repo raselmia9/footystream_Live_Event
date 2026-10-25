@@ -3,13 +3,13 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [2/14]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [1/14]: https://pogo.pk/events/f1-united-states-grand-prix
+🟡 Visiting detail page [2/14]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/detroit-lions-vs-green-bay-packers
 🟢 Successfully processed: NFL [3/14]
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/chiefs-vs-seahawks
 🟢 Successfully processed: Formula 1 [1/14]
 🟡 Visiting detail page [5/14]: https://pogo.pk/events/ballon-dor
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/chiefs-vs-seahawks
 🟢 Successfully processed: PGA Tour [2/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/psg-vs-lyon
 🟢 Successfully processed: Friendly [5/14]
@@ -17,8 +17,8 @@
 🟢 Successfully processed: French Ligue 1 [6/14]
 🟡 Visiting detail page [8/14]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
 🟢 Successfully processed: EFL [7/14]
-🟡 Visiting detail page [9/14]: https://pogo.pk/events/arsenal-vs-fleetwood-town
 🟢 Successfully processed: EFL [8/14]
+🟡 Visiting detail page [9/14]: https://pogo.pk/events/arsenal-vs-fleetwood-town
 🟡 Visiting detail page [10/14]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [9/14]
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/sevilla-vs-osasuna
@@ -28,8 +28,8 @@
 🟡 Visiting detail page [13/14]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: Serie A [12/14]
 🟡 Visiting detail page [14/14]: https://pogo.pk/events/liverpool-vs-chelsea
-🟢 Successfully processed: NFL [4/14]
 🟢 Successfully processed: Premier League [14/14]
+🟢 Successfully processed: NFL [4/14]
 🟢 Successfully processed: Bundesliga [13/14]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 14

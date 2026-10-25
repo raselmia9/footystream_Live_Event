@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 29
 🟡 Visiting detail page [2/29]: https://pogo.pk/events/barcelona-vs-real-madrid
-🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [1/29]: https://pogo.pk/events/f1-united-states-grand-prix
-🟢 Successfully processed: LaLiga [2/29]
+🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
+🟢 Successfully processed: PGA Tour [3/29]
 🟡 Visiting detail page [4/29]: https://pogo.pk/events/snooker-northern-ireland-open
 🟢 Successfully processed: Formula 1 [1/29]
 🟡 Visiting detail page [5/29]: https://pogo.pk/events/marseille-vs-le-havre
-🟢 Successfully processed: PGA Tour [3/29]
+🟢 Successfully processed: LaLiga [2/29]
 🟡 Visiting detail page [6/29]: https://pogo.pk/events/bayern-munchen-vs-freiburg
 🟢 Successfully processed: Snooker [4/29]
 🟡 Visiting detail page [7/29]: https://pogo.pk/events/sunderland-vs-leeds-utd
@@ -18,9 +18,9 @@
 🟡 Visiting detail page [8/29]: https://pogo.pk/events/miami-dolphins-vs-jets
 🟢 Successfully processed: Bundesliga [6/29]
 🟡 Visiting detail page [9/29]: https://pogo.pk/events/titans-vs-browns
-🟢 Successfully processed: Premier League [7/29]
-🟡 Visiting detail page [10/29]: https://pogo.pk/events/giants-vs-texans
 🟢 Successfully processed: NFL [8/29]
+🟡 Visiting detail page [10/29]: https://pogo.pk/events/giants-vs-texans
+🟢 Successfully processed: Premier League [7/29]
 🟡 Visiting detail page [11/29]: https://pogo.pk/events/falcons-vs-49ers
 🟢 Successfully processed: NFL [9/29]
 🟡 Visiting detail page [12/29]: https://pogo.pk/events/baltimore-ravens-vs-cincinnati-bengals
@@ -54,10 +54,10 @@
 🟡 Visiting detail page [26/29]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [25/29]
 🟡 Visiting detail page [27/29]: https://pogo.pk/events/sevilla-vs-osasuna
-🟢 Successfully processed: EFL [26/29]
-🟡 Visiting detail page [28/29]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: LaLiga [27/29]
+🟢 Successfully processed: EFL [26/29]
 🟡 Visiting detail page [29/29]: https://pogo.pk/events/liverpool-vs-chelsea
+🟡 Visiting detail page [28/29]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: Premier League [29/29]
 🟢 Successfully processed: NFL [20/29]
 🟢 Successfully processed: Bundesliga [28/29]

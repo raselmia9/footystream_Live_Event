@@ -50,27 +50,10 @@
         ]
     },
     {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-10-25 19:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Snooker Northern Ireland Open",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/snooker-northern-ireland-open",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/snooker-northern-ireland-open/3155"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-26 02:05:00",
-        "team1Title": "Arizona Cardinals",
-        "team2Title": "Denver Broncos",
+        "team1Title": "Event Ended",
+        "team2Title": "Arizona Cardinals",
         "team1Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
         "isHot": true,
@@ -86,8 +69,8 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-10-26 02:05:00",
-        "team1Title": "Los Angeles Rams",
-        "team2Title": "Las Vegas Raiders",
+        "team1Title": "Event Ended",
+        "team2Title": "Los Angeles Rams",
         "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
         "isHot": true,

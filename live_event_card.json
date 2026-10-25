@@ -25,6 +25,39 @@
         ]
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-26 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Real Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-madrid",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3182"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3183"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3184"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3185"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3186"
+            }
+        ]
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-22 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -69,8 +102,8 @@
     {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-25 21:00:00",
-        "team1Title": "Harlequins",
-        "team2Title": "Saracens",
+        "team1Title": "Event Ended",
+        "team2Title": "Harlequins",
         "team1Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
         "isHot": true,
@@ -273,18 +306,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-26 02:05:00",
-        "team1Title": "Arizona Cardinals",
-        "team2Title": "Denver Broncos",
-        "team1Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cardinals-vs-broncos",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-25 23:00:00",
         "team1Title": "Juventus",
@@ -304,6 +325,43 @@
                 "url": "https://playerdee.top/alpha/juventus-vs-lecce/3146"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-25 23:30:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-levante",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3179"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3180"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3181"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-27 02:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Osasuna",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Serie A",
@@ -339,74 +397,80 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-25 23:30:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-26 02:05:00",
+        "team1Title": "Arizona Cardinals",
+        "team2Title": "Denver Broncos",
+        "team1Logo": "https://cdn.img4every1.org/team/arizona-cardinals/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/denver-broncos/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-levante",
+        "detailsPage": "https://pogo.pk/events/cardinals-vs-broncos",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3179"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3180"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-levante/3181"
+                "url": "https://playerdee.top/alpha/cardinals-vs-broncos/3204"
             }
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-26 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Real Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-26 02:05:00",
+        "team1Title": "Los Angeles Rams",
+        "team2Title": "Las Vegas Raiders",
+        "team1Logo": "https://cdn.img4every1.org/team/los-angeles-rams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/las-vegas-raiders/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-real-madrid",
+        "detailsPage": "https://pogo.pk/events/rams-vs-raiders",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3182"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3183"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3184"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3185"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/barcelona-vs-real-madrid/3186"
+                "url": "https://playerdee.top/alpha/rams-vs-raiders/3205"
             }
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-27 02:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-26 02:25:00",
+        "team1Title": "Detroit Lions",
+        "team2Title": "Green Bay Packers",
+        "team1Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
-        "multiWatchPageLink": []
+        "detailsPage": "https://pogo.pk/events/detroit-lions-vs-green-bay-packers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/detroit-lions-vs-green-bay-packers/3159"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/detroit-lions-vs-green-bay-packers/3206"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-26 06:20:00",
+        "team1Title": "Kansas City Chiefs",
+        "team2Title": "Seattle Seahawks",
+        "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chiefs-vs-seahawks",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chiefs-vs-seahawks/3160"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/chiefs-vs-seahawks/3207"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

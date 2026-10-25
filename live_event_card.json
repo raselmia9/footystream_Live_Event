@@ -106,8 +106,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-25 19:00:00",
-        "team1Title": "Getafe",
-        "team2Title": "Athletic Club",
+        "team1Title": "Event Ended",
+        "team2Title": "Getafe",
         "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "isHot": true,

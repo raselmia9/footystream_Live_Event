@@ -136,17 +136,5 @@
                 "url": "https://playerdee.top/alpha/borussia-dortmund-vs-werder-bremen/3161"
             }
         ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-29 02:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Chelsea",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-chelsea",
-        "multiWatchPageLink": []
     }
 ]

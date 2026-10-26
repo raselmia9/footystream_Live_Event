@@ -10,20 +10,20 @@
 🟢 Successfully processed: Friendly [2/11]
 🟡 Visiting detail page [4/11]: https://pogo.pk/events/walsall-vs-salford-city
 🟡 Visiting detail page [5/11]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
-🟢 Successfully processed: EFL [5/11]
 🟢 Successfully processed: EFL [4/11]
+🟢 Successfully processed: EFL [5/11]
 🟡 Visiting detail page [6/11]: https://pogo.pk/events/arsenal-vs-fleetwood-town
 🟡 Visiting detail page [7/11]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [7/11]
 🟡 Visiting detail page [8/11]: https://pogo.pk/events/sevilla-vs-osasuna
 🟢 Successfully processed: EFL [6/11]
 🟡 Visiting detail page [9/11]: https://pogo.pk/events/lazio-vs-sassuolo
-🟢 Successfully processed: LaLiga [8/11]
-🟡 Visiting detail page [10/11]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: Serie A [9/11]
+🟡 Visiting detail page [10/11]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
+🟢 Successfully processed: LaLiga [8/11]
 🟡 Visiting detail page [11/11]: https://pogo.pk/events/liverpool-vs-chelsea
-🟢 Successfully processed: PGA Tour [1/11]
 🟢 Successfully processed: Premier League [11/11]
+🟢 Successfully processed: PGA Tour [1/11]
 🟢 Successfully processed: Bundesliga [10/11]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 11

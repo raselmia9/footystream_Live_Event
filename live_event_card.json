@@ -67,7 +67,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/walsall-vs-salford-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/walsall-vs-salford-city/3212"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/walsall-vs-salford-city/3213"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -115,7 +124,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sevilla-vs-osasuna/3210"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/sevilla-vs-osasuna/3211"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

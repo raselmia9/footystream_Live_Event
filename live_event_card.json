@@ -1,30 +1,5 @@
 [
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-10-22 23:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "f1 United States Grand Prix",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/f1-united-states-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/f1-united-states-grand-prix/3054"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/f1-united-states-grand-prix/3055"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/f1-united-states-grand-prix/3056"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-22 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -46,27 +21,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/pga-lpga-golf/3029"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-26 02:25:00",
-        "team1Title": "Detroit Lions",
-        "team2Title": "Green Bay Packers",
-        "team1Logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/detroit-lions-vs-green-bay-packers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/detroit-lions-vs-green-bay-packers/3159"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/detroit-lions-vs-green-bay-packers/3206"
             }
         ]
     },

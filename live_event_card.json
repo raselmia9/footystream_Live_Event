@@ -38,6 +38,14 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/ballon-dor/3214"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/bravo/ballon-dor/42"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/bravo/ballon-dor/43"
             }
         ]
     },

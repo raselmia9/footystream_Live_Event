@@ -50,48 +50,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-27 02:00:00",
-        "team1Title": "Walsall FC",
-        "team2Title": "Salford City",
-        "team1Logo": "https://cdn.img4every1.org/team/walsall-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/walsall-vs-salford-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/walsall-vs-salford-city/3212"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/walsall-vs-salford-city/3213"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-27 02:00:00",
-        "team1Title": "Sevilla",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sevilla-vs-osasuna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sevilla-vs-osasuna/3210"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/sevilla-vs-osasuna/3211"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-27 06:15:00",
         "team1Title": "Dallas Cowboys",

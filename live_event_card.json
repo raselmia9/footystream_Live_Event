@@ -25,27 +25,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-26 06:20:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Kansas City Chiefs",
-        "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chiefs-vs-seahawks",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/chiefs-vs-seahawks/3160"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/chiefs-vs-seahawks/3207"
-            }
-        ]
-    },
-    {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-27 01:00:00",
         "team1Title": "2026 Ballon d'Or",

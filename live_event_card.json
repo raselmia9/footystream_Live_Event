@@ -46,7 +46,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psg-vs-lyon",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psg-vs-lyon/3208"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/psg-vs-lyon/3209"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

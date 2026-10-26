@@ -27,8 +27,8 @@
     {
         "eventTitle": "NFL",
         "matchTime": "2026-10-26 06:20:00",
-        "team1Title": "Kansas City Chiefs",
-        "team2Title": "Seattle Seahawks",
+        "team1Title": "Event Ended",
+        "team2Title": "Kansas City Chiefs",
         "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/seattle-seahawks/logo.webp",
         "isHot": true,

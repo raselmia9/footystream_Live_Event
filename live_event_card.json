@@ -34,7 +34,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ballon-dor",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ballon-dor/3214"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",

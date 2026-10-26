@@ -3,16 +3,16 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 11
-🟡 Visiting detail page [2/11]: https://pogo.pk/events/ballon-dor
 🟡 Visiting detail page [1/11]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/11]: https://pogo.pk/events/ballon-dor
 🟡 Visiting detail page [3/11]: https://pogo.pk/events/psg-vs-lyon
 🟢 Successfully processed: French Ligue 1 [3/11]
 🟡 Visiting detail page [4/11]: https://pogo.pk/events/walsall-vs-salford-city
 🟢 Successfully processed: Friendly [2/11]
 🟡 Visiting detail page [5/11]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
 🟢 Successfully processed: EFL [4/11]
-🟡 Visiting detail page [6/11]: https://pogo.pk/events/arsenal-vs-fleetwood-town
 🟢 Successfully processed: EFL [5/11]
+🟡 Visiting detail page [6/11]: https://pogo.pk/events/arsenal-vs-fleetwood-town
 🟡 Visiting detail page [7/11]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [6/11]
 🟡 Visiting detail page [8/11]: https://pogo.pk/events/sevilla-vs-osasuna

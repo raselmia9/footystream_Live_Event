@@ -18,9 +18,9 @@
 🟡 Visiting detail page [8/12]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [8/12]
 🟡 Visiting detail page [9/12]: https://pogo.pk/events/sevilla-vs-osasuna
-🟢 Successfully processed: PGA Tour [1/12]
 🟢 Successfully processed: NFL [2/12]
 🟡 Visiting detail page [10/12]: https://pogo.pk/events/lazio-vs-sassuolo
+🟢 Successfully processed: PGA Tour [1/12]
 🟡 Visiting detail page [11/12]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
 🟢 Successfully processed: LaLiga [9/12]
 🟡 Visiting detail page [12/12]: https://pogo.pk/events/liverpool-vs-chelsea

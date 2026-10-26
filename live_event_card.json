@@ -50,31 +50,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-27 01:30:00",
-        "team1Title": "PSG",
-        "team2Title": "Olympique Lyonnais",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-lyon",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/psg-vs-lyon/3208"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/psg-vs-lyon/3209"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/psg-vs-lyon/3215"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-27 02:00:00",
         "team1Title": "Walsall FC",
@@ -117,6 +92,31 @@
         ]
     },
     {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-27 01:30:00",
+        "team1Title": "Event Ended",
+        "team2Title": "PSG",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-lyon",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psg-vs-lyon/3208"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/psg-vs-lyon/3209"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/psg-vs-lyon/3215"
+            }
+        ]
+    },
+    {
         "eventTitle": "NFL",
         "matchTime": "2026-10-27 06:15:00",
         "team1Title": "Dallas Cowboys",
@@ -152,6 +152,27 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lazio-vs-sassuolo",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-28 01:45:00",
+        "team1Title": "Como",
+        "team2Title": "Torino",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-torino",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/como-vs-torino/3219"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/como-vs-torino/3220"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

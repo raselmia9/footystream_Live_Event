@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 10
-🟡 Visiting detail page [2/10]: https://pogo.pk/events/ballon-dor
 🟡 Visiting detail page [1/10]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/10]: https://pogo.pk/events/cowboys-vs-eagles
-🟢 Successfully processed: NFL [3/10]
+🟡 Visiting detail page [2/10]: https://pogo.pk/events/ballon-dor
 🟢 Successfully processed: PGA Tour [1/10]
+🟡 Visiting detail page [4/10]: https://pogo.pk/events/lazio-vs-sassuolo
 🟢 Successfully processed: Friendly [2/10]
 🟡 Visiting detail page [5/10]: https://pogo.pk/events/como-vs-torino
-🟡 Visiting detail page [4/10]: https://pogo.pk/events/lazio-vs-sassuolo
+🟢 Successfully processed: NFL [3/10]
 🟡 Visiting detail page [6/10]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
 🟢 Successfully processed: Serie A [4/10]
 🟡 Visiting detail page [7/10]: https://pogo.pk/events/arsenal-vs-fleetwood-town

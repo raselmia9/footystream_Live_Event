@@ -2,8 +2,8 @@
     {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-22 08:00:00",
-        "team1Title": "PGA / LPGA Golf",
-        "team2Title": "PGA Tour",
+        "team1Title": "Event Ended",
+        "team2Title": "PGA / LPGA Golf",
         "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
@@ -27,8 +27,8 @@
     {
         "eventTitle": "Friendly",
         "matchTime": "2026-10-27 01:00:00",
-        "team1Title": "2026 Ballon d'Or",
-        "team2Title": "Friendly",
+        "team1Title": "Event Ended",
+        "team2Title": "2026 Ballon d'Or",
         "team1Logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/friendly-soccer-streams/logo.webp",
         "isHot": true,

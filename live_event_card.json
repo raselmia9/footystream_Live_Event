@@ -2,8 +2,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-28 01:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Cagliari",
+        "team1Title": "Event Ended",
+        "team2Title": "AS Roma",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
         "isHot": true,
@@ -19,8 +19,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-28 01:45:00",
-        "team1Title": "Bradford City",
-        "team2Title": "Peterborough United",
+        "team1Title": "Event Ended",
+        "team2Title": "Bradford City",
         "team1Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
         "isHot": true,
@@ -40,8 +40,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-28 01:45:00",
-        "team1Title": "Borussia Dortmund",
-        "team2Title": "Werder Bremen",
+        "team1Title": "Event Ended",
+        "team2Title": "Borussia Dortmund",
         "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
         "isHot": true,
@@ -57,8 +57,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-28 01:45:00",
-        "team1Title": "Como",
-        "team2Title": "Torino",
+        "team1Title": "Event Ended",
+        "team2Title": "Como",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
         "isHot": true,

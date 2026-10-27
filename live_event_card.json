@@ -102,7 +102,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bradford-city-vs-peterborough-utd",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bradford-city-vs-peterborough-utd/3226"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bradford-city-vs-peterborough-utd/3227"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -114,7 +123,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-fleetwood-town",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-fleetwood-town/3228"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/arsenal-vs-fleetwood-town/3229"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

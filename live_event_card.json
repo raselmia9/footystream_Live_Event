@@ -381,6 +381,18 @@
     },
     {
         "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 19:00:00",
+        "team1Title": "Atlético Madrid",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-levante",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
         "matchTime": "2026-10-31 21:15:00",
         "team1Title": "Celta de Vigo",
         "team2Title": "Rayo Vallecano",

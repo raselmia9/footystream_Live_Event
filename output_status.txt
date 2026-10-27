@@ -6,8 +6,8 @@
 🟡 Visiting detail page [2/7]: https://pogo.pk/events/como-vs-torino
 🟡 Visiting detail page [1/7]: https://pogo.pk/events/lazio-vs-sassuolo
 🟡 Visiting detail page [3/7]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
-🟢 Successfully processed: EFL [3/7]
 🟢 Successfully processed: Serie A [1/7]
+🟢 Successfully processed: EFL [3/7]
 🟡 Visiting detail page [4/7]: https://pogo.pk/events/arsenal-vs-fleetwood-town
 🟡 Visiting detail page [5/7]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [5/7]

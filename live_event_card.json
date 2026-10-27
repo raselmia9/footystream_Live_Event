@@ -47,7 +47,29 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lazio-vs-sassuolo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lazio-vs-sassuolo/3224"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-28 01:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Cagliari",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-cagliari",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-cagliari/3225"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

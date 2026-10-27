@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 36
 🟡 Visiting detail page [1/36]: https://pogo.pk/events/lazio-vs-sassuolo
-🟡 Visiting detail page [2/36]: https://pogo.pk/events/roma-vs-cagliari
 🟡 Visiting detail page [3/36]: https://pogo.pk/events/como-vs-torino
+🟡 Visiting detail page [2/36]: https://pogo.pk/events/roma-vs-cagliari
 🟢 Successfully processed: Serie A [3/36]
 🟢 Successfully processed: Serie A [2/36]
-🟢 Successfully processed: Serie A [1/36]
 🟡 Visiting detail page [4/36]: https://pogo.pk/events/inter-milan-vs-venezia
 🟡 Visiting detail page [5/36]: https://pogo.pk/events/ac-milan-vs-bologna
+🟢 Successfully processed: Serie A [1/36]
 🟡 Visiting detail page [6/36]: https://pogo.pk/events/napoli-vs-monza
-🟢 Successfully processed: Serie A [4/36]
-🟢 Successfully processed: Serie A [6/36]
-🟡 Visiting detail page [7/36]: https://pogo.pk/events/juventus-vs-genoa
 🟢 Successfully processed: Serie A [5/36]
+🟡 Visiting detail page [7/36]: https://pogo.pk/events/juventus-vs-genoa
+🟢 Successfully processed: Serie A [4/36]
 🟡 Visiting detail page [8/36]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
+🟢 Successfully processed: Serie A [6/36]
 🟡 Visiting detail page [9/36]: https://pogo.pk/events/arsenal-vs-fleetwood-town
 🟢 Successfully processed: Serie A [7/36]
 🟡 Visiting detail page [10/36]: https://pogo.pk/events/manchester-city-vs-brighton
@@ -26,19 +26,19 @@
 🟡 Visiting detail page [12/36]: https://pogo.pk/events/bournemouth-vs-aston-villa
 🟢 Successfully processed: EFL [12/36]
 🟡 Visiting detail page [13/36]: https://pogo.pk/events/sunderland-vs-brentford
-🟢 Successfully processed: EFL [13/36]
-🟡 Visiting detail page [14/36]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
-🟢 Successfully processed: EFL [9/36]
-🟡 Visiting detail page [15/36]: https://pogo.pk/events/elversberg-vs-mainz-05
 🟢 Successfully processed: EFL [8/36]
+🟡 Visiting detail page [14/36]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
+🟢 Successfully processed: EFL [13/36]
+🟡 Visiting detail page [15/36]: https://pogo.pk/events/elversberg-vs-mainz-05
+🟢 Successfully processed: EFL [9/36]
 🟡 Visiting detail page [16/36]: https://pogo.pk/events/schalke-04-vs-dynamo-dresden
 🟢 Successfully processed: Bundesliga [15/36]
 🟡 Visiting detail page [17/36]: https://pogo.pk/events/bayern-munchen-vs-magdeburg
 🟢 Successfully processed: DFB Pokal [16/36]
 🟡 Visiting detail page [18/36]: https://pogo.pk/events/bayer-leverkusen-vs-nurnberg
-🟢 Successfully processed: DFB Pokal [18/36]
 🟢 Successfully processed: DFB Pokal [17/36]
 🟡 Visiting detail page [19/36]: https://pogo.pk/events/chelsea-vs-roma
+🟢 Successfully processed: DFB Pokal [18/36]
 🟡 Visiting detail page [20/36]: https://pogo.pk/events/real-madrid-vs-bayern-munich
 🟢 Successfully processed: Womens Champions League [19/36]
 🟡 Visiting detail page [21/36]: https://pogo.pk/events/inter-milan-vs-lyon
@@ -46,13 +46,13 @@
 🟡 Visiting detail page [22/36]: https://pogo.pk/events/arsenal-vs-benfica
 🟢 Successfully processed: Womens Champions League [21/36]
 🟡 Visiting detail page [23/36]: https://pogo.pk/events/liverpool-vs-chelsea
-🟢 Successfully processed: Womens Champions League [22/36]
-🟡 Visiting detail page [24/36]: https://pogo.pk/events/chelsea-vs-manchester-united
-🟢 Successfully processed: Premier League [23/36]
-🟡 Visiting detail page [25/36]: https://pogo.pk/events/brighton-vs-man-city
-🟢 Successfully processed: Premier League [24/36]
-🟡 Visiting detail page [26/36]: https://pogo.pk/events/hull-city-vs-ipswich-town
 🟢 Successfully processed: Bundesliga [14/36]
+🟡 Visiting detail page [24/36]: https://pogo.pk/events/chelsea-vs-manchester-united
+🟢 Successfully processed: Womens Champions League [22/36]
+🟡 Visiting detail page [25/36]: https://pogo.pk/events/brighton-vs-man-city
+🟢 Successfully processed: Premier League [23/36]
+🟡 Visiting detail page [26/36]: https://pogo.pk/events/hull-city-vs-ipswich-town
+🟢 Successfully processed: Premier League [24/36]
 🟡 Visiting detail page [27/36]: https://pogo.pk/events/sunderland-vs-coventry-city
 🟢 Successfully processed: Premier League [25/36]
 🟡 Visiting detail page [28/36]: https://pogo.pk/events/leeds-united-vs-bournemouth
@@ -63,12 +63,12 @@
 🟢 Successfully processed: Premier League [28/36]
 🟡 Visiting detail page [31/36]: https://pogo.pk/events/lens-vs-lille
 🟢 Successfully processed: French Ligue 1 [30/36]
-🟡 Visiting detail page [32/36]: https://pogo.pk/events/villarreal-vs-espanyol
 🟢 Successfully processed: French Ligue 1 [31/36]
+🟡 Visiting detail page [32/36]: https://pogo.pk/events/villarreal-vs-espanyol
 🟡 Visiting detail page [33/36]: https://pogo.pk/events/atletico-madrid-vs-levante
-🟢 Successfully processed: LaLiga [32/36]
-🟡 Visiting detail page [34/36]: https://pogo.pk/events/celta-vigo-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [33/36]
+🟡 Visiting detail page [34/36]: https://pogo.pk/events/celta-vigo-vs-rayo-vallecano
+🟢 Successfully processed: LaLiga [32/36]
 🟡 Visiting detail page [35/36]: https://pogo.pk/events/real-betis-vs-malaga
 🟢 Successfully processed: LaLiga [34/36]
 🟡 Visiting detail page [36/36]: https://pogo.pk/events/barcelona-vs-alaves

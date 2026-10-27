@@ -13,6 +13,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-hamburger-sv/3221"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-hamburger-sv/3223"
+            }
+        ]
+    },
+    {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-10-27 23:00:00",
+        "team1Title": "RB Leipzig",
+        "team2Title": "Rot-Weiss Essen",
+        "team1Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rot-weiss-essen/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rb-leipzig-vs-rot-weiss-essen",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rb-leipzig-vs-rot-weiss-essen/3222"
             }
         ]
     },

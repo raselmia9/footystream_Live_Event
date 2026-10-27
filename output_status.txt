@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 9
-🟡 Visiting detail page [2/9]: https://pogo.pk/events/rb-leipzig-vs-rot-weiss-essen
 🟡 Visiting detail page [1/9]: https://pogo.pk/events/eintracht-frankfurt-vs-hamburger-sv
 🟡 Visiting detail page [3/9]: https://pogo.pk/events/lazio-vs-sassuolo
+🟡 Visiting detail page [2/9]: https://pogo.pk/events/rb-leipzig-vs-rot-weiss-essen
 🟢 Successfully processed: Serie A [3/9]
 🟡 Visiting detail page [4/9]: https://pogo.pk/events/como-vs-torino
-🟢 Successfully processed: DFB Pokal [2/9]
-🟡 Visiting detail page [5/9]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
 🟢 Successfully processed: DFB Pokal [1/9]
+🟡 Visiting detail page [5/9]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
+🟢 Successfully processed: DFB Pokal [2/9]
 🟡 Visiting detail page [6/9]: https://pogo.pk/events/arsenal-vs-fleetwood-town
 🟢 Successfully processed: EFL [5/9]
 🟡 Visiting detail page [7/9]: https://pogo.pk/events/manchester-city-vs-brighton

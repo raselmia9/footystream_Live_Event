@@ -14,8 +14,8 @@
 🟡 Visiting detail page [6/8]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [6/8]
 🟡 Visiting detail page [7/8]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
-🟢 Successfully processed: NFL [1/8]
 🟢 Successfully processed: Serie A [3/8]
+🟢 Successfully processed: NFL [1/8]
 🟡 Visiting detail page [8/8]: https://pogo.pk/events/liverpool-vs-chelsea
 🟢 Successfully processed: Premier League [8/8]
 🟢 Successfully processed: Bundesliga [7/8]

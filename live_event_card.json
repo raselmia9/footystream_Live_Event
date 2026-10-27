@@ -1,5 +1,22 @@
 [
     {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-10-27 23:00:00",
+        "team1Title": "Eintracht Frankfurt",
+        "team2Title": "Hamburger SV",
+        "team1Logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/eintracht-frankfurt-vs-hamburger-sv",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/eintracht-frankfurt-vs-hamburger-sv/3221"
+            }
+        ]
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-27 23:30:00",
         "team1Title": "Lazio",

@@ -2,26 +2,82 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 10
-🟡 Visiting detail page [2/10]: https://pogo.pk/events/rb-leipzig-vs-rot-weiss-essen
-🟡 Visiting detail page [3/10]: https://pogo.pk/events/lazio-vs-sassuolo
-🟡 Visiting detail page [1/10]: https://pogo.pk/events/eintracht-frankfurt-vs-hamburger-sv
-🟢 Successfully processed: DFB Pokal [2/10]
-🟢 Successfully processed: Serie A [3/10]
-🟡 Visiting detail page [4/10]: https://pogo.pk/events/roma-vs-cagliari
-🟡 Visiting detail page [5/10]: https://pogo.pk/events/como-vs-torino
-🟢 Successfully processed: DFB Pokal [1/10]
-🟡 Visiting detail page [6/10]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
-🟢 Successfully processed: Serie A [5/10]
-🟡 Visiting detail page [7/10]: https://pogo.pk/events/arsenal-vs-fleetwood-town
-🟢 Successfully processed: Serie A [4/10]
-🟡 Visiting detail page [8/10]: https://pogo.pk/events/manchester-city-vs-brighton
-🟢 Successfully processed: EFL [6/10]
-🟡 Visiting detail page [9/10]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
-🟢 Successfully processed: EFL [8/10]
-🟡 Visiting detail page [10/10]: https://pogo.pk/events/liverpool-vs-chelsea
-🟢 Successfully processed: Premier League [10/10]
-🟢 Successfully processed: EFL [7/10]
-🟢 Successfully processed: Bundesliga [9/10]
+🟢 Total unique detail links to process in parallel: 38
+🟡 Visiting detail page [1/38]: https://pogo.pk/events/eintracht-frankfurt-vs-hamburger-sv
+🟡 Visiting detail page [2/38]: https://pogo.pk/events/rb-leipzig-vs-rot-weiss-essen
+🟡 Visiting detail page [3/38]: https://pogo.pk/events/lazio-vs-sassuolo
+🟢 Successfully processed: Serie A [3/38]
+🟡 Visiting detail page [4/38]: https://pogo.pk/events/roma-vs-cagliari
+🟢 Successfully processed: DFB Pokal [1/38]
+🟡 Visiting detail page [5/38]: https://pogo.pk/events/como-vs-torino
+🟢 Successfully processed: DFB Pokal [2/38]
+🟡 Visiting detail page [6/38]: https://pogo.pk/events/inter-milan-vs-venezia
+🟢 Successfully processed: Serie A [4/38]
+🟡 Visiting detail page [7/38]: https://pogo.pk/events/ac-milan-vs-bologna
+🟢 Successfully processed: Serie A [6/38]
+🟡 Visiting detail page [8/38]: https://pogo.pk/events/napoli-vs-monza
+🟢 Successfully processed: Serie A [5/38]
+🟡 Visiting detail page [9/38]: https://pogo.pk/events/juventus-vs-genoa
+🟢 Successfully processed: Serie A [9/38]
+🟡 Visiting detail page [10/38]: https://pogo.pk/events/bradford-city-vs-peterborough-utd
+🟢 Successfully processed: Serie A [7/38]
+🟡 Visiting detail page [11/38]: https://pogo.pk/events/arsenal-vs-fleetwood-town
+🟢 Successfully processed: Serie A [8/38]
+🟡 Visiting detail page [12/38]: https://pogo.pk/events/manchester-city-vs-brighton
+🟢 Successfully processed: EFL [12/38]
+🟡 Visiting detail page [13/38]: https://pogo.pk/events/fulham-vs-crystal-palace
+🟢 Successfully processed: EFL [10/38]
+🟡 Visiting detail page [14/38]: https://pogo.pk/events/bournemouth-vs-aston-villa
+🟢 Successfully processed: EFL [13/38]
+🟡 Visiting detail page [15/38]: https://pogo.pk/events/sunderland-vs-brentford
+🟢 Successfully processed: EFL [14/38]
+🟡 Visiting detail page [16/38]: https://pogo.pk/events/borussia-dortmund-vs-werder-bremen
+🟢 Successfully processed: EFL [15/38]
+🟡 Visiting detail page [17/38]: https://pogo.pk/events/elversberg-vs-mainz-05
+🟢 Successfully processed: Bundesliga [17/38]
+🟡 Visiting detail page [18/38]: https://pogo.pk/events/schalke-04-vs-dynamo-dresden
+🟢 Successfully processed: DFB Pokal [18/38]
+🟡 Visiting detail page [19/38]: https://pogo.pk/events/bayern-munchen-vs-magdeburg
+🟢 Successfully processed: DFB Pokal [19/38]
+🟡 Visiting detail page [20/38]: https://pogo.pk/events/bayer-leverkusen-vs-nurnberg
+🟢 Successfully processed: EFL [11/38]
+🟡 Visiting detail page [21/38]: https://pogo.pk/events/chelsea-vs-roma
+🟢 Successfully processed: DFB Pokal [20/38]
+🟡 Visiting detail page [22/38]: https://pogo.pk/events/real-madrid-vs-bayern-munich
+🟢 Successfully processed: Womens Champions League [21/38]
+🟡 Visiting detail page [23/38]: https://pogo.pk/events/inter-milan-vs-lyon
+🟢 Successfully processed: Womens Champions League [22/38]
+🟡 Visiting detail page [24/38]: https://pogo.pk/events/arsenal-vs-benfica
+🟢 Successfully processed: Womens Champions League [23/38]
+🟡 Visiting detail page [25/38]: https://pogo.pk/events/liverpool-vs-chelsea
+🟢 Successfully processed: Womens Champions League [24/38]
+🟡 Visiting detail page [26/38]: https://pogo.pk/events/chelsea-vs-manchester-united
+🟢 Successfully processed: Bundesliga [16/38]
+🟡 Visiting detail page [27/38]: https://pogo.pk/events/brighton-vs-man-city
+🟢 Successfully processed: Premier League [25/38]
+🟡 Visiting detail page [28/38]: https://pogo.pk/events/hull-city-vs-ipswich-town
+🟢 Successfully processed: Premier League [26/38]
+🟡 Visiting detail page [29/38]: https://pogo.pk/events/sunderland-vs-coventry-city
+🟢 Successfully processed: Premier League [27/38]
+🟡 Visiting detail page [30/38]: https://pogo.pk/events/leeds-united-vs-bournemouth
+🟢 Successfully processed: Premier League [28/38]
+🟡 Visiting detail page [31/38]: https://pogo.pk/events/auckland-vs-brisbane-roar
+🟢 Successfully processed: Premier League [29/38]
+🟡 Visiting detail page [32/38]: https://pogo.pk/events/psg-vs-le-havre
+🟢 Successfully processed: Premier League [30/38]
+🟡 Visiting detail page [33/38]: https://pogo.pk/events/lens-vs-lille
+🟢 Successfully processed: French Ligue 1 [32/38]
+🟡 Visiting detail page [34/38]: https://pogo.pk/events/villarreal-vs-espanyol
+🟢 Successfully processed: French Ligue 1 [33/38]
+🟡 Visiting detail page [35/38]: https://pogo.pk/events/atletico-madrid-vs-levante
+🟢 Successfully processed: LaLiga [34/38]
+🟡 Visiting detail page [36/38]: https://pogo.pk/events/celta-vigo-vs-rayo-vallecano
+🟢 Successfully processed: LaLiga [35/38]
+🟡 Visiting detail page [37/38]: https://pogo.pk/events/real-betis-vs-malaga
+🟢 Successfully processed: LaLiga [36/38]
+🟡 Visiting detail page [38/38]: https://pogo.pk/events/barcelona-vs-alaves
+🟢 Successfully processed: LaLiga [37/38]
+🟢 Successfully processed: LaLiga [38/38]
+🟢 Successfully processed: A League [31/38]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 10
+🟢 Process completed successfully. Total collected events: 38

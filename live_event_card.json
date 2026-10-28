@@ -123,8 +123,8 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-28 23:45:00",
+        "eventTitle": "Live Event",
+        "matchTime": "Please enable cookies.Error1001Ray ID: a51ae78cef85fef4 •2026-10-28 15:16:58 UTCDNS resolution errorWhat happened?You've requested a page on a website (pogo.pk) that is on theCloudflarenetwork. Cloudflare is currently unable to resolve your requested domain (pogo.pk). There are two potential causes of this:Most likely:if the owner just signed up for Cloudflare it can take a few minutes for the website's information to be distributed to our global network.Less likely:something is wrong with this site's configuration. Usually this happens when accounts have been signed up with a partner organization (e.g., a hosting provider) and the provider's DNS fails.Please seehttps://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1001/for more details.Was this page helpful?YesNoThank you for your feedback!Cloudflare Ray ID:a51ae78cef85fef4•Your IP:Click to reveal172.171.107.85•Performance & security byCloudflare",
         "team1Title": "Chelsea",
         "team2Title": "AS Roma",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
@@ -144,18 +144,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-madrid-vs-bayern-munich",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-29 02:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Olympique Lyonnais",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-lyon",
         "multiWatchPageLink": []
     },
     {
@@ -220,18 +208,6 @@
     },
     {
         "eventTitle": "EFL",
-        "matchTime": "2026-10-30 01:45:00",
-        "team1Title": "Newcastle United",
-        "team2Title": "Everton",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/newcastle-united-vs-everton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
         "matchTime": "2026-10-31 02:00:00",
         "team1Title": "Wrexham",
         "team2Title": "Sheffield United",
@@ -264,18 +240,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-manchester-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Brighton & Hove Albion",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brighton-vs-man-city",
         "multiWatchPageLink": []
     },
     {

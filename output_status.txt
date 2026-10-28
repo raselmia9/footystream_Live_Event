@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
 🟡 Visiting detail page [2/30]: https://pogo.pk/events/bayern-munchen-vs-magdeburg
-🟡 Visiting detail page [1/30]: https://pogo.pk/events/manchester-city-vs-brighton
 🟡 Visiting detail page [3/30]: https://pogo.pk/events/liverpool-vs-chelsea
-🟢 Successfully processed: DFB Pokal [2/30]
-🟡 Visiting detail page [4/30]: https://pogo.pk/events/fulham-vs-crystal-palace
+🟡 Visiting detail page [1/30]: https://pogo.pk/events/manchester-city-vs-brighton
 🟢 Successfully processed: EFL [3/30]
-🟡 Visiting detail page [5/30]: https://pogo.pk/events/napoli-vs-monza
+🟡 Visiting detail page [4/30]: https://pogo.pk/events/fulham-vs-crystal-palace
 🟢 Successfully processed: EFL [1/30]
+🟡 Visiting detail page [5/30]: https://pogo.pk/events/napoli-vs-monza
+🟢 Successfully processed: DFB Pokal [2/30]
 🟡 Visiting detail page [6/30]: https://pogo.pk/events/bayer-leverkusen-vs-nurnberg
 🟢 Successfully processed: EFL [4/30]
 🟡 Visiting detail page [7/30]: https://pogo.pk/events/bournemouth-vs-aston-villa
-🟢 Successfully processed: DFB Pokal [6/30]
-🟡 Visiting detail page [8/30]: https://pogo.pk/events/sunderland-vs-brentford
 🟢 Successfully processed: Serie A [5/30]
+🟡 Visiting detail page [8/30]: https://pogo.pk/events/sunderland-vs-brentford
+🟢 Successfully processed: DFB Pokal [6/30]
 🟡 Visiting detail page [9/30]: https://pogo.pk/events/juventus-vs-genoa
 🟢 Successfully processed: EFL [7/30]
 🟡 Visiting detail page [10/30]: https://pogo.pk/events/inter-milan-vs-lyon
@@ -36,9 +36,9 @@
 🟡 Visiting detail page [17/30]: https://pogo.pk/events/psg-vs-le-havre
 🟢 Successfully processed: French Ligue 1 [17/30]
 🟡 Visiting detail page [18/30]: https://pogo.pk/events/lens-vs-lille
-🟢 Successfully processed: French Ligue 1 [18/30]
-🟡 Visiting detail page [19/30]: https://pogo.pk/events/elversberg-vs-mainz-05
 🟢 Successfully processed: Womens Champions League [11/30]
+🟡 Visiting detail page [19/30]: https://pogo.pk/events/elversberg-vs-mainz-05
+🟢 Successfully processed: French Ligue 1 [18/30]
 🟡 Visiting detail page [20/30]: https://pogo.pk/events/villarreal-vs-espanyol
 🟢 Successfully processed: Bundesliga [19/30]
 🟡 Visiting detail page [21/30]: https://pogo.pk/events/atletico-madrid-vs-levante

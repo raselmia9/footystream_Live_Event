@@ -24,6 +24,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-10-29 01:45:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Nürnberg",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-nurnberg",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-28 23:30:00",
         "team1Title": "Inter Milan",
@@ -329,6 +341,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psg-vs-le-havre",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-10-31 02:05:00",
+        "team1Title": "Lens",
+        "team2Title": "Lille",
+        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lens-vs-lille",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-31 01:30:00",
+        "team1Title": "Elversberg",
+        "team2Title": "Mainz 05",
+        "team1Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/elversberg-vs-mainz-05",
         "multiWatchPageLink": []
     },
     {

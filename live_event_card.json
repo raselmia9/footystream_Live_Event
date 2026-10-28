@@ -1,30 +1,9 @@
 [
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-29 01:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-city-vs-brighton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-brighton/3237"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-brighton/3238"
-            }
-        ]
-    },
-    {
         "eventTitle": "DFB Pokal",
         "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Magdeburg",
+        "team1Title": "Event Ended",
+        "team2Title": "Bayern München",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/magdeburg/logo.webp",
         "isHot": true,
@@ -69,8 +48,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Fulham",
-        "team2Title": "Crystal Palace",
+        "team1Title": "Event Ended",
+        "team2Title": "Fulham",
         "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "isHot": true,
@@ -86,8 +65,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Napoli",
-        "team2Title": "Monza",
+        "team1Title": "Event Ended",
+        "team2Title": "Napoli",
         "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
         "isHot": true,
@@ -107,8 +86,8 @@
     {
         "eventTitle": "DFB Pokal",
         "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "Nürnberg",
+        "team1Title": "Event Ended",
+        "team2Title": "Bayer Leverkusen",
         "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
         "isHot": true,
@@ -124,8 +103,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "AFC Bournemouth",
-        "team2Title": "Aston Villa",
+        "team1Title": "Event Ended",
+        "team2Title": "AFC Bournemouth",
         "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "isHot": true,
@@ -141,8 +120,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Sunderland",
-        "team2Title": "Brentford",
+        "team1Title": "Event Ended",
+        "team2Title": "Sunderland",
         "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
         "isHot": true,
@@ -158,8 +137,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Juventus",
-        "team2Title": "Genoa",
+        "team1Title": "Event Ended",
+        "team2Title": "Juventus",
         "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "isHot": true,

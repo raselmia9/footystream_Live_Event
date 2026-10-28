@@ -9,7 +9,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/schalke-04-vs-dynamo-dresden",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/schalke-04-vs-dynamo-dresden/3234"
+            }
+        ]
     },
     {
         "eventTitle": "DFB Pokal",

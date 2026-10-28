@@ -2,64 +2,50 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 29
-🟡 Visiting detail page [2/29]: https://pogo.pk/events/liverpool-vs-chelsea
-🟡 Visiting detail page [1/29]: https://pogo.pk/events/bayern-munchen-vs-magdeburg
-🟡 Visiting detail page [3/29]: https://pogo.pk/events/fulham-vs-crystal-palace
-🟢 Successfully processed: DFB Pokal [1/29]
-🟡 Visiting detail page [4/29]: https://pogo.pk/events/napoli-vs-monza
-🟢 Successfully processed: EFL [3/29]
-🟢 Successfully processed: EFL [2/29]
-🟡 Visiting detail page [5/29]: https://pogo.pk/events/bayer-leverkusen-vs-nurnberg
-🟡 Visiting detail page [6/29]: https://pogo.pk/events/bournemouth-vs-aston-villa
-🟢 Successfully processed: Serie A [4/29]
-🟢 Successfully processed: EFL [6/29]
-🟡 Visiting detail page [7/29]: https://pogo.pk/events/sunderland-vs-brentford
-🟡 Visiting detail page [8/29]: https://pogo.pk/events/juventus-vs-genoa
-🟢 Successfully processed: DFB Pokal [5/29]
-🟡 Visiting detail page [9/29]: https://pogo.pk/events/inter-milan-vs-lyon
-🟢 Successfully processed: Womens Champions League [9/29]
-🟡 Visiting detail page [10/29]: https://pogo.pk/events/arsenal-vs-benfica
-🟢 Successfully processed: Serie A [8/29]
-🟢 Successfully processed: EFL [7/29]
-🟡 Visiting detail page [12/29]: https://pogo.pk/events/atalanta-vs-fiorentina
-🟡 Visiting detail page [11/29]: https://pogo.pk/events/frosinone-vs-lecce
-🟢 Successfully processed: Serie A [12/29]
-🟢 Successfully processed: Serie A [11/29]
-🟡 Visiting detail page [14/29]: https://pogo.pk/events/wrexham-vs-sheffield-united
-🟡 Visiting detail page [13/29]: https://pogo.pk/events/newcastle-united-vs-everton
-🟢 Successfully processed: Womens Champions League [10/29]
-🟡 Visiting detail page [15/29]: https://pogo.pk/events/auckland-vs-brisbane-roar
-🟢 Successfully processed: EFL [13/29]
-🟢 Successfully processed: EFL [14/29]
-🟡 Visiting detail page [16/29]: https://pogo.pk/events/psg-vs-le-havre
-🟡 Visiting detail page [17/29]: https://pogo.pk/events/lens-vs-lille
-🟢 Successfully processed: French Ligue 1 [17/29]
-🟡 Visiting detail page [18/29]: https://pogo.pk/events/elversberg-vs-mainz-05
-🟢 Successfully processed: French Ligue 1 [16/29]
-🟡 Visiting detail page [19/29]: https://pogo.pk/events/villarreal-vs-espanyol
-🟢 Successfully processed: Bundesliga [18/29]
-🟡 Visiting detail page [20/29]: https://pogo.pk/events/atletico-madrid-vs-levante
-🟢 Successfully processed: LaLiga [19/29]
-🟡 Visiting detail page [21/29]: https://pogo.pk/events/celta-vigo-vs-rayo-vallecano
-🟢 Successfully processed: LaLiga [20/29]
-🟡 Visiting detail page [22/29]: https://pogo.pk/events/real-betis-vs-malaga
-🟢 Successfully processed: LaLiga [21/29]
-🟡 Visiting detail page [23/29]: https://pogo.pk/events/barcelona-vs-alaves
-🟢 Successfully processed: LaLiga [22/29]
-🟡 Visiting detail page [24/29]: https://pogo.pk/events/chelsea-vs-manchester-united
-🟢 Successfully processed: LaLiga [23/29]
-🟡 Visiting detail page [25/29]: https://pogo.pk/events/brighton-vs-man-city
-🟢 Successfully processed: Premier League [24/29]
-🟡 Visiting detail page [26/29]: https://pogo.pk/events/hull-city-vs-ipswich-town
-🟢 Successfully processed: Premier League [25/29]
-🟡 Visiting detail page [27/29]: https://pogo.pk/events/sunderland-vs-coventry-city
-🟢 Successfully processed: Premier League [26/29]
-🟡 Visiting detail page [28/29]: https://pogo.pk/events/leeds-united-vs-bournemouth
-🟢 Successfully processed: Premier League [27/29]
-🟡 Visiting detail page [29/29]: https://pogo.pk/events/brentford-vs-nottm-forest
-🟢 Successfully processed: A League [15/29]
-🟢 Successfully processed: Premier League [28/29]
-🟢 Successfully processed: Premier League [29/29]
+🟢 Total unique detail links to process in parallel: 22
+🟡 Visiting detail page [2/22]: https://pogo.pk/events/inter-milan-vs-lyon
+🟡 Visiting detail page [3/22]: https://pogo.pk/events/arsenal-vs-benfica
+🟡 Visiting detail page [1/22]: https://pogo.pk/events/liverpool-vs-chelsea
+🟢 Successfully processed: Womens Champions League [2/22]
+🟡 Visiting detail page [4/22]: https://pogo.pk/events/frosinone-vs-lecce
+🟢 Successfully processed: Serie A [4/22]
+🟡 Visiting detail page [5/22]: https://pogo.pk/events/atalanta-vs-fiorentina
+🟢 Successfully processed: Serie A [5/22]
+🟡 Visiting detail page [6/22]: https://pogo.pk/events/newcastle-united-vs-everton
+🟢 Successfully processed: EFL [6/22]
+🟡 Visiting detail page [7/22]: https://pogo.pk/events/wrexham-vs-sheffield-united
+🟢 Successfully processed: EFL [7/22]
+🟡 Visiting detail page [8/22]: https://pogo.pk/events/auckland-vs-brisbane-roar
+🟢 Successfully processed: EFL [1/22]
+🟡 Visiting detail page [9/22]: https://pogo.pk/events/psg-vs-le-havre
+🟢 Successfully processed: French Ligue 1 [9/22]
+🟡 Visiting detail page [10/22]: https://pogo.pk/events/lens-vs-lille
+🟢 Successfully processed: Womens Champions League [3/22]
+🟡 Visiting detail page [11/22]: https://pogo.pk/events/elversberg-vs-mainz-05
+🟢 Successfully processed: French Ligue 1 [10/22]
+🟡 Visiting detail page [12/22]: https://pogo.pk/events/villarreal-vs-espanyol
+🟢 Successfully processed: Bundesliga [11/22]
+🟡 Visiting detail page [13/22]: https://pogo.pk/events/atletico-madrid-vs-levante
+🟢 Successfully processed: LaLiga [12/22]
+🟡 Visiting detail page [14/22]: https://pogo.pk/events/celta-vigo-vs-rayo-vallecano
+🟢 Successfully processed: LaLiga [13/22]
+🟡 Visiting detail page [15/22]: https://pogo.pk/events/real-betis-vs-malaga
+🟢 Successfully processed: LaLiga [14/22]
+🟢 Successfully processed: LaLiga [15/22]
+🟡 Visiting detail page [16/22]: https://pogo.pk/events/barcelona-vs-alaves
+🟡 Visiting detail page [17/22]: https://pogo.pk/events/chelsea-vs-manchester-united
+🟢 Successfully processed: LaLiga [16/22]
+🟡 Visiting detail page [18/22]: https://pogo.pk/events/brighton-vs-man-city
+🟢 Successfully processed: Premier League [17/22]
+🟡 Visiting detail page [19/22]: https://pogo.pk/events/hull-city-vs-ipswich-town
+🟢 Successfully processed: A League [8/22]
+🟡 Visiting detail page [20/22]: https://pogo.pk/events/sunderland-vs-coventry-city
+🟢 Successfully processed: Premier League [18/22]
+🟡 Visiting detail page [21/22]: https://pogo.pk/events/leeds-united-vs-bournemouth
+🟢 Successfully processed: Premier League [19/22]
+🟡 Visiting detail page [22/22]: https://pogo.pk/events/brentford-vs-nottm-forest
+🟢 Successfully processed: Premier League [20/22]
+🟢 Successfully processed: Premier League [22/22]
+🟢 Successfully processed: Premier League [21/22]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 29
+🟢 Process completed successfully. Total collected events: 22

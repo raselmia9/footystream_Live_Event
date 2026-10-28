@@ -1,26 +1,5 @@
 [
     {
-        "eventTitle": "DFB Pokal",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayern München",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/magdeburg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-magdeburg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-magdeburg/3246"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-magdeburg/3247"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-29 02:00:00",
         "team1Title": "Liverpool",
@@ -46,116 +25,10 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Fulham",
-        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/fulham-vs-crystal-palace",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/fulham-vs-crystal-palace/3239"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Napoli",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/napoli-vs-monza",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/napoli-vs-monza/3232"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/napoli-vs-monza/3240"
-            }
-        ]
-    },
-    {
-        "eventTitle": "DFB Pokal",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayer Leverkusen",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-nurnberg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-nurnberg/3245"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AFC Bournemouth",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bournemouth-vs-aston-villa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bournemouth-vs-aston-villa/3242"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sunderland-vs-brentford",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sunderland-vs-brentford/3243"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/juventus-vs-genoa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/juventus-vs-genoa/3241"
-            }
-        ]
-    },
-    {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-10-29 02:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Olympique Lyonnais",
+        "team1Title": "Event Ended",
+        "team2Title": "Inter Milan",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "isHot": true,
@@ -166,8 +39,8 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-10-29 02:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Benfica",
+        "team1Title": "Event Ended",
+        "team2Title": "Arsenal",
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
         "isHot": true,

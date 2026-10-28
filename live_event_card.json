@@ -24,18 +24,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "DFB Pokal",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "Nürnberg",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-nurnberg",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-28 23:30:00",
         "team1Title": "Inter Milan",
@@ -49,23 +37,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/inter-milan-vs-venezia/3231"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-28 23:30:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Bologna",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-bologna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-bologna/3230"
             }
         ]
     },

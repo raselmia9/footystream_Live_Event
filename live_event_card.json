@@ -115,7 +115,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/fulham-vs-crystal-palace",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/fulham-vs-crystal-palace/3239"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -179,6 +184,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/napoli-vs-monza/3232"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/napoli-vs-monza/3240"
             }
         ]
     },
@@ -192,7 +201,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/juventus-vs-genoa",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/juventus-vs-genoa/3241"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

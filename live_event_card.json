@@ -1,55 +1,22 @@
 [
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-29 02:00:00",
-        "team1Title": "Liverpool",
-        "team2Title": "Chelsea",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-10-29 08:00:00",
+        "team1Title": "PGA / LPGA Golf",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-chelsea",
+        "detailsPage": "https://pogo.pk/events/pga-lpga-golf",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/liverpool-vs-chelsea/3248"
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3027"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/liverpool-vs-chelsea/3249"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/liverpool-vs-chelsea/3250"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-29 02:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Inter Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-lyon",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-29 02:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Arsenal",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/arsenal-vs-benfica",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/arsenal-vs-benfica/3244"
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3029"
             }
         ]
     },
@@ -102,6 +69,48 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-10-30 06:15:00",
+        "team1Title": "Carolina Panthers",
+        "team2Title": "Green Bay Packers",
+        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/carolina-panthers-vs-green-bay-packers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3251"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3252"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3253"
+            }
+        ]
+    },
+    {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-10-30 07:00:00",
+        "team1Title": "MotoGP Malaysian Grand Prix",
+        "team2Title": "MotoGP",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/motogp-malaysian-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/motogp-malaysian-grand-prix/3254"
+            }
+        ]
+    },
+    {
         "eventTitle": "A League",
         "matchTime": "2026-10-30 15:00:00",
         "team1Title": "Auckland",
@@ -115,6 +124,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/auckland-vs-brisbane-roar/3233"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-10-30 15:05:00",
+        "team1Title": "England",
+        "team2Title": "Papua New Guinea",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-png",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-png/3255"
             }
         ]
     },
@@ -143,6 +169,31 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-10-31 00:00:00",
+        "team1Title": "F1 Mexican Grand Prix",
+        "team2Title": "Formula 1",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/f1-mexican-grand-prix",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/f1-mexican-grand-prix/3256"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/f1-mexican-grand-prix/3257"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/f1-mexican-grand-prix/3258"
+            }
+        ]
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-31 01:30:00",
         "team1Title": "Elversberg",
@@ -152,6 +203,188 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/elversberg-vs-mainz-05",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 01:45:00",
+        "team1Title": "Bristol Bears",
+        "team2Title": "Leicester Tigers",
+        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-leicester-tigers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bristol-bears-vs-leicester-tigers/3261"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Newcastle Falcons",
+        "team2Title": "Saracens",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/newcastle-falcons-vs-saracens",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/newcastle-falcons-vs-saracens/3268"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Exeter Chiefs",
+        "team2Title": "Harlequins",
+        "team1Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/exeter-chiefs-vs-harlequins",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/exeter-chiefs-vs-harlequins/3267"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 21:05:00",
+        "team1Title": "Sale Sharks",
+        "team2Title": "Bath Rugby",
+        "team1Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sale-sharks-vs-bath",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sale-sharks-vs-bath/3269"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Northampton Saints",
+        "team2Title": "Gloucester Rugby",
+        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/northampton-vs-gloucester",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 01:45:00",
+        "team1Title": "Leinster",
+        "team2Title": "Connacht",
+        "team1Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/leinster-vs-connacht",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/leinster-vs-connacht/3259"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 01:45:00",
+        "team1Title": "Glasgow Warriors",
+        "team2Title": "Lions",
+        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-lions",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/glasgow-warriors-vs-lions/3260"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 18:45:00",
+        "team1Title": "Ulster",
+        "team2Title": "Stormers",
+        "team1Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ulster-vs-stormers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ulster-vs-stormers/3262"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Bulls",
+        "team2Title": "Scarlets",
+        "team1Logo": "https://cdn.img4every1.org/team/bulls/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/scarlets/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bulls-vs-scarlets",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bulls-vs-scarlets/3263"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Edinburgh",
+        "team2Title": "Benetton",
+        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/edinburgh-vs-benetton-treviso",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/edinburgh-vs-benetton-treviso/3264"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "The Sharks",
+        "team2Title": "Munster",
+        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sharks-vs-munster",
         "multiWatchPageLink": []
     },
     {

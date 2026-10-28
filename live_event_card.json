@@ -17,30 +17,6 @@
         ]
     },
     {
-        "eventTitle": "DFB Pokal",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Magdeburg",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/magdeburg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-magdeburg",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "DFB Pokal",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "Nürnberg",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-nurnberg",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-28 23:30:00",
         "team1Title": "Inter Milan",
@@ -248,6 +224,30 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-10-29 01:45:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Magdeburg",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/magdeburg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-magdeburg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-10-29 01:45:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Nürnberg",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-nurnberg",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-29 02:00:00",
         "team1Title": "Liverpool",
@@ -370,18 +370,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/elversberg-vs-mainz-05",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 02:00:00",
-        "team1Title": "Villarreal",
-        "team2Title": "Espanyol",
-        "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/villarreal-vs-espanyol",
         "multiWatchPageLink": []
     },
     {

@@ -67,44 +67,10 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-28 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Inter Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-venezia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/inter-milan-vs-venezia/3231"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-28 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AC Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-bologna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-bologna/3230"
-            }
-        ]
-    },
-    {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-10-28 23:45:00",
-        "team1Title": "Chelsea",
-        "team2Title": "AS Roma",
+        "team1Title": "Event Ended",
+        "team2Title": "Chelsea",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "isHot": true,
@@ -120,8 +86,8 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-10-28 23:45:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Bayern München",
+        "team1Title": "Event Ended",
+        "team2Title": "Real Madrid",
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "isHot": true,
@@ -148,6 +114,44 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/fulham-vs-crystal-palace/3239"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-29 01:45:00",
+        "team1Title": "Napoli",
+        "team2Title": "Monza",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-monza",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/napoli-vs-monza/3232"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/napoli-vs-monza/3240"
+            }
+        ]
+    },
+    {
+        "eventTitle": "DFB Pokal",
+        "matchTime": "2026-10-29 01:45:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Nürnberg",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-nurnberg",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-nurnberg/3245"
             }
         ]
     },
@@ -186,51 +190,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-30 01:45:00",
-        "team1Title": "Newcastle United",
-        "team2Title": "Everton",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/newcastle-united-vs-everton",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-31 02:00:00",
-        "team1Title": "Wrexham",
-        "team2Title": "Sheffield United",
-        "team1Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/wrexham-vs-sheffield-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Napoli",
-        "team2Title": "Monza",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/napoli-vs-monza",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/napoli-vs-monza/3232"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/napoli-vs-monza/3240"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-29 01:45:00",
         "team1Title": "Juventus",
@@ -244,47 +203,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/juventus-vs-genoa/3241"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-29 23:30:00",
-        "team1Title": "Frosinone Calcio",
-        "team2Title": "Lecce",
-        "team1Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/frosinone-vs-lecce",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-30 01:45:00",
-        "team1Title": "Atalanta",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atalanta-vs-fiorentina",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "DFB Pokal",
-        "matchTime": "2026-10-29 01:45:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "Nürnberg",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nurnberg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-nurnberg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-nurnberg/3245"
             }
         ]
     },
@@ -316,6 +234,54 @@
                 "url": "https://playerdee.top/alpha/arsenal-vs-benfica/3244"
             }
         ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-29 23:30:00",
+        "team1Title": "Frosinone Calcio",
+        "team2Title": "Lecce",
+        "team1Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/frosinone-vs-lecce",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-30 01:45:00",
+        "team1Title": "Atalanta",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atalanta-vs-fiorentina",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-30 01:45:00",
+        "team1Title": "Newcastle United",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/newcastle-united-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-31 02:00:00",
+        "team1Title": "Wrexham",
+        "team2Title": "Sheffield United",
+        "team1Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wrexham-vs-sheffield-united",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "A League",

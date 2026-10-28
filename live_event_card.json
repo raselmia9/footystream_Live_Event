@@ -38,6 +38,23 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-28 23:30:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-venezia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-venezia/3231"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-28 23:30:00",
         "team1Title": "AC Milan",
         "team2Title": "Bologna",
         "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
@@ -91,6 +108,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/frosinone-vs-lecce",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-30 01:45:00",
+        "team1Title": "Atalanta",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atalanta-vs-fiorentina",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-28 23:45:00",
+        "team1Title": "Chelsea",
+        "team2Title": "AS Roma",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-roma",
         "multiWatchPageLink": []
     },
     {
@@ -215,6 +256,18 @@
     },
     {
         "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 18:30:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Manchester United",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-manchester-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
         "matchTime": "2026-10-31 21:00:00",
         "team1Title": "Brighton & Hove Albion",
         "team2Title": "Manchester City",
@@ -235,6 +288,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/hull-city-vs-ipswich-town",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Sunderland",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sunderland-vs-coventry-city",
         "multiWatchPageLink": []
     },
     {
@@ -304,6 +369,18 @@
     },
     {
         "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 02:00:00",
+        "team1Title": "Villarreal",
+        "team2Title": "Espanyol",
+        "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/villarreal-vs-espanyol",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
         "matchTime": "2026-10-31 19:00:00",
         "team1Title": "Atlético Madrid",
         "team2Title": "Levante",
@@ -312,6 +389,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-levante",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 21:15:00",
+        "team1Title": "Celta de Vigo",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/celta-vigo-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-betis-vs-malaga",
         "multiWatchPageLink": []
     },
     {

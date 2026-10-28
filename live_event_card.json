@@ -132,7 +132,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bournemouth-vs-aston-villa",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bournemouth-vs-aston-villa/3242"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -144,7 +149,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sunderland-vs-brentford",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sunderland-vs-brentford/3243"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -242,7 +252,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-magdeburg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-magdeburg/3246"
+            }
+        ]
     },
     {
         "eventTitle": "DFB Pokal",
@@ -254,7 +269,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-nurnberg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-nurnberg/3245"
+            }
+        ]
     },
     {
         "eventTitle": "Womens Champions League",
@@ -278,7 +298,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-benfica",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-benfica/3244"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

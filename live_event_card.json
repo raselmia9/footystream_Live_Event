@@ -149,6 +149,18 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-10-29 02:00:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Olympique Lyonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-lyon",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-10-29 02:00:00",
         "team1Title": "Arsenal",
         "team2Title": "Benfica",
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",

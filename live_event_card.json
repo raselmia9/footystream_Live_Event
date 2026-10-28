@@ -374,6 +374,18 @@
     },
     {
         "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 02:00:00",
+        "team1Title": "Villarreal",
+        "team2Title": "Espanyol",
+        "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/villarreal-vs-espanyol",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
         "matchTime": "2026-10-31 19:00:00",
         "team1Title": "Atlético Madrid",
         "team2Title": "Levante",

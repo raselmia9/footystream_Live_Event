@@ -67,40 +67,6 @@
         ]
     },
     {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-28 23:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Chelsea",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-roma",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/chelsea-vs-roma/3236"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Womens Champions League",
-        "matchTime": "2026-10-28 23:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-bayern-munich",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-bayern-munich/3235"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-29 01:45:00",
         "team1Title": "Fulham",

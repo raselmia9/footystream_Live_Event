@@ -60,7 +60,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-roma",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chelsea-vs-roma/3236"
+            }
+        ]
     },
     {
         "eventTitle": "Womens Champions League",
@@ -72,7 +77,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-madrid-vs-bayern-munich",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-bayern-munich/3235"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -84,7 +94,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-city-vs-brighton",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-brighton/3237"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-brighton/3238"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

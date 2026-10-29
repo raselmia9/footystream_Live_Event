@@ -6,11 +6,11 @@
 🟡 Visiting detail page [2/34]: https://pogo.pk/events/newcastle-united-vs-everton
 🟡 Visiting detail page [1/34]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/34]: https://pogo.pk/events/atalanta-vs-fiorentina
-🟢 Successfully processed: PGA Tour [1/34]
-🟡 Visiting detail page [4/34]: https://pogo.pk/events/carolina-panthers-vs-green-bay-packers
 🟢 Successfully processed: Serie A [3/34]
-🟡 Visiting detail page [5/34]: https://pogo.pk/events/motogp-malaysian-grand-prix
+🟡 Visiting detail page [4/34]: https://pogo.pk/events/carolina-panthers-vs-green-bay-packers
 🟢 Successfully processed: EFL [2/34]
+🟡 Visiting detail page [5/34]: https://pogo.pk/events/motogp-malaysian-grand-prix
+🟢 Successfully processed: PGA Tour [1/34]
 🟡 Visiting detail page [6/34]: https://pogo.pk/events/auckland-vs-brisbane-roar
 🟢 Successfully processed: NFL [4/34]
 🟡 Visiting detail page [7/34]: https://pogo.pk/events/england-vs-png

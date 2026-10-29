@@ -38,23 +38,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-30 01:45:00",
-        "team1Title": "Atalanta",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atalanta-vs-fiorentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/atalanta-vs-fiorentina/3272"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-30 01:45:00",
         "team1Title": "Newcastle United",
@@ -90,6 +73,23 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/wrexham-vs-sheffield-united",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-30 01:45:00",
+        "team1Title": "Atalanta",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atalanta-vs-fiorentina",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/atalanta-vs-fiorentina/3272"
+            }
+        ]
     },
     {
         "eventTitle": "NFL",

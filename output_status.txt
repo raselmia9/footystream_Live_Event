@@ -10,9 +10,9 @@
 🟡 Visiting detail page [4/35]: https://pogo.pk/events/newcastle-united-vs-everton
 🟢 Successfully processed: Serie A [3/35]
 🟡 Visiting detail page [5/35]: https://pogo.pk/events/wrexham-vs-sheffield-united
+🟢 Successfully processed: EFL [4/35]
 🟢 Successfully processed: EFL [5/35]
 🟡 Visiting detail page [6/35]: https://pogo.pk/events/carolina-panthers-vs-green-bay-packers
-🟢 Successfully processed: EFL [4/35]
 🟡 Visiting detail page [7/35]: https://pogo.pk/events/motogp-malaysian-grand-prix
 🟢 Successfully processed: PGA Tour [1/35]
 🟡 Visiting detail page [8/35]: https://pogo.pk/events/auckland-vs-brisbane-roar
@@ -70,8 +70,8 @@
 🟡 Visiting detail page [34/35]: https://pogo.pk/events/leeds-united-vs-bournemouth
 🟢 Successfully processed: Premier League [32/35]
 🟡 Visiting detail page [35/35]: https://pogo.pk/events/brentford-vs-nottm-forest
+🟢 Successfully processed: Premier League [33/35]
 🟢 Successfully processed: Premier League [34/35]
 🟢 Successfully processed: Premier League [35/35]
-🟢 Successfully processed: Premier League [33/35]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 35

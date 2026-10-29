@@ -30,7 +30,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/frosinone-vs-lecce",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/frosinone-vs-lecce/3271"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -42,7 +47,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/atalanta-vs-fiorentina",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/atalanta-vs-fiorentina/3272"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -54,7 +64,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/newcastle-united-vs-everton",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3273"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3274"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3275"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

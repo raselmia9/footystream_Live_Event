@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 35
+🟡 Visiting detail page [3/35]: https://pogo.pk/events/atalanta-vs-fiorentina
 🟡 Visiting detail page [2/35]: https://pogo.pk/events/frosinone-vs-lecce
 🟡 Visiting detail page [1/35]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [3/35]: https://pogo.pk/events/atalanta-vs-fiorentina
-🟢 Successfully processed: Serie A [3/35]
 🟢 Successfully processed: Serie A [2/35]
+🟢 Successfully processed: Serie A [3/35]
 🟡 Visiting detail page [4/35]: https://pogo.pk/events/newcastle-united-vs-everton
 🟡 Visiting detail page [5/35]: https://pogo.pk/events/wrexham-vs-sheffield-united
 🟢 Successfully processed: EFL [4/35]
+🟡 Visiting detail page [6/35]: https://pogo.pk/events/carolina-panthers-vs-green-bay-packers
 🟢 Successfully processed: EFL [5/35]
 🟡 Visiting detail page [7/35]: https://pogo.pk/events/motogp-malaysian-grand-prix
-🟡 Visiting detail page [6/35]: https://pogo.pk/events/carolina-panthers-vs-green-bay-packers
 🟢 Successfully processed: PGA Tour [1/35]
 🟡 Visiting detail page [8/35]: https://pogo.pk/events/auckland-vs-brisbane-roar
-🟢 Successfully processed: MotoGP [7/35]
-🟡 Visiting detail page [9/35]: https://pogo.pk/events/england-vs-png
 🟢 Successfully processed: NFL [6/35]
+🟡 Visiting detail page [9/35]: https://pogo.pk/events/england-vs-png
+🟢 Successfully processed: MotoGP [7/35]
 🟡 Visiting detail page [10/35]: https://pogo.pk/events/psg-vs-le-havre
 🟢 Successfully processed: French Ligue 1 [10/35]
 🟡 Visiting detail page [11/35]: https://pogo.pk/events/lens-vs-lille

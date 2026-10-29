@@ -23,8 +23,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-29 23:30:00",
-        "team1Title": "Frosinone Calcio",
-        "team2Title": "Lecce",
+        "team1Title": "Event Ended",
+        "team2Title": "Frosinone Calcio",
         "team1Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
         "isHot": true,

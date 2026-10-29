@@ -21,23 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-29 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Frosinone Calcio",
-        "team1Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/frosinone-vs-lecce",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/frosinone-vs-lecce/3271"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-10-30 01:45:00",
         "team1Title": "Newcastle United",
@@ -61,18 +44,6 @@
                 "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3275"
             }
         ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-31 02:00:00",
-        "team1Title": "Wrexham",
-        "team2Title": "Sheffield United",
-        "team1Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/wrexham-vs-sheffield-united",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Serie A",
@@ -468,6 +439,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-10-31 02:00:00",
+        "team1Title": "Wrexham",
+        "team2Title": "Sheffield United",
+        "team1Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wrexham-vs-sheffield-united",
         "multiWatchPageLink": []
     },
     {

@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 35
-🟡 Visiting detail page [1/35]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/35]: https://pogo.pk/events/frosinone-vs-lecce
+🟡 Visiting detail page [1/35]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/35]: https://pogo.pk/events/atalanta-vs-fiorentina
-🟢 Successfully processed: Serie A [3/35]
-🟡 Visiting detail page [4/35]: https://pogo.pk/events/newcastle-united-vs-everton
 🟢 Successfully processed: Serie A [2/35]
+🟡 Visiting detail page [4/35]: https://pogo.pk/events/newcastle-united-vs-everton
+🟢 Successfully processed: Serie A [3/35]
 🟡 Visiting detail page [5/35]: https://pogo.pk/events/wrexham-vs-sheffield-united
 🟢 Successfully processed: EFL [4/35]
 🟡 Visiting detail page [6/35]: https://pogo.pk/events/carolina-panthers-vs-green-bay-packers
@@ -50,9 +50,9 @@
 🟡 Visiting detail page [24/35]: https://pogo.pk/events/sharks-vs-munster
 🟢 Successfully processed: United Rugby [24/35]
 🟡 Visiting detail page [25/35]: https://pogo.pk/events/villarreal-vs-espanyol
-🟢 Successfully processed: LaLiga [25/35]
-🟡 Visiting detail page [26/35]: https://pogo.pk/events/atletico-madrid-vs-levante
 🟢 Successfully processed: United Rugby [22/35]
+🟡 Visiting detail page [26/35]: https://pogo.pk/events/atletico-madrid-vs-levante
+🟢 Successfully processed: LaLiga [25/35]
 🟡 Visiting detail page [27/35]: https://pogo.pk/events/celta-vigo-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [26/35]
 🟡 Visiting detail page [28/35]: https://pogo.pk/events/real-betis-vs-malaga

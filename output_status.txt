@@ -19,8 +19,8 @@
 🟢 Successfully processed: A League [6/34]
 🟡 Visiting detail page [9/34]: https://pogo.pk/events/lens-vs-lille
 🟢 Successfully processed: French Ligue 1 [8/34]
-🟡 Visiting detail page [10/34]: https://pogo.pk/events/f1-mexican-grand-prix
 🟢 Successfully processed: French Ligue 1 [9/34]
+🟡 Visiting detail page [10/34]: https://pogo.pk/events/f1-mexican-grand-prix
 🟡 Visiting detail page [11/34]: https://pogo.pk/events/elversberg-vs-mainz-05
 🟢 Successfully processed: Bundesliga [11/34]
 🟡 Visiting detail page [12/34]: https://pogo.pk/events/bristol-bears-vs-leicester-tigers

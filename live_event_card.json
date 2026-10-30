@@ -38,31 +38,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-31 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "PSG",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-le-havre",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/psg-vs-le-havre/3277"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/psg-vs-le-havre/3278"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/psg-vs-le-havre/3279"
-            }
-        ]
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-10-31 00:00:00",
         "team1Title": "F1 Mexican Grand Prix",

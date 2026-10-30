@@ -63,23 +63,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-31 01:30:00",
-        "team1Title": "Elversberg",
-        "team2Title": "Mainz 05",
-        "team1Logo": "https://cdn.img4every1.org/team/elversberg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/elversberg-vs-mainz-05",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/elversberg-vs-mainz-05/3280"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-31 01:45:00",
         "team1Title": "Bristol Bears",

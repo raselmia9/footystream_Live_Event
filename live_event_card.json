@@ -21,31 +21,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-10-30 06:15:00",
-        "team1Title": "Carolina Panthers",
-        "team2Title": "Green Bay Packers",
-        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/carolina-panthers-vs-green-bay-packers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3251"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3252"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/carolina-panthers-vs-green-bay-packers/3253"
-            }
-        ]
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-10-30 07:00:00",
         "team1Title": "MotoGP Malaysian Grand Prix",

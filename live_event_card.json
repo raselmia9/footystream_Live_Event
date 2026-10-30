@@ -40,8 +40,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-31 00:00:00",
-        "team1Title": "PSG",
-        "team2Title": "Le Havre",
+        "team1Title": "Event Ended",
+        "team2Title": "PSG",
         "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
         "isHot": true,
@@ -175,54 +175,6 @@
                 "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3282"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 19:00:00",
-        "team1Title": "Atlético Madrid",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-levante",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 21:15:00",
-        "team1Title": "Celta de Vigo",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/celta-vigo-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Málaga",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-malaga",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Deportivo Alavés",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "EFL",
@@ -434,6 +386,54 @@
                 "url": "https://playerdee.top/alpha/cardiff-rugby-vs-ospreys/3266"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 19:00:00",
+        "team1Title": "Atlético Madrid",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-levante",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 21:15:00",
+        "team1Title": "Celta de Vigo",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/celta-vigo-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-betis-vs-malaga",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Deportivo Alavés",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premiership Rugby",

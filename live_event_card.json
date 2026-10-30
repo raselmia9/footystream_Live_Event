@@ -63,57 +63,6 @@
         ]
     },
     {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 01:45:00",
-        "team1Title": "Bristol Bears",
-        "team2Title": "Leicester Tigers",
-        "team1Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bristol-bears-vs-leicester-tigers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bristol-bears-vs-leicester-tigers/3261"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 01:45:00",
-        "team1Title": "Leinster",
-        "team2Title": "Connacht",
-        "team1Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/connacht/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/leinster-vs-connacht",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/leinster-vs-connacht/3259"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 01:45:00",
-        "team1Title": "Glasgow Warriors",
-        "team2Title": "Lions",
-        "team1Logo": "https://cdn.img4every1.org/team/glasgow-warriors/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lions/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/glasgow-warriors-vs-lions",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/glasgow-warriors-vs-lions/3260"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-31 02:00:00",
         "team1Title": "Villarreal",

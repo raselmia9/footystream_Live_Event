@@ -10,10 +10,10 @@
 🟡 Visiting detail page [4/29]: https://pogo.pk/events/lens-vs-lille
 🟢 Successfully processed: French Ligue 1 [4/29]
 🟡 Visiting detail page [5/29]: https://pogo.pk/events/f1-mexican-grand-prix
-🟢 Successfully processed: PGA Tour [1/29]
-🟡 Visiting detail page [6/29]: https://pogo.pk/events/elversberg-vs-mainz-05
 🟢 Successfully processed: MotoGP [2/29]
+🟢 Successfully processed: PGA Tour [1/29]
 🟡 Visiting detail page [7/29]: https://pogo.pk/events/bristol-bears-vs-leicester-tigers
+🟡 Visiting detail page [6/29]: https://pogo.pk/events/elversberg-vs-mainz-05
 🟢 Successfully processed: Bundesliga [6/29]
 🟡 Visiting detail page [8/29]: https://pogo.pk/events/newcastle-falcons-vs-saracens
 🟢 Successfully processed: Formula 1 [5/29]
@@ -58,8 +58,8 @@
 🟡 Visiting detail page [28/29]: https://pogo.pk/events/leeds-united-vs-bournemouth
 🟢 Successfully processed: Premier League [26/29]
 🟡 Visiting detail page [29/29]: https://pogo.pk/events/brentford-vs-nottm-forest
-🟢 Successfully processed: Premier League [27/29]
 🟢 Successfully processed: Premier League [28/29]
+🟢 Successfully processed: Premier League [27/29]
 🟢 Successfully processed: Premier League [29/29]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 29

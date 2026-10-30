@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
-🟡 Visiting detail page [3/31]: https://pogo.pk/events/auckland-vs-brisbane-roar
 🟡 Visiting detail page [2/31]: https://pogo.pk/events/motogp-malaysian-grand-prix
+🟡 Visiting detail page [3/31]: https://pogo.pk/events/auckland-vs-brisbane-roar
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: MotoGP [2/31]
 🟡 Visiting detail page [4/31]: https://pogo.pk/events/england-vs-png
-🟢 Successfully processed: PGA Tour [1/31]
-🟡 Visiting detail page [5/31]: https://pogo.pk/events/psg-vs-le-havre
 🟢 Successfully processed: A League [3/31]
+🟡 Visiting detail page [5/31]: https://pogo.pk/events/psg-vs-le-havre
+🟢 Successfully processed: PGA Tour [1/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/lens-vs-lille
 🟢 Successfully processed: French Ligue 1 [5/31]
-🟢 Successfully processed: French Ligue 1 [6/31]
 🟡 Visiting detail page [7/31]: https://pogo.pk/events/f1-mexican-grand-prix
+🟢 Successfully processed: French Ligue 1 [6/31]
 🟡 Visiting detail page [8/31]: https://pogo.pk/events/elversberg-vs-mainz-05
 🟢 Successfully processed: Bundesliga [8/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/bristol-bears-vs-leicester-tigers
@@ -47,8 +47,8 @@
 🟢 Successfully processed: LaLiga [21/31]
 🟡 Visiting detail page [23/31]: https://pogo.pk/events/real-betis-vs-malaga
 🟢 Successfully processed: United Rugby [18/31]
-🟢 Successfully processed: LaLiga [22/31]
 🟡 Visiting detail page [24/31]: https://pogo.pk/events/barcelona-vs-alaves
+🟢 Successfully processed: LaLiga [22/31]
 🟡 Visiting detail page [25/31]: https://pogo.pk/events/wrexham-vs-sheffield-united
 🟢 Successfully processed: LaLiga [23/31]
 🟡 Visiting detail page [26/31]: https://pogo.pk/events/chelsea-vs-manchester-united

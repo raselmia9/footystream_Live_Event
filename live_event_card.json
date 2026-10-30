@@ -72,7 +72,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lens-vs-lille",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lens-vs-lille/3284"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lens-vs-lille/3285"
+            }
+        ]
     },
     {
         "eventTitle": "Formula 1",
@@ -377,7 +386,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/wrexham-vs-sheffield-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/wrexham-vs-sheffield-united/3283"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

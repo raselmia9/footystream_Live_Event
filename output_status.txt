@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
 🟡 Visiting detail page [2/31]: https://pogo.pk/events/motogp-malaysian-grand-prix
-🟡 Visiting detail page [1/31]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/31]: https://pogo.pk/events/auckland-vs-brisbane-roar
+🟡 Visiting detail page [1/31]: https://pogo.pk/events/pga-lpga-golf
+🟢 Successfully processed: A League [3/31]
 🟢 Successfully processed: MotoGP [2/31]
-🟢 Successfully processed: PGA Tour [1/31]
 🟡 Visiting detail page [4/31]: https://pogo.pk/events/england-vs-png
 🟡 Visiting detail page [5/31]: https://pogo.pk/events/psg-vs-le-havre
-🟢 Successfully processed: A League [3/31]
+🟢 Successfully processed: PGA Tour [1/31]
 🟡 Visiting detail page [6/31]: https://pogo.pk/events/lens-vs-lille
 🟢 Successfully processed: French Ligue 1 [5/31]
 🟡 Visiting detail page [7/31]: https://pogo.pk/events/f1-mexican-grand-prix
@@ -46,11 +46,11 @@
 🟡 Visiting detail page [22/31]: https://pogo.pk/events/celta-vigo-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [21/31]
 🟡 Visiting detail page [23/31]: https://pogo.pk/events/real-betis-vs-malaga
-🟢 Successfully processed: LaLiga [22/31]
-🟡 Visiting detail page [24/31]: https://pogo.pk/events/barcelona-vs-alaves
-🟢 Successfully processed: LaLiga [23/31]
-🟡 Visiting detail page [25/31]: https://pogo.pk/events/wrexham-vs-sheffield-united
 🟢 Successfully processed: United Rugby [18/31]
+🟡 Visiting detail page [24/31]: https://pogo.pk/events/barcelona-vs-alaves
+🟢 Successfully processed: LaLiga [22/31]
+🟡 Visiting detail page [25/31]: https://pogo.pk/events/wrexham-vs-sheffield-united
+🟢 Successfully processed: LaLiga [23/31]
 🟡 Visiting detail page [26/31]: https://pogo.pk/events/chelsea-vs-manchester-united
 🟢 Successfully processed: LaLiga [24/31]
 🟡 Visiting detail page [27/31]: https://pogo.pk/events/brighton-vs-man-city
@@ -60,9 +60,9 @@
 🟡 Visiting detail page [29/31]: https://pogo.pk/events/sunderland-vs-coventry-city
 🟢 Successfully processed: Premier League [27/31]
 🟡 Visiting detail page [30/31]: https://pogo.pk/events/leeds-united-vs-bournemouth
-🟢 Successfully processed: Premier League [29/31]
-🟡 Visiting detail page [31/31]: https://pogo.pk/events/brentford-vs-nottm-forest
 🟢 Successfully processed: Premier League [28/31]
+🟡 Visiting detail page [31/31]: https://pogo.pk/events/brentford-vs-nottm-forest
+🟢 Successfully processed: Premier League [29/31]
 🟢 Successfully processed: Premier League [30/31]
 🟢 Successfully processed: Premier League [31/31]
 🟢 Browser closed successfully.

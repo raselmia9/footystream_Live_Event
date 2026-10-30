@@ -63,69 +63,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 02:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/villarreal-vs-espanyol",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3281"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3282"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-10-31 02:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Wrexham",
-        "team1Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/wrexham-vs-sheffield-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/wrexham-vs-sheffield-united/3283"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/wrexham-vs-sheffield-united/3286"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-10-31 02:05:00",
-        "team1Title": "Lens",
-        "team2Title": "Lille",
-        "team1Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lens-vs-lille",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lens-vs-lille/3284"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/lens-vs-lille/3285"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-31 18:30:00",
         "team1Title": "Chelsea",

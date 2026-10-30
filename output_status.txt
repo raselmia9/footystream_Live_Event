@@ -4,8 +4,8 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 26
 🟡 Visiting detail page [3/26]: https://pogo.pk/events/f1-mexican-grand-prix
-🟡 Visiting detail page [1/26]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/26]: https://pogo.pk/events/motogp-malaysian-grand-prix
+🟡 Visiting detail page [1/26]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: MotoGP [2/26]
 🟡 Visiting detail page [4/26]: https://pogo.pk/events/villarreal-vs-espanyol
 🟢 Successfully processed: PGA Tour [1/26]
@@ -31,8 +31,8 @@
 🟢 Successfully processed: Premier League [12/26]
 🟡 Visiting detail page [15/26]: https://pogo.pk/events/edinburgh-vs-benetton-treviso
 🟢 Successfully processed: United Rugby [13/26]
-🟡 Visiting detail page [16/26]: https://pogo.pk/events/sharks-vs-munster
 🟢 Successfully processed: United Rugby [14/26]
+🟡 Visiting detail page [16/26]: https://pogo.pk/events/sharks-vs-munster
 🟡 Visiting detail page [17/26]: https://pogo.pk/events/dragons-vs-zebre
 🟢 Successfully processed: United Rugby [15/26]
 🟡 Visiting detail page [18/26]: https://pogo.pk/events/cardiff-rugby-vs-ospreys
@@ -44,16 +44,16 @@
 🟡 Visiting detail page [21/26]: https://pogo.pk/events/real-betis-vs-malaga
 🟢 Successfully processed: LaLiga [21/26]
 🟡 Visiting detail page [22/26]: https://pogo.pk/events/barcelona-vs-alaves
-🟢 Successfully processed: United Rugby [18/26]
+🟢 Successfully processed: LaLiga [22/26]
 🟡 Visiting detail page [23/26]: https://pogo.pk/events/newcastle-falcons-vs-saracens
 🟢 Successfully processed: United Rugby [17/26]
 🟡 Visiting detail page [24/26]: https://pogo.pk/events/exeter-chiefs-vs-harlequins
-🟢 Successfully processed: LaLiga [22/26]
+🟢 Successfully processed: United Rugby [18/26]
 🟡 Visiting detail page [25/26]: https://pogo.pk/events/sale-sharks-vs-bath
-🟢 Successfully processed: Premiership Rugby [24/26]
-🟡 Visiting detail page [26/26]: https://pogo.pk/events/northampton-vs-gloucester
-🟢 Successfully processed: Premiership Rugby [25/26]
 🟢 Successfully processed: Premiership Rugby [23/26]
+🟡 Visiting detail page [26/26]: https://pogo.pk/events/northampton-vs-gloucester
+🟢 Successfully processed: Premiership Rugby [24/26]
+🟢 Successfully processed: Premiership Rugby [25/26]
 🟢 Successfully processed: Premiership Rugby [26/26]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 26

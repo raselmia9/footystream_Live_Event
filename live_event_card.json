@@ -38,40 +38,6 @@
         ]
     },
     {
-        "eventTitle": "A League",
-        "matchTime": "2026-10-30 15:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Auckland",
-        "team1Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brisbane-roar/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/auckland-vs-brisbane-roar",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/auckland-vs-brisbane-roar/3233"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-10-30 15:05:00",
-        "team1Title": "England",
-        "team2Title": "Papua New Guinea",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/papua-new-guinea/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-png",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/england-vs-png/3255"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-10-31 00:00:00",
         "team1Title": "PSG",

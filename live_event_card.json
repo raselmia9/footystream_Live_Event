@@ -47,7 +47,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psg-vs-le-havre",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psg-vs-le-havre/3277"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/psg-vs-le-havre/3278"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/psg-vs-le-havre/3279"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -96,7 +109,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/elversberg-vs-mainz-05",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/elversberg-vs-mainz-05/3280"
+            }
+        ]
     },
     {
         "eventTitle": "Premiership Rugby",
@@ -290,7 +308,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/villarreal-vs-espanyol",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3281"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/villarreal-vs-espanyol/3282"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 32
 🟡 Visiting detail page [3/32]: https://pogo.pk/events/motogp-malaysian-grand-prix
-🟡 Visiting detail page [2/32]: https://pogo.pk/events/carolina-panthers-vs-green-bay-packers
 🟡 Visiting detail page [1/32]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: MotoGP [3/32]
+🟡 Visiting detail page [2/32]: https://pogo.pk/events/carolina-panthers-vs-green-bay-packers
 🟢 Successfully processed: NFL [2/32]
+🟡 Visiting detail page [4/32]: https://pogo.pk/events/auckland-vs-brisbane-roar
 🟢 Successfully processed: PGA Tour [1/32]
 🟡 Visiting detail page [5/32]: https://pogo.pk/events/england-vs-png
-🟡 Visiting detail page [4/32]: https://pogo.pk/events/auckland-vs-brisbane-roar
+🟢 Successfully processed: MotoGP [3/32]
 🟡 Visiting detail page [6/32]: https://pogo.pk/events/psg-vs-le-havre
 🟢 Successfully processed: French Ligue 1 [6/32]
 🟡 Visiting detail page [7/32]: https://pogo.pk/events/lens-vs-lille
@@ -52,11 +52,11 @@
 🟡 Visiting detail page [25/32]: https://pogo.pk/events/barcelona-vs-alaves
 🟢 Successfully processed: LaLiga [24/32]
 🟡 Visiting detail page [26/32]: https://pogo.pk/events/wrexham-vs-sheffield-united
-🟢 Successfully processed: LaLiga [25/32]
-🟡 Visiting detail page [27/32]: https://pogo.pk/events/chelsea-vs-manchester-united
-🟢 Successfully processed: EFL [26/32]
-🟡 Visiting detail page [28/32]: https://pogo.pk/events/brighton-vs-man-city
 🟢 Successfully processed: United Rugby [19/32]
+🟡 Visiting detail page [27/32]: https://pogo.pk/events/chelsea-vs-manchester-united
+🟢 Successfully processed: LaLiga [25/32]
+🟡 Visiting detail page [28/32]: https://pogo.pk/events/brighton-vs-man-city
+🟢 Successfully processed: EFL [26/32]
 🟡 Visiting detail page [29/32]: https://pogo.pk/events/hull-city-vs-ipswich-town
 🟢 Successfully processed: Premier League [27/32]
 🟡 Visiting detail page [30/32]: https://pogo.pk/events/sunderland-vs-coventry-city

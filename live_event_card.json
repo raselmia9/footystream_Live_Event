@@ -408,6 +408,18 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Brighton & Hove Albion",
+        "team2Title": "Manchester City",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brighton-vs-man-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 21:00:00",
         "team1Title": "Hull City",
         "team2Title": "Ipswich Town",
         "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",

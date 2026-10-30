@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 31
+🟡 Visiting detail page [2/31]: https://pogo.pk/events/motogp-malaysian-grand-prix
 🟡 Visiting detail page [3/31]: https://pogo.pk/events/auckland-vs-brisbane-roar
 🟡 Visiting detail page [1/31]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [2/31]: https://pogo.pk/events/motogp-malaysian-grand-prix
 🟢 Successfully processed: A League [3/31]
-🟡 Visiting detail page [4/31]: https://pogo.pk/events/england-vs-png
-🟢 Successfully processed: PGA Tour [1/31]
 🟢 Successfully processed: MotoGP [2/31]
-🟡 Visiting detail page [6/31]: https://pogo.pk/events/lens-vs-lille
+🟡 Visiting detail page [4/31]: https://pogo.pk/events/england-vs-png
 🟡 Visiting detail page [5/31]: https://pogo.pk/events/psg-vs-le-havre
+🟢 Successfully processed: PGA Tour [1/31]
+🟡 Visiting detail page [6/31]: https://pogo.pk/events/lens-vs-lille
 🟢 Successfully processed: French Ligue 1 [5/31]
-🟢 Successfully processed: French Ligue 1 [6/31]
 🟡 Visiting detail page [7/31]: https://pogo.pk/events/f1-mexican-grand-prix
+🟢 Successfully processed: French Ligue 1 [6/31]
 🟡 Visiting detail page [8/31]: https://pogo.pk/events/elversberg-vs-mainz-05
 🟢 Successfully processed: Bundesliga [8/31]
 🟡 Visiting detail page [9/31]: https://pogo.pk/events/bristol-bears-vs-leicester-tigers
@@ -56,11 +56,11 @@
 🟡 Visiting detail page [27/31]: https://pogo.pk/events/brighton-vs-man-city
 🟢 Successfully processed: Premier League [26/31]
 🟡 Visiting detail page [28/31]: https://pogo.pk/events/hull-city-vs-ipswich-town
-🟢 Successfully processed: Premier League [27/31]
-🟡 Visiting detail page [29/31]: https://pogo.pk/events/sunderland-vs-coventry-city
-🟢 Successfully processed: Premier League [28/31]
-🟡 Visiting detail page [30/31]: https://pogo.pk/events/leeds-united-vs-bournemouth
 🟢 Successfully processed: United Rugby [18/31]
+🟡 Visiting detail page [29/31]: https://pogo.pk/events/sunderland-vs-coventry-city
+🟢 Successfully processed: Premier League [27/31]
+🟡 Visiting detail page [30/31]: https://pogo.pk/events/leeds-united-vs-bournemouth
+🟢 Successfully processed: Premier League [28/31]
 🟡 Visiting detail page [31/31]: https://pogo.pk/events/brentford-vs-nottm-forest
 🟢 Successfully processed: Premier League [29/31]
 🟢 Successfully processed: Premier League [30/31]

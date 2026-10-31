@@ -101,71 +101,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Brighton & Hove Albion",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brighton-vs-man-city",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Hull City",
-        "team2Title": "Ipswich Town",
-        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hull-city-vs-ipswich-town",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Sunderland",
-        "team2Title": "Coventry City",
-        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sunderland-vs-coventry-city",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Leeds United",
-        "team2Title": "AFC Bournemouth",
-        "team1Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/leeds-united-vs-bournemouth",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Brentford",
-        "team2Title": "Nottingham Forest",
-        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brentford-vs-nottm-forest",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brentford-vs-nottm-forest/3291"
-            }
-        ]
-    },
-    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-31 18:45:00",
         "team1Title": "Ulster",
@@ -373,6 +308,92 @@
                 "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3299"
             }
         ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Brighton & Hove Albion",
+        "team2Title": "Manchester City",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brighton-vs-man-city",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Hull City",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hull-city-vs-ipswich-town",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Sunderland",
+        "team2Title": "Coventry City",
+        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sunderland-vs-coventry-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sunderland-vs-coventry-city/3300"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/sunderland-vs-coventry-city/3301"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Leeds United",
+        "team2Title": "AFC Bournemouth",
+        "team1Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/leeds-united-vs-bournemouth",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Brentford",
+        "team2Title": "Nottingham Forest",
+        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brentford-vs-nottm-forest",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brentford-vs-nottm-forest/3291"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Crystal Palace",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/tottenham-hotspur-vs-crystal-palace",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premiership Rugby",

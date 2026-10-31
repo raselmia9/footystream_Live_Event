@@ -3,15 +3,15 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 25
-🟡 Visiting detail page [2/25]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [1/25]: https://pogo.pk/events/barcelona-vs-alaves
+🟡 Visiting detail page [2/25]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/25]: https://pogo.pk/events/motogp-malaysian-grand-prix
-🟢 Successfully processed: PGA Tour [2/25]
-🟡 Visiting detail page [4/25]: https://pogo.pk/events/f1-mexican-grand-prix
 🟢 Successfully processed: MotoGP [3/25]
+🟡 Visiting detail page [4/25]: https://pogo.pk/events/f1-mexican-grand-prix
 🟢 Successfully processed: LaLiga [1/25]
-🟡 Visiting detail page [6/25]: https://pogo.pk/events/sharks-vs-munster
 🟡 Visiting detail page [5/25]: https://pogo.pk/events/roma-vs-udinese
+🟢 Successfully processed: PGA Tour [2/25]
+🟡 Visiting detail page [6/25]: https://pogo.pk/events/sharks-vs-munster
 🟢 Successfully processed: United Rugby [6/25]
 🟡 Visiting detail page [7/25]: https://pogo.pk/events/tottenham-hotspur-vs-crystal-palace
 🟢 Successfully processed: Formula 1 [4/25]

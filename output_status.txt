@@ -6,15 +6,15 @@
 🟡 Visiting detail page [2/23]: https://pogo.pk/events/motogp-malaysian-grand-prix
 🟡 Visiting detail page [3/23]: https://pogo.pk/events/f1-mexican-grand-prix
 🟡 Visiting detail page [1/23]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: MotoGP [2/23]
 🟢 Successfully processed: PGA Tour [1/23]
+🟢 Successfully processed: MotoGP [2/23]
 🟡 Visiting detail page [4/23]: https://pogo.pk/events/chelsea-vs-manchester-united
 🟡 Visiting detail page [5/23]: https://pogo.pk/events/brighton-vs-man-city
 🟢 Successfully processed: Formula 1 [3/23]
 🟡 Visiting detail page [6/23]: https://pogo.pk/events/hull-city-vs-ipswich-town
+🟢 Successfully processed: Premier League [5/23]
 🟢 Successfully processed: Premier League [4/23]
 🟡 Visiting detail page [7/23]: https://pogo.pk/events/sunderland-vs-coventry-city
-🟢 Successfully processed: Premier League [5/23]
 🟡 Visiting detail page [8/23]: https://pogo.pk/events/leeds-united-vs-bournemouth
 🟢 Successfully processed: Premier League [6/23]
 🟡 Visiting detail page [9/23]: https://pogo.pk/events/brentford-vs-nottm-forest
@@ -25,8 +25,8 @@
 🟢 Successfully processed: Premier League [9/23]
 🟡 Visiting detail page [12/23]: https://pogo.pk/events/edinburgh-vs-benetton-treviso
 🟢 Successfully processed: United Rugby [10/23]
-🟡 Visiting detail page [13/23]: https://pogo.pk/events/sharks-vs-munster
 🟢 Successfully processed: United Rugby [11/23]
+🟡 Visiting detail page [13/23]: https://pogo.pk/events/sharks-vs-munster
 🟡 Visiting detail page [14/23]: https://pogo.pk/events/dragons-vs-zebre
 🟢 Successfully processed: United Rugby [12/23]
 🟡 Visiting detail page [15/23]: https://pogo.pk/events/cardiff-rugby-vs-ospreys

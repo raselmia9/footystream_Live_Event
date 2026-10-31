@@ -93,119 +93,6 @@
     },
     {
         "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "The Sharks",
-        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sharks-vs-munster",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Tottenham Hotspur",
-        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/tottenham-hotspur-vs-crystal-palace",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3310"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3311"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3312"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Betis",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-malaga",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-betis-vs-malaga/3317"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-betis-vs-malaga/3318"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayern München",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-borussia-dortmund",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-borussia-dortmund/3292"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-borussia-dortmund/3293"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Northampton Saints",
-        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/northampton-vs-gloucester",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Dragons",
-        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/dragons-vs-zebre",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/dragons-vs-zebre/3265"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
         "matchTime": "2026-11-01 01:45:00",
         "team1Title": "Cardiff Blues",
         "team2Title": "Ospreys",
@@ -239,52 +126,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3299"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 17:30:00",
-        "team1Title": "Como",
-        "team2Title": "Venezia",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/como-vs-venezia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/como-vs-venezia/3320"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 23:00:00",
-        "team1Title": "Lecce",
-        "team2Title": "Genoa",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lecce-vs-genoa",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-02 01:45:00",
-        "team1Title": "Napoli",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/napoli-vs-juventus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/napoli-vs-juventus/3319"
             }
         ]
     },
@@ -356,6 +197,52 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/renato-moicano-vs-tom-nolan/3288"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 17:30:00",
+        "team1Title": "Como",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-venezia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/como-vs-venezia/3320"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 23:00:00",
+        "team1Title": "Lecce",
+        "team2Title": "Genoa",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lecce-vs-genoa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-02 01:45:00",
+        "team1Title": "Napoli",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-juventus",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/napoli-vs-juventus/3319"
             }
         ]
     },

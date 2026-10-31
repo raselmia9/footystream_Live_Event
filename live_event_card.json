@@ -84,23 +84,6 @@
         ]
     },
     {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-10-31 17:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Snooker International Championship",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/snooker-international-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/snooker-international-championship/3287"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-31 20:00:00",
         "team1Title": "Bologna",

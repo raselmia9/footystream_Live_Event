@@ -9,7 +9,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/brighton-vs-man-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brighton-vs-man-city/3303"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/brighton-vs-man-city/3304"
+            }
+        ]
     },
     {
         "eventTitle": "PGA Tour",
@@ -149,42 +158,6 @@
                 "url": "https://playerdee.top/alpha/atletico-madrid-vs-levante/3295"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 21:15:00",
-        "team1Title": "Celta de Vigo",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/celta-vigo-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Málaga",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-malaga",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Deportivo Alavés",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Serie A",
@@ -331,7 +304,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/hull-city-vs-ipswich-town",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hull-city-vs-ipswich-town/3305"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -479,6 +457,42 @@
                 "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 21:15:00",
+        "team1Title": "Celta de Vigo",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/celta-vigo-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-betis-vs-malaga",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Deportivo Alavés",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",

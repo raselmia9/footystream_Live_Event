@@ -84,23 +84,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-10-31 20:00:00",
-        "team1Title": "Bologna",
-        "team2Title": "Monza",
-        "team1Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bologna-vs-monza",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bologna-vs-monza/3296"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-31 20:30:00",
         "team1Title": "Premier League Goal Rush",

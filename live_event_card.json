@@ -65,8 +65,8 @@
     {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-01 02:30:00",
-        "team1Title": "Porto",
-        "team2Title": "Estoril",
+        "team1Title": "Event Ended",
+        "team2Title": "Porto",
         "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
         "isHot": true,

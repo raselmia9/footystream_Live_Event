@@ -4,17 +4,17 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/motogp-malaysian-grand-prix
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/f1-mexican-grand-prix
-🟢 Successfully processed: Formula 1 [3/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/porto-vs-estoril
-🟢 Successfully processed: MotoGP [2/14]
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/renato-moicano-vs-tom-nolan
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: PGA Tour [1/14]
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/porto-vs-estoril
+🟢 Successfully processed: Formula 1 [3/14]
+🟡 Visiting detail page [5/14]: https://pogo.pk/events/renato-moicano-vs-tom-nolan
+🟢 Successfully processed: MotoGP [2/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/como-vs-venezia
-🟢 Successfully processed: UFC [5/14]
-🟡 Visiting detail page [7/14]: https://pogo.pk/events/lecce-vs-genoa
 🟢 Successfully processed: Liga Portugal [4/14]
+🟡 Visiting detail page [7/14]: https://pogo.pk/events/lecce-vs-genoa
+🟢 Successfully processed: UFC [5/14]
 🟡 Visiting detail page [8/14]: https://pogo.pk/events/napoli-vs-juventus
 🟢 Successfully processed: Serie A [6/14]
 🟡 Visiting detail page [9/14]: https://pogo.pk/events/getafe-vs-sevilla
@@ -24,9 +24,9 @@
 🟡 Visiting detail page [11/14]: https://pogo.pk/events/valencia-vs-elche
 🟢 Successfully processed: LaLiga [10/14]
 🟡 Visiting detail page [12/14]: https://pogo.pk/events/real-sociedad-vs-athletic-club
-🟢 Successfully processed: LaLiga [11/14]
-🟡 Visiting detail page [13/14]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
 🟢 Successfully processed: LaLiga [12/14]
+🟡 Visiting detail page [13/14]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
+🟢 Successfully processed: LaLiga [11/14]
 🟡 Visiting detail page [14/14]: https://pogo.pk/events/arsenal-vs-liverpool
 🟢 Successfully processed: Premier League [14/14]
 🟢 Successfully processed: Serie A [8/14]

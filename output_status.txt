@@ -4,14 +4,14 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 25
 🟡 Visiting detail page [2/25]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [3/25]: https://pogo.pk/events/motogp-malaysian-grand-prix
 🟡 Visiting detail page [1/25]: https://pogo.pk/events/barcelona-vs-alaves
-🟢 Successfully processed: MotoGP [3/25]
-🟡 Visiting detail page [4/25]: https://pogo.pk/events/f1-mexican-grand-prix
+🟡 Visiting detail page [3/25]: https://pogo.pk/events/motogp-malaysian-grand-prix
 🟢 Successfully processed: PGA Tour [2/25]
-🟡 Visiting detail page [5/25]: https://pogo.pk/events/roma-vs-udinese
+🟡 Visiting detail page [4/25]: https://pogo.pk/events/f1-mexican-grand-prix
+🟢 Successfully processed: MotoGP [3/25]
 🟢 Successfully processed: LaLiga [1/25]
 🟡 Visiting detail page [6/25]: https://pogo.pk/events/sharks-vs-munster
+🟡 Visiting detail page [5/25]: https://pogo.pk/events/roma-vs-udinese
 🟢 Successfully processed: United Rugby [6/25]
 🟡 Visiting detail page [7/25]: https://pogo.pk/events/tottenham-hotspur-vs-crystal-palace
 🟢 Successfully processed: Formula 1 [4/25]
@@ -26,9 +26,9 @@
 🟡 Visiting detail page [12/25]: https://pogo.pk/events/cardiff-rugby-vs-ospreys
 🟢 Successfully processed: Premiership Rugby [10/25]
 🟡 Visiting detail page [13/25]: https://pogo.pk/events/ac-milan-vs-inter-milan-live
-🟢 Successfully processed: United Rugby [12/25]
-🟡 Visiting detail page [14/25]: https://pogo.pk/events/como-vs-venezia
 🟢 Successfully processed: United Rugby [11/25]
+🟡 Visiting detail page [14/25]: https://pogo.pk/events/como-vs-venezia
+🟢 Successfully processed: United Rugby [12/25]
 🟡 Visiting detail page [15/25]: https://pogo.pk/events/lecce-vs-genoa
 🟢 Successfully processed: Serie A [15/25]
 🟡 Visiting detail page [16/25]: https://pogo.pk/events/napoli-vs-juventus
@@ -36,9 +36,9 @@
 🟡 Visiting detail page [17/25]: https://pogo.pk/events/aston-villa-vs-fulham
 🟢 Successfully processed: Serie A [14/25]
 🟡 Visiting detail page [18/25]: https://pogo.pk/events/arsenal-vs-liverpool
-🟢 Successfully processed: Serie A [16/25]
-🟡 Visiting detail page [19/25]: https://pogo.pk/events/porto-vs-estoril
 🟢 Successfully processed: Premier League [18/25]
+🟡 Visiting detail page [19/25]: https://pogo.pk/events/porto-vs-estoril
+🟢 Successfully processed: Serie A [16/25]
 🟡 Visiting detail page [20/25]: https://pogo.pk/events/renato-moicano-vs-tom-nolan
 🟢 Successfully processed: Premier League [17/25]
 🟡 Visiting detail page [21/25]: https://pogo.pk/events/getafe-vs-sevilla
@@ -48,9 +48,9 @@
 🟡 Visiting detail page [23/25]: https://pogo.pk/events/valencia-vs-elche
 🟢 Successfully processed: LaLiga [23/25]
 🟡 Visiting detail page [24/25]: https://pogo.pk/events/real-sociedad-vs-athletic-club
-🟢 Successfully processed: Liga Portugal [19/25]
 🟢 Successfully processed: LaLiga [24/25]
 🟡 Visiting detail page [25/25]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
+🟢 Successfully processed: Liga Portugal [19/25]
 🟢 Successfully processed: UFC [20/25]
 🟢 Successfully processed: EFL [25/25]
 🟢 Browser closed successfully.

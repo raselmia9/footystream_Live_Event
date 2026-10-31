@@ -3,8 +3,8 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 29
-🟡 Visiting detail page [2/29]: https://pogo.pk/events/motogp-malaysian-grand-prix
 🟡 Visiting detail page [3/29]: https://pogo.pk/events/f1-mexican-grand-prix
+🟡 Visiting detail page [2/29]: https://pogo.pk/events/motogp-malaysian-grand-prix
 🟡 Visiting detail page [1/29]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: MotoGP [2/29]
 🟡 Visiting detail page [4/29]: https://pogo.pk/events/snooker-international-championship
@@ -41,8 +41,8 @@
 🟢 Successfully processed: LaLiga [18/29]
 🟡 Visiting detail page [20/29]: https://pogo.pk/events/barcelona-vs-alaves
 🟢 Successfully processed: LaLiga [19/29]
-🟡 Visiting detail page [21/29]: https://pogo.pk/events/bologna-vs-monza
 🟢 Successfully processed: LaLiga [20/29]
+🟡 Visiting detail page [21/29]: https://pogo.pk/events/bologna-vs-monza
 🟡 Visiting detail page [22/29]: https://pogo.pk/events/roma-vs-udinese
 🟢 Successfully processed: LaLiga [17/29]
 🟡 Visiting detail page [23/29]: https://pogo.pk/events/ac-milan-vs-inter-milan-live
@@ -52,9 +52,9 @@
 🟡 Visiting detail page [25/29]: https://pogo.pk/events/exeter-chiefs-vs-harlequins
 🟢 Successfully processed: Serie A [23/29]
 🟡 Visiting detail page [26/29]: https://pogo.pk/events/sale-sharks-vs-bath
-🟢 Successfully processed: Premiership Rugby [24/29]
-🟡 Visiting detail page [27/29]: https://pogo.pk/events/northampton-vs-gloucester
 🟢 Successfully processed: Premiership Rugby [25/29]
+🟡 Visiting detail page [27/29]: https://pogo.pk/events/northampton-vs-gloucester
+🟢 Successfully processed: Premiership Rugby [24/29]
 🟡 Visiting detail page [28/29]: https://pogo.pk/events/bayern-munchen-vs-borussia-dortmund
 🟢 Successfully processed: Premiership Rugby [26/29]
 🟡 Visiting detail page [29/29]: https://pogo.pk/events/renato-moicano-vs-tom-nolan

@@ -63,6 +63,23 @@
         ]
     },
     {
+        "eventTitle": "Snooker",
+        "matchTime": "2026-10-31 17:30:00",
+        "team1Title": "Snooker International Championship",
+        "team2Title": "Snooker",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/snooker-international-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/snooker-international-championship/3287"
+            }
+        ]
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-31 18:30:00",
         "team1Title": "Chelsea",
@@ -72,7 +89,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-manchester-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chelsea-vs-manchester-united/3289"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -344,6 +366,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270"
+            }
+        ]
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-11-01 04:00:00",
+        "team1Title": "Renato Moicano",
+        "team2Title": "Tom Nolan",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/renato-moicano-vs-tom-nolan",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/renato-moicano-vs-tom-nolan/3288"
             }
         ]
     }

@@ -1,31 +1,6 @@
 [
     {
         "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 18:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Chelsea",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-manchester-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/chelsea-vs-manchester-united/3289"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/chelsea-vs-manchester-united/3290"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/chelsea-vs-manchester-united/3308"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
         "matchTime": "2026-10-31 21:00:00",
         "team1Title": "Brighton & Hove Albion",
         "team2Title": "Manchester City",
@@ -128,8 +103,8 @@
     {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-31 18:45:00",
-        "team1Title": "Ulster",
-        "team2Title": "Stormers",
+        "team1Title": "Event Ended",
+        "team2Title": "Ulster",
         "team1Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
         "isHot": true,

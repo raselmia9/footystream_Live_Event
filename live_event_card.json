@@ -21,6 +21,35 @@
         ]
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Deportivo Alavés",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-alaves/3323"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-alaves/3324"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-alaves/3325"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/barcelona-vs-alaves/3326"
+            }
+        ]
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-29 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -283,73 +312,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 01:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Inter Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-inter-milan-live",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3298"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3299"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 17:30:00",
-        "team1Title": "Como",
-        "team2Title": "Venezia",
-        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/como-vs-venezia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/como-vs-venezia/3320"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 23:00:00",
-        "team1Title": "Lecce",
-        "team2Title": "Genoa",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lecce-vs-genoa",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-02 01:45:00",
-        "team1Title": "Napoli",
-        "team2Title": "Juventus",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/napoli-vs-juventus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/napoli-vs-juventus/3319"
-            }
-        ]
-    },
-    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-31 23:30:00",
         "team1Title": "The Sharks",
@@ -480,18 +442,6 @@
     },
     {
         "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Deportivo Alavés",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
         "matchTime": "2026-11-01 19:00:00",
         "team1Title": "Getafe",
         "team2Title": "Sevilla",
@@ -573,6 +523,73 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 01:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Inter Milan",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ac-milan-vs-inter-milan-live",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3298"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3299"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 17:30:00",
+        "team1Title": "Como",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-venezia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/como-vs-venezia/3320"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 23:00:00",
+        "team1Title": "Lecce",
+        "team2Title": "Genoa",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lecce-vs-genoa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-02 01:45:00",
+        "team1Title": "Napoli",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-juventus",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/napoli-vs-juventus/3319"
             }
         ]
     },

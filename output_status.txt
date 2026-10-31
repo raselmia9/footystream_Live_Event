@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 25
+🟡 Visiting detail page [1/25]: https://pogo.pk/events/barcelona-vs-alaves
 🟡 Visiting detail page [2/25]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/25]: https://pogo.pk/events/motogp-malaysian-grand-prix
-🟡 Visiting detail page [1/25]: https://pogo.pk/events/barcelona-vs-alaves
 🟢 Successfully processed: MotoGP [3/25]
-🟡 Visiting detail page [4/25]: https://pogo.pk/events/f1-mexican-grand-prix
 🟢 Successfully processed: PGA Tour [2/25]
+🟡 Visiting detail page [4/25]: https://pogo.pk/events/f1-mexican-grand-prix
 🟡 Visiting detail page [5/25]: https://pogo.pk/events/roma-vs-udinese
 🟢 Successfully processed: LaLiga [1/25]
 🟡 Visiting detail page [6/25]: https://pogo.pk/events/sharks-vs-munster
 🟢 Successfully processed: United Rugby [6/25]
 🟡 Visiting detail page [7/25]: https://pogo.pk/events/tottenham-hotspur-vs-crystal-palace
 🟢 Successfully processed: Serie A [5/25]
-🟡 Visiting detail page [8/25]: https://pogo.pk/events/real-betis-vs-malaga
 🟢 Successfully processed: Formula 1 [4/25]
+🟡 Visiting detail page [8/25]: https://pogo.pk/events/real-betis-vs-malaga
 🟡 Visiting detail page [9/25]: https://pogo.pk/events/bayern-munchen-vs-borussia-dortmund
 🟢 Successfully processed: Premier League [7/25]
 🟡 Visiting detail page [10/25]: https://pogo.pk/events/northampton-vs-gloucester
@@ -27,9 +27,9 @@
 🟢 Successfully processed: Premiership Rugby [10/25]
 🟡 Visiting detail page [13/25]: https://pogo.pk/events/ac-milan-vs-inter-milan-live
 🟢 Successfully processed: United Rugby [11/25]
-🟡 Visiting detail page [14/25]: https://pogo.pk/events/como-vs-venezia
 🟢 Successfully processed: United Rugby [12/25]
 🟡 Visiting detail page [15/25]: https://pogo.pk/events/lecce-vs-genoa
+🟡 Visiting detail page [14/25]: https://pogo.pk/events/como-vs-venezia
 🟢 Successfully processed: Serie A [15/25]
 🟡 Visiting detail page [16/25]: https://pogo.pk/events/napoli-vs-juventus
 🟢 Successfully processed: Serie A [13/25]

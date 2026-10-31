@@ -94,8 +94,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-10-31 23:00:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Udinese",
+        "team1Title": "Event Ended",
+        "team2Title": "AS Roma",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "isHot": true,

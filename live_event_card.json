@@ -84,23 +84,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 20:30:00",
-        "team1Title": "Premier League Goal Rush",
-        "team2Title": "Premier League",
-        "team1Logo": "https://cdn.img4every1.org/league/epl-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/epl-streams/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/premier-league-goal-rush",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/premier-league-goal-rush/3309"
-            }
-        ]
-    },
-    {
         "eventTitle": "United Rugby",
         "matchTime": "2026-10-31 21:00:00",
         "team1Title": "Bulls",

@@ -93,6 +93,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/chelsea-vs-manchester-united/3289"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/chelsea-vs-manchester-united/3290"
             }
         ]
     },
@@ -154,7 +158,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/brentford-vs-nottm-forest",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brentford-vs-nottm-forest/3291"
+            }
+        ]
     },
     {
         "eventTitle": "United Rugby",
@@ -263,7 +272,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/atletico-madrid-vs-levante",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/atletico-madrid-vs-levante/3294"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/atletico-madrid-vs-levante/3295"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -366,6 +384,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Borussia Dortmund",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-borussia-dortmund",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-borussia-dortmund/3292"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-borussia-dortmund/3293"
             }
         ]
     },

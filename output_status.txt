@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 40
-🟡 Visiting detail page [3/40]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/40]: https://pogo.pk/events/brighton-vs-man-city
 🟡 Visiting detail page [1/40]: https://pogo.pk/events/chelsea-vs-manchester-united
-🟢 Successfully processed: Premier League [2/40]
-🟢 Successfully processed: Premier League [1/40]
-🟡 Visiting detail page [5/40]: https://pogo.pk/events/f1-mexican-grand-prix
-🟡 Visiting detail page [4/40]: https://pogo.pk/events/motogp-malaysian-grand-prix
+🟡 Visiting detail page [3/40]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: PGA Tour [3/40]
+🟡 Visiting detail page [4/40]: https://pogo.pk/events/motogp-malaysian-grand-prix
+🟢 Successfully processed: Premier League [1/40]
+🟢 Successfully processed: Premier League [2/40]
+🟡 Visiting detail page [5/40]: https://pogo.pk/events/f1-mexican-grand-prix
 🟡 Visiting detail page [6/40]: https://pogo.pk/events/snooker-international-championship
-🟢 Successfully processed: Formula 1 [5/40]
-🟡 Visiting detail page [7/40]: https://pogo.pk/events/ulster-vs-stormers
 🟢 Successfully processed: MotoGP [4/40]
-🟡 Visiting detail page [8/40]: https://pogo.pk/events/atletico-madrid-vs-levante
+🟡 Visiting detail page [7/40]: https://pogo.pk/events/ulster-vs-stormers
 🟢 Successfully processed: Snooker [6/40]
+🟡 Visiting detail page [8/40]: https://pogo.pk/events/atletico-madrid-vs-levante
+🟢 Successfully processed: Formula 1 [5/40]
 🟡 Visiting detail page [9/40]: https://pogo.pk/events/bologna-vs-monza
 🟢 Successfully processed: United Rugby [7/40]
 🟡 Visiting detail page [10/40]: https://pogo.pk/events/premier-league-goal-rush
@@ -28,9 +28,9 @@
 🟡 Visiting detail page [13/40]: https://pogo.pk/events/sharks-vs-munster
 🟢 Successfully processed: United Rugby [11/40]
 🟡 Visiting detail page [14/40]: https://pogo.pk/events/dragons-vs-zebre
-🟢 Successfully processed: United Rugby [13/40]
-🟡 Visiting detail page [15/40]: https://pogo.pk/events/cardiff-rugby-vs-ospreys
 🟢 Successfully processed: United Rugby [12/40]
+🟡 Visiting detail page [15/40]: https://pogo.pk/events/cardiff-rugby-vs-ospreys
+🟢 Successfully processed: United Rugby [13/40]
 🟡 Visiting detail page [16/40]: https://pogo.pk/events/hull-city-vs-ipswich-town
 🟢 Successfully processed: United Rugby [14/40]
 🟡 Visiting detail page [17/40]: https://pogo.pk/events/sunderland-vs-coventry-city
@@ -62,25 +62,25 @@
 🟡 Visiting detail page [30/40]: https://pogo.pk/events/real-madrid-vs-racing-santander
 🟢 Successfully processed: LaLiga [30/40]
 🟡 Visiting detail page [31/40]: https://pogo.pk/events/valencia-vs-elche
-🟢 Successfully processed: LaLiga [26/40]
-🟡 Visiting detail page [32/40]: https://pogo.pk/events/roma-vs-udinese
 🟢 Successfully processed: LaLiga [31/40]
+🟡 Visiting detail page [32/40]: https://pogo.pk/events/roma-vs-udinese
+🟢 Successfully processed: LaLiga [26/40]
 🟡 Visiting detail page [33/40]: https://pogo.pk/events/ac-milan-vs-inter-milan-live
 🟢 Successfully processed: LaLiga [27/40]
 🟡 Visiting detail page [34/40]: https://pogo.pk/events/como-vs-venezia
 🟢 Successfully processed: Serie A [32/40]
 🟡 Visiting detail page [35/40]: https://pogo.pk/events/lecce-vs-genoa
-🟢 Successfully processed: Serie A [33/40]
-🟡 Visiting detail page [36/40]: https://pogo.pk/events/napoli-vs-juventus
 🟢 Successfully processed: Serie A [35/40]
+🟡 Visiting detail page [36/40]: https://pogo.pk/events/napoli-vs-juventus
+🟢 Successfully processed: Serie A [33/40]
 🟡 Visiting detail page [37/40]: https://pogo.pk/events/bayern-munchen-vs-borussia-dortmund
 🟢 Successfully processed: Serie A [34/40]
 🟡 Visiting detail page [38/40]: https://pogo.pk/events/porto-vs-estoril
-🟢 Successfully processed: Bundesliga [37/40]
-🟡 Visiting detail page [39/40]: https://pogo.pk/events/renato-moicano-vs-tom-nolan
-🟢 Successfully processed: Liga Portugal [38/40]
-🟡 Visiting detail page [40/40]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
 🟢 Successfully processed: Serie A [36/40]
+🟡 Visiting detail page [39/40]: https://pogo.pk/events/renato-moicano-vs-tom-nolan
+🟢 Successfully processed: Bundesliga [37/40]
+🟡 Visiting detail page [40/40]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
+🟢 Successfully processed: Liga Portugal [38/40]
 🟢 Successfully processed: UFC [39/40]
 🟢 Successfully processed: EFL [40/40]
 🟢 Browser closed successfully.

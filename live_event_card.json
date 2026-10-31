@@ -473,7 +473,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-betis-vs-malaga",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-betis-vs-malaga/3317"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-betis-vs-malaga/3318"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -485,6 +494,42 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 19:00:00",
+        "team1Title": "Getafe",
+        "team2Title": "Sevilla",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/getafe-vs-sevilla",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 21:15:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Racing Santander",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-racing-santander",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 23:30:00",
+        "team1Title": "Valencia",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/valencia-vs-elche",
         "multiWatchPageLink": []
     },
     {
@@ -526,6 +571,52 @@
         ]
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 17:30:00",
+        "team1Title": "Como",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-venezia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/como-vs-venezia/3320"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 23:00:00",
+        "team1Title": "Lecce",
+        "team2Title": "Genoa",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lecce-vs-genoa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-02 01:45:00",
+        "team1Title": "Napoli",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-juventus",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/napoli-vs-juventus/3319"
+            }
+        ]
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-31 23:30:00",
         "team1Title": "Bayern München",
@@ -543,6 +634,23 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/bayern-munchen-vs-borussia-dortmund/3293"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-01 02:30:00",
+        "team1Title": "Porto",
+        "team2Title": "Estoril",
+        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estoril/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/porto-vs-estoril",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/porto-vs-estoril/3316"
             }
         ]
     },

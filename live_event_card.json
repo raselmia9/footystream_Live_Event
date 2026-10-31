@@ -92,44 +92,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-11-01 01:45:00",
-        "team1Title": "Cardiff Blues",
-        "team2Title": "Ospreys",
-        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cardiff-rugby-vs-ospreys",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/cardiff-rugby-vs-ospreys/3266"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-01 01:45:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Inter Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-inter-milan-live",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3298"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3299"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-01 02:00:00",
         "team1Title": "Aston Villa",

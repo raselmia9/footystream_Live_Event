@@ -101,27 +101,10 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 18:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Ulster",
-        "team1Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ulster-vs-stormers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ulster-vs-stormers/3262"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-10-31 19:00:00",
-        "team1Title": "Atlético Madrid",
-        "team2Title": "Levante",
+        "team1Title": "Event Ended",
+        "team2Title": "Atlético Madrid",
         "team1Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "isHot": true,
@@ -190,69 +173,6 @@
         ]
     },
     {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Edinburgh",
-        "team2Title": "Benetton",
-        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/edinburgh-vs-benetton-treviso",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/edinburgh-vs-benetton-treviso/3264"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "The Sharks",
-        "team2Title": "Munster",
-        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sharks-vs-munster",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Dragons",
-        "team2Title": "Zebre",
-        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/dragons-vs-zebre",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/dragons-vs-zebre/3265"
-            }
-        ]
-    },
-    {
-        "eventTitle": "United Rugby",
-        "matchTime": "2026-11-01 01:45:00",
-        "team1Title": "Cardiff Blues",
-        "team2Title": "Ospreys",
-        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cardiff-rugby-vs-ospreys",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/cardiff-rugby-vs-ospreys/3266"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-10-31 21:00:00",
         "team1Title": "Hull City",
@@ -287,6 +207,57 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/sunderland-vs-coventry-city/3301"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Newcastle Falcons",
+        "team2Title": "Saracens",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/newcastle-falcons-vs-saracens",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/newcastle-falcons-vs-saracens/3268"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Exeter Chiefs",
+        "team2Title": "Harlequins",
+        "team1Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/exeter-chiefs-vs-harlequins",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/exeter-chiefs-vs-harlequins/3267"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 21:00:00",
+        "team1Title": "Edinburgh",
+        "team2Title": "Benetton",
+        "team1Logo": "https://cdn.img4every1.org/team/edinburgh/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/edinburgh-vs-benetton-treviso",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/edinburgh-vs-benetton-treviso/3264"
             }
         ]
     },
@@ -329,90 +300,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Tottenham Hotspur",
-        "team2Title": "Crystal Palace",
-        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/tottenham-hotspur-vs-crystal-palace",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3310"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3311"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3312"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-01 02:00:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Fulham",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/aston-villa-vs-fulham",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3313"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3314"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3315"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Newcastle Falcons",
-        "team2Title": "Saracens",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/newcastle-falcons-vs-saracens",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/newcastle-falcons-vs-saracens/3268"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 21:00:00",
-        "team1Title": "Exeter Chiefs",
-        "team2Title": "Harlequins",
-        "team1Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/exeter-chiefs-vs-harlequins",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/exeter-chiefs-vs-harlequins/3267"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-31 21:05:00",
         "team1Title": "Sale Sharks",
@@ -426,23 +313,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/sale-sharks-vs-bath/3269"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premiership Rugby",
-        "matchTime": "2026-10-31 23:30:00",
-        "team1Title": "Northampton Saints",
-        "team2Title": "Gloucester Rugby",
-        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/northampton-vs-gloucester",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270"
             }
         ]
     },
@@ -621,6 +491,114 @@
         ]
     },
     {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "The Sharks",
+        "team2Title": "Munster",
+        "team1Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/munster/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sharks-vs-munster",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Dragons",
+        "team2Title": "Zebre",
+        "team1Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/dragons-vs-zebre",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/dragons-vs-zebre/3265"
+            }
+        ]
+    },
+    {
+        "eventTitle": "United Rugby",
+        "matchTime": "2026-11-01 01:45:00",
+        "team1Title": "Cardiff Blues",
+        "team2Title": "Ospreys",
+        "team1Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cardiff-rugby-vs-ospreys",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/cardiff-rugby-vs-ospreys/3266"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Crystal Palace",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/tottenham-hotspur-vs-crystal-palace",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3310"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3311"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-crystal-palace/3312"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-01 02:00:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Fulham",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/aston-villa-vs-fulham",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3313"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3314"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3315"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-01 22:30:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Liverpool",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-liverpool",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-10-31 23:30:00",
         "team1Title": "Bayern München",
@@ -638,6 +616,23 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/bayern-munchen-vs-borussia-dortmund/3293"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-10-31 23:30:00",
+        "team1Title": "Northampton Saints",
+        "team2Title": "Gloucester Rugby",
+        "team1Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/northampton-vs-gloucester",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/northampton-vs-gloucester/3270"
             }
         ]
     },

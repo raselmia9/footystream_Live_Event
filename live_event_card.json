@@ -320,6 +320,61 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-31 20:00:00",
+        "team1Title": "Bologna",
+        "team2Title": "Monza",
+        "team1Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bologna-vs-monza",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bologna-vs-monza/3296"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-10-31 23:00:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-udinese",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-udinese/3297"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-01 01:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Inter Milan",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ac-milan-vs-inter-milan-live",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3298"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-inter-milan-live/3299"
+            }
+        ]
+    },
+    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-10-31 21:00:00",
         "team1Title": "Newcastle Falcons",

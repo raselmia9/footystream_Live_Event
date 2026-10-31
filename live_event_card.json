@@ -155,18 +155,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-01 22:30:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Liverpool",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/arsenal-vs-liverpool",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-01 02:30:00",
         "team1Title": "Porto",
@@ -310,5 +298,17 @@
                 "url": "https://playerdee.top/alpha/sheffield-wednesday-vs-blackpool/3321"
             }
         ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-01 22:30:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Liverpool",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-liverpool",
+        "multiWatchPageLink": []
     }
 ]

@@ -1,34 +1,5 @@
 [
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Deportivo Alavés",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-alaves",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/barcelona-vs-alaves/3323"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/barcelona-vs-alaves/3324"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/barcelona-vs-alaves/3325"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/barcelona-vs-alaves/3326"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-10-29 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -88,31 +59,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/f1-mexican-grand-prix/3258"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-01 02:00:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Fulham",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/aston-villa-vs-fulham",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3313"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3314"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/aston-villa-vs-fulham/3315"
             }
         ]
     },

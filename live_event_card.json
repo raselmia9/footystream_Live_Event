@@ -48,8 +48,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-02 01:45:00",
-        "team1Title": "Napoli",
-        "team2Title": "Juventus",
+        "team1Title": "Event Ended",
+        "team2Title": "Napoli",
         "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
         "isHot": true,

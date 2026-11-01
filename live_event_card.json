@@ -48,8 +48,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-01 23:00:00",
-        "team1Title": "Lecce",
-        "team2Title": "Genoa",
+        "team1Title": "Event Ended",
+        "team2Title": "Lecce",
         "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
         "isHot": true,

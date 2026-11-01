@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 11
 🟡 Visiting detail page [2/11]: https://pogo.pk/events/f1-mexican-grand-prix
-🟡 Visiting detail page [1/11]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/11]: https://pogo.pk/events/como-vs-venezia
+🟡 Visiting detail page [1/11]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: Serie A [3/11]
 🟡 Visiting detail page [4/11]: https://pogo.pk/events/lecce-vs-genoa
-🟢 Successfully processed: Formula 1 [2/11]
-🟡 Visiting detail page [5/11]: https://pogo.pk/events/napoli-vs-juventus
 🟢 Successfully processed: PGA Tour [1/11]
+🟡 Visiting detail page [5/11]: https://pogo.pk/events/napoli-vs-juventus
+🟢 Successfully processed: Formula 1 [2/11]
 🟡 Visiting detail page [6/11]: https://pogo.pk/events/getafe-vs-sevilla
 🟢 Successfully processed: Serie A [4/11]
 🟡 Visiting detail page [7/11]: https://pogo.pk/events/real-madrid-vs-racing-santander

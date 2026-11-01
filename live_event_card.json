@@ -48,8 +48,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-01 22:30:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Liverpool",
+        "team1Title": "Event Ended",
+        "team2Title": "Arsenal",
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
         "isHot": true,

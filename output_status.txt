@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 21
+🟡 Visiting detail page [2/21]: https://pogo.pk/events/f1-mexican-grand-prix
 🟡 Visiting detail page [1/21]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/21]: https://pogo.pk/events/napoli-vs-juventus
-🟡 Visiting detail page [2/21]: https://pogo.pk/events/f1-mexican-grand-prix
+🟢 Successfully processed: Formula 1 [2/21]
 🟢 Successfully processed: Serie A [3/21]
 🟡 Visiting detail page [4/21]: https://pogo.pk/events/real-sociedad-vs-athletic-club
-🟢 Successfully processed: Formula 1 [2/21]
 🟡 Visiting detail page [5/21]: https://pogo.pk/events/snooker-international-championship
 🟢 Successfully processed: PGA Tour [1/21]
 🟡 Visiting detail page [6/21]: https://pogo.pk/events/sassuolo-vs-fiorentina
@@ -20,9 +20,9 @@
 🟡 Visiting detail page [9/21]: https://pogo.pk/events/osasuna-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [9/21]
 🟡 Visiting detail page [10/21]: https://pogo.pk/events/newcastle-united-vs-everton
-🟢 Successfully processed: LaLiga [4/21]
-🟡 Visiting detail page [11/21]: https://pogo.pk/events/benfica-vs-alverca
 🟢 Successfully processed: Snooker [5/21]
+🟡 Visiting detail page [11/21]: https://pogo.pk/events/benfica-vs-alverca
+🟢 Successfully processed: LaLiga [4/21]
 🟡 Visiting detail page [12/21]: https://pogo.pk/events/gil-vicente-vs-vitoria-guimaraes
 🟢 Successfully processed: Liga Portugal [11/21]
 🟡 Visiting detail page [13/21]: https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk

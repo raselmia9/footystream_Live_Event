@@ -2,28 +2,26 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 11
-🟡 Visiting detail page [2/11]: https://pogo.pk/events/f1-mexican-grand-prix
-🟡 Visiting detail page [3/11]: https://pogo.pk/events/como-vs-venezia
-🟡 Visiting detail page [1/11]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: Serie A [3/11]
-🟢 Successfully processed: PGA Tour [1/11]
-🟡 Visiting detail page [4/11]: https://pogo.pk/events/getafe-vs-sevilla
-🟢 Successfully processed: Formula 1 [2/11]
-🟡 Visiting detail page [5/11]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
-🟡 Visiting detail page [6/11]: https://pogo.pk/events/real-madrid-vs-racing-santander
-🟢 Successfully processed: EFL [5/11]
-🟡 Visiting detail page [7/11]: https://pogo.pk/events/valencia-vs-elche
-🟢 Successfully processed: LaLiga [4/11]
-🟡 Visiting detail page [8/11]: https://pogo.pk/events/real-sociedad-vs-athletic-club
-🟢 Successfully processed: LaLiga [6/11]
-🟡 Visiting detail page [9/11]: https://pogo.pk/events/arsenal-vs-liverpool
-🟢 Successfully processed: LaLiga [7/11]
-🟡 Visiting detail page [10/11]: https://pogo.pk/events/lecce-vs-genoa
-🟢 Successfully processed: LaLiga [8/11]
-🟡 Visiting detail page [11/11]: https://pogo.pk/events/napoli-vs-juventus
-🟢 Successfully processed: Premier League [9/11]
-🟢 Successfully processed: Serie A [10/11]
-🟢 Successfully processed: Serie A [11/11]
+🟢 Total unique detail links to process in parallel: 10
+🟡 Visiting detail page [1/10]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/10]: https://pogo.pk/events/f1-mexican-grand-prix
+🟡 Visiting detail page [3/10]: https://pogo.pk/events/getafe-vs-sevilla
+🟢 Successfully processed: PGA Tour [1/10]
+🟢 Successfully processed: Formula 1 [2/10]
+🟢 Successfully processed: LaLiga [3/10]
+🟡 Visiting detail page [5/10]: https://pogo.pk/events/real-madrid-vs-racing-santander
+🟡 Visiting detail page [4/10]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
+🟡 Visiting detail page [6/10]: https://pogo.pk/events/valencia-vs-elche
+🟢 Successfully processed: EFL [4/10]
+🟡 Visiting detail page [7/10]: https://pogo.pk/events/real-sociedad-vs-athletic-club
+🟢 Successfully processed: LaLiga [5/10]
+🟢 Successfully processed: LaLiga [6/10]
+🟡 Visiting detail page [8/10]: https://pogo.pk/events/arsenal-vs-liverpool
+🟡 Visiting detail page [9/10]: https://pogo.pk/events/lecce-vs-genoa
+🟢 Successfully processed: LaLiga [7/10]
+🟡 Visiting detail page [10/10]: https://pogo.pk/events/napoli-vs-juventus
+🟢 Successfully processed: Premier League [8/10]
+🟢 Successfully processed: Serie A [9/10]
+🟢 Successfully processed: Serie A [10/10]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 11
+🟢 Process completed successfully. Total collected events: 10

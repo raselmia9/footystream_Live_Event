@@ -88,6 +88,23 @@
         ]
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-01 20:00:00",
+        "team1Title": "Sheffield Wednesday",
+        "team2Title": "Blackpool",
+        "team1Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/blackpool/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sheffield-wednesday-vs-blackpool",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sheffield-wednesday-vs-blackpool/3321"
+            }
+        ]
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-01 21:15:00",
         "team1Title": "Real Madrid",
@@ -171,23 +188,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3347"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-01 20:00:00",
-        "team1Title": "Sheffield Wednesday",
-        "team2Title": "Blackpool",
-        "team1Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/blackpool/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sheffield-wednesday-vs-blackpool",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sheffield-wednesday-vs-blackpool/3321"
             }
         ]
     },

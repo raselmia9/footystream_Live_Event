@@ -6,24 +6,24 @@
 🟡 Visiting detail page [1/11]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/11]: https://pogo.pk/events/como-vs-venezia
 🟡 Visiting detail page [2/11]: https://pogo.pk/events/f1-mexican-grand-prix
-🟢 Successfully processed: Serie A [3/11]
-🟢 Successfully processed: Formula 1 [2/11]
-🟡 Visiting detail page [4/11]: https://pogo.pk/events/lecce-vs-genoa
-🟡 Visiting detail page [5/11]: https://pogo.pk/events/napoli-vs-juventus
 🟢 Successfully processed: PGA Tour [1/11]
-🟡 Visiting detail page [6/11]: https://pogo.pk/events/getafe-vs-sevilla
-🟢 Successfully processed: Serie A [4/11]
-🟡 Visiting detail page [7/11]: https://pogo.pk/events/real-madrid-vs-racing-santander
+🟡 Visiting detail page [4/11]: https://pogo.pk/events/getafe-vs-sevilla
+🟢 Successfully processed: Serie A [3/11]
+🟡 Visiting detail page [5/11]: https://pogo.pk/events/real-madrid-vs-racing-santander
+🟢 Successfully processed: Formula 1 [2/11]
+🟡 Visiting detail page [6/11]: https://pogo.pk/events/valencia-vs-elche
 🟢 Successfully processed: LaLiga [6/11]
-🟡 Visiting detail page [8/11]: https://pogo.pk/events/valencia-vs-elche
+🟡 Visiting detail page [7/11]: https://pogo.pk/events/real-sociedad-vs-athletic-club
 🟢 Successfully processed: LaLiga [7/11]
-🟡 Visiting detail page [9/11]: https://pogo.pk/events/real-sociedad-vs-athletic-club
-🟢 Successfully processed: LaLiga [8/11]
-🟡 Visiting detail page [10/11]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
-🟢 Successfully processed: LaLiga [9/11]
-🟡 Visiting detail page [11/11]: https://pogo.pk/events/arsenal-vs-liverpool
-🟢 Successfully processed: Premier League [11/11]
-🟢 Successfully processed: Serie A [5/11]
-🟢 Successfully processed: EFL [10/11]
+🟡 Visiting detail page [8/11]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
+🟢 Successfully processed: LaLiga [4/11]
+🟡 Visiting detail page [9/11]: https://pogo.pk/events/arsenal-vs-liverpool
+🟢 Successfully processed: LaLiga [5/11]
+🟡 Visiting detail page [10/11]: https://pogo.pk/events/lecce-vs-genoa
+🟢 Successfully processed: Premier League [9/11]
+🟡 Visiting detail page [11/11]: https://pogo.pk/events/napoli-vs-juventus
+🟢 Successfully processed: EFL [8/11]
+🟢 Successfully processed: Serie A [10/11]
+🟢 Successfully processed: Serie A [11/11]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 11

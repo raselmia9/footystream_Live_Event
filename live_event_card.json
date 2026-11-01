@@ -388,5 +388,38 @@
                 "url": "https://playerdee.top/alpha/southampton-vs-west-brom/3352"
             }
         ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Title": "Wolverhampton Wanderers",
+        "team2Title": "Bristol City",
+        "team1Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bristol-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wolves-vs-bristol-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/wolves-vs-bristol-city/3353"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/wolves-vs-bristol-city/3354"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-04 21:30:00",
+        "team1Title": "Rennes",
+        "team2Title": "Olympiakos Piraeus",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
+        "multiWatchPageLink": []
     }
 ]

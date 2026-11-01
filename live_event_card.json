@@ -63,23 +63,6 @@
         ]
     },
     {
-        "eventTitle": "UFC",
-        "matchTime": "2026-11-01 04:00:00",
-        "team1Title": "Renato Moicano",
-        "team2Title": "Tom Nolan",
-        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/renato-moicano-vs-tom-nolan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/renato-moicano-vs-tom-nolan/3288"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-01 17:30:00",
         "team1Title": "Como",

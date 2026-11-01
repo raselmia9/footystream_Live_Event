@@ -23,8 +23,8 @@
     {
         "eventTitle": "Formula 1",
         "matchTime": "2026-10-31 00:00:00",
-        "team1Title": "F1 Mexican Grand Prix",
-        "team2Title": "Formula 1",
+        "team1Title": "Event Ended",
+        "team2Title": "F1 Mexican Grand Prix",
         "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
         "isHot": true,

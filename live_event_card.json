@@ -134,7 +134,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/valencia-vs-elche",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/valencia-vs-elche/3342"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/valencia-vs-elche/3343"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/valencia-vs-elche/3344"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -146,7 +159,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-sociedad-vs-athletic-club",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3345"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3346"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3347"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -175,7 +201,28 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-liverpool",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3337"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3338"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3339"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3340"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3341"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

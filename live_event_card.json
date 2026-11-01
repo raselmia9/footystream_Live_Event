@@ -92,18 +92,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-03 02:00:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/osasuna-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-11-02 12:00:00",
         "team1Title": "Snooker International Championship",
@@ -158,6 +146,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lorient-vs-brest",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-03 02:00:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/osasuna-vs-deportivo-la-coruna",
         "multiWatchPageLink": []
     },
     {

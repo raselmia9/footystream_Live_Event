@@ -46,43 +46,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 21:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-racing-santander",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3329"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3330"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3331"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3332"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3333"
-            },
-            {
-                "channel": "Link 6",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3334"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-01 22:30:00",
         "team1Title": "Arsenal",
@@ -158,43 +121,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-02 02:00:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-athletic-club",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3345"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3346"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3347"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-03 02:00:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/osasuna-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-02 01:45:00",
         "team1Title": "Napoli",
@@ -233,6 +159,43 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/atalanta-vs-parma",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-02 02:00:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-athletic-club",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3345"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3346"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3347"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-03 02:00:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/osasuna-vs-deportivo-la-coruna",
         "multiWatchPageLink": []
     },
     {

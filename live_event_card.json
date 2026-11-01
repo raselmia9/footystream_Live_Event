@@ -46,31 +46,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 19:00:00",
-        "team1Title": "Getafe",
-        "team2Title": "Sevilla",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/getafe-vs-sevilla",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/getafe-vs-sevilla/3327"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/getafe-vs-sevilla/3328"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/getafe-vs-sevilla/3335"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-01 20:00:00",
         "team1Title": "Sheffield Wednesday",
@@ -121,56 +96,6 @@
             {
                 "channel": "Link 6",
                 "url": "https://playerdee.top/alpha/real-madrid-vs-racing-santander/3334"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-01 23:30:00",
-        "team1Title": "Valencia",
-        "team2Title": "Elche CF",
-        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/valencia-vs-elche",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/valencia-vs-elche/3342"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/valencia-vs-elche/3343"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/valencia-vs-elche/3344"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-02 02:00:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-athletic-club",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3345"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3346"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3347"
             }
         ]
     },
@@ -238,6 +163,56 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/napoli-vs-juventus/3319"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-01 23:30:00",
+        "team1Title": "Valencia",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/valencia-vs-elche",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/valencia-vs-elche/3342"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/valencia-vs-elche/3343"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/valencia-vs-elche/3344"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-02 02:00:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-athletic-club",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3345"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3346"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3347"
             }
         ]
     }

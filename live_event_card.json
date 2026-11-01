@@ -21,23 +21,6 @@
         ]
     },
     {
-        "eventTitle": "MotoGP",
-        "matchTime": "2026-10-30 07:00:00",
-        "team1Title": "MotoGP Malaysian Grand Prix",
-        "team2Title": "MotoGP",
-        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/motogp-malaysian-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/motogp-malaysian-grand-prix/3254"
-            }
-        ]
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-10-31 00:00:00",
         "team1Title": "F1 Mexican Grand Prix",

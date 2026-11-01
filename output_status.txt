@@ -6,21 +6,21 @@
 🟡 Visiting detail page [3/10]: https://pogo.pk/events/getafe-vs-sevilla
 🟡 Visiting detail page [2/10]: https://pogo.pk/events/f1-mexican-grand-prix
 🟡 Visiting detail page [1/10]: https://pogo.pk/events/pga-lpga-golf
+🟢 Successfully processed: LaLiga [3/10]
 🟢 Successfully processed: Formula 1 [2/10]
 🟡 Visiting detail page [4/10]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
-🟢 Successfully processed: PGA Tour [1/10]
 🟡 Visiting detail page [5/10]: https://pogo.pk/events/real-madrid-vs-racing-santander
-🟢 Successfully processed: LaLiga [3/10]
+🟢 Successfully processed: PGA Tour [1/10]
 🟡 Visiting detail page [6/10]: https://pogo.pk/events/valencia-vs-elche
-🟢 Successfully processed: EFL [4/10]
-🟡 Visiting detail page [7/10]: https://pogo.pk/events/real-sociedad-vs-athletic-club
 🟢 Successfully processed: LaLiga [5/10]
+🟢 Successfully processed: EFL [4/10]
 🟡 Visiting detail page [8/10]: https://pogo.pk/events/arsenal-vs-liverpool
+🟡 Visiting detail page [7/10]: https://pogo.pk/events/real-sociedad-vs-athletic-club
 🟢 Successfully processed: LaLiga [6/10]
 🟡 Visiting detail page [9/10]: https://pogo.pk/events/lecce-vs-genoa
 🟢 Successfully processed: LaLiga [7/10]
-🟡 Visiting detail page [10/10]: https://pogo.pk/events/napoli-vs-juventus
 🟢 Successfully processed: Premier League [8/10]
+🟡 Visiting detail page [10/10]: https://pogo.pk/events/napoli-vs-juventus
 🟢 Successfully processed: Serie A [9/10]
 🟢 Successfully processed: Serie A [10/10]
 🟢 Browser closed successfully.

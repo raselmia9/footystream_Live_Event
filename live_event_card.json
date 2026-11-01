@@ -21,31 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-10-31 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "F1 Mexican Grand Prix",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/f1-mexican-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/f1-mexican-grand-prix/3256"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/f1-mexican-grand-prix/3257"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/f1-mexican-grand-prix/3258"
-            }
-        ]
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-11-02 12:00:00",
         "team1Title": "Snooker International Championship",
@@ -138,18 +113,6 @@
                 "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3350"
             }
         ]
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-03 02:15:00",
-        "team1Title": "Benfica",
-        "team2Title": "Alverca",
-        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/benfica-vs-alverca",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Liga Portugal",

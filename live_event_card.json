@@ -46,39 +46,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-01 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Arsenal",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/arsenal-vs-liverpool",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3337"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3338"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3339"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3340"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/arsenal-vs-liverpool/3341"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-01 23:00:00",
         "team1Title": "Lecce",

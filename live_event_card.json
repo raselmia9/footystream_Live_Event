@@ -48,8 +48,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-01 23:30:00",
-        "team1Title": "Valencia",
-        "team2Title": "Elche CF",
+        "team1Title": "Event Ended",
+        "team2Title": "Valencia",
         "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
         "isHot": true,

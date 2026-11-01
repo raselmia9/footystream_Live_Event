@@ -8,15 +8,15 @@
 🟡 Visiting detail page [1/11]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: Serie A [3/11]
 🟡 Visiting detail page [4/11]: https://pogo.pk/events/getafe-vs-sevilla
-🟢 Successfully processed: PGA Tour [1/11]
 🟢 Successfully processed: Formula 1 [2/11]
 🟡 Visiting detail page [5/11]: https://pogo.pk/events/real-madrid-vs-racing-santander
+🟢 Successfully processed: PGA Tour [1/11]
 🟡 Visiting detail page [6/11]: https://pogo.pk/events/valencia-vs-elche
 🟢 Successfully processed: LaLiga [4/11]
 🟡 Visiting detail page [7/11]: https://pogo.pk/events/real-sociedad-vs-athletic-club
-🟢 Successfully processed: LaLiga [5/11]
-🟡 Visiting detail page [8/11]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
 🟢 Successfully processed: LaLiga [6/11]
+🟡 Visiting detail page [8/11]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
+🟢 Successfully processed: LaLiga [5/11]
 🟡 Visiting detail page [9/11]: https://pogo.pk/events/arsenal-vs-liverpool
 🟢 Successfully processed: LaLiga [7/11]
 🟡 Visiting detail page [10/11]: https://pogo.pk/events/lecce-vs-genoa

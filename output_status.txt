@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 9
-🟡 Visiting detail page [2/9]: https://pogo.pk/events/f1-mexican-grand-prix
 🟡 Visiting detail page [3/9]: https://pogo.pk/events/sheffield-wednesday-vs-blackpool
 🟡 Visiting detail page [1/9]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/9]: https://pogo.pk/events/f1-mexican-grand-prix
 🟢 Successfully processed: EFL [3/9]
 🟡 Visiting detail page [4/9]: https://pogo.pk/events/real-madrid-vs-racing-santander
 🟢 Successfully processed: PGA Tour [1/9]
-🟡 Visiting detail page [5/9]: https://pogo.pk/events/arsenal-vs-liverpool
 🟢 Successfully processed: Formula 1 [2/9]
 🟡 Visiting detail page [6/9]: https://pogo.pk/events/lecce-vs-genoa
-🟢 Successfully processed: LaLiga [4/9]
-🟡 Visiting detail page [7/9]: https://pogo.pk/events/napoli-vs-juventus
-🟢 Successfully processed: Premier League [5/9]
-🟡 Visiting detail page [8/9]: https://pogo.pk/events/valencia-vs-elche
+🟡 Visiting detail page [5/9]: https://pogo.pk/events/arsenal-vs-liverpool
 🟢 Successfully processed: Serie A [6/9]
+🟡 Visiting detail page [7/9]: https://pogo.pk/events/napoli-vs-juventus
+🟢 Successfully processed: LaLiga [4/9]
+🟡 Visiting detail page [8/9]: https://pogo.pk/events/valencia-vs-elche
+🟢 Successfully processed: Premier League [5/9]
 🟡 Visiting detail page [9/9]: https://pogo.pk/events/real-sociedad-vs-athletic-club
 🟢 Successfully processed: Serie A [7/9]
 🟢 Successfully processed: LaLiga [8/9]

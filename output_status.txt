@@ -2,22 +2,50 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 8
-🟡 Visiting detail page [1/8]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [2/8]: https://pogo.pk/events/f1-mexican-grand-prix
-🟡 Visiting detail page [3/8]: https://pogo.pk/events/real-madrid-vs-racing-santander
-🟢 Successfully processed: Formula 1 [2/8]
-🟢 Successfully processed: PGA Tour [1/8]
-🟡 Visiting detail page [4/8]: https://pogo.pk/events/arsenal-vs-liverpool
-🟡 Visiting detail page [5/8]: https://pogo.pk/events/lecce-vs-genoa
-🟢 Successfully processed: LaLiga [3/8]
-🟡 Visiting detail page [6/8]: https://pogo.pk/events/napoli-vs-juventus
-🟢 Successfully processed: Premier League [4/8]
-🟡 Visiting detail page [7/8]: https://pogo.pk/events/valencia-vs-elche
-🟢 Successfully processed: Serie A [5/8]
-🟡 Visiting detail page [8/8]: https://pogo.pk/events/real-sociedad-vs-athletic-club
-🟢 Successfully processed: Serie A [6/8]
-🟢 Successfully processed: LaLiga [8/8]
-🟢 Successfully processed: LaLiga [7/8]
+🟢 Total unique detail links to process in parallel: 22
+🟡 Visiting detail page [2/22]: https://pogo.pk/events/f1-mexican-grand-prix
+🟡 Visiting detail page [3/22]: https://pogo.pk/events/real-madrid-vs-racing-santander
+🟡 Visiting detail page [1/22]: https://pogo.pk/events/pga-lpga-golf
+🟢 Successfully processed: LaLiga [3/22]
+🟡 Visiting detail page [4/22]: https://pogo.pk/events/arsenal-vs-liverpool
+🟢 Successfully processed: Formula 1 [2/22]
+🟢 Successfully processed: PGA Tour [1/22]
+🟡 Visiting detail page [5/22]: https://pogo.pk/events/lecce-vs-genoa
+🟡 Visiting detail page [6/22]: https://pogo.pk/events/napoli-vs-juventus
+🟢 Successfully processed: Premier League [4/22]
+🟡 Visiting detail page [7/22]: https://pogo.pk/events/sassuolo-vs-fiorentina
+🟢 Successfully processed: Serie A [6/22]
+🟢 Successfully processed: Serie A [5/22]
+🟡 Visiting detail page [8/22]: https://pogo.pk/events/atalanta-vs-parma
+🟡 Visiting detail page [9/22]: https://pogo.pk/events/valencia-vs-elche
+🟢 Successfully processed: Serie A [7/22]
+🟡 Visiting detail page [10/22]: https://pogo.pk/events/real-sociedad-vs-athletic-club
+🟢 Successfully processed: Serie A [8/22]
+🟡 Visiting detail page [11/22]: https://pogo.pk/events/osasuna-vs-deportivo-la-coruna
+🟢 Successfully processed: LaLiga [11/22]
+🟡 Visiting detail page [12/22]: https://pogo.pk/events/lorient-vs-brest
+🟢 Successfully processed: French Ligue 1 [12/22]
+🟡 Visiting detail page [13/22]: https://pogo.pk/events/newcastle-united-vs-everton
+🟢 Successfully processed: LaLiga [9/22]
+🟡 Visiting detail page [14/22]: https://pogo.pk/events/benfica-vs-alverca
+🟢 Successfully processed: LaLiga [10/22]
+🟡 Visiting detail page [15/22]: https://pogo.pk/events/gil-vicente-vs-vitoria-guimaraes
+🟢 Successfully processed: Liga Portugal [14/22]
+🟡 Visiting detail page [16/22]: https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk
+🟢 Successfully processed: Liga Portugal [15/22]
+🟡 Visiting detail page [17/22]: https://pogo.pk/events/stuttgart-vs-galatasaray
+🟢 Successfully processed: Champions League [16/22]
+🟡 Visiting detail page [18/22]: https://pogo.pk/events/barcelona-vs-aston-villa
+🟢 Successfully processed: Champions League [17/22]
+🟡 Visiting detail page [19/22]: https://pogo.pk/events/roma-vs-manchester-united
+🟢 Successfully processed: Champions League [18/22]
+🟡 Visiting detail page [20/22]: https://pogo.pk/events/psg-vs-villarreal
+🟢 Successfully processed: Champions League [19/22]
+🟡 Visiting detail page [21/22]: https://pogo.pk/events/bayern-munchen-vs-atletico-madrid
+🟢 Successfully processed: Champions League [20/22]
+🟡 Visiting detail page [22/22]: https://pogo.pk/events/southampton-vs-west-brom
+🟢 Successfully processed: Premier League [13/22]
+🟢 Successfully processed: Champions League [21/22]
+🟢 Successfully processed: EFL [22/22]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 8
+🟢 Process completed successfully. Total collected events: 22

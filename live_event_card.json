@@ -150,6 +150,30 @@
         ]
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-02 23:30:00",
+        "team1Title": "Sassuolo",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sassuolo-vs-fiorentina",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-03 01:45:00",
+        "team1Title": "Atalanta",
+        "team2Title": "Parma",
+        "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/atalanta-vs-parma",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-01 23:30:00",
         "team1Title": "Valencia",
@@ -196,6 +220,172 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/real-sociedad-vs-athletic-club/3347"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-03 02:00:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/osasuna-vs-deportivo-la-coruna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-03 01:45:00",
+        "team1Title": "Lorient",
+        "team2Title": "Brest",
+        "team1Logo": "https://cdn.img4every1.org/team/lorient/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lorient-vs-brest",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-03 02:00:00",
+        "team1Title": "Newcastle United",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/newcastle-united-vs-everton",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3348"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3349"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3350"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-03 02:15:00",
+        "team1Title": "Benfica",
+        "team2Title": "Alverca",
+        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/benfica-vs-alverca",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-03 02:15:00",
+        "team1Title": "Gil Vicente",
+        "team2Title": "Vitória Guimarães",
+        "team1Logo": "https://cdn.img4every1.org/team/gil-vicente/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/vitoria-guimaraes/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/gil-vicente-vs-vitoria-guimaraes",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-03 23:45:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "Shakhtar Donetsk",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-03 23:45:00",
+        "team1Title": "Stuttgart",
+        "team2Title": "Galatasaray",
+        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/stuttgart-vs-galatasaray",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Aston Villa",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-aston-villa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Manchester United",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-manchester-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Title": "PSG",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-atletico-madrid",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Title": "Southampton",
+        "team2Title": "West Bromwich Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/southampton/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-bromwich-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/southampton-vs-west-brom",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/southampton-vs-west-brom/3351"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/southampton-vs-west-brom/3352"
             }
         ]
     }

@@ -68,7 +68,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lorient-vs-brest",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lorient-vs-brest/3361"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lorient-vs-brest/3362"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

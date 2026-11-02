@@ -89,7 +89,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/osasuna-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/osasuna-vs-deportivo-la-coruna/3363"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/osasuna-vs-deportivo-la-coruna/3364"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/osasuna-vs-deportivo-la-coruna/3365"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -113,6 +126,14 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3350"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3366"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3367"
             }
         ]
     },

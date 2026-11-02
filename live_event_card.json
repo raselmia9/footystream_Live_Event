@@ -30,7 +30,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sassuolo-vs-fiorentina",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sassuolo-vs-fiorentina/3358"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -42,7 +47,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/atalanta-vs-parma",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/atalanta-vs-parma/3359"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/atalanta-vs-parma/3360"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",

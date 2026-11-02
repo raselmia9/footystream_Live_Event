@@ -21,64 +21,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-03 02:00:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/osasuna-vs-deportivo-la-coruna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/osasuna-vs-deportivo-la-coruna/3363"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/osasuna-vs-deportivo-la-coruna/3364"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/osasuna-vs-deportivo-la-coruna/3365"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-03 02:00:00",
-        "team1Title": "Newcastle United",
-        "team2Title": "Everton",
-        "team1Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/newcastle-united-vs-everton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3348"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3349"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3350"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3366"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/newcastle-united-vs-everton/3367"
-            }
-        ]
-    },
-    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-03 02:15:00",
         "team1Title": "Benfica",

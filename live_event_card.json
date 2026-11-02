@@ -23,8 +23,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-03 01:45:00",
-        "team1Title": "Atalanta",
-        "team2Title": "Parma",
+        "team1Title": "Event Ended",
+        "team2Title": "Atalanta",
         "team1Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
         "isHot": true,
@@ -44,8 +44,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-03 01:45:00",
-        "team1Title": "Lorient",
-        "team2Title": "Brest",
+        "team1Title": "Event Ended",
+        "team2Title": "Lorient",
         "team1Logo": "https://cdn.img4every1.org/team/lorient/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/brest/logo.webp",
         "isHot": true,

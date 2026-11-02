@@ -15,8 +15,8 @@
 🟢 Successfully processed: LaLiga [6/18]
 🟡 Visiting detail page [7/18]: https://pogo.pk/events/newcastle-united-vs-everton
 🟢 Successfully processed: PGA Tour [1/18]
-🟢 Successfully processed: Snooker [2/18]
 🟡 Visiting detail page [8/18]: https://pogo.pk/events/benfica-vs-alverca
+🟢 Successfully processed: Snooker [2/18]
 🟡 Visiting detail page [9/18]: https://pogo.pk/events/gil-vicente-vs-vitoria-guimaraes
 🟢 Successfully processed: Liga Portugal [8/18]
 🟡 Visiting detail page [10/18]: https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk

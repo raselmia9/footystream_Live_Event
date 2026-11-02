@@ -4,11 +4,11 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/sassuolo-vs-fiorentina
-🟡 Visiting detail page [1/17]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [3/17]: https://pogo.pk/events/atalanta-vs-parma
+🟡 Visiting detail page [1/17]: https://pogo.pk/events/snooker-international-championship
 🟢 Successfully processed: Serie A [3/17]
-🟡 Visiting detail page [4/17]: https://pogo.pk/events/lorient-vs-brest
 🟢 Successfully processed: Serie A [2/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/lorient-vs-brest
 🟡 Visiting detail page [5/17]: https://pogo.pk/events/osasuna-vs-deportivo-la-coruna
 🟢 Successfully processed: French Ligue 1 [4/17]
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/newcastle-united-vs-everton
@@ -22,9 +22,9 @@
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/stuttgart-vs-galatasaray
 🟢 Successfully processed: Champions League [10/17]
 🟡 Visiting detail page [11/17]: https://pogo.pk/events/barcelona-vs-aston-villa
-🟢 Successfully processed: Snooker [1/17]
-🟡 Visiting detail page [12/17]: https://pogo.pk/events/roma-vs-manchester-united
 🟢 Successfully processed: Champions League [11/17]
+🟡 Visiting detail page [12/17]: https://pogo.pk/events/roma-vs-manchester-united
+🟢 Successfully processed: Snooker [1/17]
 🟡 Visiting detail page [13/17]: https://pogo.pk/events/psg-vs-villarreal
 🟢 Successfully processed: Champions League [12/17]
 🟡 Visiting detail page [14/17]: https://pogo.pk/events/bayern-munchen-vs-atletico-madrid

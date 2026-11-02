@@ -22,23 +22,6 @@
     },
     {
         "eventTitle": "Serie A",
-        "matchTime": "2026-11-02 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sassuolo-vs-fiorentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sassuolo-vs-fiorentina/3358"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
         "matchTime": "2026-11-03 01:45:00",
         "team1Title": "Atalanta",
         "team2Title": "Parma",

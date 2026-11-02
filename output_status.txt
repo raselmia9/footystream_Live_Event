@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [3/18]: https://pogo.pk/events/sassuolo-vs-fiorentina
-🟡 Visiting detail page [1/18]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/18]: https://pogo.pk/events/snooker-international-championship
+🟡 Visiting detail page [1/18]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [3/18]: https://pogo.pk/events/sassuolo-vs-fiorentina
 🟢 Successfully processed: Serie A [3/18]
 🟡 Visiting detail page [4/18]: https://pogo.pk/events/atalanta-vs-parma
 🟢 Successfully processed: Serie A [4/18]
@@ -18,22 +18,22 @@
 🟢 Successfully processed: Snooker [2/18]
 🟡 Visiting detail page [8/18]: https://pogo.pk/events/benfica-vs-alverca
 🟡 Visiting detail page [9/18]: https://pogo.pk/events/gil-vicente-vs-vitoria-guimaraes
-🟢 Successfully processed: Liga Portugal [9/18]
 🟢 Successfully processed: Liga Portugal [8/18]
+🟢 Successfully processed: Liga Portugal [9/18]
 🟡 Visiting detail page [10/18]: https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk
 🟡 Visiting detail page [11/18]: https://pogo.pk/events/stuttgart-vs-galatasaray
-🟢 Successfully processed: Champions League [11/18]
-🟡 Visiting detail page [12/18]: https://pogo.pk/events/barcelona-vs-aston-villa
 🟢 Successfully processed: Champions League [10/18]
+🟡 Visiting detail page [12/18]: https://pogo.pk/events/barcelona-vs-aston-villa
+🟢 Successfully processed: Champions League [11/18]
 🟡 Visiting detail page [13/18]: https://pogo.pk/events/roma-vs-manchester-united
 🟢 Successfully processed: Champions League [12/18]
 🟡 Visiting detail page [14/18]: https://pogo.pk/events/psg-vs-villarreal
 🟢 Successfully processed: Champions League [13/18]
 🟡 Visiting detail page [15/18]: https://pogo.pk/events/bayern-munchen-vs-atletico-madrid
 🟢 Successfully processed: Champions League [15/18]
-🟡 Visiting detail page [16/18]: https://pogo.pk/events/southampton-vs-west-brom
 🟢 Successfully processed: Champions League [14/18]
 🟡 Visiting detail page [17/18]: https://pogo.pk/events/wolves-vs-bristol-city
+🟡 Visiting detail page [16/18]: https://pogo.pk/events/southampton-vs-west-brom
 🟢 Successfully processed: Premier League [7/18]
 🟡 Visiting detail page [18/18]: https://pogo.pk/events/rennes-vs-olympiakos-piraeus
 🟢 Successfully processed: Europa League [18/18]

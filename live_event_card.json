@@ -21,48 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-03 02:15:00",
-        "team1Title": "Benfica",
-        "team2Title": "Alverca",
-        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/benfica-vs-alverca",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/benfica-vs-alverca/3368"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/benfica-vs-alverca/3369"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/benfica-vs-alverca/3371"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-03 02:15:00",
-        "team1Title": "Gil Vicente",
-        "team2Title": "Vitória Guimarães",
-        "team1Logo": "https://cdn.img4every1.org/team/gil-vicente/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/vitoria-guimaraes/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/gil-vicente-vs-vitoria-guimaraes",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/gil-vicente-vs-vitoria-guimaraes/3370"
-            }
-        ]
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-11-03 07:15:00",
         "team1Title": "Chicago Bears",

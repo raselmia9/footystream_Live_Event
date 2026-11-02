@@ -1,26 +1,5 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-10-29 08:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "PGA / LPGA Golf",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/pga-lpga-golf",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/pga-lpga-golf/3027"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/pga-lpga-golf/3029"
-            }
-        ]
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-11-02 12:00:00",
         "team1Title": "Snooker International Championship",

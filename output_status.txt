@@ -6,11 +6,11 @@
 🟡 Visiting detail page [2/12]: https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk
 🟡 Visiting detail page [3/12]: https://pogo.pk/events/stuttgart-vs-galatasaray
 🟡 Visiting detail page [1/12]: https://pogo.pk/events/snooker-international-championship
-🟢 Successfully processed: Champions League [2/12]
+🟢 Successfully processed: Champions League [3/12]
 🟡 Visiting detail page [4/12]: https://pogo.pk/events/barcelona-vs-aston-villa
 🟢 Successfully processed: Snooker [1/12]
 🟡 Visiting detail page [5/12]: https://pogo.pk/events/roma-vs-manchester-united
-🟢 Successfully processed: Champions League [3/12]
+🟢 Successfully processed: Champions League [2/12]
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/psg-vs-villarreal
 🟢 Successfully processed: Champions League [4/12]
 🟡 Visiting detail page [7/12]: https://pogo.pk/events/bayern-munchen-vs-atletico-madrid
@@ -20,9 +20,9 @@
 🟡 Visiting detail page [9/12]: https://pogo.pk/events/lille-vs-bodo-glimt
 🟢 Successfully processed: Champions League [7/12]
 🟡 Visiting detail page [10/12]: https://pogo.pk/events/southampton-vs-west-brom
-🟢 Successfully processed: Champions League [8/12]
-🟡 Visiting detail page [11/12]: https://pogo.pk/events/wolves-vs-bristol-city
 🟢 Successfully processed: Champions League [9/12]
+🟡 Visiting detail page [11/12]: https://pogo.pk/events/wolves-vs-bristol-city
+🟢 Successfully processed: Champions League [8/12]
 🟡 Visiting detail page [12/12]: https://pogo.pk/events/rennes-vs-olympiakos-piraeus
 🟢 Successfully processed: Europa League [12/12]
 🟢 Successfully processed: EFL [10/12]

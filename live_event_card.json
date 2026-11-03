@@ -167,7 +167,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-atletico-madrid",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-atletico-madrid/3397"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-atletico-madrid/3398"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-atletico-madrid/3399"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",

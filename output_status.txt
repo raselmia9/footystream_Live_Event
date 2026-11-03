@@ -14,11 +14,11 @@
 🟡 Visiting detail page [6/11]: https://pogo.pk/events/roma-vs-manchester-united
 🟢 Successfully processed: Champions League [6/11]
 🟡 Visiting detail page [7/11]: https://pogo.pk/events/psg-vs-villarreal
-🟢 Successfully processed: Champions League [7/11]
-🟡 Visiting detail page [8/11]: https://pogo.pk/events/bayern-munchen-vs-atletico-madrid
 🟢 Successfully processed: Snooker [1/11]
-🟡 Visiting detail page [9/11]: https://pogo.pk/events/southampton-vs-west-brom
+🟡 Visiting detail page [8/11]: https://pogo.pk/events/bayern-munchen-vs-atletico-madrid
 🟢 Successfully processed: NFL [2/11]
+🟡 Visiting detail page [9/11]: https://pogo.pk/events/southampton-vs-west-brom
+🟢 Successfully processed: Champions League [7/11]
 🟡 Visiting detail page [10/11]: https://pogo.pk/events/wolves-vs-bristol-city
 🟢 Successfully processed: Champions League [8/11]
 🟡 Visiting detail page [11/11]: https://pogo.pk/events/rennes-vs-olympiakos-piraeus

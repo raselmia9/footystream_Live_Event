@@ -30,7 +30,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3375"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3376"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3377"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -42,7 +55,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/stuttgart-vs-galatasaray",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3378"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3379"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3380"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

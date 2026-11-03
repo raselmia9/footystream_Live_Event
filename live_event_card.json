@@ -22,56 +22,6 @@
     },
     {
         "eventTitle": "Champions League",
-        "matchTime": "2026-11-03 23:45:00",
-        "team1Title": "Sporting CP",
-        "team2Title": "Shakhtar Donetsk",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/shakhtar-donetsk/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3375"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3376"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/sporting-cp-vs-shakhtar-donetsk/3377"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
-        "matchTime": "2026-11-03 23:45:00",
-        "team1Title": "Stuttgart",
-        "team2Title": "Galatasaray",
-        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/stuttgart-vs-galatasaray",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3378"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3379"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/stuttgart-vs-galatasaray/3380"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Champions League",
         "matchTime": "2026-11-04 02:00:00",
         "team1Title": "FC Barcelona",
         "team2Title": "Aston Villa",
@@ -238,6 +188,119 @@
         ]
     },
     {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Feyenoord",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-feyenoord",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-feyenoord/3381"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-feyenoord/3382"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-feyenoord/3383"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-feyenoord/3384"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-04 21:30:00",
+        "team1Title": "Rennes",
+        "team2Title": "Olympiakos Piraeus",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 23:45:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "AEK Athens",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-athens",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 23:45:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Fenerbahçe",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/liverpool-vs-fenerbahce",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Title": "Manchester City",
+        "team2Title": "RB Leipzig",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-rb-leipzig",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Title": "Napoli",
+        "team2Title": "Porto",
+        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/napoli-vs-porto",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Title": "Borussia Dortmund",
+        "team2Title": "Real Betis",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-real-betis",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Title": "Como",
+        "team2Title": "Lens",
+        "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lens/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/como-vs-lens",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-05 02:00:00",
         "team1Title": "Wolverhampton Wanderers",
@@ -257,17 +320,5 @@
                 "url": "https://playerdee.top/alpha/wolves-vs-bristol-city/3354"
             }
         ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-04 21:30:00",
-        "team1Title": "Rennes",
-        "team2Title": "Olympiakos Piraeus",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
-        "multiWatchPageLink": []
     }
 ]

@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 10
+🟡 Visiting detail page [2/10]: https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk
 🟡 Visiting detail page [1/10]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [3/10]: https://pogo.pk/events/stuttgart-vs-galatasaray
-🟡 Visiting detail page [2/10]: https://pogo.pk/events/sporting-cp-vs-shakhtar-donetsk
-🟢 Successfully processed: Snooker [1/10]
-🟡 Visiting detail page [4/10]: https://pogo.pk/events/barcelona-vs-aston-villa
-🟢 Successfully processed: Champions League [2/10]
-🟡 Visiting detail page [5/10]: https://pogo.pk/events/roma-vs-manchester-united
 🟢 Successfully processed: Champions League [3/10]
+🟡 Visiting detail page [4/10]: https://pogo.pk/events/barcelona-vs-aston-villa
+🟢 Successfully processed: Snooker [1/10]
+🟡 Visiting detail page [5/10]: https://pogo.pk/events/roma-vs-manchester-united
+🟢 Successfully processed: Champions League [2/10]
 🟡 Visiting detail page [6/10]: https://pogo.pk/events/psg-vs-villarreal
 🟢 Successfully processed: Champions League [4/10]
 🟡 Visiting detail page [7/10]: https://pogo.pk/events/bayern-munchen-vs-atletico-madrid
@@ -21,7 +21,7 @@
 🟢 Successfully processed: Champions League [7/10]
 🟡 Visiting detail page [10/10]: https://pogo.pk/events/rennes-vs-olympiakos-piraeus
 🟢 Successfully processed: EFL [8/10]
-🟢 Successfully processed: EFL [9/10]
 🟢 Successfully processed: Europa League [10/10]
+🟢 Successfully processed: EFL [9/10]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 10

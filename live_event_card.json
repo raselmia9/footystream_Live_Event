@@ -183,6 +183,40 @@
         ]
     },
     {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Title": "LASK",
+        "team2Title": "Slovan Bratislava",
+        "team1Logo": "https://cdn.img4every1.org/team/lask/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lask-vs-slovan-bratislava",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lask-vs-slovan-bratislava/3400"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-04 02:00:00",
+        "team1Title": "Lille",
+        "team2Title": "FK Bodo Glimt",
+        "team1Logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lille-vs-bodo-glimt",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lille-vs-bodo-glimt/3402"
+            }
+        ]
+    },
+    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-04 02:00:00",
         "team1Title": "Southampton",

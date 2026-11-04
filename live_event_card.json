@@ -147,8 +147,8 @@
     {
         "eventTitle": "Europa League",
         "matchTime": "2026-11-04 21:30:00",
-        "team1Title": "Rennes",
-        "team2Title": "Olympiakos Piraeus",
+        "team1Title": "Event Ended",
+        "team2Title": "Rennes",
         "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
         "isHot": true,

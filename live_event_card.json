@@ -1,43 +1,5 @@
 [
     {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-11-02 12:00:00",
-        "team1Title": "Snooker International Championship",
-        "team2Title": "Snooker",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/snooker-international-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/snooker-international-championship/3356"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/snooker-international-championship/3357"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-04 21:30:00",
-        "team1Title": "Rennes",
-        "team2Title": "Olympiakos Piraeus",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/rennes-vs-olympiakos-piraeus/3403"
-            }
-        ]
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-11-04 23:45:00",
         "team1Title": "Real Madrid",
@@ -108,6 +70,44 @@
         ]
     },
     {
+        "eventTitle": "Snooker",
+        "matchTime": "2026-11-02 12:00:00",
+        "team1Title": "Snooker International Championship",
+        "team2Title": "Snooker",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/snooker-international-championship",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/snooker-international-championship/3356"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/snooker-international-championship/3357"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-04 21:30:00",
+        "team1Title": "Rennes",
+        "team2Title": "Olympiakos Piraeus",
+        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rennes-vs-olympiakos-piraeus/3403"
+            }
+        ]
+    },
+    {
         "eventTitle": "Champions League",
         "matchTime": "2026-11-05 02:00:00",
         "team1Title": "Manchester City",
@@ -166,6 +166,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/como-vs-lens",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Title": "PSV",
+        "team2Title": "Club Brugge",
+        "team1Logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psv-vs-club-brugge",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
+        "team1Title": "Viking",
+        "team2Title": "Sabah Baku",
+        "team1Logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sabah-baku/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/viking-vs-sabah",
         "multiWatchPageLink": []
     },
     {

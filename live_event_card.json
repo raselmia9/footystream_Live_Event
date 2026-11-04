@@ -59,6 +59,18 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3406"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3407"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3408"
+            },
+            {
+                "channel": "Link 6",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3409"
             }
         ]
     },
@@ -72,7 +84,28 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/liverpool-vs-fenerbahce",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3410"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3411"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3412"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3413"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/liverpool-vs-fenerbahce/3414"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

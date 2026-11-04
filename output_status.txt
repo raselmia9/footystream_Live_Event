@@ -4,17 +4,17 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 48
 🟡 Visiting detail page [2/48]: https://pogo.pk/events/arsenal-vs-slavia-praha
-🟡 Visiting detail page [3/48]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [1/48]: https://pogo.pk/events/manchester-city-vs-rb-leipzig
-🟢 Successfully processed: Snooker [3/48]
-🟢 Successfully processed: Champions League [1/48]
+🟡 Visiting detail page [3/48]: https://pogo.pk/events/snooker-international-championship
 🟢 Successfully processed: Champions League [2/48]
 🟡 Visiting detail page [4/48]: https://pogo.pk/events/napoli-vs-porto
+🟢 Successfully processed: Snooker [3/48]
 🟡 Visiting detail page [5/48]: https://pogo.pk/events/borussia-dortmund-vs-real-betis
+🟢 Successfully processed: Champions League [1/48]
 🟡 Visiting detail page [6/48]: https://pogo.pk/events/como-vs-lens
-🟢 Successfully processed: Champions League [6/48]
-🟡 Visiting detail page [7/48]: https://pogo.pk/events/psv-vs-club-brugge
 🟢 Successfully processed: Champions League [4/48]
+🟡 Visiting detail page [7/48]: https://pogo.pk/events/psv-vs-club-brugge
+🟢 Successfully processed: Champions League [6/48]
 🟡 Visiting detail page [8/48]: https://pogo.pk/events/viking-vs-sabah
 🟢 Successfully processed: Champions League [5/48]
 🟡 Visiting detail page [9/48]: https://pogo.pk/events/wolves-vs-bristol-city
@@ -70,9 +70,9 @@
 🟡 Visiting detail page [34/48]: https://pogo.pk/events/sevilla-vs-alaves
 🟢 Successfully processed: LaLiga [34/48]
 🟡 Visiting detail page [35/48]: https://pogo.pk/events/malaga-vs-racing-santander
-🟢 Successfully processed: LaLiga [35/48]
-🟡 Visiting detail page [36/48]: https://pogo.pk/events/espanyol-vs-deportivo-la-coruna
 🟢 Successfully processed: Rugby Union [30/48]
+🟡 Visiting detail page [36/48]: https://pogo.pk/events/espanyol-vs-deportivo-la-coruna
+🟢 Successfully processed: LaLiga [35/48]
 🟡 Visiting detail page [37/48]: https://pogo.pk/events/coventry-city-vs-everton
 🟢 Successfully processed: LaLiga [36/48]
 🟡 Visiting detail page [38/48]: https://pogo.pk/events/tottenham-hotspur-vs-leeds-united
@@ -86,9 +86,9 @@
 🟡 Visiting detail page [42/48]: https://pogo.pk/events/wolves-vs-wrexham
 🟢 Successfully processed: EFL [41/48]
 🟡 Visiting detail page [43/48]: https://pogo.pk/events/bristol-city-vs-norwich-city
-🟢 Successfully processed: EFL [42/48]
-🟡 Visiting detail page [44/48]: https://pogo.pk/events/middlesbrough-vs-watford
 🟢 Successfully processed: Premiership Rugby [33/48]
+🟡 Visiting detail page [44/48]: https://pogo.pk/events/middlesbrough-vs-watford
+🟢 Successfully processed: EFL [42/48]
 🟡 Visiting detail page [45/48]: https://pogo.pk/events/sheffield-united-vs-charlton-athletic
 🟢 Successfully processed: EFL [43/48]
 🟡 Visiting detail page [46/48]: https://pogo.pk/events/famalicao-vs-arouca

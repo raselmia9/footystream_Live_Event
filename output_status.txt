@@ -6,12 +6,12 @@
 🟡 Visiting detail page [2/11]: https://pogo.pk/events/liverpool-vs-fenerbahce
 🟡 Visiting detail page [3/11]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [1/11]: https://pogo.pk/events/real-madrid-vs-athens
-🟢 Successfully processed: Champions League [2/11]
 🟢 Successfully processed: Snooker [3/11]
-🟡 Visiting detail page [4/11]: https://pogo.pk/events/rennes-vs-olympiakos-piraeus
-🟡 Visiting detail page [5/11]: https://pogo.pk/events/manchester-city-vs-rb-leipzig
 🟢 Successfully processed: Champions League [1/11]
+🟢 Successfully processed: Champions League [2/11]
 🟡 Visiting detail page [6/11]: https://pogo.pk/events/napoli-vs-porto
+🟡 Visiting detail page [5/11]: https://pogo.pk/events/manchester-city-vs-rb-leipzig
+🟡 Visiting detail page [4/11]: https://pogo.pk/events/rennes-vs-olympiakos-piraeus
 🟢 Successfully processed: Champions League [6/11]
 🟡 Visiting detail page [7/11]: https://pogo.pk/events/borussia-dortmund-vs-real-betis
 🟢 Successfully processed: Champions League [7/11]

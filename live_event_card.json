@@ -83,6 +83,18 @@
     {
         "eventTitle": "Champions League",
         "matchTime": "2026-11-05 02:00:00",
+        "team1Title": "Borussia Dortmund",
+        "team2Title": "Real Betis",
+        "team1Logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-real-betis",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Champions League",
+        "matchTime": "2026-11-05 02:00:00",
         "team1Title": "Como",
         "team2Title": "Lens",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",

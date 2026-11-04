@@ -145,23 +145,6 @@
         ]
     },
     {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-04 21:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Rennes",
-        "team1Logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/rennes-vs-olympiakos-piraeus/3403"
-            }
-        ]
-    },
-    {
         "eventTitle": "Champions League",
         "matchTime": "2026-11-05 02:00:00",
         "team1Title": "Napoli",
@@ -171,7 +154,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/napoli-vs-porto",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/napoli-vs-porto/3422"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/napoli-vs-porto/3423"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/napoli-vs-porto/3424"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -183,7 +179,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/borussia-dortmund-vs-real-betis",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-real-betis/3425"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-real-betis/3426"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-real-betis/3427"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/borussia-dortmund-vs-real-betis/3428"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -195,7 +208,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/como-vs-lens",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/como-vs-lens/3429"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/como-vs-lens/3430"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

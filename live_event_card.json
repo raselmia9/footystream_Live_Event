@@ -30,7 +30,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/rennes-vs-olympiakos-piraeus/3403"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -42,7 +47,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-madrid-vs-athens",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3404"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3405"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-athens/3406"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",

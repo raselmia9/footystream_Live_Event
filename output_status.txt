@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 48
-🟡 Visiting detail page [1/48]: https://pogo.pk/events/manchester-city-vs-rb-leipzig
-🟡 Visiting detail page [3/48]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [2/48]: https://pogo.pk/events/arsenal-vs-slavia-praha
+🟡 Visiting detail page [3/48]: https://pogo.pk/events/snooker-international-championship
+🟡 Visiting detail page [1/48]: https://pogo.pk/events/manchester-city-vs-rb-leipzig
 🟢 Successfully processed: Snooker [3/48]
-🟡 Visiting detail page [4/48]: https://pogo.pk/events/napoli-vs-porto
 🟢 Successfully processed: Champions League [1/48]
 🟢 Successfully processed: Champions League [2/48]
+🟡 Visiting detail page [4/48]: https://pogo.pk/events/napoli-vs-porto
 🟡 Visiting detail page [5/48]: https://pogo.pk/events/borussia-dortmund-vs-real-betis
 🟡 Visiting detail page [6/48]: https://pogo.pk/events/como-vs-lens
-🟢 Successfully processed: Champions League [4/48]
-🟡 Visiting detail page [7/48]: https://pogo.pk/events/psv-vs-club-brugge
-🟢 Successfully processed: Champions League [5/48]
-🟡 Visiting detail page [8/48]: https://pogo.pk/events/viking-vs-sabah
 🟢 Successfully processed: Champions League [6/48]
+🟡 Visiting detail page [7/48]: https://pogo.pk/events/psv-vs-club-brugge
+🟢 Successfully processed: Champions League [4/48]
+🟡 Visiting detail page [8/48]: https://pogo.pk/events/viking-vs-sabah
+🟢 Successfully processed: Champions League [5/48]
 🟡 Visiting detail page [9/48]: https://pogo.pk/events/wolves-vs-bristol-city
 🟢 Successfully processed: Champions League [7/48]
 🟡 Visiting detail page [10/48]: https://pogo.pk/events/pga-lpga-golf

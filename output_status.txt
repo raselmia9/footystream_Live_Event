@@ -3,8 +3,8 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 9
-🟡 Visiting detail page [1/9]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [2/9]: https://pogo.pk/events/rennes-vs-olympiakos-piraeus
+🟡 Visiting detail page [1/9]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [3/9]: https://pogo.pk/events/real-madrid-vs-athens
 🟢 Successfully processed: Europa League [2/9]
 🟡 Visiting detail page [4/9]: https://pogo.pk/events/liverpool-vs-fenerbahce
@@ -14,11 +14,11 @@
 🟢 Successfully processed: Champions League [4/9]
 🟡 Visiting detail page [6/9]: https://pogo.pk/events/napoli-vs-porto
 🟡 Visiting detail page [7/9]: https://pogo.pk/events/borussia-dortmund-vs-real-betis
-🟢 Successfully processed: Champions League [7/9]
-🟡 Visiting detail page [8/9]: https://pogo.pk/events/como-vs-lens
-🟢 Successfully processed: Champions League [8/9]
-🟡 Visiting detail page [9/9]: https://pogo.pk/events/wolves-vs-bristol-city
 🟢 Successfully processed: Champions League [6/9]
+🟡 Visiting detail page [8/9]: https://pogo.pk/events/como-vs-lens
+🟢 Successfully processed: Champions League [7/9]
+🟡 Visiting detail page [9/9]: https://pogo.pk/events/wolves-vs-bristol-city
+🟢 Successfully processed: Champions League [8/9]
 🟢 Successfully processed: Snooker [1/9]
 🟢 Successfully processed: EFL [9/9]
 🟢 Browser closed successfully.

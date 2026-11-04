@@ -229,7 +229,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psv-vs-club-brugge",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psv-vs-club-brugge/3431"
+            }
+        ]
     },
     {
         "eventTitle": "Champions League",
@@ -241,7 +246,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/viking-vs-sabah",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/viking-vs-sabah/3432"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -263,5 +273,213 @@
                 "url": "https://playerdee.top/alpha/wolves-vs-bristol-city/3354"
             }
         ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-05 23:45:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Ferencváros",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/milan-vs-ferencvaros",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/milan-vs-ferencvaros/3433"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-05 23:45:00",
+        "team1Title": "AFC Bournemouth",
+        "team2Title": "Sparta Praha",
+        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sparta-praha/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bournemouth-vs-sparta-praha",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bournemouth-vs-sparta-praha/3434"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-05 23:45:00",
+        "team1Title": "Crystal Palace",
+        "team2Title": "Hoffenheim",
+        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-hoffenheim",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/crystal-palace-vs-hoffenheim/3442"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-06 02:00:00",
+        "team1Title": "Sunderland",
+        "team2Title": "Dinamo Zagreb",
+        "team1Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/dinamo-zagreb/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sunderland-vs-dinamo-zagreb",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sunderland-vs-dinamo-zagreb/3437"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-06 02:00:00",
+        "team1Title": "AZ Alkmaar",
+        "team2Title": "Juventus",
+        "team1Logo": "https://cdn.img4every1.org/team/az-alkmaar/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/az-vs-juventus",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/az-vs-juventus/3438"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-06 02:00:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-olympique-marseille",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-olympique-marseille/3439"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-11-05 23:45:00",
+        "team1Title": "FC Thun",
+        "team2Title": "Hearts",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-thun/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/thun-vs-hearts",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/thun-vs-hearts/3435"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-11-06 02:00:00",
+        "team1Title": "Brighton & Hove Albion",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brighton-vs-getafe",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brighton-vs-getafe/3436"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-07 01:30:00",
+        "team1Title": "Hamburger SV",
+        "team2Title": "Borussia M'gladbach",
+        "team1Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hamburger-vs-borussia-mgladbach",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-07 01:45:00",
+        "team1Title": "Toulouse",
+        "team2Title": "Strasbourg",
+        "team1Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/toulouse-vs-strasbourg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-07 01:45:00",
+        "team1Title": "Venezia",
+        "team2Title": "Udinese",
+        "team1Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/venezia-vs-udinese",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-07 02:00:00",
+        "team1Title": "Sevilla",
+        "team2Title": "Deportivo Alavés",
+        "team1Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-alaves/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sevilla-vs-alaves",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-07 02:00:00",
+        "team1Title": "Coventry City",
+        "team2Title": "Everton",
+        "team1Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/coventry-city-vs-everton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-07 02:45:00",
+        "team1Title": "Famalicão",
+        "team2Title": "Arouca",
+        "team1Logo": "https://cdn.img4every1.org/team/famalicao/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/famalicao-vs-arouca",
+        "multiWatchPageLink": []
     }
 ]

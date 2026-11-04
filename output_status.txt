@@ -6,24 +6,24 @@
 🟡 Visiting detail page [1/12]: https://pogo.pk/events/real-madrid-vs-athens
 🟡 Visiting detail page [2/12]: https://pogo.pk/events/liverpool-vs-fenerbahce
 🟡 Visiting detail page [3/12]: https://pogo.pk/events/manchester-city-vs-rb-leipzig
-🟢 Successfully processed: Champions League [3/12]
-🟢 Successfully processed: Champions League [1/12]
-🟡 Visiting detail page [4/12]: https://pogo.pk/events/arsenal-vs-slavia-praha
-🟡 Visiting detail page [5/12]: https://pogo.pk/events/snooker-international-championship
 🟢 Successfully processed: Champions League [2/12]
+🟡 Visiting detail page [4/12]: https://pogo.pk/events/arsenal-vs-slavia-praha
+🟢 Successfully processed: Champions League [1/12]
+🟡 Visiting detail page [5/12]: https://pogo.pk/events/snooker-international-championship
+🟢 Successfully processed: Champions League [3/12]
 🟡 Visiting detail page [6/12]: https://pogo.pk/events/rennes-vs-olympiakos-piraeus
-🟢 Successfully processed: Europa League [6/12]
-🟡 Visiting detail page [7/12]: https://pogo.pk/events/napoli-vs-porto
-🟢 Successfully processed: Snooker [5/12]
-🟡 Visiting detail page [8/12]: https://pogo.pk/events/borussia-dortmund-vs-real-betis
 🟢 Successfully processed: Champions League [4/12]
+🟡 Visiting detail page [7/12]: https://pogo.pk/events/napoli-vs-porto
+🟢 Successfully processed: Europa League [6/12]
+🟡 Visiting detail page [8/12]: https://pogo.pk/events/borussia-dortmund-vs-real-betis
+🟢 Successfully processed: Snooker [5/12]
 🟡 Visiting detail page [9/12]: https://pogo.pk/events/como-vs-lens
 🟢 Successfully processed: Champions League [7/12]
 🟡 Visiting detail page [10/12]: https://pogo.pk/events/psv-vs-club-brugge
-🟢 Successfully processed: Champions League [8/12]
-🟡 Visiting detail page [11/12]: https://pogo.pk/events/viking-vs-sabah
 🟢 Successfully processed: Champions League [9/12]
+🟢 Successfully processed: Champions League [8/12]
 🟡 Visiting detail page [12/12]: https://pogo.pk/events/wolves-vs-bristol-city
+🟡 Visiting detail page [11/12]: https://pogo.pk/events/viking-vs-sabah
 🟢 Successfully processed: Champions League [10/12]
 🟢 Successfully processed: Champions League [11/12]
 🟢 Successfully processed: EFL [12/12]

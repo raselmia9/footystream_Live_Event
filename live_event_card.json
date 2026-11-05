@@ -76,6 +76,23 @@
         ]
     },
     {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-11-05 23:45:00",
+        "team1Title": "FC Thun",
+        "team2Title": "Hearts",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-thun/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/thun-vs-hearts",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/thun-vs-hearts/3435"
+            }
+        ]
+    },
+    {
         "eventTitle": "Europa League",
         "matchTime": "2026-11-05 23:45:00",
         "team1Title": "Crystal Palace",
@@ -106,6 +123,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/real-sociedad-vs-lyon/3451"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Conference League",
+        "matchTime": "2026-11-06 02:00:00",
+        "team1Title": "Brighton & Hove Albion",
+        "team2Title": "Getafe",
+        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brighton-vs-getafe",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brighton-vs-getafe/3436"
             }
         ]
     },
@@ -144,36 +178,40 @@
         ]
     },
     {
-        "eventTitle": "Conference League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Title": "FC Thun",
-        "team2Title": "Hearts",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-thun/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "eventTitle": "Europa League",
+        "matchTime": "2026-11-06 02:00:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-marseille/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/thun-vs-hearts",
+        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-olympique-marseille",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/thun-vs-hearts/3435"
+                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-olympique-marseille/3439"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-olympique-marseille/3452"
             }
         ]
     },
     {
-        "eventTitle": "Conference League",
+        "eventTitle": "Europa League",
         "matchTime": "2026-11-06 02:00:00",
-        "team1Title": "Brighton & Hove Albion",
-        "team2Title": "Getafe",
-        "team1Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team1Title": "Celtic",
+        "team2Title": "Besiktas",
+        "team1Logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/besiktas/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brighton-vs-getafe",
+        "detailsPage": "https://pogo.pk/events/celtic-vs-besiktas",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brighton-vs-getafe/3436"
+                "url": "https://playerdee.top/alpha/celtic-vs-besiktas/3440"
             }
         ]
     },

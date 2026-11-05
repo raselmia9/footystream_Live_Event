@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 50
-🟡 Visiting detail page [1/50]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [2/50]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [1/50]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [3/50]: https://pogo.pk/events/milan-vs-ferencvaros
-🟢 Successfully processed: Snooker [1/50]
-🟡 Visiting detail page [4/50]: https://pogo.pk/events/bournemouth-vs-sparta-praha
 🟢 Successfully processed: Europa League [3/50]
+🟡 Visiting detail page [4/50]: https://pogo.pk/events/bournemouth-vs-sparta-praha
+🟢 Successfully processed: Snooker [1/50]
 🟡 Visiting detail page [5/50]: https://pogo.pk/events/thun-vs-hearts
 🟢 Successfully processed: PGA Tour [2/50]
 🟡 Visiting detail page [6/50]: https://pogo.pk/events/crystal-palace-vs-hoffenheim
-🟢 Successfully processed: Conference League [5/50]
-🟡 Visiting detail page [7/50]: https://pogo.pk/events/real-sociedad-vs-lyon
 🟢 Successfully processed: Europa League [4/50]
+🟡 Visiting detail page [7/50]: https://pogo.pk/events/real-sociedad-vs-lyon
+🟢 Successfully processed: Conference League [5/50]
 🟡 Visiting detail page [8/50]: https://pogo.pk/events/brighton-vs-getafe
 🟢 Successfully processed: Europa League [6/50]
 🟡 Visiting detail page [9/50]: https://pogo.pk/events/sunderland-vs-dinamo-zagreb
@@ -82,15 +82,15 @@
 🟡 Visiting detail page [40/50]: https://pogo.pk/events/fulham-vs-newcastle-united
 🟢 Successfully processed: Premier League [39/50]
 🟡 Visiting detail page [41/50]: https://pogo.pk/events/manchester-city-vs-nottm-forest
-🟢 Successfully processed: Premier League [40/50]
-🟡 Visiting detail page [42/50]: https://pogo.pk/events/bolton-wanderers-vs-derby-county
 🟢 Successfully processed: Premiership Rugby [32/50]
+🟡 Visiting detail page [42/50]: https://pogo.pk/events/bolton-wanderers-vs-derby-county
+🟢 Successfully processed: Premier League [40/50]
 🟡 Visiting detail page [43/50]: https://pogo.pk/events/wolves-vs-wrexham
 🟢 Successfully processed: Premier League [41/50]
 🟡 Visiting detail page [44/50]: https://pogo.pk/events/bristol-city-vs-norwich-city
-🟢 Successfully processed: EFL [42/50]
-🟡 Visiting detail page [45/50]: https://pogo.pk/events/middlesbrough-vs-watford
 🟢 Successfully processed: EFL [43/50]
+🟡 Visiting detail page [45/50]: https://pogo.pk/events/middlesbrough-vs-watford
+🟢 Successfully processed: EFL [42/50]
 🟡 Visiting detail page [46/50]: https://pogo.pk/events/sheffield-united-vs-charlton-athletic
 🟢 Successfully processed: EFL [44/50]
 🟡 Visiting detail page [47/50]: https://pogo.pk/events/famalicao-vs-arouca

@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 48
 🟡 Visiting detail page [2/48]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [3/48]: https://pogo.pk/events/milan-vs-ferencvaros
 🟡 Visiting detail page [1/48]: https://pogo.pk/events/snooker-international-championship
-🟢 Successfully processed: Snooker [1/48]
-🟢 Successfully processed: PGA Tour [2/48]
-🟡 Visiting detail page [4/48]: https://pogo.pk/events/bournemouth-vs-sparta-praha
+🟡 Visiting detail page [3/48]: https://pogo.pk/events/milan-vs-ferencvaros
 🟢 Successfully processed: Europa League [3/48]
+🟡 Visiting detail page [4/48]: https://pogo.pk/events/bournemouth-vs-sparta-praha
+🟢 Successfully processed: PGA Tour [2/48]
 🟡 Visiting detail page [5/48]: https://pogo.pk/events/crystal-palace-vs-hoffenheim
+🟢 Successfully processed: Snooker [1/48]
 🟡 Visiting detail page [6/48]: https://pogo.pk/events/real-sociedad-vs-lyon
 🟢 Successfully processed: Europa League [4/48]
 🟡 Visiting detail page [7/48]: https://pogo.pk/events/sunderland-vs-dinamo-zagreb
-🟢 Successfully processed: Europa League [6/48]
-🟡 Visiting detail page [8/48]: https://pogo.pk/events/az-vs-juventus
 🟢 Successfully processed: Europa League [5/48]
+🟡 Visiting detail page [8/48]: https://pogo.pk/events/az-vs-juventus
+🟢 Successfully processed: Europa League [6/48]
 🟡 Visiting detail page [9/48]: https://pogo.pk/events/thun-vs-hearts
 🟢 Successfully processed: Europa League [7/48]
 🟡 Visiting detail page [10/48]: https://pogo.pk/events/brighton-vs-getafe
@@ -92,9 +92,9 @@
 🟡 Visiting detail page [45/48]: https://pogo.pk/events/famalicao-vs-arouca
 🟢 Successfully processed: EFL [43/48]
 🟡 Visiting detail page [46/48]: https://pogo.pk/events/nacional-vs-academico-viseu
-🟢 Successfully processed: Liga Portugal [45/48]
-🟡 Visiting detail page [47/48]: https://pogo.pk/events/alverca-vs-casa-pia
 🟢 Successfully processed: EFL [44/48]
+🟡 Visiting detail page [47/48]: https://pogo.pk/events/alverca-vs-casa-pia
+🟢 Successfully processed: Liga Portugal [45/48]
 🟡 Visiting detail page [48/48]: https://pogo.pk/events/new-zealand-vs-tonga
 🟢 Successfully processed: Liga Portugal [46/48]
 🟢 Successfully processed: Liga Portugal [47/48]

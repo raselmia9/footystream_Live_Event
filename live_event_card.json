@@ -42,91 +42,6 @@
         ]
     },
     {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AC Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/ferencvaros/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/milan-vs-ferencvaros",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/milan-vs-ferencvaros/3433"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AFC Bournemouth",
-        "team1Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sparta-praha/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bournemouth-vs-sparta-praha",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bournemouth-vs-sparta-praha/3434"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Conference League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "FC Thun",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-thun/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/thun-vs-hearts",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/thun-vs-hearts/3435"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Crystal Palace",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-hoffenheim",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/crystal-palace-vs-hoffenheim/3442"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Sociedad",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-lyon",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-lyon/3451"
-            }
-        ]
-    },
-    {
         "eventTitle": "Conference League",
         "matchTime": "2026-11-06 02:00:00",
         "team1Title": "Brighton & Hove Albion",
@@ -461,6 +376,23 @@
         ]
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 02:10:00",
+        "team1Title": "France",
+        "team2Title": "Fiji",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/france-vs-fiji",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/france-vs-fiji/3462"
+            }
+        ]
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-07 01:45:00",
         "team1Title": "Venezia",
@@ -559,6 +491,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/osasuna-vs-athletic-club",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-08 02:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-valencia",
         "multiWatchPageLink": []
     },
     {
@@ -733,6 +677,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-08 02:30:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "Moreirense",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-11-07 15:05:00",
         "team1Title": "New Zealand",
@@ -746,6 +702,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/new-zealand-vs-tonga/3464"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby League World Cup",
+        "matchTime": "2026-11-08 15:05:00",
+        "team1Title": "Australia",
+        "team2Title": "Samoa",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/samoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-samoa",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australia-vs-samoa/3465"
             }
         ]
     }

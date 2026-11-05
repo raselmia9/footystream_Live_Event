@@ -78,23 +78,6 @@
     {
         "eventTitle": "Europa League",
         "matchTime": "2026-11-05 23:45:00",
-        "team1Title": "Crystal Palace",
-        "team2Title": "Hoffenheim",
-        "team1Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/crystal-palace-vs-hoffenheim",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/crystal-palace-vs-hoffenheim/3442"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Europa League",
-        "matchTime": "2026-11-05 23:45:00",
         "team1Title": "Real Sociedad",
         "team2Title": "Olympique Lyonnais",
         "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",

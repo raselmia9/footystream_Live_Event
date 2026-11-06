@@ -6,15 +6,15 @@
 🟡 Visiting detail page [2/44]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/44]: https://pogo.pk/events/motogp-qatar
 🟡 Visiting detail page [1/44]: https://pogo.pk/events/snooker-international-championship
+🟢 Successfully processed: Snooker [1/44]
 🟢 Successfully processed: MotoGP [3/44]
 🟡 Visiting detail page [4/44]: https://pogo.pk/events/f1-brazilian-grand-prix
-🟢 Successfully processed: Snooker [1/44]
-🟡 Visiting detail page [5/44]: https://pogo.pk/events/hamburger-vs-borussia-mgladbach
 🟢 Successfully processed: PGA Tour [2/44]
+🟡 Visiting detail page [5/44]: https://pogo.pk/events/hamburger-vs-borussia-mgladbach
 🟡 Visiting detail page [6/44]: https://pogo.pk/events/bayern-munchen-vs-mainz-05
-🟢 Successfully processed: Bundesliga [6/44]
-🟡 Visiting detail page [7/44]: https://pogo.pk/events/stuttgart-vs-werder-bremen
 🟢 Successfully processed: Bundesliga [5/44]
+🟡 Visiting detail page [7/44]: https://pogo.pk/events/stuttgart-vs-werder-bremen
+🟢 Successfully processed: Bundesliga [6/44]
 🟡 Visiting detail page [8/44]: https://pogo.pk/events/toulouse-vs-strasbourg
 🟢 Successfully processed: Bundesliga [7/44]
 🟡 Visiting detail page [9/44]: https://pogo.pk/events/paris-vs-auxerre
@@ -50,9 +50,9 @@
 🟡 Visiting detail page [24/44]: https://pogo.pk/events/sevilla-vs-alaves
 🟢 Successfully processed: LaLiga [24/44]
 🟡 Visiting detail page [25/44]: https://pogo.pk/events/malaga-vs-racing-santander
-🟢 Successfully processed: Rugby Union [19/44]
-🟡 Visiting detail page [26/44]: https://pogo.pk/events/espanyol-vs-deportivo-la-coruna
 🟢 Successfully processed: LaLiga [25/44]
+🟡 Visiting detail page [26/44]: https://pogo.pk/events/espanyol-vs-deportivo-la-coruna
+🟢 Successfully processed: Rugby Union [19/44]
 🟡 Visiting detail page [27/44]: https://pogo.pk/events/osasuna-vs-athletic-club
 🟢 Successfully processed: LaLiga [26/44]
 🟡 Visiting detail page [28/44]: https://pogo.pk/events/real-madrid-vs-valencia
@@ -70,9 +70,9 @@
 🟡 Visiting detail page [34/44]: https://pogo.pk/events/bolton-wanderers-vs-derby-county
 🟢 Successfully processed: Premier League [33/44]
 🟡 Visiting detail page [35/44]: https://pogo.pk/events/wolves-vs-wrexham
-🟢 Successfully processed: EFL [34/44]
 🟢 Successfully processed: Premiership Rugby [23/44]
 🟡 Visiting detail page [36/44]: https://pogo.pk/events/bristol-city-vs-norwich-city
+🟢 Successfully processed: EFL [34/44]
 🟡 Visiting detail page [37/44]: https://pogo.pk/events/middlesbrough-vs-watford
 🟢 Successfully processed: EFL [35/44]
 🟡 Visiting detail page [38/44]: https://pogo.pk/events/sheffield-united-vs-charlton-athletic

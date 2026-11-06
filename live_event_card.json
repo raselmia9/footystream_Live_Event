@@ -68,7 +68,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/f1-brazilian-grand-prix",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/f1-brazilian-grand-prix/3470"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/f1-brazilian-grand-prix/3471"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/f1-brazilian-grand-prix/3472"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",

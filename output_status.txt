@@ -16,9 +16,9 @@
 🟡 Visiting detail page [7/44]: https://pogo.pk/events/stuttgart-vs-werder-bremen
 🟢 Successfully processed: Bundesliga [7/44]
 🟡 Visiting detail page [8/44]: https://pogo.pk/events/toulouse-vs-strasbourg
-🟢 Successfully processed: Formula 1 [4/44]
-🟡 Visiting detail page [9/44]: https://pogo.pk/events/paris-vs-auxerre
 🟢 Successfully processed: Bundesliga [5/44]
+🟡 Visiting detail page [9/44]: https://pogo.pk/events/paris-vs-auxerre
+🟢 Successfully processed: Formula 1 [4/44]
 🟡 Visiting detail page [10/44]: https://pogo.pk/events/psg-vs-troyes
 🟢 Successfully processed: French Ligue 1 [9/44]
 🟡 Visiting detail page [11/44]: https://pogo.pk/events/oxford-city-vs-leicester-city
@@ -66,9 +66,9 @@
 🟡 Visiting detail page [32/44]: https://pogo.pk/events/fulham-vs-newcastle-united
 🟢 Successfully processed: Premier League [31/44]
 🟡 Visiting detail page [33/44]: https://pogo.pk/events/manchester-city-vs-nottm-forest
+🟢 Successfully processed: Premier League [33/44]
 🟢 Successfully processed: Premier League [32/44]
 🟡 Visiting detail page [34/44]: https://pogo.pk/events/bolton-wanderers-vs-derby-county
-🟢 Successfully processed: Premier League [33/44]
 🟡 Visiting detail page [35/44]: https://pogo.pk/events/wolves-vs-wrexham
 🟢 Successfully processed: EFL [35/44]
 🟡 Visiting detail page [36/44]: https://pogo.pk/events/bristol-city-vs-norwich-city
@@ -84,9 +84,9 @@
 🟡 Visiting detail page [41/44]: https://pogo.pk/events/alverca-vs-casa-pia
 🟢 Successfully processed: Liga Portugal [41/44]
 🟡 Visiting detail page [42/44]: https://pogo.pk/events/sporting-cp-vs-moreirense
-🟢 Successfully processed: EFL [38/44]
-🟡 Visiting detail page [43/44]: https://pogo.pk/events/new-zealand-vs-tonga
 🟢 Successfully processed: Liga Portugal [42/44]
+🟡 Visiting detail page [43/44]: https://pogo.pk/events/new-zealand-vs-tonga
+🟢 Successfully processed: EFL [38/44]
 🟡 Visiting detail page [44/44]: https://pogo.pk/events/australia-vs-samoa
 🟢 Successfully processed: Liga Portugal [39/44]
 🟢 Successfully processed: Rugby League World Cup [43/44]

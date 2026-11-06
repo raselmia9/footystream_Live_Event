@@ -93,7 +93,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/hamburger-vs-borussia-mgladbach",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hamburger-vs-borussia-mgladbach/3475"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",
@@ -129,7 +134,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/toulouse-vs-strasbourg",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/toulouse-vs-strasbourg/3476"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/toulouse-vs-strasbourg/3477"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",
@@ -326,7 +340,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/venezia-vs-udinese",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/venezia-vs-udinese/3473"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/venezia-vs-udinese/3474"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",

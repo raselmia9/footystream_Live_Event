@@ -6,17 +6,17 @@
 🟡 Visiting detail page [2/35]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/35]: https://pogo.pk/events/motogp-qatar
 🟡 Visiting detail page [1/35]: https://pogo.pk/events/snooker-international-championship
-🟢 Successfully processed: Snooker [1/35]
 🟢 Successfully processed: MotoGP [3/35]
+🟡 Visiting detail page [4/35]: https://pogo.pk/events/f1-brazilian-grand-prix
 🟢 Successfully processed: PGA Tour [2/35]
 🟡 Visiting detail page [5/35]: https://pogo.pk/events/famalicao-vs-arouca
-🟡 Visiting detail page [4/35]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟢 Successfully processed: Snooker [1/35]
 🟡 Visiting detail page [6/35]: https://pogo.pk/events/new-zealand-vs-tonga
-🟢 Successfully processed: Rugby League World Cup [6/35]
-🟡 Visiting detail page [7/35]: https://pogo.pk/events/australia-vs-samoa
 🟢 Successfully processed: Formula 1 [4/35]
-🟡 Visiting detail page [8/35]: https://pogo.pk/events/italy-vs-south-africa
+🟡 Visiting detail page [7/35]: https://pogo.pk/events/australia-vs-samoa
 🟢 Successfully processed: Liga Portugal [5/35]
+🟡 Visiting detail page [8/35]: https://pogo.pk/events/italy-vs-south-africa
+🟢 Successfully processed: Rugby League World Cup [6/35]
 🟡 Visiting detail page [9/35]: https://pogo.pk/events/scotland-vs-new-zealand
 🟢 Successfully processed: Rugby Union [8/35]
 🟡 Visiting detail page [10/35]: https://pogo.pk/events/japan-vs-wales
@@ -42,11 +42,11 @@
 🟡 Visiting detail page [20/35]: https://pogo.pk/events/sheffield-united-vs-charlton-athletic
 🟢 Successfully processed: EFL [18/35]
 🟡 Visiting detail page [21/35]: https://pogo.pk/events/malaga-vs-racing-santander
-🟢 Successfully processed: LaLiga [21/35]
-🟡 Visiting detail page [22/35]: https://pogo.pk/events/espanyol-vs-deportivo-la-coruna
 🟢 Successfully processed: EFL [19/35]
-🟡 Visiting detail page [23/35]: https://pogo.pk/events/osasuna-vs-athletic-club
+🟡 Visiting detail page [22/35]: https://pogo.pk/events/espanyol-vs-deportivo-la-coruna
 🟢 Successfully processed: EFL [20/35]
+🟡 Visiting detail page [23/35]: https://pogo.pk/events/osasuna-vs-athletic-club
+🟢 Successfully processed: LaLiga [21/35]
 🟡 Visiting detail page [24/35]: https://pogo.pk/events/real-madrid-vs-valencia
 🟢 Successfully processed: LaLiga [22/35]
 🟡 Visiting detail page [25/35]: https://pogo.pk/events/bayern-munchen-vs-mainz-05

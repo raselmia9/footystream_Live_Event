@@ -84,23 +84,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-07 02:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Famalicão",
-        "team1Logo": "https://cdn.img4every1.org/team/famalicao/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/arouca/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/famalicao-vs-arouca",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/famalicao-vs-arouca/3488"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-11-07 15:05:00",
         "team1Title": "New Zealand",

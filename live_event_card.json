@@ -84,27 +84,10 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-07 01:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Hamburger SV",
-        "team1Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hamburger-vs-borussia-mgladbach",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/hamburger-vs-borussia-mgladbach/3475"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-07 01:45:00",
-        "team1Title": "Toulouse",
-        "team2Title": "Strasbourg",
+        "team1Title": "Event Ended",
+        "team2Title": "Toulouse",
         "team1Logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/strasbourg/logo.webp",
         "isHot": true,
@@ -124,8 +107,8 @@
     {
         "eventTitle": "FA Cup",
         "matchTime": "2026-11-07 01:45:00",
-        "team1Title": "Oxford City",
-        "team2Title": "Leicester City",
+        "team1Title": "Event Ended",
+        "team2Title": "Oxford City",
         "team1Logo": "https://cdn.img4every1.org/team/oxford-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
         "isHot": true,
@@ -141,8 +124,8 @@
     {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-07 01:45:00",
-        "team1Title": "England",
-        "team2Title": "Argentina",
+        "team1Title": "Event Ended",
+        "team2Title": "England",
         "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
         "isHot": true,
@@ -158,8 +141,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-07 01:45:00",
-        "team1Title": "Venezia",
-        "team2Title": "Udinese",
+        "team1Title": "Event Ended",
+        "team2Title": "Venezia",
         "team1Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
         "isHot": true,
@@ -179,8 +162,8 @@
     {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-11-07 01:45:00",
-        "team1Title": "Leicester Tigers",
-        "team2Title": "Northampton Saints",
+        "team1Title": "Event Ended",
+        "team2Title": "Leicester Tigers",
         "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/northampton-saints/logo.webp",
         "isHot": true,

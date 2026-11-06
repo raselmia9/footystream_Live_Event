@@ -122,30 +122,6 @@
         ]
     },
     {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-07 22:15:00",
-        "team1Title": "Paris FC",
-        "team2Title": "Auxerre",
-        "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/paris-vs-auxerre",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-08 01:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Troyes",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-troyes",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "FA Cup",
         "matchTime": "2026-11-07 01:45:00",
         "team1Title": "Oxford City",
@@ -163,48 +139,6 @@
         ]
     },
     {
-        "eventTitle": "FA Cup",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Altrincham",
-        "team2Title": "Notts County",
-        "team1Logo": "https://cdn.img4every1.org/team/altrincham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/altrincham-vs-notts-county",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/altrincham-vs-notts-county/3445"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/altrincham-vs-notts-county/3446"
-            }
-        ]
-    },
-    {
-        "eventTitle": "FA Cup",
-        "matchTime": "2026-11-08 02:00:00",
-        "team1Title": "Peterborough United",
-        "team2Title": "Reading",
-        "team1Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/peterborough-utd-vs-reading",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3447"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3448"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-07 01:45:00",
         "team1Title": "England",
@@ -218,91 +152,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/england-a-v-argentina-xv/3456"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 02:10:00",
-        "team1Title": "Ireland",
-        "team2Title": "Argentina",
-        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ireland-vs-argentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ireland-vs-argentina/3458"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 17:40:00",
-        "team1Title": "Italy",
-        "team2Title": "South Africa",
-        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/italy-vs-south-africa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/italy-vs-south-africa/3459"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 20:10:00",
-        "team1Title": "Scotland",
-        "team2Title": "New Zealand",
-        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/scotland-vs-new-zealand",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/scotland-vs-new-zealand/3460"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 22:40:00",
-        "team1Title": "Japan",
-        "team2Title": "Wales",
-        "team1Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/japan-vs-wales",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/japan-vs-wales/3461"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-08 02:10:00",
-        "team1Title": "France",
-        "team2Title": "Fiji",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/france-vs-fiji",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/france-vs-fiji/3462"
             }
         ]
     },
@@ -326,30 +175,6 @@
                 "url": "https://playerdee.top/alpha/venezia-vs-udinese/3474"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-07 23:00:00",
-        "team1Title": "Parma",
-        "team2Title": "Bologna",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-bologna",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 01:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-sassuolo",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premiership Rugby",
@@ -607,6 +432,108 @@
         ]
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-07 02:10:00",
+        "team1Title": "Ireland",
+        "team2Title": "Argentina",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ireland-vs-argentina",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ireland-vs-argentina/3458"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-07 17:40:00",
+        "team1Title": "Italy",
+        "team2Title": "South Africa",
+        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/italy-vs-south-africa",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/italy-vs-south-africa/3459"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-07 20:10:00",
+        "team1Title": "Scotland",
+        "team2Title": "New Zealand",
+        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/scotland-vs-new-zealand",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/scotland-vs-new-zealand/3460"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-07 22:40:00",
+        "team1Title": "Japan",
+        "team2Title": "Wales",
+        "team1Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/japan-vs-wales",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/japan-vs-wales/3461"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 02:10:00",
+        "team1Title": "France",
+        "team2Title": "Fiji",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/france-vs-fiji",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/france-vs-fiji/3462"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 21:10:00",
+        "team1Title": "England",
+        "team2Title": "Australia",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-australia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-australia/3463"
+            }
+        ]
+    },
+    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-07 02:45:00",
         "team1Title": "Famalicão",
@@ -716,5 +643,95 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-07 22:15:00",
+        "team1Title": "Paris FC",
+        "team2Title": "Auxerre",
+        "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/paris-vs-auxerre",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-08 01:45:00",
+        "team1Title": "PSG",
+        "team2Title": "Troyes",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-troyes",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-07 23:00:00",
+        "team1Title": "Parma",
+        "team2Title": "Bologna",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/parma-vs-bologna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 01:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Sassuolo",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-sassuolo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "FA Cup",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Title": "Altrincham",
+        "team2Title": "Notts County",
+        "team1Logo": "https://cdn.img4every1.org/team/altrincham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/altrincham-vs-notts-county",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/altrincham-vs-notts-county/3445"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/altrincham-vs-notts-county/3446"
+            }
+        ]
+    },
+    {
+        "eventTitle": "FA Cup",
+        "matchTime": "2026-11-08 02:00:00",
+        "team1Title": "Peterborough United",
+        "team2Title": "Reading",
+        "team1Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/peterborough-utd-vs-reading",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3447"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3448"
+            }
+        ]
     }
 ]

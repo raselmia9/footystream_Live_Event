@@ -307,42 +307,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-07 21:30:00",
-        "team1Title": "Nacional de Madeira",
-        "team2Title": "Academico Viseu",
-        "team1Logo": "https://cdn.img4every1.org/team/nacional-de-madeira/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/academico-viseu/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/nacional-vs-academico-viseu",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-08 00:00:00",
-        "team1Title": "Alverca",
-        "team2Title": "Casa Pia",
-        "team1Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/casa-pia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alverca-vs-casa-pia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-08 02:30:00",
-        "team1Title": "Sporting CP",
-        "team2Title": "Moreirense",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-11-07 15:05:00",
         "team1Title": "New Zealand",
@@ -642,6 +606,42 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-07 21:30:00",
+        "team1Title": "Nacional de Madeira",
+        "team2Title": "Academico Viseu",
+        "team1Logo": "https://cdn.img4every1.org/team/nacional-de-madeira/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/academico-viseu/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/nacional-vs-academico-viseu",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-08 00:00:00",
+        "team1Title": "Alverca",
+        "team2Title": "Casa Pia",
+        "team1Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/casa-pia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/alverca-vs-casa-pia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-08 02:30:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "Moreirense",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
         "multiWatchPageLink": []
     },
     {

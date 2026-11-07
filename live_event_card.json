@@ -1,5 +1,38 @@
 [
     {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-07 21:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Hull City",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/arsenal-vs-hull-city",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3508"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3509"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3510"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3511"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3512"
+            }
+        ]
+    },
+    {
         "eventTitle": "Snooker",
         "matchTime": "2026-11-02 12:00:00",
         "team1Title": "Snooker International Championship",
@@ -130,39 +163,6 @@
             {
                 "channel": "Link 5",
                 "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-leeds-united/3493"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-07 21:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Hull City",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/arsenal-vs-hull-city",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3508"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3509"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3510"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3511"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3512"
             }
         ]
     },

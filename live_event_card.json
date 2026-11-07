@@ -143,7 +143,28 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/arsenal-vs-hull-city",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3508"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3509"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3510"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3511"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/arsenal-vs-hull-city/3512"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -285,7 +306,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/espanyol-vs-deportivo-la-coruna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3513"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3514"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

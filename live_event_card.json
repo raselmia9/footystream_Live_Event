@@ -121,44 +121,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-08 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Alverca",
-        "team1Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/casa-pia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alverca-vs-casa-pia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/alverca-vs-casa-pia/3527"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-08 00:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Paris FC",
-        "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/paris-vs-auxerre",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/paris-vs-auxerre/3525"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/paris-vs-auxerre/3526"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-08 01:45:00",
         "team1Title": "AS Roma",
@@ -414,6 +376,18 @@
     },
     {
         "eventTitle": "Premier League",
+        "matchTime": "2026-11-08 20:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Sunderland",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/chelsea-vs-sunderland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
         "matchTime": "2026-11-08 22:30:00",
         "team1Title": "Manchester United",
         "team2Title": "Aston Villa",
@@ -422,6 +396,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-aston-villa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-08 20:30:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Köln",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-koln",
         "multiWatchPageLink": []
     },
     {
@@ -435,5 +421,34 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/union-berlin-vs-freiburg",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-09 00:30:00",
+        "team1Title": "Hoffenheim",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hoffenheim-vs-schalke-04",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 21:10:00",
+        "team1Title": "England",
+        "team2Title": "Australia",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-australia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-australia/3463"
+            }
+        ]
     }
 ]

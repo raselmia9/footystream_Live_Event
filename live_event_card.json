@@ -226,60 +226,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-07 21:15:00",
-        "team1Title": "Espanyol",
-        "team2Title": "Deportivo La Coruña",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/espanyol-vs-deportivo-la-coruna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3513"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3514"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/osasuna-vs-athletic-club",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3516"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-08 02:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-valencia",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-07 20:00:00",
         "team1Title": "Lecce",
@@ -552,6 +498,60 @@
                 "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3524"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-07 21:15:00",
+        "team1Title": "Espanyol",
+        "team2Title": "Deportivo La Coruña",
+        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/espanyol-vs-deportivo-la-coruna",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3513"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3514"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/osasuna-vs-athletic-club",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3516"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-08 02:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-valencia",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Liga Portugal",

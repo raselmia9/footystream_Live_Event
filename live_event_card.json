@@ -268,23 +268,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-08 02:30:00",
-        "team1Title": "Sporting CP",
-        "team2Title": "Moreirense",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sporting-cp-vs-moreirense/3535"
-            }
-        ]
-    },
-    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-08 00:00:00",
         "team1Title": "Paris FC",
@@ -443,6 +426,23 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/england-vs-australia/3463"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-08 02:30:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "Moreirense",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sporting-cp-vs-moreirense/3535"
             }
         ]
     },

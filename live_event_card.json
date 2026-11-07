@@ -33,27 +33,6 @@
         ]
     },
     {
-        "eventTitle": "Snooker",
-        "matchTime": "2026-11-02 12:00:00",
-        "team1Title": "Snooker International Championship",
-        "team2Title": "Snooker",
-        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/snooker-international-championship",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/snooker-international-championship/3356"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/snooker-international-championship/3357"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-11-05 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -282,30 +261,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-08 00:00:00",
-        "team1Title": "Alverca",
-        "team2Title": "Casa Pia",
-        "team1Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/casa-pia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/alverca-vs-casa-pia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-08 02:30:00",
-        "team1Title": "Sporting CP",
-        "team2Title": "Moreirense",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-07 22:40:00",
         "team1Title": "Japan",
@@ -525,6 +480,30 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-madrid-vs-valencia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-08 00:00:00",
+        "team1Title": "Alverca",
+        "team2Title": "Casa Pia",
+        "team1Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/casa-pia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/alverca-vs-casa-pia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-08 02:30:00",
+        "team1Title": "Sporting CP",
+        "team2Title": "Moreirense",
+        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
         "multiWatchPageLink": []
     },
     {

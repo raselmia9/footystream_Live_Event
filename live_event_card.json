@@ -150,31 +150,10 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-07 21:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Espanyol",
-        "team1Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/espanyol-vs-deportivo-la-coruna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3513"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3514"
-            }
-        ]
-    },
-    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-07 21:30:00",
-        "team1Title": "Nacional de Madeira",
-        "team2Title": "Academico Viseu",
+        "team1Title": "Event Ended",
+        "team2Title": "Nacional de Madeira",
         "team1Logo": "https://cdn.img4every1.org/team/nacional-de-madeira/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/academico-viseu/logo.webp",
         "isHot": true,
@@ -247,42 +226,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-08 20:30:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "Köln",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-koln",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-08 22:30:00",
-        "team1Title": "Union Berlin",
-        "team2Title": "Freiburg",
-        "team1Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/union-berlin-vs-freiburg",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-09 00:30:00",
-        "team1Title": "Hoffenheim",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hoffenheim-vs-schalke-04",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "FA Cup",
         "matchTime": "2026-11-07 23:30:00",
         "team1Title": "Altrincham",
@@ -300,27 +243,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/altrincham-vs-notts-county/3446"
-            }
-        ]
-    },
-    {
-        "eventTitle": "FA Cup",
-        "matchTime": "2026-11-08 02:00:00",
-        "team1Title": "Peterborough United",
-        "team2Title": "Reading",
-        "team1Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/peterborough-utd-vs-reading",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3447"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3448"
             }
         ]
     },
@@ -344,66 +266,6 @@
                 "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-08 19:00:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Elche CF",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-betis-vs-elche",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-08 21:15:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-08 23:30:00",
-        "team1Title": "Celta de Vigo",
-        "team2Title": "Levante",
-        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/celta-vigo-vs-levante",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-08 23:30:00",
-        "team1Title": "Getafe",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/getafe-vs-villarreal",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-09 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-atletico-madrid",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Liga Portugal",
@@ -547,6 +409,27 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "FA Cup",
+        "matchTime": "2026-11-08 02:00:00",
+        "team1Title": "Peterborough United",
+        "team2Title": "Reading",
+        "team1Logo": "https://cdn.img4every1.org/team/peterborough-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/reading/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/peterborough-utd-vs-reading",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3447"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3448"
+            }
+        ]
+    },
+    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-08 02:10:00",
         "team1Title": "France",
@@ -596,6 +479,66 @@
                 "url": "https://playerdee.top/alpha/australia-vs-samoa/3465"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-08 19:00:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Elche CF",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/elche-cf/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-betis-vs-elche",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-08 21:15:00",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-08 23:30:00",
+        "team1Title": "Celta de Vigo",
+        "team2Title": "Levante",
+        "team1Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/celta-vigo-vs-levante",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-08 23:30:00",
+        "team1Title": "Getafe",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/getafe/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/getafe-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-09 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-atletico-madrid",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",
@@ -655,6 +598,42 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/manchester-united-vs-aston-villa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-08 20:30:00",
+        "team1Title": "Bayer Leverkusen",
+        "team2Title": "Köln",
+        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-koln",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-08 22:30:00",
+        "team1Title": "Union Berlin",
+        "team2Title": "Freiburg",
+        "team1Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/union-berlin-vs-freiburg",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-09 00:30:00",
+        "team1Title": "Hoffenheim",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hoffenheim-vs-schalke-04",
         "multiWatchPageLink": []
     }
 ]

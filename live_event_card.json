@@ -96,40 +96,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-07 20:00:00",
-        "team1Title": "Lecce",
-        "team2Title": "Torino",
-        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lecce-vs-torino",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lecce-vs-torino/3499"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-07 20:00:00",
-        "team1Title": "Cagliari",
-        "team2Title": "Frosinone Calcio",
-        "team1Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/cagliari-vs-frosinone",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/cagliari-vs-frosinone/3498"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-07 20:10:00",
         "team1Title": "Scotland",

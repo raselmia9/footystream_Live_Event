@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 29
-🟡 Visiting detail page [1/29]: https://pogo.pk/events/real-madrid-vs-valencia
-🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/29]: https://pogo.pk/events/psg-vs-troyes
-🟢 Successfully processed: French Ligue 1 [2/29]
-🟡 Visiting detail page [4/29]: https://pogo.pk/events/motogp-qatar
+🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [1/29]: https://pogo.pk/events/real-madrid-vs-valencia
 🟢 Successfully processed: LaLiga [1/29]
+🟢 Successfully processed: French Ligue 1 [2/29]
 🟡 Visiting detail page [5/29]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟡 Visiting detail page [4/29]: https://pogo.pk/events/motogp-qatar
 🟢 Successfully processed: PGA Tour [3/29]
 🟡 Visiting detail page [6/29]: https://pogo.pk/events/roma-vs-sassuolo
-🟢 Successfully processed: MotoGP [4/29]
-🟡 Visiting detail page [7/29]: https://pogo.pk/events/peterborough-utd-vs-reading
-🟢 Successfully processed: Serie A [6/29]
-🟡 Visiting detail page [8/29]: https://pogo.pk/events/france-vs-fiji
 🟢 Successfully processed: Formula 1 [5/29]
+🟡 Visiting detail page [7/29]: https://pogo.pk/events/peterborough-utd-vs-reading
+🟢 Successfully processed: MotoGP [4/29]
+🟡 Visiting detail page [8/29]: https://pogo.pk/events/france-vs-fiji
+🟢 Successfully processed: Serie A [6/29]
 🟡 Visiting detail page [9/29]: https://pogo.pk/events/sporting-cp-vs-moreirense
 🟢 Successfully processed: FA Cup [7/29]
 🟡 Visiting detail page [10/29]: https://pogo.pk/events/australia-vs-samoa
@@ -24,27 +24,27 @@
 🟡 Visiting detail page [11/29]: https://pogo.pk/events/lazio-vs-napoli
 🟢 Successfully processed: Liga Portugal [9/29]
 🟡 Visiting detail page [12/29]: https://pogo.pk/events/monza-vs-atalanta
-🟢 Successfully processed: Rugby League World Cup [10/29]
-🟡 Visiting detail page [13/29]: https://pogo.pk/events/ac-milan-vs-genoa
 🟢 Successfully processed: Serie A [11/29]
-🟡 Visiting detail page [14/29]: https://pogo.pk/events/inter-milan-vs-como
-🟢 Successfully processed: Serie A [12/29]
-🟡 Visiting detail page [15/29]: https://pogo.pk/events/juventus-vs-fiorentina
+🟡 Visiting detail page [13/29]: https://pogo.pk/events/ac-milan-vs-genoa
 🟢 Successfully processed: Serie A [13/29]
-🟡 Visiting detail page [16/29]: https://pogo.pk/events/real-betis-vs-elche
+🟡 Visiting detail page [14/29]: https://pogo.pk/events/inter-milan-vs-como
 🟢 Successfully processed: Serie A [14/29]
-🟡 Visiting detail page [17/29]: https://pogo.pk/events/real-sociedad-vs-rayo-vallecano
+🟡 Visiting detail page [15/29]: https://pogo.pk/events/juventus-vs-fiorentina
 🟢 Successfully processed: Serie A [15/29]
-🟡 Visiting detail page [18/29]: https://pogo.pk/events/celta-vigo-vs-levante
+🟡 Visiting detail page [16/29]: https://pogo.pk/events/real-betis-vs-elche
 🟢 Successfully processed: LaLiga [16/29]
-🟡 Visiting detail page [19/29]: https://pogo.pk/events/getafe-vs-villarreal
+🟡 Visiting detail page [17/29]: https://pogo.pk/events/real-sociedad-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [17/29]
+🟡 Visiting detail page [18/29]: https://pogo.pk/events/celta-vigo-vs-levante
+🟢 Successfully processed: LaLiga [18/29]
+🟡 Visiting detail page [19/29]: https://pogo.pk/events/getafe-vs-villarreal
+🟢 Successfully processed: Rugby League World Cup [10/29]
 🟡 Visiting detail page [20/29]: https://pogo.pk/events/barcelona-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [19/29]
+🟢 Successfully processed: Serie A [12/29]
 🟡 Visiting detail page [21/29]: https://pogo.pk/events/ipswich-town-vs-bournemouth
-🟢 Successfully processed: LaLiga [20/29]
 🟡 Visiting detail page [22/29]: https://pogo.pk/events/brentford-vs-brighton
-🟢 Successfully processed: LaLiga [18/29]
+🟢 Successfully processed: LaLiga [20/29]
 🟡 Visiting detail page [23/29]: https://pogo.pk/events/liverpool-vs-crystal-palace
 🟢 Successfully processed: Premier League [22/29]
 🟡 Visiting detail page [24/29]: https://pogo.pk/events/chelsea-vs-sunderland

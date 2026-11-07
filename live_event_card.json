@@ -477,7 +477,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/parma-vs-bologna",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/parma-vs-bologna/3500"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/parma-vs-bologna/3501"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -489,7 +498,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/roma-vs-sassuolo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3502"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3503"
+            }
+        ]
     },
     {
         "eventTitle": "FA Cup",

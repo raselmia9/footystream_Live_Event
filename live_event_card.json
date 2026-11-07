@@ -281,7 +281,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/wolves-vs-wrexham",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/wolves-vs-wrexham/3494"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/wolves-vs-wrexham/3495"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -344,7 +353,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/malaga-vs-racing-santander",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/malaga-vs-racing-santander/3496"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/malaga-vs-racing-santander/3497"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

@@ -277,27 +277,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Stuttgart",
-        "team2Title": "Werder Bremen",
-        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3518"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3519"
-            }
-        ]
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-07 21:00:00",
         "team1Title": "Middlesbrough",
@@ -574,6 +553,27 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3503"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Title": "Stuttgart",
+        "team2Title": "Werder Bremen",
+        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3518"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3519"
             }
         ]
     },

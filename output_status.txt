@@ -4,8 +4,8 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 37
 🟡 Visiting detail page [2/37]: https://pogo.pk/events/real-madrid-vs-valencia
-🟡 Visiting detail page [1/37]: https://pogo.pk/events/manchester-city-vs-nottm-forest
 🟡 Visiting detail page [3/37]: https://pogo.pk/events/psg-vs-troyes
+🟡 Visiting detail page [1/37]: https://pogo.pk/events/manchester-city-vs-nottm-forest
 🟢 Successfully processed: LaLiga [2/37]
 🟢 Successfully processed: Premier League [1/37]
 🟡 Visiting detail page [4/37]: https://pogo.pk/events/pga-lpga-golf
@@ -60,15 +60,15 @@
 🟡 Visiting detail page [29/37]: https://pogo.pk/events/barcelona-vs-atletico-madrid
 🟢 Successfully processed: LaLiga [29/37]
 🟡 Visiting detail page [30/37]: https://pogo.pk/events/ipswich-town-vs-bournemouth
-🟢 Successfully processed: Liga Portugal [23/37]
-🟡 Visiting detail page [31/37]: https://pogo.pk/events/brentford-vs-brighton
 🟢 Successfully processed: Premier League [30/37]
-🟡 Visiting detail page [32/37]: https://pogo.pk/events/liverpool-vs-crystal-palace
-🟢 Successfully processed: Rugby League World Cup [24/37]
-🟡 Visiting detail page [33/37]: https://pogo.pk/events/chelsea-vs-sunderland
+🟡 Visiting detail page [31/37]: https://pogo.pk/events/brentford-vs-brighton
 🟢 Successfully processed: Premier League [31/37]
-🟡 Visiting detail page [34/37]: https://pogo.pk/events/manchester-united-vs-aston-villa
+🟡 Visiting detail page [32/37]: https://pogo.pk/events/liverpool-vs-crystal-palace
+🟢 Successfully processed: Liga Portugal [23/37]
+🟡 Visiting detail page [33/37]: https://pogo.pk/events/chelsea-vs-sunderland
 🟢 Successfully processed: Premier League [32/37]
+🟡 Visiting detail page [34/37]: https://pogo.pk/events/manchester-united-vs-aston-villa
+🟢 Successfully processed: Rugby League World Cup [24/37]
 🟡 Visiting detail page [35/37]: https://pogo.pk/events/bayer-leverkusen-vs-koln
 🟢 Successfully processed: Premier League [33/37]
 🟡 Visiting detail page [36/37]: https://pogo.pk/events/union-berlin-vs-freiburg

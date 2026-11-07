@@ -101,74 +101,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 20:10:00",
-        "team1Title": "Scotland",
-        "team2Title": "New Zealand",
-        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/scotland-vs-new-zealand",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/scotland-vs-new-zealand/3460"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 22:40:00",
-        "team1Title": "Japan",
-        "team2Title": "Wales",
-        "team1Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/japan-vs-wales",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/japan-vs-wales/3461"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-08 02:10:00",
-        "team1Title": "France",
-        "team2Title": "Fiji",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/france-vs-fiji",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/france-vs-fiji/3462"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-08 21:10:00",
-        "team1Title": "England",
-        "team2Title": "Australia",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-australia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/england-vs-australia/3463"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-07 18:30:00",
         "team1Title": "Tottenham Hotspur",
@@ -223,7 +155,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/fulham-vs-newcastle-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3505"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3506"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3507"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -443,6 +388,74 @@
         ]
     },
     {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-07 20:10:00",
+        "team1Title": "Scotland",
+        "team2Title": "New Zealand",
+        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/scotland-vs-new-zealand",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/scotland-vs-new-zealand/3460"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-07 22:40:00",
+        "team1Title": "Japan",
+        "team2Title": "Wales",
+        "team1Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/japan-vs-wales",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/japan-vs-wales/3461"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 02:10:00",
+        "team1Title": "France",
+        "team2Title": "Fiji",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/france-vs-fiji",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/france-vs-fiji/3462"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 21:10:00",
+        "team1Title": "England",
+        "team2Title": "Australia",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-australia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-australia/3463"
+            }
+        ]
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-11-07 20:30:00",
         "team1Title": "Bayern München",
@@ -452,7 +465,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bayern-munchen-vs-mainz-05",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-munchen-vs-mainz-05/3504"
+            }
+        ]
     },
     {
         "eventTitle": "Bundesliga",

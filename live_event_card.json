@@ -2,8 +2,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Nottingham Forest",
+        "team1Title": "Event Ended",
+        "team2Title": "Manchester City",
         "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
         "isHot": true,
@@ -150,31 +150,10 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-07 23:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Parma",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-bologna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/parma-vs-bologna/3500"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/parma-vs-bologna/3501"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Stuttgart",
-        "team2Title": "Werder Bremen",
+        "team1Title": "Event Ended",
+        "team2Title": "Stuttgart",
         "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
         "isHot": true,
@@ -194,8 +173,8 @@
     {
         "eventTitle": "FA Cup",
         "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Altrincham",
-        "team2Title": "Notts County",
+        "team1Title": "Event Ended",
+        "team2Title": "Altrincham",
         "team1Logo": "https://cdn.img4every1.org/team/altrincham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
         "isHot": true,
@@ -215,8 +194,8 @@
     {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Athletic Club",
+        "team1Title": "Event Ended",
+        "team2Title": "Osasuna",
         "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
         "isHot": true,

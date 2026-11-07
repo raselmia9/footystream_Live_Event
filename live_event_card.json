@@ -150,23 +150,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 22:40:00",
-        "team1Title": "Japan",
-        "team2Title": "Wales",
-        "team1Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/japan-vs-wales",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/japan-vs-wales/3461"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-07 23:00:00",
         "team1Title": "Parma",

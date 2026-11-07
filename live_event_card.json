@@ -123,8 +123,8 @@
     {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-08 00:00:00",
-        "team1Title": "Alverca",
-        "team2Title": "Casa Pia",
+        "team1Title": "Event Ended",
+        "team2Title": "Alverca",
         "team1Logo": "https://cdn.img4every1.org/team/alverca/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/casa-pia/logo.webp",
         "isHot": true,
@@ -140,8 +140,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-08 00:00:00",
-        "team1Title": "Paris FC",
-        "team2Title": "Auxerre",
+        "team1Title": "Event Ended",
+        "team2Title": "Paris FC",
         "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
         "isHot": true,
@@ -214,23 +214,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/france-vs-fiji/3462"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-08 21:10:00",
-        "team1Title": "England",
-        "team2Title": "Australia",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-australia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/england-vs-australia/3463"
             }
         ]
     },
@@ -431,18 +414,6 @@
     },
     {
         "eventTitle": "Premier League",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-sunderland",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
         "matchTime": "2026-11-08 22:30:00",
         "team1Title": "Manchester United",
         "team2Title": "Aston Villa",
@@ -455,18 +426,6 @@
     },
     {
         "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-08 20:30:00",
-        "team1Title": "Bayer Leverkusen",
-        "team2Title": "Köln",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-koln",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
         "matchTime": "2026-11-08 22:30:00",
         "team1Title": "Union Berlin",
         "team2Title": "Freiburg",
@@ -475,18 +434,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/union-berlin-vs-freiburg",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-09 00:30:00",
-        "team1Title": "Hoffenheim",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hoffenheim-vs-schalke-04",
         "multiWatchPageLink": []
     }
 ]

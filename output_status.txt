@@ -3,30 +3,30 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 35
+🟡 Visiting detail page [3/35]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/35]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [1/35]: https://pogo.pk/events/arsenal-vs-hull-city
-🟡 Visiting detail page [3/35]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: Snooker [2/35]
-🟡 Visiting detail page [4/35]: https://pogo.pk/events/motogp-qatar
-🟢 Successfully processed: Premier League [1/35]
-🟡 Visiting detail page [5/35]: https://pogo.pk/events/f1-brazilian-grand-prix
 🟢 Successfully processed: PGA Tour [3/35]
+🟡 Visiting detail page [4/35]: https://pogo.pk/events/motogp-qatar
+🟢 Successfully processed: Snooker [2/35]
+🟢 Successfully processed: Premier League [1/35]
 🟡 Visiting detail page [6/35]: https://pogo.pk/events/italy-vs-south-africa
-🟢 Successfully processed: MotoGP [4/35]
-🟢 Successfully processed: Formula 1 [5/35]
-🟡 Visiting detail page [7/35]: https://pogo.pk/events/tottenham-hotspur-vs-leeds-united
-🟡 Visiting detail page [8/35]: https://pogo.pk/events/wolves-vs-wrexham
+🟡 Visiting detail page [5/35]: https://pogo.pk/events/f1-brazilian-grand-prix
 🟢 Successfully processed: Rugby Union [6/35]
+🟢 Successfully processed: Formula 1 [5/35]
+🟢 Successfully processed: MotoGP [4/35]
+🟡 Visiting detail page [8/35]: https://pogo.pk/events/wolves-vs-wrexham
+🟡 Visiting detail page [7/35]: https://pogo.pk/events/tottenham-hotspur-vs-leeds-united
 🟡 Visiting detail page [9/35]: https://pogo.pk/events/bristol-city-vs-norwich-city
-🟢 Successfully processed: EFL [8/35]
-🟡 Visiting detail page [10/35]: https://pogo.pk/events/malaga-vs-racing-santander
 🟢 Successfully processed: Premier League [7/35]
-🟡 Visiting detail page [11/35]: https://pogo.pk/events/espanyol-vs-deportivo-la-coruna
 🟢 Successfully processed: EFL [9/35]
+🟡 Visiting detail page [11/35]: https://pogo.pk/events/espanyol-vs-deportivo-la-coruna
+🟡 Visiting detail page [10/35]: https://pogo.pk/events/malaga-vs-racing-santander
+🟢 Successfully processed: EFL [8/35]
 🟡 Visiting detail page [12/35]: https://pogo.pk/events/osasuna-vs-athletic-club
-🟢 Successfully processed: LaLiga [11/35]
-🟡 Visiting detail page [13/35]: https://pogo.pk/events/real-madrid-vs-valencia
 🟢 Successfully processed: LaLiga [10/35]
+🟡 Visiting detail page [13/35]: https://pogo.pk/events/real-madrid-vs-valencia
+🟢 Successfully processed: LaLiga [11/35]
 🟡 Visiting detail page [14/35]: https://pogo.pk/events/lecce-vs-torino
 🟢 Successfully processed: LaLiga [12/35]
 🟡 Visiting detail page [15/35]: https://pogo.pk/events/cagliari-vs-frosinone
@@ -71,7 +71,7 @@
 🟢 Successfully processed: French Ligue 1 [34/35]
 🟡 Visiting detail page [35/35]: https://pogo.pk/events/australia-vs-samoa
 🟢 Successfully processed: FA Cup [31/35]
-🟢 Successfully processed: Rugby League World Cup [35/35]
 🟢 Successfully processed: FA Cup [32/35]
+🟢 Successfully processed: Rugby League World Cup [35/35]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 35

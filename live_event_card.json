@@ -2,8 +2,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-07 21:00:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Hull City",
+        "team1Title": "Event Ended",
+        "team2Title": "Arsenal",
         "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
         "isHot": true,
@@ -95,6 +95,31 @@
         ]
     },
     {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-08 02:05:00",
+        "team1Title": "PSG",
+        "team2Title": "Troyes",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-troyes",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psg-vs-troyes/3532"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/psg-vs-troyes/3533"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/psg-vs-troyes/3534"
+            }
+        ]
+    },
+    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-11-05 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -160,8 +185,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-11-07 21:00:00",
-        "team1Title": "Middlesbrough",
-        "team2Title": "Watford",
+        "team1Title": "Event Ended",
+        "team2Title": "Middlesbrough",
         "team1Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
         "isHot": true,
@@ -177,8 +202,8 @@
     {
         "eventTitle": "EFL",
         "matchTime": "2026-11-07 21:00:00",
-        "team1Title": "Sheffield United",
-        "team2Title": "Charlton Athletic",
+        "team1Title": "Event Ended",
+        "team2Title": "Sheffield United",
         "team1Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
         "isHot": true,
@@ -194,8 +219,8 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-07 21:00:00",
-        "team1Title": "Fulham",
-        "team2Title": "Newcastle United",
+        "team1Title": "Event Ended",
+        "team2Title": "Fulham",
         "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
         "isHot": true,
@@ -524,31 +549,6 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/paris-vs-auxerre/3526"
-            }
-        ]
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-08 02:05:00",
-        "team1Title": "PSG",
-        "team2Title": "Troyes",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-troyes",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/psg-vs-troyes/3532"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/psg-vs-troyes/3533"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/psg-vs-troyes/3534"
             }
         ]
     },

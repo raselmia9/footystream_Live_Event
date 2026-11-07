@@ -2,64 +2,125 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 29
-🟡 Visiting detail page [2/29]: https://pogo.pk/events/psg-vs-troyes
-🟡 Visiting detail page [3/29]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [1/29]: https://pogo.pk/events/real-madrid-vs-valencia
-🟢 Successfully processed: French Ligue 1 [2/29]
-🟡 Visiting detail page [4/29]: https://pogo.pk/events/motogp-qatar
-🟢 Successfully processed: PGA Tour [3/29]
-🟡 Visiting detail page [5/29]: https://pogo.pk/events/f1-brazilian-grand-prix
-🟢 Successfully processed: LaLiga [1/29]
-🟡 Visiting detail page [6/29]: https://pogo.pk/events/roma-vs-sassuolo
-🟢 Successfully processed: MotoGP [4/29]
-🟡 Visiting detail page [7/29]: https://pogo.pk/events/peterborough-utd-vs-reading
-🟢 Successfully processed: Serie A [6/29]
-🟡 Visiting detail page [8/29]: https://pogo.pk/events/france-vs-fiji
-🟢 Successfully processed: Formula 1 [5/29]
-🟡 Visiting detail page [9/29]: https://pogo.pk/events/sporting-cp-vs-moreirense
-🟢 Successfully processed: Liga Portugal [9/29]
-🟢 Successfully processed: FA Cup [7/29]
-🟡 Visiting detail page [10/29]: https://pogo.pk/events/australia-vs-samoa
-🟢 Successfully processed: Rugby Union [8/29]
-🟡 Visiting detail page [11/29]: https://pogo.pk/events/lazio-vs-napoli
-🟡 Visiting detail page [12/29]: https://pogo.pk/events/monza-vs-atalanta
-🟢 Successfully processed: Serie A [11/29]
-🟡 Visiting detail page [13/29]: https://pogo.pk/events/ac-milan-vs-genoa
-🟢 Successfully processed: Serie A [13/29]
-🟡 Visiting detail page [14/29]: https://pogo.pk/events/inter-milan-vs-como
-🟢 Successfully processed: Serie A [14/29]
-🟡 Visiting detail page [15/29]: https://pogo.pk/events/juventus-vs-fiorentina
-🟢 Successfully processed: Serie A [15/29]
-🟡 Visiting detail page [16/29]: https://pogo.pk/events/real-betis-vs-elche
-🟢 Successfully processed: LaLiga [16/29]
-🟡 Visiting detail page [17/29]: https://pogo.pk/events/real-sociedad-vs-rayo-vallecano
-🟢 Successfully processed: Serie A [12/29]
-🟡 Visiting detail page [18/29]: https://pogo.pk/events/celta-vigo-vs-levante
-🟢 Successfully processed: Rugby League World Cup [10/29]
-🟡 Visiting detail page [19/29]: https://pogo.pk/events/getafe-vs-villarreal
-🟢 Successfully processed: LaLiga [17/29]
-🟡 Visiting detail page [20/29]: https://pogo.pk/events/barcelona-vs-atletico-madrid
-🟢 Successfully processed: LaLiga [18/29]
-🟡 Visiting detail page [21/29]: https://pogo.pk/events/ipswich-town-vs-bournemouth
-🟢 Successfully processed: LaLiga [19/29]
-🟡 Visiting detail page [22/29]: https://pogo.pk/events/brentford-vs-brighton
-🟢 Successfully processed: Premier League [22/29]
-🟡 Visiting detail page [23/29]: https://pogo.pk/events/liverpool-vs-crystal-palace
-🟢 Successfully processed: LaLiga [20/29]
-🟡 Visiting detail page [24/29]: https://pogo.pk/events/chelsea-vs-sunderland
-🟢 Successfully processed: Premier League [21/29]
-🟡 Visiting detail page [25/29]: https://pogo.pk/events/manchester-united-vs-aston-villa
-🟢 Successfully processed: Premier League [25/29]
-🟡 Visiting detail page [26/29]: https://pogo.pk/events/bayer-leverkusen-vs-koln
-🟢 Successfully processed: Premier League [23/29]
-🟡 Visiting detail page [27/29]: https://pogo.pk/events/union-berlin-vs-freiburg
-🟢 Successfully processed: Premier League [24/29]
-🟡 Visiting detail page [28/29]: https://pogo.pk/events/hoffenheim-vs-schalke-04
-🟢 Successfully processed: Bundesliga [26/29]
-🟡 Visiting detail page [29/29]: https://pogo.pk/events/england-vs-australia
-🟢 Successfully processed: Bundesliga [27/29]
-🟢 Successfully processed: Bundesliga [28/29]
-🟢 Successfully processed: Rugby Union [29/29]
+🟢 Total unique detail links to process in parallel: 28
+🟡 Visiting detail page [2/28]: https://pogo.pk/events/psg-vs-troyes
+🟡 Visiting detail page [1/28]: https://pogo.pk/events/real-madrid-vs-valencia
+🟡 Visiting detail page [3/28]: https://pogo.pk/events/pga-lpga-golf
+🟢 Successfully processed: PGA Tour [3/28]
+🟢 Successfully processed: LaLiga [1/28]
+🟡 Visiting detail page [5/28]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟡 Visiting detail page [4/28]: https://pogo.pk/events/motogp-qatar
+🟢 Successfully processed: French Ligue 1 [2/28]
+🟡 Visiting detail page [6/28]: https://pogo.pk/events/peterborough-utd-vs-reading
+🔴 ERROR on detail page https://pogo.pk/events/f1-brazilian-grand-prix: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/f1-brazilian-grand-prix", waiting until "load"
+
+🟡 Visiting detail page [7/28]: https://pogo.pk/events/france-vs-fiji
+🔴 ERROR on detail page https://pogo.pk/events/peterborough-utd-vs-reading: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/peterborough-utd-vs-reading", waiting until "load"
+
+🟡 Visiting detail page [8/28]: https://pogo.pk/events/sporting-cp-vs-moreirense
+🟢 Successfully processed: MotoGP [4/28]
+🟡 Visiting detail page [9/28]: https://pogo.pk/events/australia-vs-samoa
+🔴 ERROR on detail page https://pogo.pk/events/france-vs-fiji: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/france-vs-fiji", waiting until "load"
+
+🟡 Visiting detail page [10/28]: https://pogo.pk/events/lazio-vs-napoli
+🔴 ERROR on detail page https://pogo.pk/events/sporting-cp-vs-moreirense: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/sporting-cp-vs-moreirense", waiting until "load"
+
+🟡 Visiting detail page [11/28]: https://pogo.pk/events/monza-vs-atalanta
+🔴 ERROR on detail page https://pogo.pk/events/australia-vs-samoa: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/australia-vs-samoa", waiting until "load"
+
+🟡 Visiting detail page [12/28]: https://pogo.pk/events/ac-milan-vs-genoa
+🟢 Successfully processed: Serie A [12/28]
+🟡 Visiting detail page [13/28]: https://pogo.pk/events/inter-milan-vs-como
+🔴 ERROR on detail page https://pogo.pk/events/lazio-vs-napoli: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/lazio-vs-napoli", waiting until "load"
+
+🟡 Visiting detail page [14/28]: https://pogo.pk/events/juventus-vs-fiorentina
+🔴 ERROR on detail page https://pogo.pk/events/monza-vs-atalanta: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/monza-vs-atalanta", waiting until "load"
+
+🟡 Visiting detail page [15/28]: https://pogo.pk/events/real-betis-vs-elche
+🔴 ERROR on detail page https://pogo.pk/events/inter-milan-vs-como: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/inter-milan-vs-como", waiting until "load"
+
+🟡 Visiting detail page [16/28]: https://pogo.pk/events/real-sociedad-vs-rayo-vallecano
+🔴 ERROR on detail page https://pogo.pk/events/juventus-vs-fiorentina: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/juventus-vs-fiorentina", waiting until "load"
+
+🟡 Visiting detail page [17/28]: https://pogo.pk/events/celta-vigo-vs-levante
+🔴 ERROR on detail page https://pogo.pk/events/real-betis-vs-elche: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/real-betis-vs-elche", waiting until "load"
+
+🟡 Visiting detail page [18/28]: https://pogo.pk/events/getafe-vs-villarreal
+🟢 Successfully processed: LaLiga [18/28]
+🟡 Visiting detail page [19/28]: https://pogo.pk/events/barcelona-vs-atletico-madrid
+🔴 ERROR on detail page https://pogo.pk/events/real-sociedad-vs-rayo-vallecano: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/real-sociedad-vs-rayo-vallecano", waiting until "load"
+
+🟡 Visiting detail page [20/28]: https://pogo.pk/events/ipswich-town-vs-bournemouth
+🔴 ERROR on detail page https://pogo.pk/events/celta-vigo-vs-levante: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/celta-vigo-vs-levante", waiting until "load"
+
+🟡 Visiting detail page [21/28]: https://pogo.pk/events/brentford-vs-brighton
+🟢 Successfully processed: Premier League [20/28]
+🟡 Visiting detail page [22/28]: https://pogo.pk/events/liverpool-vs-crystal-palace
+🔴 ERROR on detail page https://pogo.pk/events/barcelona-vs-atletico-madrid: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/barcelona-vs-atletico-madrid", waiting until "load"
+
+🟡 Visiting detail page [23/28]: https://pogo.pk/events/chelsea-vs-sunderland
+🔴 ERROR on detail page https://pogo.pk/events/brentford-vs-brighton: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/brentford-vs-brighton", waiting until "load"
+
+🟡 Visiting detail page [24/28]: https://pogo.pk/events/manchester-united-vs-aston-villa
+🔴 ERROR on detail page https://pogo.pk/events/liverpool-vs-crystal-palace: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/liverpool-vs-crystal-palace", waiting until "load"
+
+🟡 Visiting detail page [25/28]: https://pogo.pk/events/bayer-leverkusen-vs-koln
+🔴 ERROR on detail page https://pogo.pk/events/chelsea-vs-sunderland: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/chelsea-vs-sunderland", waiting until "load"
+
+🟡 Visiting detail page [26/28]: https://pogo.pk/events/union-berlin-vs-freiburg
+🔴 ERROR on detail page https://pogo.pk/events/manchester-united-vs-aston-villa: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/manchester-united-vs-aston-villa", waiting until "load"
+
+🟡 Visiting detail page [27/28]: https://pogo.pk/events/hoffenheim-vs-schalke-04
+🔴 ERROR on detail page https://pogo.pk/events/bayer-leverkusen-vs-koln: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/bayer-leverkusen-vs-koln", waiting until "load"
+
+🟡 Visiting detail page [28/28]: https://pogo.pk/events/england-vs-australia
+🔴 ERROR on detail page https://pogo.pk/events/union-berlin-vs-freiburg: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/union-berlin-vs-freiburg", waiting until "load"
+
+🔴 ERROR on detail page https://pogo.pk/events/hoffenheim-vs-schalke-04: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/hoffenheim-vs-schalke-04", waiting until "load"
+
+🔴 ERROR on detail page https://pogo.pk/events/england-vs-australia: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://pogo.pk/events/england-vs-australia", waiting until "load"
+
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 29
+🟢 Process completed successfully. Total collected events: 7

@@ -150,23 +150,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-07 21:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Nacional de Madeira",
-        "team1Logo": "https://cdn.img4every1.org/team/nacional-de-madeira/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/academico-viseu/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/nacional-vs-academico-viseu",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/nacional-vs-academico-viseu/3515"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-07 22:40:00",
         "team1Title": "Japan",

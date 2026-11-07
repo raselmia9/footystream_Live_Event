@@ -243,48 +243,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-07 23:00:00",
-        "team1Title": "Parma",
-        "team2Title": "Bologna",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-bologna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/parma-vs-bologna/3500"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/parma-vs-bologna/3501"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 01:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-sassuolo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3502"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3503"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-07 20:10:00",
         "team1Title": "Scotland",
@@ -298,57 +256,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/scotland-vs-new-zealand/3460"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-07 22:40:00",
-        "team1Title": "Japan",
-        "team2Title": "Wales",
-        "team1Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/japan-vs-wales",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/japan-vs-wales/3461"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-08 02:10:00",
-        "team1Title": "France",
-        "team2Title": "Fiji",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/france-vs-fiji",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/france-vs-fiji/3462"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-08 21:10:00",
-        "team1Title": "England",
-        "team2Title": "Australia",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-australia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/england-vs-australia/3463"
             }
         ]
     },
@@ -576,6 +483,99 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-07 22:40:00",
+        "team1Title": "Japan",
+        "team2Title": "Wales",
+        "team1Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/japan-vs-wales",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/japan-vs-wales/3461"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 02:10:00",
+        "team1Title": "France",
+        "team2Title": "Fiji",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/france-vs-fiji",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/france-vs-fiji/3462"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-08 21:10:00",
+        "team1Title": "England",
+        "team2Title": "Australia",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-australia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-australia/3463"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-07 23:00:00",
+        "team1Title": "Parma",
+        "team2Title": "Bologna",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/parma-vs-bologna",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/parma-vs-bologna/3500"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/parma-vs-bologna/3501"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 01:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Sassuolo",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-sassuolo",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3502"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3503"
+            }
+        ]
     },
     {
         "eventTitle": "FA Cup",

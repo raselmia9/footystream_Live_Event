@@ -167,43 +167,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-07 21:00:00",
-        "team1Title": "Fulham",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/fulham-vs-newcastle-united",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3505"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3506"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3507"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Nottingham Forest",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-city-vs-nottm-forest",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-07 18:30:00",
         "team1Title": "Wolverhampton Wanderers",
@@ -238,40 +201,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/bristol-city-vs-norwich-city/3449"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-07 21:00:00",
-        "team1Title": "Middlesbrough",
-        "team2Title": "Watford",
-        "team1Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/middlesbrough-vs-watford",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/middlesbrough-vs-watford/3453"
-            }
-        ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-07 21:00:00",
-        "team1Title": "Sheffield United",
-        "team2Title": "Charlton Athletic",
-        "team1Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sheffield-united-vs-charlton-athletic",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sheffield-united-vs-charlton-athletic/3450"
             }
         ]
     },
@@ -327,7 +256,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/osasuna-vs-athletic-club",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3516"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -512,7 +450,108 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3518"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3519"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-07 21:00:00",
+        "team1Title": "Middlesbrough",
+        "team2Title": "Watford",
+        "team1Logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/watford/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/middlesbrough-vs-watford",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/middlesbrough-vs-watford/3453"
+            }
+        ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-07 21:00:00",
+        "team1Title": "Sheffield United",
+        "team2Title": "Charlton Athletic",
+        "team1Logo": "https://cdn.img4every1.org/team/sheffield-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/charlton-athletic/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/sheffield-united-vs-charlton-athletic",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/sheffield-united-vs-charlton-athletic/3450"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-07 21:00:00",
+        "team1Title": "Fulham",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/fulham-vs-newcastle-united",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3505"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3506"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/fulham-vs-newcastle-united/3507"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Title": "Manchester City",
+        "team2Title": "Nottingham Forest",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-city-vs-nottm-forest",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3520"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3521"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3522"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3523"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3524"
+            }
+        ]
     },
     {
         "eventTitle": "Liga Portugal",
@@ -524,7 +563,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/nacional-vs-academico-viseu",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/nacional-vs-academico-viseu/3515"
+            }
+        ]
     },
     {
         "eventTitle": "Liga Portugal",
@@ -548,30 +592,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-07 22:15:00",
-        "team1Title": "Paris FC",
-        "team2Title": "Auxerre",
-        "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/paris-vs-auxerre",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-08 01:45:00",
-        "team1Title": "PSG",
-        "team2Title": "Troyes",
-        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/psg-vs-troyes",
         "multiWatchPageLink": []
     },
     {
@@ -615,6 +635,30 @@
                 "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3448"
             }
         ]
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-08 00:00:00",
+        "team1Title": "Paris FC",
+        "team2Title": "Auxerre",
+        "team1Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/paris-vs-auxerre",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-08 02:05:00",
+        "team1Title": "PSG",
+        "team2Title": "Troyes",
+        "team1Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/psg-vs-troyes",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Rugby League World Cup",

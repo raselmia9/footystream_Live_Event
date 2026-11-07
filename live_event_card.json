@@ -63,23 +63,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-08 02:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Sporting CP",
-        "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/sporting-cp-vs-moreirense",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/sporting-cp-vs-moreirense/3535"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby League World Cup",
         "matchTime": "2026-11-08 15:05:00",
         "team1Title": "Australia",

@@ -84,23 +84,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby League World Cup",
-        "matchTime": "2026-11-07 15:05:00",
-        "team1Title": "New Zealand",
-        "team2Title": "Tonga",
-        "team1Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/tonga/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/new-zealand-vs-tonga",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/new-zealand-vs-tonga/3464"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-07 17:40:00",
         "team1Title": "Italy",
@@ -384,6 +367,82 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-07 20:00:00",
+        "team1Title": "Lecce",
+        "team2Title": "Torino",
+        "team1Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lecce-vs-torino",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lecce-vs-torino/3499"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-07 20:00:00",
+        "team1Title": "Cagliari",
+        "team2Title": "Frosinone Calcio",
+        "team1Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/cagliari-vs-frosinone",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/cagliari-vs-frosinone/3498"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-07 23:00:00",
+        "team1Title": "Parma",
+        "team2Title": "Bologna",
+        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/parma-vs-bologna",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/parma-vs-bologna/3500"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/parma-vs-bologna/3501"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 01:45:00",
+        "team1Title": "AS Roma",
+        "team2Title": "Sassuolo",
+        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/roma-vs-sassuolo",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3502"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3503"
+            }
+        ]
+    },
+    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-11-07 20:30:00",
         "team1Title": "Bayern München",
@@ -466,48 +525,6 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/psg-vs-troyes",
         "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-07 23:00:00",
-        "team1Title": "Parma",
-        "team2Title": "Bologna",
-        "team1Logo": "https://cdn.img4every1.org/team/parma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/parma-vs-bologna",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/parma-vs-bologna/3500"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/parma-vs-bologna/3501"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 01:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Sassuolo",
-        "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/roma-vs-sassuolo",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3502"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3503"
-            }
-        ]
     },
     {
         "eventTitle": "FA Cup",

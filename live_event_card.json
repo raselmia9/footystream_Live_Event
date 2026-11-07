@@ -451,27 +451,6 @@
     },
     {
         "eventTitle": "LaLiga",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/osasuna-vs-athletic-club",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3516"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
         "matchTime": "2026-11-08 02:00:00",
         "team1Title": "Real Madrid",
         "team2Title": "Valencia",

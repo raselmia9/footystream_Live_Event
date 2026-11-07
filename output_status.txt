@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 35
+🟡 Visiting detail page [1/35]: https://pogo.pk/events/arsenal-vs-hull-city
 🟡 Visiting detail page [2/35]: https://pogo.pk/events/snooker-international-championship
 🟡 Visiting detail page [3/35]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [1/35]: https://pogo.pk/events/arsenal-vs-hull-city
 🟢 Successfully processed: Snooker [2/35]
 🟡 Visiting detail page [4/35]: https://pogo.pk/events/motogp-qatar
 🟢 Successfully processed: PGA Tour [3/35]
@@ -60,9 +60,9 @@
 🟡 Visiting detail page [29/35]: https://pogo.pk/events/alverca-vs-casa-pia
 🟢 Successfully processed: Rugby Union [25/35]
 🟡 Visiting detail page [30/35]: https://pogo.pk/events/sporting-cp-vs-moreirense
-🟢 Successfully processed: Bundesliga [26/35]
-🟡 Visiting detail page [31/35]: https://pogo.pk/events/paris-vs-auxerre
 🟢 Successfully processed: Liga Portugal [29/35]
+🟡 Visiting detail page [31/35]: https://pogo.pk/events/paris-vs-auxerre
+🟢 Successfully processed: Bundesliga [26/35]
 🟡 Visiting detail page [32/35]: https://pogo.pk/events/psg-vs-troyes
 🟢 Successfully processed: Liga Portugal [30/35]
 🟡 Visiting detail page [33/35]: https://pogo.pk/events/altrincham-vs-notts-county

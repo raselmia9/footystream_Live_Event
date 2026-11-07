@@ -65,8 +65,8 @@
     {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-08 02:30:00",
-        "team1Title": "Sporting CP",
-        "team2Title": "Moreirense",
+        "team1Title": "Event Ended",
+        "team2Title": "Sporting CP",
         "team1Logo": "https://cdn.img4every1.org/team/sporting-cp/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/moreirense/logo.webp",
         "isHot": true,

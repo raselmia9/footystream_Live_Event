@@ -123,8 +123,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-08 01:45:00",
-        "team1Title": "AS Roma",
-        "team2Title": "Sassuolo",
+        "team1Title": "Event Ended",
+        "team2Title": "AS Roma",
         "team1Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "isHot": true,

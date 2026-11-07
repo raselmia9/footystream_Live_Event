@@ -1,38 +1,5 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Manchester City",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-city-vs-nottm-forest",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3520"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3521"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3522"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3523"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/manchester-city-vs-nottm-forest/3524"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-08 02:00:00",
         "team1Title": "Real Madrid",
@@ -58,6 +25,10 @@
             {
                 "channel": "Link 4",
                 "url": "https://playerdee.top/alpha/real-madrid-vs-valencia/3531"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/real-madrid-vs-valencia/3537"
             }
         ]
     },
@@ -150,69 +121,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Stuttgart",
-        "team1Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/stuttgart-vs-werder-bremen",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3518"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/stuttgart-vs-werder-bremen/3519"
-            }
-        ]
-    },
-    {
-        "eventTitle": "FA Cup",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Altrincham",
-        "team1Logo": "https://cdn.img4every1.org/team/altrincham/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/altrincham-vs-notts-county",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/altrincham-vs-notts-county/3445"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/altrincham-vs-notts-county/3446"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Osasuna",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/osasuna-vs-athletic-club",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3516"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517"
-            }
-        ]
-    },
-    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-08 00:00:00",
         "team1Title": "Alverca",
@@ -270,71 +178,6 @@
                 "url": "https://playerdee.top/alpha/roma-vs-sassuolo/3503"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 17:30:00",
-        "team1Title": "Lazio",
-        "team2Title": "Napoli",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/lazio-vs-napoli",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "Monza",
-        "team2Title": "Atalanta",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/monza-vs-atalanta",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/monza-vs-atalanta/3536"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "AC Milan",
-        "team2Title": "Genoa",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-genoa",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 23:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Como",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-como",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-09 01:45:00",
-        "team1Title": "Juventus",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/juventus-vs-fiorentina",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "FA Cup",
@@ -424,6 +267,71 @@
                 "url": "https://playerdee.top/alpha/australia-vs-samoa/3465"
             }
         ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 17:30:00",
+        "team1Title": "Lazio",
+        "team2Title": "Napoli",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/lazio-vs-napoli",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 20:00:00",
+        "team1Title": "Monza",
+        "team2Title": "Atalanta",
+        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/monza-vs-atalanta",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/monza-vs-atalanta/3536"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 20:00:00",
+        "team1Title": "AC Milan",
+        "team2Title": "Genoa",
+        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ac-milan-vs-genoa",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 23:00:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Como",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-como",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-09 01:45:00",
+        "team1Title": "Juventus",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/juventus-vs-fiorentina",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "LaLiga",

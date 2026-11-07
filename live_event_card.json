@@ -117,27 +117,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-07 19:00:00",
-        "team1Title": "Málaga",
-        "team2Title": "Racing Santander",
-        "team1Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/malaga-vs-racing-santander",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/malaga-vs-racing-santander/3496"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/malaga-vs-racing-santander/3497"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-07 20:00:00",
         "team1Title": "Lecce",
@@ -284,39 +263,6 @@
                 "url": "https://playerdee.top/alpha/espanyol-vs-deportivo-la-coruna/3514"
             }
         ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-07 23:30:00",
-        "team1Title": "Osasuna",
-        "team2Title": "Athletic Club",
-        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/osasuna-vs-athletic-club",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3516"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517"
-            }
-        ]
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-08 02:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Valencia",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-madrid-vs-valencia",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Liga Portugal",
@@ -547,6 +493,39 @@
                 "url": "https://playerdee.top/alpha/peterborough-utd-vs-reading/3448"
             }
         ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-07 23:30:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Athletic Club",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/osasuna-vs-athletic-club",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3516"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/osasuna-vs-athletic-club/3517"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-08 02:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Valencia",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/real-madrid-vs-valencia",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "French Ligue 1",

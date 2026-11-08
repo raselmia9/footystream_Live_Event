@@ -1,55 +1,5 @@
 [
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Liverpool",
-        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/liverpool-vs-crystal-palace",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/liverpool-vs-crystal-palace/3546"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/liverpool-vs-crystal-palace/3547"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/liverpool-vs-crystal-palace/3548"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Chelsea",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/chelsea-vs-sunderland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/chelsea-vs-sunderland/3549"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/chelsea-vs-sunderland/3550"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/chelsea-vs-sunderland/3551"
-            }
-        ]
-    },
-    {
         "eventTitle": "PGA Tour",
         "matchTime": "2026-11-05 08:00:00",
         "team1Title": "PGA / LPGA Golf",
@@ -109,82 +59,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/f1-brazilian-grand-prix/3472"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Ipswich Town",
-        "team1Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ipswich-town-vs-bournemouth",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ipswich-town-vs-bournemouth/3542"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/ipswich-town-vs-bournemouth/3543"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Brentford",
-        "team1Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brentford-vs-brighton",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brentford-vs-brighton/3544"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/brentford-vs-brighton/3545"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Monza",
-        "team1Logo": "https://cdn.img4every1.org/team/monza/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/monza-vs-atalanta",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/monza-vs-atalanta/3536"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "AC Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ac-milan-vs-genoa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ac-milan-vs-genoa/3552"
             }
         ]
     },
@@ -357,6 +231,10 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3568"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3577"
             }
         ]
     },
@@ -424,6 +302,40 @@
             {
                 "channel": "Link 5",
                 "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3575"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Liga Portugal",
+        "matchTime": "2026-11-09 02:30:00",
+        "team1Title": "Benfica",
+        "team2Title": "Estrela",
+        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/benfica-vs-estrela",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/benfica-vs-estrela/3576"
+            }
+        ]
+    },
+    {
+        "eventTitle": "FA Cup",
+        "matchTime": "2026-11-10 01:30:00",
+        "team1Title": "Plymouth Parkway",
+        "team2Title": "Berkhamsted",
+        "team1Logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/berkhamsted/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/plymouth-parkway-vs-berkhamsted",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/plymouth-parkway-vs-berkhamsted/3578"
             }
         ]
     }

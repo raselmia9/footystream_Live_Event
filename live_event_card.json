@@ -21,23 +21,6 @@
         ]
     },
     {
-        "eventTitle": "MotoGP",
-        "matchTime": "2026-11-06 16:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "MotoGP Qatar GP",
-        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/motogp-qatar",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/motogp-qatar/3466"
-            }
-        ]
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-11-06 21:00:00",
         "team1Title": "F1 Brazilian Grand Prix",
@@ -65,8 +48,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-08 23:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Como",
+        "team1Title": "Event Ended",
+        "team2Title": "Inter Milan",
         "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "isHot": true,

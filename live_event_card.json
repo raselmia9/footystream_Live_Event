@@ -46,31 +46,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 23:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Inter Milan",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-como",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/inter-milan-vs-como/3563"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/inter-milan-vs-como/3564"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/inter-milan-vs-como/3567"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-08 23:30:00",
         "team1Title": "Celta de Vigo",

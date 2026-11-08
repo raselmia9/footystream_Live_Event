@@ -127,7 +127,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ac-milan-vs-genoa",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ac-milan-vs-genoa/3552"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -253,7 +258,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/brentford-vs-brighton",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brentford-vs-brighton/3544"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/brentford-vs-brighton/3545"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -265,7 +279,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/liverpool-vs-crystal-palace",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/liverpool-vs-crystal-palace/3546"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/liverpool-vs-crystal-palace/3547"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/liverpool-vs-crystal-palace/3548"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -277,7 +304,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/chelsea-vs-sunderland",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chelsea-vs-sunderland/3549"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/chelsea-vs-sunderland/3550"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/chelsea-vs-sunderland/3551"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

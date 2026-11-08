@@ -21,31 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-11-06 21:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "F1 Brazilian Grand Prix",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/f1-brazilian-grand-prix",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/f1-brazilian-grand-prix/3470"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/f1-brazilian-grand-prix/3471"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/f1-brazilian-grand-prix/3472"
-            }
-        ]
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-09 01:45:00",
         "team1Title": "Juventus",

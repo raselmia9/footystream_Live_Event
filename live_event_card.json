@@ -63,27 +63,10 @@
         ]
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-08 21:10:00",
-        "team1Title": "England",
-        "team2Title": "Australia",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-australia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/england-vs-australia/3463"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-08 21:15:00",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Rayo Vallecano",
+        "team1Title": "Event Ended",
+        "team2Title": "Real Sociedad",
         "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
         "isHot": true,

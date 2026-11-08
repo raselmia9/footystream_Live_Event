@@ -2,32 +2,30 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 13
-🟡 Visiting detail page [2/13]: https://pogo.pk/events/f1-brazilian-grand-prix
-🟡 Visiting detail page [1/13]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [3/13]: https://pogo.pk/events/hoffenheim-vs-schalke-04
-🟢 Successfully processed: Bundesliga [3/13]
-🟡 Visiting detail page [4/13]: https://pogo.pk/events/juventus-vs-fiorentina
-🟢 Successfully processed: PGA Tour [1/13]
-🟡 Visiting detail page [5/13]: https://pogo.pk/events/barcelona-vs-atletico-madrid
-🟢 Successfully processed: Formula 1 [2/13]
-🟡 Visiting detail page [6/13]: https://pogo.pk/events/benfica-vs-estrela
-🟢 Successfully processed: Serie A [4/13]
-🟡 Visiting detail page [7/13]: https://pogo.pk/events/plymouth-parkway-vs-berkhamsted
-🟢 Successfully processed: LaLiga [5/13]
-🟡 Visiting detail page [8/13]: https://pogo.pk/events/turkey-vs-belgium
-🟢 Successfully processed: Liga Portugal [6/13]
-🟡 Visiting detail page [9/13]: https://pogo.pk/events/armenia-vs-cyprus
-🟢 Successfully processed: Nations League [8/13]
-🟡 Visiting detail page [10/13]: https://pogo.pk/events/england-vs-croatia
-🟢 Successfully processed: Nations League [9/13]
-🟡 Visiting detail page [11/13]: https://pogo.pk/events/latvia-vs-montenegro
-🟢 Successfully processed: Nations League [10/13]
-🟡 Visiting detail page [12/13]: https://pogo.pk/events/albania-vs-finland
-🟢 Successfully processed: Nations League [11/13]
-🟡 Visiting detail page [13/13]: https://pogo.pk/events/belarus-vs-san-marino
-🟢 Successfully processed: Nations League [12/13]
-🟢 Successfully processed: Nations League [13/13]
-🟢 Successfully processed: FA Cup [7/13]
+🟢 Total unique detail links to process in parallel: 12
+🟡 Visiting detail page [1/12]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/12]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟡 Visiting detail page [3/12]: https://pogo.pk/events/juventus-vs-fiorentina
+🟢 Successfully processed: Serie A [3/12]
+🟡 Visiting detail page [4/12]: https://pogo.pk/events/barcelona-vs-atletico-madrid
+🟢 Successfully processed: PGA Tour [1/12]
+🟡 Visiting detail page [5/12]: https://pogo.pk/events/benfica-vs-estrela
+🟢 Successfully processed: Formula 1 [2/12]
+🟡 Visiting detail page [6/12]: https://pogo.pk/events/plymouth-parkway-vs-berkhamsted
+🟢 Successfully processed: FA Cup [6/12]
+🟡 Visiting detail page [7/12]: https://pogo.pk/events/turkey-vs-belgium
+🟢 Successfully processed: LaLiga [4/12]
+🟡 Visiting detail page [8/12]: https://pogo.pk/events/armenia-vs-cyprus
+🟢 Successfully processed: Liga Portugal [5/12]
+🟡 Visiting detail page [9/12]: https://pogo.pk/events/england-vs-croatia
+🟢 Successfully processed: Nations League [7/12]
+🟡 Visiting detail page [10/12]: https://pogo.pk/events/latvia-vs-montenegro
+🟢 Successfully processed: Nations League [8/12]
+🟡 Visiting detail page [11/12]: https://pogo.pk/events/albania-vs-finland
+🟢 Successfully processed: Nations League [9/12]
+🟡 Visiting detail page [12/12]: https://pogo.pk/events/belarus-vs-san-marino
+🟢 Successfully processed: Nations League [10/12]
+🟢 Successfully processed: Nations League [11/12]
+🟢 Successfully processed: Nations League [12/12]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 13
+🟢 Process completed successfully. Total collected events: 12

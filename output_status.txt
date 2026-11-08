@@ -3,8 +3,8 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 21
-🟡 Visiting detail page [1/21]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/21]: https://pogo.pk/events/motogp-qatar
+🟡 Visiting detail page [1/21]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [3/21]: https://pogo.pk/events/f1-brazilian-grand-prix
 🟢 Successfully processed: Formula 1 [3/21]
 🟡 Visiting detail page [4/21]: https://pogo.pk/events/england-vs-australia
@@ -12,11 +12,11 @@
 🟢 Successfully processed: PGA Tour [1/21]
 🟡 Visiting detail page [5/21]: https://pogo.pk/events/real-sociedad-vs-rayo-vallecano
 🟡 Visiting detail page [6/21]: https://pogo.pk/events/manchester-united-vs-aston-villa
+🟢 Successfully processed: Premier League [6/21]
 🟢 Successfully processed: Rugby Union [4/21]
 🟡 Visiting detail page [7/21]: https://pogo.pk/events/union-berlin-vs-freiburg
-🟢 Successfully processed: Premier League [6/21]
-🟡 Visiting detail page [8/21]: https://pogo.pk/events/inter-milan-vs-como
 🟢 Successfully processed: LaLiga [5/21]
+🟡 Visiting detail page [8/21]: https://pogo.pk/events/inter-milan-vs-como
 🟡 Visiting detail page [9/21]: https://pogo.pk/events/celta-vigo-vs-levante
 🟢 Successfully processed: Bundesliga [7/21]
 🟡 Visiting detail page [10/21]: https://pogo.pk/events/getafe-vs-villarreal

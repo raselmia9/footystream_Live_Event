@@ -26,15 +26,15 @@
 🟡 Visiting detail page [12/23]: https://pogo.pk/events/celta-vigo-vs-levante
 🟢 Successfully processed: LaLiga [12/23]
 🟡 Visiting detail page [13/23]: https://pogo.pk/events/getafe-vs-villarreal
+🟢 Successfully processed: LaLiga [13/23]
 🟢 Successfully processed: Rugby League World Cup [4/23]
 🟡 Visiting detail page [14/23]: https://pogo.pk/events/barcelona-vs-atletico-madrid
-🟢 Successfully processed: Serie A [6/23]
 🟡 Visiting detail page [15/23]: https://pogo.pk/events/ipswich-town-vs-bournemouth
-🟢 Successfully processed: LaLiga [13/23]
+🟢 Successfully processed: Serie A [6/23]
 🟡 Visiting detail page [16/23]: https://pogo.pk/events/brentford-vs-brighton
-🟢 Successfully processed: LaLiga [14/23]
-🟡 Visiting detail page [17/23]: https://pogo.pk/events/liverpool-vs-crystal-palace
 🟢 Successfully processed: Premier League [15/23]
+🟡 Visiting detail page [17/23]: https://pogo.pk/events/liverpool-vs-crystal-palace
+🟢 Successfully processed: LaLiga [14/23]
 🟡 Visiting detail page [18/23]: https://pogo.pk/events/chelsea-vs-sunderland
 🟢 Successfully processed: Premier League [16/23]
 🟡 Visiting detail page [19/23]: https://pogo.pk/events/manchester-united-vs-aston-villa

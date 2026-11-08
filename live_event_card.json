@@ -227,48 +227,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-08 22:30:00",
-        "team1Title": "Union Berlin",
-        "team2Title": "Freiburg",
-        "team1Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/union-berlin-vs-freiburg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/union-berlin-vs-freiburg/3554"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/union-berlin-vs-freiburg/3555"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-09 00:30:00",
-        "team1Title": "Hoffenheim",
-        "team2Title": "Schalke 04",
-        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hoffenheim-vs-schalke-04",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/hoffenheim-vs-schalke-04/3556"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/hoffenheim-vs-schalke-04/3557"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-08 21:10:00",
         "team1Title": "England",
@@ -395,6 +353,48 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/manchester-united-vs-aston-villa/3562"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-08 22:30:00",
+        "team1Title": "Union Berlin",
+        "team2Title": "Freiburg",
+        "team1Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/union-berlin-vs-freiburg",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/union-berlin-vs-freiburg/3554"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/union-berlin-vs-freiburg/3555"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-09 00:30:00",
+        "team1Title": "Hoffenheim",
+        "team2Title": "Schalke 04",
+        "team1Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hoffenheim-vs-schalke-04",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hoffenheim-vs-schalke-04/3556"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/hoffenheim-vs-schalke-04/3557"
             }
         ]
     },

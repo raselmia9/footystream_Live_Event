@@ -89,7 +89,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/lazio-vs-napoli",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lazio-vs-napoli/3538"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/lazio-vs-napoli/3539"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -154,7 +163,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-betis-vs-elche",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-betis-vs-elche/3540"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-betis-vs-elche/3541"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

@@ -21,23 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Liga Portugal",
-        "matchTime": "2026-11-09 02:30:00",
-        "team1Title": "Benfica",
-        "team2Title": "Estrela",
-        "team1Logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estrela/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/benfica-vs-estrela",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/benfica-vs-estrela/3576"
-            }
-        ]
-    },
-    {
         "eventTitle": "FA Cup",
         "matchTime": "2026-11-10 01:30:00",
         "team1Title": "Plymouth Parkway",

@@ -314,7 +314,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/hoffenheim-vs-schalke-04",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hoffenheim-vs-schalke-04/3556"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/hoffenheim-vs-schalke-04/3557"
+            }
+        ]
     },
     {
         "eventTitle": "Rugby Union",
@@ -343,7 +352,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/real-sociedad-vs-rayo-vallecano",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-rayo-vallecano/3558"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/real-sociedad-vs-rayo-vallecano/3559"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

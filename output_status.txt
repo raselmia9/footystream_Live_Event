@@ -4,8 +4,8 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 22
 🟡 Visiting detail page [2/22]: https://pogo.pk/events/chelsea-vs-sunderland
-🟡 Visiting detail page [3/22]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [1/22]: https://pogo.pk/events/liverpool-vs-crystal-palace
+🟡 Visiting detail page [3/22]: https://pogo.pk/events/pga-lpga-golf
 🟢 Successfully processed: PGA Tour [3/22]
 🟡 Visiting detail page [4/22]: https://pogo.pk/events/motogp-qatar
 🟢 Successfully processed: Premier League [2/22]
@@ -20,9 +20,9 @@
 🟡 Visiting detail page [9/22]: https://pogo.pk/events/brentford-vs-brighton
 🟢 Successfully processed: LaLiga [7/22]
 🟡 Visiting detail page [10/22]: https://pogo.pk/events/manchester-united-vs-aston-villa
-🟢 Successfully processed: Premier League [8/22]
-🟡 Visiting detail page [11/22]: https://pogo.pk/events/monza-vs-atalanta
 🟢 Successfully processed: Premier League [10/22]
+🟡 Visiting detail page [11/22]: https://pogo.pk/events/monza-vs-atalanta
+🟢 Successfully processed: Premier League [8/22]
 🟡 Visiting detail page [12/22]: https://pogo.pk/events/ac-milan-vs-genoa
 🟢 Successfully processed: Premier League [9/22]
 🟡 Visiting detail page [13/22]: https://pogo.pk/events/inter-milan-vs-como
@@ -34,18 +34,18 @@
 🟡 Visiting detail page [16/22]: https://pogo.pk/events/union-berlin-vs-freiburg
 🟢 Successfully processed: Serie A [12/22]
 🟡 Visiting detail page [17/22]: https://pogo.pk/events/hoffenheim-vs-schalke-04
-🟢 Successfully processed: Bundesliga [17/22]
-🟡 Visiting detail page [18/22]: https://pogo.pk/events/england-vs-australia
 🟢 Successfully processed: Bundesliga [15/22]
+🟡 Visiting detail page [18/22]: https://pogo.pk/events/england-vs-australia
+🟢 Successfully processed: Bundesliga [16/22]
 🟡 Visiting detail page [19/22]: https://pogo.pk/events/real-sociedad-vs-rayo-vallecano
-🟢 Successfully processed: LaLiga [19/22]
+🟢 Successfully processed: Bundesliga [17/22]
 🟡 Visiting detail page [20/22]: https://pogo.pk/events/celta-vigo-vs-levante
 🟢 Successfully processed: LaLiga [20/22]
 🟡 Visiting detail page [21/22]: https://pogo.pk/events/getafe-vs-villarreal
 🟢 Successfully processed: LaLiga [21/22]
 🟡 Visiting detail page [22/22]: https://pogo.pk/events/barcelona-vs-atletico-madrid
-🟢 Successfully processed: LaLiga [22/22]
-🟢 Successfully processed: Bundesliga [16/22]
 🟢 Successfully processed: Rugby Union [18/22]
+🟢 Successfully processed: LaLiga [22/22]
+🟢 Successfully processed: LaLiga [19/22]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 22

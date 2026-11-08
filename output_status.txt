@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 22
 🟡 Visiting detail page [2/22]: https://pogo.pk/events/chelsea-vs-sunderland
-🟡 Visiting detail page [1/22]: https://pogo.pk/events/liverpool-vs-crystal-palace
 🟡 Visiting detail page [3/22]: https://pogo.pk/events/pga-lpga-golf
-🟢 Successfully processed: PGA Tour [3/22]
-🟡 Visiting detail page [4/22]: https://pogo.pk/events/motogp-qatar
+🟡 Visiting detail page [1/22]: https://pogo.pk/events/liverpool-vs-crystal-palace
 🟢 Successfully processed: Premier League [2/22]
-🟡 Visiting detail page [5/22]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟡 Visiting detail page [4/22]: https://pogo.pk/events/motogp-qatar
 🟢 Successfully processed: Premier League [1/22]
+🟡 Visiting detail page [5/22]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟢 Successfully processed: PGA Tour [3/22]
 🟡 Visiting detail page [6/22]: https://pogo.pk/events/lazio-vs-napoli
 🟢 Successfully processed: MotoGP [4/22]
 🟡 Visiting detail page [7/22]: https://pogo.pk/events/real-betis-vs-elche
@@ -20,9 +20,9 @@
 🟡 Visiting detail page [9/22]: https://pogo.pk/events/brentford-vs-brighton
 🟢 Successfully processed: LaLiga [7/22]
 🟡 Visiting detail page [10/22]: https://pogo.pk/events/manchester-united-vs-aston-villa
-🟢 Successfully processed: Premier League [10/22]
-🟡 Visiting detail page [11/22]: https://pogo.pk/events/monza-vs-atalanta
 🟢 Successfully processed: Premier League [8/22]
+🟡 Visiting detail page [11/22]: https://pogo.pk/events/monza-vs-atalanta
+🟢 Successfully processed: Premier League [10/22]
 🟡 Visiting detail page [12/22]: https://pogo.pk/events/ac-milan-vs-genoa
 🟢 Successfully processed: Premier League [9/22]
 🟡 Visiting detail page [13/22]: https://pogo.pk/events/inter-milan-vs-como

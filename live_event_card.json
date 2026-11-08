@@ -115,8 +115,8 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-08 17:30:00",
-        "team1Title": "Lazio",
-        "team2Title": "Napoli",
+        "team1Title": "Event Ended",
+        "team2Title": "Lazio",
         "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "isHot": true,

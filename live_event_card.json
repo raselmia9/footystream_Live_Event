@@ -176,18 +176,6 @@
         ]
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-08 22:30:00",
-        "team1Title": "Manchester United",
-        "team2Title": "Aston Villa",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-united-vs-aston-villa",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-08 20:00:00",
         "team1Title": "Monza",
@@ -220,30 +208,6 @@
                 "url": "https://playerdee.top/alpha/ac-milan-vs-genoa/3552"
             }
         ]
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-08 23:00:00",
-        "team1Title": "Inter Milan",
-        "team2Title": "Como",
-        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/inter-milan-vs-como",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-09 01:45:00",
-        "team1Title": "Juventus",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/juventus-vs-fiorentina",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",
@@ -352,7 +316,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/celta-vigo-vs-levante",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/celta-vigo-vs-levante/3570"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -364,7 +333,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/getafe-vs-villarreal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/getafe-vs-villarreal/3569"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",
@@ -376,6 +350,102 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/barcelona-vs-atletico-madrid",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3571"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3572"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3573"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3574"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3575"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-08 22:30:00",
+        "team1Title": "Manchester United",
+        "team2Title": "Aston Villa",
+        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/manchester-united-vs-aston-villa",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-aston-villa/3560"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-aston-villa/3561"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/manchester-united-vs-aston-villa/3562"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-08 23:00:00",
+        "team1Title": "Inter Milan",
+        "team2Title": "Como",
+        "team1Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/inter-milan-vs-como",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-como/3563"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-como/3564"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/inter-milan-vs-como/3567"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-09 01:45:00",
+        "team1Title": "Juventus",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/juventus-vs-fiorentina",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3565"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3566"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3568"
+            }
+        ]
     }
 ]

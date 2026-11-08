@@ -63,23 +63,6 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-08 20:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayer Leverkusen",
-        "team1Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/bayer-leverkusen-vs-koln",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayer-leverkusen-vs-koln/3553"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-08 21:10:00",
         "team1Title": "England",
@@ -189,35 +172,6 @@
         ]
     },
     {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-09 01:45:00",
-        "team1Title": "Juventus",
-        "team2Title": "Fiorentina",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/juventus-vs-fiorentina",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3565"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3566"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3568"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3577"
-            }
-        ]
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-08 23:30:00",
         "team1Title": "Celta de Vigo",
@@ -302,6 +256,35 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/hoffenheim-vs-schalke-04/3557"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-09 01:45:00",
+        "team1Title": "Juventus",
+        "team2Title": "Fiorentina",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/juventus-vs-fiorentina",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3565"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3566"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3568"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3577"
             }
         ]
     },

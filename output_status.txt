@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 22
+🟡 Visiting detail page [1/22]: https://pogo.pk/events/liverpool-vs-crystal-palace
 🟡 Visiting detail page [3/22]: https://pogo.pk/events/pga-lpga-golf
 🟡 Visiting detail page [2/22]: https://pogo.pk/events/chelsea-vs-sunderland
-🟡 Visiting detail page [1/22]: https://pogo.pk/events/liverpool-vs-crystal-palace
-🟢 Successfully processed: Premier League [2/22]
-🟡 Visiting detail page [4/22]: https://pogo.pk/events/motogp-qatar
 🟢 Successfully processed: Premier League [1/22]
-🟡 Visiting detail page [5/22]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟡 Visiting detail page [4/22]: https://pogo.pk/events/motogp-qatar
 🟢 Successfully processed: PGA Tour [3/22]
+🟡 Visiting detail page [5/22]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟢 Successfully processed: Premier League [2/22]
 🟡 Visiting detail page [6/22]: https://pogo.pk/events/lazio-vs-napoli
-🟢 Successfully processed: Formula 1 [5/22]
 🟢 Successfully processed: MotoGP [4/22]
 🟡 Visiting detail page [7/22]: https://pogo.pk/events/real-betis-vs-elche
+🟢 Successfully processed: Formula 1 [5/22]
 🟡 Visiting detail page [8/22]: https://pogo.pk/events/real-sociedad-vs-rayo-vallecano
 🟢 Successfully processed: Serie A [6/22]
 🟡 Visiting detail page [9/22]: https://pogo.pk/events/celta-vigo-vs-levante
@@ -38,13 +38,13 @@
 🟡 Visiting detail page [18/22]: https://pogo.pk/events/juventus-vs-fiorentina
 🟢 Successfully processed: Serie A [18/22]
 🟡 Visiting detail page [19/22]: https://pogo.pk/events/bayer-leverkusen-vs-koln
-🟢 Successfully processed: Bundesliga [19/22]
+🟢 Successfully processed: Serie A [15/22]
 🟡 Visiting detail page [20/22]: https://pogo.pk/events/union-berlin-vs-freiburg
-🟢 Successfully processed: Bundesliga [20/22]
+🟢 Successfully processed: Bundesliga [19/22]
 🟡 Visiting detail page [21/22]: https://pogo.pk/events/hoffenheim-vs-schalke-04
 🟢 Successfully processed: Bundesliga [21/22]
 🟡 Visiting detail page [22/22]: https://pogo.pk/events/england-vs-australia
-🟢 Successfully processed: Serie A [15/22]
+🟢 Successfully processed: Bundesliga [20/22]
 🟢 Successfully processed: Serie A [16/22]
 🟢 Successfully processed: Rugby Union [22/22]
 🟢 Browser closed successfully.

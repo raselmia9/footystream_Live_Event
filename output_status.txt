@@ -2,44 +2,40 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 19
-🟡 Visiting detail page [2/19]: https://pogo.pk/events/motogp-qatar
-🟡 Visiting detail page [1/19]: https://pogo.pk/events/pga-lpga-golf
-🟡 Visiting detail page [3/19]: https://pogo.pk/events/f1-brazilian-grand-prix
-🟢 Successfully processed: PGA Tour [1/19]
-🟡 Visiting detail page [4/19]: https://pogo.pk/events/manchester-united-vs-aston-villa
-🟢 Successfully processed: Formula 1 [3/19]
-🟡 Visiting detail page [5/19]: https://pogo.pk/events/union-berlin-vs-freiburg
-🟢 Successfully processed: MotoGP [2/19]
-🟡 Visiting detail page [6/19]: https://pogo.pk/events/inter-milan-vs-como
-🟢 Successfully processed: Premier League [4/19]
-🟡 Visiting detail page [7/19]: https://pogo.pk/events/celta-vigo-vs-levante
-🟢 Successfully processed: Bundesliga [5/19]
-🟡 Visiting detail page [8/19]: https://pogo.pk/events/getafe-vs-villarreal
-🟢 Successfully processed: Serie A [6/19]
-🟡 Visiting detail page [9/19]: https://pogo.pk/events/hoffenheim-vs-schalke-04
-🟢 Successfully processed: LaLiga [7/19]
-🟡 Visiting detail page [10/19]: https://pogo.pk/events/juventus-vs-fiorentina
-🟢 Successfully processed: LaLiga [8/19]
-🟡 Visiting detail page [11/19]: https://pogo.pk/events/barcelona-vs-atletico-madrid
-🟢 Successfully processed: Bundesliga [9/19]
-🟡 Visiting detail page [12/19]: https://pogo.pk/events/benfica-vs-estrela
-🟢 Successfully processed: Serie A [10/19]
-🟡 Visiting detail page [13/19]: https://pogo.pk/events/plymouth-parkway-vs-berkhamsted
-🟢 Successfully processed: LaLiga [11/19]
-🟡 Visiting detail page [14/19]: https://pogo.pk/events/turkey-vs-belgium
-🟢 Successfully processed: Nations League [14/19]
-🟡 Visiting detail page [15/19]: https://pogo.pk/events/armenia-vs-cyprus
-🟢 Successfully processed: Nations League [15/19]
-🟡 Visiting detail page [16/19]: https://pogo.pk/events/england-vs-croatia
-🟢 Successfully processed: Liga Portugal [12/19]
-🟡 Visiting detail page [17/19]: https://pogo.pk/events/latvia-vs-montenegro
-🟢 Successfully processed: Nations League [16/19]
-🟡 Visiting detail page [18/19]: https://pogo.pk/events/albania-vs-finland
-🟢 Successfully processed: Nations League [17/19]
-🟡 Visiting detail page [19/19]: https://pogo.pk/events/belarus-vs-san-marino
-🟢 Successfully processed: Nations League [18/19]
-🟢 Successfully processed: Nations League [19/19]
-🟢 Successfully processed: FA Cup [13/19]
+🟢 Total unique detail links to process in parallel: 17
+🟡 Visiting detail page [1/17]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/17]: https://pogo.pk/events/motogp-qatar
+🟡 Visiting detail page [3/17]: https://pogo.pk/events/f1-brazilian-grand-prix
+🟢 Successfully processed: MotoGP [2/17]
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/inter-milan-vs-como
+🟢 Successfully processed: PGA Tour [1/17]
+🟢 Successfully processed: Formula 1 [3/17]
+🟡 Visiting detail page [6/17]: https://pogo.pk/events/getafe-vs-villarreal
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/celta-vigo-vs-levante
+🟢 Successfully processed: Serie A [4/17]
+🟡 Visiting detail page [7/17]: https://pogo.pk/events/hoffenheim-vs-schalke-04
+🟢 Successfully processed: LaLiga [6/17]
+🟡 Visiting detail page [8/17]: https://pogo.pk/events/juventus-vs-fiorentina
+🟢 Successfully processed: LaLiga [5/17]
+🟡 Visiting detail page [9/17]: https://pogo.pk/events/barcelona-vs-atletico-madrid
+🟢 Successfully processed: Bundesliga [7/17]
+🟡 Visiting detail page [10/17]: https://pogo.pk/events/benfica-vs-estrela
+🟢 Successfully processed: Serie A [8/17]
+🟡 Visiting detail page [11/17]: https://pogo.pk/events/plymouth-parkway-vs-berkhamsted
+🟢 Successfully processed: LaLiga [9/17]
+🟡 Visiting detail page [12/17]: https://pogo.pk/events/turkey-vs-belgium
+🟢 Successfully processed: Nations League [12/17]
+🟡 Visiting detail page [13/17]: https://pogo.pk/events/armenia-vs-cyprus
+🟢 Successfully processed: Nations League [13/17]
+🟡 Visiting detail page [14/17]: https://pogo.pk/events/england-vs-croatia
+🟢 Successfully processed: Nations League [14/17]
+🟡 Visiting detail page [15/17]: https://pogo.pk/events/latvia-vs-montenegro
+🟢 Successfully processed: Nations League [15/17]
+🟡 Visiting detail page [16/17]: https://pogo.pk/events/albania-vs-finland
+🟢 Successfully processed: Liga Portugal [10/17]
+🟡 Visiting detail page [17/17]: https://pogo.pk/events/belarus-vs-san-marino
+🟢 Successfully processed: FA Cup [11/17]
+🟢 Successfully processed: Nations League [16/17]
+🟢 Successfully processed: Nations League [17/17]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 19
+🟢 Process completed successfully. Total collected events: 17

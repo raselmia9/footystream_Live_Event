@@ -23,8 +23,8 @@
     {
         "eventTitle": "MotoGP",
         "matchTime": "2026-11-06 16:00:00",
-        "team1Title": "MotoGP Qatar GP",
-        "team2Title": "MotoGP",
+        "team1Title": "Event Ended",
+        "team2Title": "MotoGP Qatar GP",
         "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
         "isHot": true,
@@ -59,52 +59,6 @@
             {
                 "channel": "Link 3",
                 "url": "https://playerdee.top/alpha/f1-brazilian-grand-prix/3472"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-08 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Manchester United",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/manchester-united-vs-aston-villa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-aston-villa/3560"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-aston-villa/3561"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/manchester-united-vs-aston-villa/3562"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-08 22:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Union Berlin",
-        "team1Logo": "https://cdn.img4every1.org/team/union-berlin/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/freiburg/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/union-berlin-vs-freiburg",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/union-berlin-vs-freiburg/3554"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/union-berlin-vs-freiburg/3555"
             }
         ]
     },

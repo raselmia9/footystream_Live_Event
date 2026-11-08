@@ -1,5 +1,26 @@
 [
     {
+        "eventTitle": "PGA Tour",
+        "matchTime": "2026-11-05 08:00:00",
+        "team1Title": "PGA / LPGA Golf",
+        "team2Title": "PGA Tour",
+        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/pga-lpga-golf",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3454"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/pga-lpga-golf/3455"
+            }
+        ]
+    },
+    {
         "eventTitle": "Liga Portugal",
         "matchTime": "2026-11-09 02:30:00",
         "team1Title": "Benfica",
@@ -15,6 +36,35 @@
                 "url": "https://playerdee.top/alpha/benfica-vs-estrela/3576"
             }
         ]
+    },
+    {
+        "eventTitle": "FA Cup",
+        "matchTime": "2026-11-10 01:30:00",
+        "team1Title": "Plymouth Parkway",
+        "team2Title": "Berkhamsted",
+        "team1Logo": "https://cdn.img4every1.org/team/plymouth-parkway/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/berkhamsted/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/plymouth-parkway-vs-berkhamsted",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/plymouth-parkway-vs-berkhamsted/3578"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-12 23:00:00",
+        "team1Title": "Turkiye",
+        "team2Title": "Belgium",
+        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/turkey-vs-belgium",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Nations League",

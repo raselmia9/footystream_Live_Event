@@ -2,38 +2,24 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 10
-🟡 Visiting detail page [3/10]: https://pogo.pk/events/benfica-vs-estrela
-🟡 Visiting detail page [2/10]: https://pogo.pk/events/barcelona-vs-atletico-madrid
-🟡 Visiting detail page [1/10]: https://pogo.pk/events/pga-lpga-golf
-🔴 ERROR on detail page https://pogo.pk/events/barcelona-vs-atletico-madrid: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/barcelona-vs-atletico-madrid", waiting until "load"
-
-🔴 ERROR on detail page https://pogo.pk/events/pga-lpga-golf: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/pga-lpga-golf", waiting until "load"
-
-🟡 Visiting detail page [5/10]: https://pogo.pk/events/turkey-vs-belgium
-🟡 Visiting detail page [4/10]: https://pogo.pk/events/plymouth-parkway-vs-berkhamsted
-🟢 Successfully processed: Liga Portugal [3/10]
-🟡 Visiting detail page [6/10]: https://pogo.pk/events/armenia-vs-cyprus
-🟢 Successfully processed: Nations League [6/10]
-🟡 Visiting detail page [7/10]: https://pogo.pk/events/england-vs-croatia
-🟢 Successfully processed: Nations League [7/10]
-🟡 Visiting detail page [8/10]: https://pogo.pk/events/latvia-vs-montenegro
-🔴 ERROR on detail page https://pogo.pk/events/turkey-vs-belgium: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/turkey-vs-belgium", waiting until "load"
-
-🔴 ERROR on detail page https://pogo.pk/events/plymouth-parkway-vs-berkhamsted: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/plymouth-parkway-vs-berkhamsted", waiting until "load"
-
-🟡 Visiting detail page [9/10]: https://pogo.pk/events/albania-vs-finland
-🟡 Visiting detail page [10/10]: https://pogo.pk/events/belarus-vs-san-marino
-🟢 Successfully processed: Nations League [8/10]
-🟢 Successfully processed: Nations League [10/10]
-🟢 Successfully processed: Nations League [9/10]
+🟢 Total unique detail links to process in parallel: 9
+🟡 Visiting detail page [3/9]: https://pogo.pk/events/plymouth-parkway-vs-berkhamsted
+🟡 Visiting detail page [1/9]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [2/9]: https://pogo.pk/events/benfica-vs-estrela
+🟢 Successfully processed: Liga Portugal [2/9]
+🟡 Visiting detail page [4/9]: https://pogo.pk/events/turkey-vs-belgium
+🟢 Successfully processed: FA Cup [3/9]
+🟡 Visiting detail page [5/9]: https://pogo.pk/events/armenia-vs-cyprus
+🟢 Successfully processed: PGA Tour [1/9]
+🟡 Visiting detail page [6/9]: https://pogo.pk/events/england-vs-croatia
+🟢 Successfully processed: Nations League [4/9]
+🟡 Visiting detail page [7/9]: https://pogo.pk/events/latvia-vs-montenegro
+🟢 Successfully processed: Nations League [5/9]
+🟡 Visiting detail page [8/9]: https://pogo.pk/events/albania-vs-finland
+🟢 Successfully processed: Nations League [6/9]
+🟡 Visiting detail page [9/9]: https://pogo.pk/events/belarus-vs-san-marino
+🟢 Successfully processed: Nations League [7/9]
+🟢 Successfully processed: Nations League [8/9]
+🟢 Successfully processed: Nations League [9/9]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 6
+🟢 Process completed successfully. Total collected events: 9

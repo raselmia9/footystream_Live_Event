@@ -63,27 +63,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-08 21:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Sociedad",
-        "team1Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/real-sociedad-vs-rayo-vallecano",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-rayo-vallecano/3558"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-sociedad-vs-rayo-vallecano/3559"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-08 22:30:00",
         "team1Title": "Manchester United",
@@ -189,39 +168,6 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-09 02:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Atlético Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/barcelona-vs-atletico-madrid",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3571"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3572"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3573"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3574"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3575"
-            }
-        ]
-    },
-    {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-11-09 00:30:00",
         "team1Title": "Hoffenheim",
@@ -268,6 +214,39 @@
             {
                 "channel": "Link 4",
                 "url": "https://playerdee.top/alpha/juventus-vs-fiorentina/3577"
+            }
+        ]
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-09 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Atlético Madrid",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/barcelona-vs-atletico-madrid",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3571"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3572"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3573"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3574"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/barcelona-vs-atletico-madrid/3575"
             }
         ]
     },

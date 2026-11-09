@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 7
-🟡 Visiting detail page [3/7]: https://pogo.pk/events/armenia-vs-cyprus
 🟡 Visiting detail page [2/7]: https://pogo.pk/events/turkey-vs-belgium
 🟡 Visiting detail page [1/7]: https://pogo.pk/events/plymouth-parkway-vs-berkhamsted
+🟡 Visiting detail page [3/7]: https://pogo.pk/events/armenia-vs-cyprus
 🟢 Successfully processed: Nations League [2/7]
 🟡 Visiting detail page [4/7]: https://pogo.pk/events/england-vs-croatia
 🟢 Successfully processed: Nations League [3/7]

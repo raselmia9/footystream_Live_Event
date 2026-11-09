@@ -1,5 +1,22 @@
 [
     {
+        "eventTitle": "Snooker",
+        "matchTime": "2026-11-09 18:45:00",
+        "team1Title": "Snooker Champion of Champions",
+        "team2Title": "Snooker",
+        "team1Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/snooker-champion-of-champions",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/snooker-champion-of-champions/3579"
+            }
+        ]
+    },
+    {
         "eventTitle": "FA Cup",
         "matchTime": "2026-11-10 01:30:00",
         "team1Title": "Plymouth Parkway",

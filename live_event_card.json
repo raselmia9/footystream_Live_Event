@@ -1,26 +1,5 @@
 [
     {
-        "eventTitle": "PGA Tour",
-        "matchTime": "2026-11-05 08:00:00",
-        "team1Title": "PGA / LPGA Golf",
-        "team2Title": "PGA Tour",
-        "team1Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/pga-lpga-golf",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/pga-lpga-golf/3454"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/pga-lpga-golf/3455"
-            }
-        ]
-    },
-    {
         "eventTitle": "FA Cup",
         "matchTime": "2026-11-10 01:30:00",
         "team1Title": "Plymouth Parkway",

@@ -4,8 +4,8 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 8
 🟡 Visiting detail page [2/8]: https://pogo.pk/events/plymouth-parkway-vs-berkhamsted
-🟡 Visiting detail page [3/8]: https://pogo.pk/events/turkey-vs-belgium
 🟡 Visiting detail page [1/8]: https://pogo.pk/events/pga-lpga-golf
+🟡 Visiting detail page [3/8]: https://pogo.pk/events/turkey-vs-belgium
 🟢 Successfully processed: Nations League [3/8]
 🟡 Visiting detail page [4/8]: https://pogo.pk/events/armenia-vs-cyprus
 🟢 Successfully processed: Nations League [4/8]
@@ -17,7 +17,7 @@
 🟢 Successfully processed: Nations League [7/8]
 🟡 Visiting detail page [8/8]: https://pogo.pk/events/belarus-vs-san-marino
 🟢 Successfully processed: Nations League [8/8]
-🟢 Successfully processed: FA Cup [2/8]
 🟢 Successfully processed: PGA Tour [1/8]
+🟢 Successfully processed: FA Cup [2/8]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 8

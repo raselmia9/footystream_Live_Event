@@ -16,8 +16,8 @@
 🟡 Visiting detail page [7/8]: https://pogo.pk/events/albania-vs-finland
 🟢 Successfully processed: Nations League [7/8]
 🟡 Visiting detail page [8/8]: https://pogo.pk/events/belarus-vs-san-marino
-🟢 Successfully processed: Nations League [8/8]
-🟢 Successfully processed: PGA Tour [1/8]
 🟢 Successfully processed: FA Cup [2/8]
+🟢 Successfully processed: PGA Tour [1/8]
+🟢 Successfully processed: Nations League [8/8]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 8

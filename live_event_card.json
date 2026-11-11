@@ -87,17 +87,5 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/albania-vs-finland",
         "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-13 01:45:00",
-        "team1Title": "Belarus",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/belarus-vs-san-marino",
-        "multiWatchPageLink": []
     }
 ]

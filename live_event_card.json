@@ -105,5 +105,51 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/belarus-vs-san-marino",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-13 01:45:00",
+        "team1Title": "Spain",
+        "team2Title": "Czechia",
+        "team1Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/spain-vs-czechia",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/spain-vs-czechia/3584"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-13 01:45:00",
+        "team1Title": "Italy",
+        "team2Title": "France",
+        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/italy-vs-france",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/italy-vs-france/3581"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/italy-vs-france/3586"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/italy-vs-france/3587"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/italy-vs-france/3588"
+            }
+        ]
     }
 ]

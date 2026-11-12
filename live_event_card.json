@@ -19,8 +19,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-12 23:00:00",
-        "team1Title": "Turkiye",
-        "team2Title": "Belgium",
+        "team1Title": "Event Ended",
+        "team2Title": "Turkiye",
         "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
         "isHot": true,
@@ -40,8 +40,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-12 23:00:00",
-        "team1Title": "Armenia",
-        "team2Title": "Cyprus",
+        "team1Title": "Event Ended",
+        "team2Title": "Armenia",
         "team1Logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
         "isHot": true,

@@ -68,7 +68,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/england-vs-croatia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-croatia/3589"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/england-vs-croatia/3590"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/england-vs-croatia/3591"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -80,7 +93,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/latvia-vs-montenegro",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/latvia-vs-montenegro/3595"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -92,7 +110,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/albania-vs-finland",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/albania-vs-finland/3596"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/albania-vs-finland/3597"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -120,6 +147,18 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/spain-vs-czechia/3584"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/spain-vs-czechia/3592"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/spain-vs-czechia/3593"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/spain-vs-czechia/3594"
             }
         ]
     },

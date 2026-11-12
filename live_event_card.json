@@ -17,18 +17,6 @@
         ]
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-11-12 12:00:00",
-        "team1Title": "India",
-        "team2Title": "New Zealand",
-        "team1Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/india-vs-new-zealand",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-12 23:00:00",
         "team1Title": "Turkiye",

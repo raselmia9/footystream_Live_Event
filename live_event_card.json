@@ -131,7 +131,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/belarus-vs-san-marino",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/belarus-vs-san-marino/3598"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -188,6 +193,125 @@
             {
                 "channel": "Link 4",
                 "url": "https://playerdee.top/alpha/italy-vs-france/3588"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-14 02:10:00",
+        "team1Title": "France",
+        "team2Title": "South Africa",
+        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/france-vs-south-africa",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/france-vs-south-africa/3599"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-14 17:40:00",
+        "team1Title": "Italy",
+        "team2Title": "Argentina",
+        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/italy-vs-argentina",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/italy-vs-argentina/3600"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-14 20:10:00",
+        "team1Title": "Wales",
+        "team2Title": "New Zealand",
+        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wales-vs-new-zealand",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/wales-vs-new-zealand/3601"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-14 22:40:00",
+        "team1Title": "England",
+        "team2Title": "Japan",
+        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/england-vs-japan",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/england-vs-japan/3602"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-15 02:10:00",
+        "team1Title": "Ireland",
+        "team2Title": "Fiji",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ireland-vs-fiji",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ireland-vs-fiji/3603"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-15 21:10:00",
+        "team1Title": "Australia",
+        "team2Title": "Scotland",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-scotland",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australia-vs-scotland/3604"
+            }
+        ]
+    },
+    {
+        "eventTitle": "UFC",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Title": "Ciryl Gane",
+        "team2Title": "Josh Hokit",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ciryl-gane-vs-josh-hokit",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ciryl-gane-vs-josh-hokit/3605"
             }
         ]
     }

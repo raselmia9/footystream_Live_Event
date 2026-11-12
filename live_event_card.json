@@ -26,7 +26,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/turkey-vs-belgium",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/turkey-vs-belgium/3580"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

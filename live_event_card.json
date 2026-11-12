@@ -269,6 +269,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-11-14 16:15:00",
+        "team1Title": "Brazil",
+        "team2Title": "Japan",
+        "team1Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/brazil-vs-japan",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "UFC",
         "matchTime": "2026-11-15 06:00:00",
         "team1Title": "Ciryl Gane",

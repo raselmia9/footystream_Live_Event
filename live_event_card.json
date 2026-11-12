@@ -30,6 +30,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/turkey-vs-belgium/3580"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/turkey-vs-belgium/3582"
             }
         ]
     },
@@ -43,7 +47,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/armenia-vs-cyprus",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/armenia-vs-cyprus/3583"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/armenia-vs-cyprus/3585"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

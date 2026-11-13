@@ -103,6 +103,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-14 20:00:00",
+        "team1Title": "Kosovo",
+        "team2Title": "Israel",
+        "team1Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/kosovo-vs-israel",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-14 02:10:00",
         "team1Title": "France",

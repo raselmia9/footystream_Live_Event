@@ -134,18 +134,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-14 20:00:00",
-        "team1Title": "Kosovo",
-        "team2Title": "Israel",
-        "team1Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/kosovo-vs-israel",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-14 02:10:00",
         "team1Title": "France",
@@ -269,6 +257,88 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/brazil-vs-japan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-14 20:00:00",
+        "team1Title": "Kosovo",
+        "team2Title": "Israel",
+        "team1Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/kosovo-vs-israel",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-14 23:00:00",
+        "team1Title": "Wales",
+        "team2Title": "Norway",
+        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/wales-vs-norway",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/wales-vs-norway/3607"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-14 23:00:00",
+        "team1Title": "Hungary",
+        "team2Title": "Georgia",
+        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/hungary-vs-georgia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-15 01:45:00",
+        "team1Title": "Ireland",
+        "team2Title": "Austria",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ireland-vs-austria",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-15 01:45:00",
+        "team1Title": "Ukraine",
+        "team2Title": "Northern Ireland",
+        "team1Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ukraine-vs-northern-ireland",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ukraine-vs-northern-ireland/3608"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-15 01:45:00",
+        "team1Title": "Poland",
+        "team2Title": "Romania",
+        "team1Logo": "https://cdn.img4every1.org/team/poland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/poland-vs-romania",
         "multiWatchPageLink": []
     },
     {

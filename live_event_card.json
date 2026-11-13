@@ -47,7 +47,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/azerbaijan-vs-liechtenstein",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/azerbaijan-vs-liechtenstein/3613"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -59,7 +64,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/germany-vs-serbia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/germany-vs-serbia/3614"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/germany-vs-serbia/3615"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/germany-vs-serbia/3616"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/germany-vs-serbia/3617"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -71,7 +93,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/netherlands-vs-greece",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/netherlands-vs-greece/3618"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/netherlands-vs-greece/3619"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/netherlands-vs-greece/3620"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/netherlands-vs-greece/3621"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -89,18 +128,6 @@
                 "url": "https://playerdee.top/alpha/scotland-vs-north-macedonia/3606"
             }
         ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-14 01:45:00",
-        "team1Title": "Switzerland",
-        "team2Title": "Slovenia",
-        "team1Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/switzerland-vs-slovenia",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Nations League",

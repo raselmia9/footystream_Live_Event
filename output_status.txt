@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 21
-🟡 Visiting detail page [2/21]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
-🟡 Visiting detail page [3/21]: https://pogo.pk/events/germany-vs-serbia
 🟡 Visiting detail page [1/21]: https://pogo.pk/events/snooker-champion-of-champions
-🟢 Successfully processed: Nations League [2/21]
-🟢 Successfully processed: Nations League [3/21]
-🟡 Visiting detail page [4/21]: https://pogo.pk/events/netherlands-vs-greece
-🟡 Visiting detail page [5/21]: https://pogo.pk/events/scotland-vs-north-macedonia
+🟡 Visiting detail page [3/21]: https://pogo.pk/events/germany-vs-serbia
+🟡 Visiting detail page [2/21]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟢 Successfully processed: Snooker [1/21]
+🟡 Visiting detail page [4/21]: https://pogo.pk/events/netherlands-vs-greece
+🟢 Successfully processed: Nations League [2/21]
+🟡 Visiting detail page [5/21]: https://pogo.pk/events/scotland-vs-north-macedonia
+🟢 Successfully processed: Nations League [3/21]
 🟡 Visiting detail page [6/21]: https://pogo.pk/events/switzerland-vs-slovenia
 🟢 Successfully processed: Nations League [4/21]
 🟡 Visiting detail page [7/21]: https://pogo.pk/events/france-vs-south-africa
@@ -24,19 +24,19 @@
 🟡 Visiting detail page [11/21]: https://pogo.pk/events/wales-vs-new-zealand
 🟢 Successfully processed: Rugby Union [7/21]
 🟡 Visiting detail page [12/21]: https://pogo.pk/events/england-vs-japan
-🟢 Successfully processed: Rugby Union [11/21]
-🟡 Visiting detail page [13/21]: https://pogo.pk/events/ireland-vs-fiji
 🟢 Successfully processed: Rugby Union [10/21]
+🟡 Visiting detail page [13/21]: https://pogo.pk/events/ireland-vs-fiji
+🟢 Successfully processed: Rugby Union [11/21]
 🟡 Visiting detail page [14/21]: https://pogo.pk/events/australia-vs-scotland
 🟢 Successfully processed: Rugby Union [12/21]
 🟡 Visiting detail page [15/21]: https://pogo.pk/events/kosovo-vs-israel
-🟢 Successfully processed: Rugby Union [13/21]
-🟡 Visiting detail page [16/21]: https://pogo.pk/events/wales-vs-norway
-🟢 Successfully processed: Rugby Union [14/21]
-🟡 Visiting detail page [17/21]: https://pogo.pk/events/hungary-vs-georgia
-🟢 Successfully processed: Nations League [17/21]
-🟡 Visiting detail page [18/21]: https://pogo.pk/events/ireland-vs-austria
 🟢 Successfully processed: Nations League [15/21]
+🟡 Visiting detail page [16/21]: https://pogo.pk/events/wales-vs-norway
+🟢 Successfully processed: Rugby Union [13/21]
+🟡 Visiting detail page [17/21]: https://pogo.pk/events/hungary-vs-georgia
+🟢 Successfully processed: Rugby Union [14/21]
+🟡 Visiting detail page [18/21]: https://pogo.pk/events/ireland-vs-austria
+🟢 Successfully processed: Nations League [17/21]
 🟡 Visiting detail page [19/21]: https://pogo.pk/events/ukraine-vs-northern-ireland
 🟢 Successfully processed: Nations League [18/21]
 🟡 Visiting detail page [20/21]: https://pogo.pk/events/poland-vs-romania

@@ -3,26 +3,26 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 15
+🟡 Visiting detail page [3/15]: https://pogo.pk/events/brazil-vs-japan
 🟡 Visiting detail page [2/15]: https://pogo.pk/events/argentina-vs-uruguay
 🟡 Visiting detail page [1/15]: https://pogo.pk/events/snooker-champion-of-champions
-🟡 Visiting detail page [3/15]: https://pogo.pk/events/brazil-vs-japan
 🟢 Successfully processed: Friendly [3/15]
-🟡 Visiting detail page [4/15]: https://pogo.pk/events/italy-vs-argentina
 🟢 Successfully processed: Friendly [2/15]
+🟡 Visiting detail page [4/15]: https://pogo.pk/events/italy-vs-argentina
 🟡 Visiting detail page [5/15]: https://pogo.pk/events/wales-vs-new-zealand
 🟢 Successfully processed: Snooker [1/15]
 🟡 Visiting detail page [6/15]: https://pogo.pk/events/england-vs-japan
-🟢 Successfully processed: Rugby Union [4/15]
-🟡 Visiting detail page [7/15]: https://pogo.pk/events/ireland-vs-fiji
 🟢 Successfully processed: Rugby Union [5/15]
+🟡 Visiting detail page [7/15]: https://pogo.pk/events/ireland-vs-fiji
+🟢 Successfully processed: Rugby Union [4/15]
 🟡 Visiting detail page [8/15]: https://pogo.pk/events/australia-vs-scotland
 🟢 Successfully processed: Rugby Union [6/15]
 🟡 Visiting detail page [9/15]: https://pogo.pk/events/kosovo-vs-israel
 🟢 Successfully processed: Nations League [9/15]
-🟡 Visiting detail page [10/15]: https://pogo.pk/events/wales-vs-norway
 🟢 Successfully processed: Rugby Union [7/15]
-🟢 Successfully processed: Rugby Union [8/15]
+🟡 Visiting detail page [10/15]: https://pogo.pk/events/wales-vs-norway
 🟡 Visiting detail page [11/15]: https://pogo.pk/events/hungary-vs-georgia
+🟢 Successfully processed: Rugby Union [8/15]
 🟡 Visiting detail page [12/15]: https://pogo.pk/events/ireland-vs-austria
 🟢 Successfully processed: Nations League [11/15]
 🟡 Visiting detail page [13/15]: https://pogo.pk/events/ukraine-vs-northern-ireland

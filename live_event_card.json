@@ -17,23 +17,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-14 02:10:00",
-        "team1Title": "France",
-        "team2Title": "South Africa",
-        "team1Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/france-vs-south-africa",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/france-vs-south-africa/3599"
-            }
-        ]
-    },
-    {
         "eventTitle": "Friendly",
         "matchTime": "2026-11-14 05:00:00",
         "team1Title": "Argentina",

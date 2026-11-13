@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 16
-🟡 Visiting detail page [3/16]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟡 Visiting detail page [2/16]: https://pogo.pk/events/kazakhstan-vs-moldova
+🟡 Visiting detail page [3/16]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟡 Visiting detail page [1/16]: https://pogo.pk/events/snooker-champion-of-champions
+🟢 Successfully processed: Nations League [2/16]
 🟢 Successfully processed: Nations League [3/16]
 🟡 Visiting detail page [4/16]: https://pogo.pk/events/germany-vs-serbia
-🟢 Successfully processed: Nations League [2/16]
 🟡 Visiting detail page [5/16]: https://pogo.pk/events/netherlands-vs-greece
 🟢 Successfully processed: Nations League [5/16]
 🟡 Visiting detail page [6/16]: https://pogo.pk/events/scotland-vs-north-macedonia
@@ -30,9 +30,9 @@
 🟡 Visiting detail page [14/16]: https://pogo.pk/events/argentina-vs-uruguay
 🟢 Successfully processed: Friendly [14/16]
 🟡 Visiting detail page [15/16]: https://pogo.pk/events/brazil-vs-japan
-🟢 Successfully processed: Rugby Union [12/16]
-🟡 Visiting detail page [16/16]: https://pogo.pk/events/ciryl-gane-vs-josh-hokit
 🟢 Successfully processed: Friendly [15/16]
+🟡 Visiting detail page [16/16]: https://pogo.pk/events/ciryl-gane-vs-josh-hokit
+🟢 Successfully processed: Rugby Union [12/16]
 🟢 Successfully processed: Rugby Union [13/16]
 🟢 Successfully processed: UFC [16/16]
 🟢 Browser closed successfully.

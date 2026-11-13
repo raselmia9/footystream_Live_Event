@@ -26,7 +26,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/kazakhstan-vs-moldova",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/kazakhstan-vs-moldova/3609"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/kazakhstan-vs-moldova/3610"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

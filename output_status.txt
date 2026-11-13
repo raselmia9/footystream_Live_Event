@@ -6,11 +6,11 @@
 🟡 Visiting detail page [2/17]: https://pogo.pk/events/kazakhstan-vs-moldova
 🟡 Visiting detail page [3/17]: https://pogo.pk/events/azerbaijan-vs-liechtenstein
 🟡 Visiting detail page [1/17]: https://pogo.pk/events/snooker-champion-of-champions
-🟢 Successfully processed: Nations League [2/17]
-🟡 Visiting detail page [4/17]: https://pogo.pk/events/germany-vs-serbia
 🟢 Successfully processed: Snooker [1/17]
-🟡 Visiting detail page [5/17]: https://pogo.pk/events/netherlands-vs-greece
+🟡 Visiting detail page [4/17]: https://pogo.pk/events/germany-vs-serbia
 🟢 Successfully processed: Nations League [3/17]
+🟡 Visiting detail page [5/17]: https://pogo.pk/events/netherlands-vs-greece
+🟢 Successfully processed: Nations League [2/17]
 🟡 Visiting detail page [6/17]: https://pogo.pk/events/scotland-vs-north-macedonia
 🟢 Successfully processed: Nations League [4/17]
 🟡 Visiting detail page [7/17]: https://pogo.pk/events/switzerland-vs-slovenia
@@ -22,23 +22,20 @@
 🟡 Visiting detail page [10/17]: https://pogo.pk/events/italy-vs-argentina
 🟢 Successfully processed: Nations League [7/17]
 🟡 Visiting detail page [11/17]: https://pogo.pk/events/wales-vs-new-zealand
-🟢 Successfully processed: Rugby Union [10/17]
-🟡 Visiting detail page [12/17]: https://pogo.pk/events/england-vs-japan
 🟢 Successfully processed: Rugby Union [9/17]
+🟡 Visiting detail page [12/17]: https://pogo.pk/events/england-vs-japan
+🟢 Successfully processed: Rugby Union [10/17]
 🟡 Visiting detail page [13/17]: https://pogo.pk/events/ireland-vs-fiji
-🟢 Successfully processed: Rugby Union [13/17]
+🟢 Successfully processed: Rugby Union [11/17]
 🟡 Visiting detail page [14/17]: https://pogo.pk/events/australia-vs-scotland
-🔴 ERROR on detail page https://pogo.pk/events/england-vs-japan: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://pogo.pk/events/england-vs-japan", waiting until "load"
-
+🟢 Successfully processed: Rugby Union [12/17]
 🟡 Visiting detail page [15/17]: https://pogo.pk/events/argentina-vs-uruguay
-🟢 Successfully processed: Friendly [15/17]
+🟢 Successfully processed: Rugby Union [13/17]
 🟡 Visiting detail page [16/17]: https://pogo.pk/events/brazil-vs-japan
-🟢 Successfully processed: Rugby Union [14/17]
+🟢 Successfully processed: Friendly [15/17]
 🟡 Visiting detail page [17/17]: https://pogo.pk/events/ciryl-gane-vs-josh-hokit
 🟢 Successfully processed: Friendly [16/17]
-🟢 Successfully processed: Rugby Union [11/17]
+🟢 Successfully processed: Rugby Union [14/17]
 🟢 Successfully processed: UFC [17/17]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 16
+🟢 Process completed successfully. Total collected events: 17

@@ -6,9 +6,9 @@
 🟡 Visiting detail page [3/15]: https://pogo.pk/events/brazil-vs-japan
 🟡 Visiting detail page [2/15]: https://pogo.pk/events/argentina-vs-uruguay
 🟡 Visiting detail page [1/15]: https://pogo.pk/events/snooker-champion-of-champions
-🟢 Successfully processed: Friendly [2/15]
 🟢 Successfully processed: Friendly [3/15]
 🟡 Visiting detail page [4/15]: https://pogo.pk/events/italy-vs-argentina
+🟢 Successfully processed: Friendly [2/15]
 🟡 Visiting detail page [5/15]: https://pogo.pk/events/wales-vs-new-zealand
 🟢 Successfully processed: Snooker [1/15]
 🟡 Visiting detail page [6/15]: https://pogo.pk/events/england-vs-japan

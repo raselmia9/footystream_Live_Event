@@ -114,7 +114,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/ireland-vs-austria",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ireland-vs-austria/3637"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/ireland-vs-austria/3638"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -130,6 +139,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/ukraine-vs-northern-ireland/3608"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/ukraine-vs-northern-ireland/3639"
             }
         ]
     },
@@ -143,7 +156,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/poland-vs-romania",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/poland-vs-romania/3640"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/poland-vs-romania/3641"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -155,7 +177,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bosnia-vs-sweden",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bosnia-vs-sweden/3642"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bosnia-vs-sweden/3643"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -167,7 +198,24 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/denmark-vs-portugal",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/denmark-vs-portugal/3633"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/denmark-vs-portugal/3634"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/denmark-vs-portugal/3635"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/denmark-vs-portugal/3636"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

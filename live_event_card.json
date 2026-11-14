@@ -34,40 +34,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-15 02:10:00",
-        "team1Title": "Ireland",
-        "team2Title": "Fiji",
-        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/ireland-vs-fiji",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/ireland-vs-fiji/3603"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-15 21:10:00",
-        "team1Title": "Australia",
-        "team2Title": "Scotland",
-        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/australia-vs-scotland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/australia-vs-scotland/3604"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-14 23:00:00",
         "team1Title": "Wales",
@@ -169,6 +135,40 @@
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/bosnia-vs-sweden",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-15 02:10:00",
+        "team1Title": "Ireland",
+        "team2Title": "Fiji",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/fiji/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/ireland-vs-fiji",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ireland-vs-fiji/3603"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Rugby Union",
+        "matchTime": "2026-11-15 21:10:00",
+        "team1Title": "Australia",
+        "team2Title": "Scotland",
+        "team1Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/australia-vs-scotland",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/australia-vs-scotland/3604"
+            }
+        ]
     },
     {
         "eventTitle": "UFC",

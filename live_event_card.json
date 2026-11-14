@@ -17,6 +17,27 @@
         ]
     },
     {
+        "eventTitle": "Darts",
+        "matchTime": "2026-11-14 19:00:00",
+        "team1Title": "Grand Slam of Darts",
+        "team2Title": "Darts",
+        "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://pogo.pk/events/grand-slam-of-darts-live-stream",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3631"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3632"
+            }
+        ]
+    },
+    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-14 22:40:00",
         "team1Title": "England",

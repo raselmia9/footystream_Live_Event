@@ -40,8 +40,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-14 23:00:00",
-        "team1Title": "Wales",
-        "team2Title": "Norway",
+        "team1Title": "Event Ended",
+        "team2Title": "Wales",
         "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
         "isHot": true,
@@ -65,8 +65,8 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-14 23:00:00",
-        "team1Title": "Hungary",
-        "team2Title": "Georgia",
+        "team1Title": "Event Ended",
+        "team2Title": "Hungary",
         "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
         "isHot": true,

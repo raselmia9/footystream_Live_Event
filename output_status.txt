@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
+🟡 Visiting detail page [3/14]: https://pogo.pk/events/england-vs-japan
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [1/14]: https://pogo.pk/events/snooker-champion-of-champions
-🟡 Visiting detail page [3/14]: https://pogo.pk/events/england-vs-japan
-🟢 Successfully processed: Darts [2/14]
+🟢 Successfully processed: Snooker [1/14]
 🟡 Visiting detail page [4/14]: https://pogo.pk/events/wales-vs-norway
 🟢 Successfully processed: Rugby Union [3/14]
 🟡 Visiting detail page [5/14]: https://pogo.pk/events/hungary-vs-georgia
-🟢 Successfully processed: Snooker [1/14]
+🟢 Successfully processed: Darts [2/14]
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/ireland-vs-austria
 🟢 Successfully processed: Nations League [4/14]
 🟡 Visiting detail page [7/14]: https://pogo.pk/events/ukraine-vs-northern-ireland
@@ -26,9 +26,9 @@
 🟡 Visiting detail page [12/14]: https://pogo.pk/events/ireland-vs-fiji
 🟢 Successfully processed: Nations League [11/14]
 🟡 Visiting detail page [13/14]: https://pogo.pk/events/australia-vs-scotland
-🟢 Successfully processed: Rugby Union [12/14]
-🟡 Visiting detail page [14/14]: https://pogo.pk/events/ciryl-gane-vs-josh-hokit
 🟢 Successfully processed: Nations League [10/14]
+🟡 Visiting detail page [14/14]: https://pogo.pk/events/ciryl-gane-vs-josh-hokit
+🟢 Successfully processed: Rugby Union [12/14]
 🟢 Successfully processed: Rugby Union [13/14]
 🟢 Successfully processed: UFC [14/14]
 🟢 Browser closed successfully.

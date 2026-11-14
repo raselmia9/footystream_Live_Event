@@ -3,8 +3,8 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 15
-🟡 Visiting detail page [2/15]: https://pogo.pk/events/argentina-vs-uruguay
 🟡 Visiting detail page [3/15]: https://pogo.pk/events/brazil-vs-japan
+🟡 Visiting detail page [2/15]: https://pogo.pk/events/argentina-vs-uruguay
 🟡 Visiting detail page [1/15]: https://pogo.pk/events/snooker-champion-of-champions
 🟢 Successfully processed: Friendly [2/15]
 🟢 Successfully processed: Friendly [3/15]
@@ -12,9 +12,9 @@
 🟡 Visiting detail page [5/15]: https://pogo.pk/events/wales-vs-new-zealand
 🟢 Successfully processed: Snooker [1/15]
 🟡 Visiting detail page [6/15]: https://pogo.pk/events/england-vs-japan
-🟢 Successfully processed: Rugby Union [5/15]
-🟡 Visiting detail page [7/15]: https://pogo.pk/events/ireland-vs-fiji
 🟢 Successfully processed: Rugby Union [4/15]
+🟡 Visiting detail page [7/15]: https://pogo.pk/events/ireland-vs-fiji
+🟢 Successfully processed: Rugby Union [5/15]
 🟡 Visiting detail page [8/15]: https://pogo.pk/events/australia-vs-scotland
 🟢 Successfully processed: Rugby Union [6/15]
 🟡 Visiting detail page [9/15]: https://pogo.pk/events/kosovo-vs-israel

@@ -26,7 +26,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/brazil-vs-japan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brazil-vs-japan/3623"
+            }
+        ]
     },
     {
         "eventTitle": "Rugby Union",

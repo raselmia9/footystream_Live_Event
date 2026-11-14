@@ -38,23 +38,6 @@
         ]
     },
     {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-14 22:40:00",
-        "team1Title": "England",
-        "team2Title": "Japan",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/england-vs-japan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/england-vs-japan/3602"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-14 23:00:00",
         "team1Title": "Wales",

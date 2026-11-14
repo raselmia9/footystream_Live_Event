@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 14
-🟡 Visiting detail page [1/14]: https://pogo.pk/events/snooker-champion-of-champions
 🟡 Visiting detail page [3/14]: https://pogo.pk/events/italy-vs-argentina
 🟡 Visiting detail page [2/14]: https://pogo.pk/events/brazil-vs-japan
+🟡 Visiting detail page [1/14]: https://pogo.pk/events/snooker-champion-of-champions
 🟢 Successfully processed: Snooker [1/14]
-🟡 Visiting detail page [4/14]: https://pogo.pk/events/wales-vs-new-zealand
 🟢 Successfully processed: Friendly [2/14]
-🟡 Visiting detail page [5/14]: https://pogo.pk/events/england-vs-japan
 🟢 Successfully processed: Rugby Union [3/14]
+🟡 Visiting detail page [4/14]: https://pogo.pk/events/wales-vs-new-zealand
+🟡 Visiting detail page [5/14]: https://pogo.pk/events/england-vs-japan
 🟡 Visiting detail page [6/14]: https://pogo.pk/events/ireland-vs-fiji
-🟢 Successfully processed: Rugby Union [4/14]
 🟢 Successfully processed: Rugby Union [5/14]
-🟡 Visiting detail page [8/14]: https://pogo.pk/events/kosovo-vs-israel
-🟡 Visiting detail page [7/14]: https://pogo.pk/events/australia-vs-scotland
 🟢 Successfully processed: Rugby Union [6/14]
+🟡 Visiting detail page [7/14]: https://pogo.pk/events/australia-vs-scotland
+🟢 Successfully processed: Rugby Union [4/14]
+🟡 Visiting detail page [8/14]: https://pogo.pk/events/kosovo-vs-israel
 🟡 Visiting detail page [9/14]: https://pogo.pk/events/wales-vs-norway
 🟢 Successfully processed: Nations League [8/14]
 🟡 Visiting detail page [10/14]: https://pogo.pk/events/hungary-vs-georgia
@@ -25,8 +25,8 @@
 🟢 Successfully processed: Nations League [11/14]
 🟡 Visiting detail page [12/14]: https://pogo.pk/events/ukraine-vs-northern-ireland
 🟢 Successfully processed: Rugby Union [7/14]
-🟡 Visiting detail page [13/14]: https://pogo.pk/events/poland-vs-romania
 🟢 Successfully processed: Nations League [9/14]
+🟡 Visiting detail page [13/14]: https://pogo.pk/events/poland-vs-romania
 🟡 Visiting detail page [14/14]: https://pogo.pk/events/ciryl-gane-vs-josh-hokit
 🟢 Successfully processed: Nations League [13/14]
 🟢 Successfully processed: Nations League [12/14]

@@ -39,56 +39,6 @@
     },
     {
         "eventTitle": "Nations League",
-        "matchTime": "2026-11-14 23:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Wales",
-        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/wales-vs-norway",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/wales-vs-norway/3607"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/wales-vs-norway/3629"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/wales-vs-norway/3630"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-14 23:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Hungary",
-        "team1Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/hungary-vs-georgia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/hungary-vs-georgia/3626"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/hungary-vs-georgia/3627"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/hungary-vs-georgia/3628"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
         "matchTime": "2026-11-15 01:45:00",
         "team1Title": "Ireland",
         "team2Title": "Austria",

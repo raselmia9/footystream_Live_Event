@@ -17,23 +17,6 @@
         ]
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-11-14 16:15:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Brazil",
-        "team1Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/brazil-vs-japan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brazil-vs-japan/3623"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-14 17:40:00",
         "team1Title": "Italy",
@@ -98,7 +81,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://pogo.pk/events/hungary-vs-georgia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/hungary-vs-georgia/3626"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/hungary-vs-georgia/3627"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/hungary-vs-georgia/3628"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

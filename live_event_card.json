@@ -168,6 +168,23 @@
         ]
     },
     {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-15 03:30:00",
+        "team1Title": "USA",
+        "team2Title": "Haiti",
+        "team1Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/haiti/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/usa-vs-haiti",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/usa-vs-haiti/3644"
+            }
+        ]
+    },
+    {
         "eventTitle": "UFC",
         "matchTime": "2026-11-15 06:00:00",
         "team1Title": "Ciryl Gane",

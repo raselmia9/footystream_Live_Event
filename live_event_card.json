@@ -17,44 +17,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-14 20:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Kosovo",
-        "team1Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/kosovo-vs-israel",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/kosovo-vs-israel/3624"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/kosovo-vs-israel/3625"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Rugby Union",
-        "matchTime": "2026-11-14 20:10:00",
-        "team1Title": "Wales",
-        "team2Title": "New Zealand",
-        "team1Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://pogo.pk/events/wales-vs-new-zealand",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/wales-vs-new-zealand/3601"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-14 22:40:00",
         "team1Title": "England",

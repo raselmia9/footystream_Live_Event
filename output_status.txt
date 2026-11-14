@@ -7,10 +7,10 @@
 🟡 Visiting detail page [2/12]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/12]: https://footystreams.pk/events/ireland-vs-fiji
 🟢 Successfully processed: Snooker [1/12]
-🟢 Successfully processed: Rugby Union [3/12]
 🟢 Successfully processed: Darts [2/12]
-🟡 Visiting detail page [5/12]: https://footystreams.pk/events/ciryl-gane-vs-josh-hokit
 🟡 Visiting detail page [4/12]: https://footystreams.pk/events/usa-vs-haiti
+🟡 Visiting detail page [5/12]: https://footystreams.pk/events/ciryl-gane-vs-josh-hokit
+🟢 Successfully processed: Rugby Union [3/12]
 🟡 Visiting detail page [6/12]: https://footystreams.pk/events/montenegro-vs-cyprus
 🟢 Successfully processed: Nations League [6/12]
 🟡 Visiting detail page [7/12]: https://footystreams.pk/events/armenia-vs-latvia

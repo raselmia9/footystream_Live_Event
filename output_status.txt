@@ -3,20 +3,20 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 24
-🟡 Visiting detail page [3/24]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [2/24]: https://footystreams.pk/events/snooker-champion-of-champions
 🟡 Visiting detail page [1/24]: https://footystreams.pk/events/england-vs-spain
-🟢 Successfully processed: Darts [3/24]
-🟡 Visiting detail page [4/24]: https://footystreams.pk/events/chiefs-vs-falcons
-🟢 Successfully processed: Snooker [2/24]
-🟡 Visiting detail page [5/24]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
+🟡 Visiting detail page [3/24]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟢 Successfully processed: Nations League [1/24]
+🟡 Visiting detail page [4/24]: https://footystreams.pk/events/chiefs-vs-falcons
+🟢 Successfully processed: Darts [3/24]
+🟡 Visiting detail page [5/24]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
+🟢 Successfully processed: Snooker [2/24]
 🟡 Visiting detail page [6/24]: https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints
-🟢 Successfully processed: NFL [4/24]
+🟢 Successfully processed: NFL [6/24]
 🟡 Visiting detail page [7/24]: https://footystreams.pk/events/turkiye-vs-france
 🟢 Successfully processed: NFL [5/24]
 🟡 Visiting detail page [8/24]: https://footystreams.pk/events/czechia-vs-croatia
-🟢 Successfully processed: NFL [6/24]
+🟢 Successfully processed: NFL [4/24]
 🟡 Visiting detail page [9/24]: https://footystreams.pk/events/italy-vs-belgium-live-stream
 🟢 Successfully processed: Nations League [7/24]
 🟡 Visiting detail page [10/24]: https://footystreams.pk/events/moldova-vs-faroe-islands
@@ -26,15 +26,15 @@
 🟡 Visiting detail page [12/24]: https://footystreams.pk/events/liechtenstein-vs-lithuania
 🟢 Successfully processed: Nations League [9/24]
 🟡 Visiting detail page [13/24]: https://footystreams.pk/events/cowboys-vs-49ers
+🟢 Successfully processed: Nations League [12/24]
 🟢 Successfully processed: Nations League [11/24]
 🟡 Visiting detail page [14/24]: https://footystreams.pk/events/steelers-vs-bengals
-🟢 Successfully processed: Nations League [12/24]
 🟡 Visiting detail page [15/24]: https://footystreams.pk/events/panama-vs-curacao
 🟢 Successfully processed: NFL [13/24]
 🟡 Visiting detail page [16/24]: https://footystreams.pk/events/guyana-vs-puerto-rico
-🟢 Successfully processed: NFL [14/24]
-🟡 Visiting detail page [17/24]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
 🟢 Successfully processed: CONCACAF Nations League [15/24]
+🟡 Visiting detail page [17/24]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
+🟢 Successfully processed: NFL [14/24]
 🟡 Visiting detail page [18/24]: https://footystreams.pk/events/aruba-vs-martinique
 🟢 Successfully processed: CONCACAF Nations League [16/24]
 🟡 Visiting detail page [19/24]: https://footystreams.pk/events/canada-vs-guatemala
@@ -48,8 +48,8 @@
 🟡 Visiting detail page [23/24]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [23/24]
 🟡 Visiting detail page [24/24]: https://footystreams.pk/events/argentina-vs-costa-rica
-🟢 Successfully processed: Friendly [24/24]
 🟢 Successfully processed: CONCACAF Nations League [19/24]
+🟢 Successfully processed: Friendly [24/24]
 🟢 Successfully processed: CONCACAF Nations League [20/24]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 24

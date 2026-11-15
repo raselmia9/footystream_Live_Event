@@ -3,12 +3,12 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 19
-🟡 Visiting detail page [3/19]: https://footystreams.pk/events/montenegro-vs-cyprus
 🟡 Visiting detail page [2/19]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [1/19]: https://footystreams.pk/events/snooker-champion-of-champions
-🟢 Successfully processed: Nations League [3/19]
-🟡 Visiting detail page [4/19]: https://footystreams.pk/events/west-ham-united-vs-charlton-athletic
+🟡 Visiting detail page [3/19]: https://footystreams.pk/events/montenegro-vs-cyprus
 🟢 Successfully processed: Snooker [1/19]
+🟡 Visiting detail page [4/19]: https://footystreams.pk/events/west-ham-united-vs-charlton-athletic
+🟢 Successfully processed: Nations League [3/19]
 🟡 Visiting detail page [5/19]: https://footystreams.pk/events/aston-villa-vs-birmingham-city
 🟢 Successfully processed: Darts [2/19]
 🟡 Visiting detail page [6/19]: https://footystreams.pk/events/armenia-vs-latvia
@@ -28,13 +28,13 @@
 🟡 Visiting detail page [13/19]: https://footystreams.pk/events/turkiye-vs-france
 🟢 Successfully processed: Nations League [13/19]
 🟡 Visiting detail page [14/19]: https://footystreams.pk/events/czechia-vs-croatia
-🟢 Successfully processed: Nations League [10/19]
-🟡 Visiting detail page [15/19]: https://footystreams.pk/events/italy-vs-belgium-live-stream
 🟢 Successfully processed: Nations League [14/19]
+🟡 Visiting detail page [15/19]: https://footystreams.pk/events/italy-vs-belgium-live-stream
+🟢 Successfully processed: Nations League [10/19]
 🟡 Visiting detail page [16/19]: https://footystreams.pk/events/chiefs-vs-falcons
-🟢 Successfully processed: Nations League [11/19]
-🟡 Visiting detail page [17/19]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
 🟢 Successfully processed: Nations League [15/19]
+🟡 Visiting detail page [17/19]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
+🟢 Successfully processed: Nations League [11/19]
 🟡 Visiting detail page [18/19]: https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints
 🟢 Successfully processed: NFL [16/19]
 🟡 Visiting detail page [19/19]: https://footystreams.pk/events/panama-vs-curacao

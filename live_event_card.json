@@ -40,8 +40,8 @@
     {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-11-15 19:00:00",
-        "team1Title": "Leicester Tigers",
-        "team2Title": "Saracens",
+        "team1Title": "Event Ended",
+        "team2Title": "Leicester Tigers",
         "team1Logo": "https://cdn.img4every1.org/team/leicester-tigers/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
         "isHot": true,

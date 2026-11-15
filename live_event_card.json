@@ -155,42 +155,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Title": "Turkiye",
-        "team2Title": "France",
-        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/turkiye-vs-france",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Title": "Czechia",
-        "team2Title": "Croatia",
-        "team1Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/czechia-vs-croatia",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Title": "Italy",
-        "team2Title": "Belgium",
-        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/italy-vs-belgium-live-stream",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-11-16 00:00:00",
         "team1Title": "Kansas City Chiefs",
@@ -244,6 +208,42 @@
                 "url": "https://playerdee.top/alpha/carolina-panthers-vs-new-orleans-saints/3655"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 01:45:00",
+        "team1Title": "Turkiye",
+        "team2Title": "France",
+        "team1Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/turkiye-vs-france",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 01:45:00",
+        "team1Title": "Czechia",
+        "team2Title": "Croatia",
+        "team1Logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/czechia-vs-croatia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 01:45:00",
+        "team1Title": "Italy",
+        "team2Title": "Belgium",
+        "team1Logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/italy-vs-belgium-live-stream",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "CONCACAF Nations League",

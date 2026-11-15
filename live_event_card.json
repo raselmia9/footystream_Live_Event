@@ -304,6 +304,23 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 03:25:00",
+        "team1Title": "Dallas Cowboys",
+        "team2Title": "San Francisco 49ers",
+        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/cowboys-vs-49ers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/cowboys-vs-49ers/3688"
+            }
+        ]
+    },
+    {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-16 05:00:00",
         "team1Title": "Panama",
@@ -357,5 +374,104 @@
                 "url": "https://playerdee.top/alpha/trinidad-and-tobago-vs-antigua-and-barbuda/3684"
             }
         ]
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Title": "Aruba",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/aruba-vs-martinique",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/aruba-vs-martinique/3685"
+            }
+        ]
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 07:00:00",
+        "team1Title": "Canada",
+        "team2Title": "Guatemala",
+        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/canada-vs-guatemala",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/canada-vs-guatemala/3686"
+            }
+        ]
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-18 01:00:00",
+        "team1Title": "Bonaire",
+        "team2Title": "Saint Kitts and Nevis",
+        "team1Logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bonaire-vs-st-kitts-and-nevis/3687"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-11-17 16:00:00",
+        "team1Title": "Brazil",
+        "team2Title": "Singapore",
+        "team1Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/brazil-vs-singapore",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Title": "Jordan",
+        "team2Title": "Australia",
+        "team1Logo": "https://cdn.img4every1.org/team/jordan/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/jordan-vs-australia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-11-17 22:15:00",
+        "team1Title": "Iran",
+        "team2Title": "Iraq",
+        "team1Logo": "https://cdn.img4every1.org/team/iran/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/iraq/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/iran-vs-iraq",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Friendly",
+        "matchTime": "2026-11-18 05:00:00",
+        "team1Title": "Argentina",
+        "team2Title": "Costa Rica",
+        "team1Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/argentina-vs-costa-rica",
+        "multiWatchPageLink": []
     }
 ]

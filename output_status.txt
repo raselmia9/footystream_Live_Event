@@ -2,42 +2,58 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [3/18]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [2/18]: https://footystreams.pk/events/snooker-champion-of-champions
-🟡 Visiting detail page [1/18]: https://footystreams.pk/events/england-vs-spain
-🟢 Successfully processed: Snooker [2/18]
-🟡 Visiting detail page [4/18]: https://footystreams.pk/events/arsenal-vs-london-city-lionesses
-🟢 Successfully processed: Nations League [1/18]
-🟡 Visiting detail page [5/18]: https://footystreams.pk/events/finland-vs-san-marino
-🟢 Successfully processed: Darts [3/18]
-🟡 Visiting detail page [6/18]: https://footystreams.pk/events/albania-vs-belarus
-🟢 Successfully processed: WSL [4/18]
-🟡 Visiting detail page [7/18]: https://footystreams.pk/events/chiefs-vs-falcons
-🟢 Successfully processed: Nations League [6/18]
-🟡 Visiting detail page [8/18]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
-🟢 Successfully processed: Nations League [5/18]
-🟡 Visiting detail page [9/18]: https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints
-🟢 Successfully processed: NFL [7/18]
-🟡 Visiting detail page [10/18]: https://footystreams.pk/events/turkiye-vs-france
-🟢 Successfully processed: NFL [9/18]
-🟡 Visiting detail page [11/18]: https://footystreams.pk/events/czechia-vs-croatia
-🟢 Successfully processed: NFL [8/18]
-🟡 Visiting detail page [12/18]: https://footystreams.pk/events/italy-vs-belgium-live-stream
-🟢 Successfully processed: Nations League [10/18]
-🟡 Visiting detail page [13/18]: https://footystreams.pk/events/moldova-vs-faroe-islands
-🟢 Successfully processed: Nations League [11/18]
-🟡 Visiting detail page [14/18]: https://footystreams.pk/events/slovakia-vs-kazakhstan
-🟢 Successfully processed: Nations League [12/18]
-🟡 Visiting detail page [15/18]: https://footystreams.pk/events/liechtenstein-vs-lithuania
-🟢 Successfully processed: Nations League [13/18]
-🟡 Visiting detail page [16/18]: https://footystreams.pk/events/panama-vs-curacao
-🟢 Successfully processed: Nations League [14/18]
-🟡 Visiting detail page [17/18]: https://footystreams.pk/events/guyana-vs-puerto-rico
-🟢 Successfully processed: Nations League [15/18]
-🟡 Visiting detail page [18/18]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
-🟢 Successfully processed: CONCACAF Nations League [16/18]
-🟢 Successfully processed: CONCACAF Nations League [17/18]
-🟢 Successfully processed: CONCACAF Nations League [18/18]
+🟢 Total unique detail links to process in parallel: 26
+🟡 Visiting detail page [1/26]: https://footystreams.pk/events/england-vs-spain
+🟡 Visiting detail page [2/26]: https://footystreams.pk/events/snooker-champion-of-champions
+🟡 Visiting detail page [3/26]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟢 Successfully processed: Nations League [1/26]
+🟡 Visiting detail page [4/26]: https://footystreams.pk/events/arsenal-vs-london-city-lionesses
+🟢 Successfully processed: Snooker [2/26]
+🟡 Visiting detail page [5/26]: https://footystreams.pk/events/finland-vs-san-marino
+🟢 Successfully processed: Darts [3/26]
+🟡 Visiting detail page [6/26]: https://footystreams.pk/events/albania-vs-belarus
+🟢 Successfully processed: WSL [4/26]
+🟡 Visiting detail page [7/26]: https://footystreams.pk/events/chiefs-vs-falcons
+🟢 Successfully processed: Nations League [6/26]
+🟡 Visiting detail page [8/26]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
+🟢 Successfully processed: Nations League [5/26]
+🟡 Visiting detail page [9/26]: https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints
+🟢 Successfully processed: NFL [7/26]
+🟡 Visiting detail page [10/26]: https://footystreams.pk/events/turkiye-vs-france
+🟢 Successfully processed: NFL [8/26]
+🟡 Visiting detail page [11/26]: https://footystreams.pk/events/czechia-vs-croatia
+🟢 Successfully processed: NFL [9/26]
+🟡 Visiting detail page [12/26]: https://footystreams.pk/events/italy-vs-belgium-live-stream
+🟢 Successfully processed: Nations League [10/26]
+🟡 Visiting detail page [13/26]: https://footystreams.pk/events/moldova-vs-faroe-islands
+🟢 Successfully processed: Nations League [11/26]
+🟡 Visiting detail page [14/26]: https://footystreams.pk/events/slovakia-vs-kazakhstan
+🟢 Successfully processed: Nations League [13/26]
+🟡 Visiting detail page [15/26]: https://footystreams.pk/events/liechtenstein-vs-lithuania
+🟢 Successfully processed: Nations League [14/26]
+🟢 Successfully processed: Nations League [15/26]
+🟡 Visiting detail page [16/26]: https://footystreams.pk/events/cowboys-vs-49ers
+🟡 Visiting detail page [17/26]: https://footystreams.pk/events/panama-vs-curacao
+🟢 Successfully processed: Nations League [12/26]
+🟡 Visiting detail page [18/26]: https://footystreams.pk/events/guyana-vs-puerto-rico
+🟢 Successfully processed: CONCACAF Nations League [17/26]
+🟡 Visiting detail page [19/26]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
+🟢 Successfully processed: NFL [16/26]
+🟡 Visiting detail page [20/26]: https://footystreams.pk/events/aruba-vs-martinique
+🟢 Successfully processed: CONCACAF Nations League [18/26]
+🟡 Visiting detail page [21/26]: https://footystreams.pk/events/canada-vs-guatemala
+🟢 Successfully processed: CONCACAF Nations League [19/26]
+🟡 Visiting detail page [22/26]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
+🟢 Successfully processed: CONCACAF Nations League [20/26]
+🟡 Visiting detail page [23/26]: https://footystreams.pk/events/brazil-vs-singapore
+🟢 Successfully processed: CONCACAF Nations League [21/26]
+🟡 Visiting detail page [24/26]: https://footystreams.pk/events/jordan-vs-australia
+🟢 Successfully processed: Friendly [23/26]
+🟡 Visiting detail page [25/26]: https://footystreams.pk/events/iran-vs-iraq
+🟢 Successfully processed: Friendly [24/26]
+🟡 Visiting detail page [26/26]: https://footystreams.pk/events/argentina-vs-costa-rica
+🟢 Successfully processed: Friendly [25/26]
+🟢 Successfully processed: Friendly [26/26]
+🟢 Successfully processed: CONCACAF Nations League [22/26]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 18
+🟢 Process completed successfully. Total collected events: 26

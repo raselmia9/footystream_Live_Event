@@ -201,42 +201,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 21:00:00",
-        "team1Title": "Moldova",
-        "team2Title": "Faroe Islands",
-        "team1Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/moldova-vs-faroe-islands",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 21:00:00",
-        "team1Title": "Slovakia",
-        "team2Title": "Kazakhstan",
-        "team1Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/slovakia-vs-kazakhstan",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Title": "Liechtenstein",
-        "team2Title": "Lithuania",
-        "team1Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/liechtenstein-vs-lithuania",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "NFL",
         "matchTime": "2026-11-16 03:25:00",
         "team1Title": "Dallas Cowboys",
@@ -379,6 +343,78 @@
                 "url": "https://playerdee.top/alpha/bonaire-vs-st-kitts-and-nevis/3687"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 21:00:00",
+        "team1Title": "Moldova",
+        "team2Title": "Faroe Islands",
+        "team1Logo": "https://cdn.img4every1.org/team/moldova/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/faroe-islands/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/moldova-vs-faroe-islands",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 21:00:00",
+        "team1Title": "Slovakia",
+        "team2Title": "Kazakhstan",
+        "team1Logo": "https://cdn.img4every1.org/team/slovakia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/slovakia-vs-kazakhstan",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 23:00:00",
+        "team1Title": "Liechtenstein",
+        "team2Title": "Lithuania",
+        "team1Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/liechtenstein-vs-lithuania",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 23:00:00",
+        "team1Title": "Luxembourg",
+        "team2Title": "Iceland",
+        "team1Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/luxembourg-vs-iceland",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-16 23:00:00",
+        "team1Title": "Bulgaria",
+        "team2Title": "Estonia",
+        "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/bulgaria-vs-estonia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Title": "Germany",
+        "team2Title": "Netherlands",
+        "team1Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/germany-vs-netherlands",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Friendly",

@@ -8,13 +8,13 @@
 🟡 Visiting detail page [1/20]: https://footystreams.pk/events/snooker-champion-of-champions
 🟢 Successfully processed: NFL [3/20]
 🟡 Visiting detail page [4/20]: https://footystreams.pk/events/panama-vs-curacao
-🟢 Successfully processed: Snooker [1/20]
-🟡 Visiting detail page [5/20]: https://footystreams.pk/events/guyana-vs-puerto-rico
 🟢 Successfully processed: Darts [2/20]
+🟡 Visiting detail page [5/20]: https://footystreams.pk/events/guyana-vs-puerto-rico
+🟢 Successfully processed: Snooker [1/20]
 🟡 Visiting detail page [6/20]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
-🟢 Successfully processed: CONCACAF Nations League [4/20]
-🟡 Visiting detail page [7/20]: https://footystreams.pk/events/aruba-vs-martinique
 🟢 Successfully processed: CONCACAF Nations League [6/20]
+🟡 Visiting detail page [7/20]: https://footystreams.pk/events/aruba-vs-martinique
+🟢 Successfully processed: CONCACAF Nations League [4/20]
 🟡 Visiting detail page [8/20]: https://footystreams.pk/events/canada-vs-guatemala
 🟢 Successfully processed: CONCACAF Nations League [5/20]
 🟡 Visiting detail page [9/20]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
@@ -36,9 +36,9 @@
 🟡 Visiting detail page [17/20]: https://footystreams.pk/events/brazil-vs-singapore
 🟢 Successfully processed: Nations League [16/20]
 🟡 Visiting detail page [18/20]: https://footystreams.pk/events/jordan-vs-australia
-🟢 Successfully processed: Friendly [18/20]
-🟡 Visiting detail page [19/20]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [17/20]
+🟡 Visiting detail page [19/20]: https://footystreams.pk/events/iran-vs-iraq
+🟢 Successfully processed: Friendly [18/20]
 🟡 Visiting detail page [20/20]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟢 Successfully processed: Friendly [19/20]
 🟢 Successfully processed: Friendly [20/20]

@@ -1,38 +1,5 @@
 [
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Title": "England",
-        "team2Title": "Spain",
-        "team1Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/spain/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/england-vs-spain",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/england-vs-spain/3669"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/england-vs-spain/3670"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/england-vs-spain/3671"
-            },
-            {
-                "channel": "Link 4",
-                "url": "https://playerdee.top/alpha/england-vs-spain/3672"
-            },
-            {
-                "channel": "Link 5",
-                "url": "https://playerdee.top/alpha/england-vs-spain/3673"
-            }
-        ]
-    },
-    {
         "eventTitle": "Snooker",
         "matchTime": "2026-11-09 18:45:00",
         "team1Title": "Snooker Champion of Champions",
@@ -163,27 +130,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-11-16 07:20:00",
-        "team1Title": "Pittsburgh Steelers",
-        "team2Title": "Cincinnati Bengals",
-        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/steelers-vs-bengals",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/steelers-vs-bengals/3689"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/steelers-vs-bengals/3690"
-            }
-        ]
-    },
-    {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-16 05:00:00",
         "team1Title": "Panama",
@@ -286,6 +232,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/bonaire-vs-st-kitts-and-nevis/3687"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 07:20:00",
+        "team1Title": "Pittsburgh Steelers",
+        "team2Title": "Cincinnati Bengals",
+        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/steelers-vs-bengals",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/steelers-vs-bengals/3689"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/steelers-vs-bengals/3690"
             }
         ]
     },

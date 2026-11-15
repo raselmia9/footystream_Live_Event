@@ -16,9 +16,9 @@
 🟡 Visiting detail page [7/9]: https://footystreams.pk/events/england-vs-spain
 🟢 Successfully processed: Nations League [7/9]
 🟡 Visiting detail page [8/9]: https://footystreams.pk/events/turkiye-vs-france
-🟢 Successfully processed: Snooker [1/9]
-🟡 Visiting detail page [9/9]: https://footystreams.pk/events/australia-vs-scotland
 🟢 Successfully processed: Nations League [8/9]
+🟡 Visiting detail page [9/9]: https://footystreams.pk/events/australia-vs-scotland
+🟢 Successfully processed: Snooker [1/9]
 🟢 Successfully processed: Darts [2/9]
 🟢 Successfully processed: Rugby Union [9/9]
 🟢 Browser closed successfully.

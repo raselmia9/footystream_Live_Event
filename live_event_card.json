@@ -156,61 +156,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Title": "Kansas City Chiefs",
-        "team2Title": "Atlanta Falcons",
-        "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/chiefs-vs-falcons",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/chiefs-vs-falcons/3654"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Title": "Minnesota Vikings",
-        "team2Title": "Green Bay Packers",
-        "team1Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/minnesota-vikings-vs-green-bay-packers/3656"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/minnesota-vikings-vs-green-bay-packers/3657"
-            }
-        ]
-    },
-    {
-        "eventTitle": "NFL",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Title": "Carolina Panthers",
-        "team2Title": "New Orleans Saints",
-        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/carolina-panthers-vs-new-orleans-saints/3655"
-            }
-        ]
-    },
-    {
         "eventTitle": "Rugby Union",
         "matchTime": "2026-11-15 21:10:00",
         "team1Title": "Australia",
@@ -341,6 +286,61 @@
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/italy-vs-belgium-live-stream",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Title": "Kansas City Chiefs",
+        "team2Title": "Atlanta Falcons",
+        "team1Logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/chiefs-vs-falcons",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chiefs-vs-falcons/3654"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Title": "Minnesota Vikings",
+        "team2Title": "Green Bay Packers",
+        "team1Logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/minnesota-vikings-vs-green-bay-packers/3656"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/minnesota-vikings-vs-green-bay-packers/3657"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Title": "Carolina Panthers",
+        "team2Title": "New Orleans Saints",
+        "team1Logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/carolina-panthers-vs-new-orleans-saints/3655"
+            }
+        ]
     },
     {
         "eventTitle": "CONCACAF Nations League",

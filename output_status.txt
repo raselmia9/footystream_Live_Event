@@ -3,40 +3,40 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 20
-🟡 Visiting detail page [2/20]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [1/20]: https://footystreams.pk/events/snooker-champion-of-champions
 🟡 Visiting detail page [3/20]: https://footystreams.pk/events/leicester-tigers-vs-saracens
-🟢 Successfully processed: Premiership Rugby [3/20]
+🟡 Visiting detail page [1/20]: https://footystreams.pk/events/snooker-champion-of-champions
+🟡 Visiting detail page [2/20]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟢 Successfully processed: Snooker [1/20]
-🟢 Successfully processed: Darts [2/20]
-🟡 Visiting detail page [5/20]: https://footystreams.pk/events/west-ham-united-vs-charlton-athletic
+🟢 Successfully processed: Premiership Rugby [3/20]
 🟡 Visiting detail page [4/20]: https://footystreams.pk/events/montenegro-vs-cyprus
+🟡 Visiting detail page [5/20]: https://footystreams.pk/events/west-ham-united-vs-charlton-athletic
+🟢 Successfully processed: Darts [2/20]
 🟡 Visiting detail page [6/20]: https://footystreams.pk/events/aston-villa-vs-birmingham-city
-🟢 Successfully processed: WSL [6/20]
-🟢 Successfully processed: WSL [5/20]
 🟢 Successfully processed: Nations League [4/20]
 🟡 Visiting detail page [7/20]: https://footystreams.pk/events/armenia-vs-latvia
+🟢 Successfully processed: WSL [5/20]
 🟡 Visiting detail page [8/20]: https://footystreams.pk/events/lions-vs-patriots
+🟢 Successfully processed: WSL [6/20]
 🟡 Visiting detail page [9/20]: https://footystreams.pk/events/australia-vs-scotland
-🟢 Successfully processed: Rugby Union [9/20]
+🟢 Successfully processed: Nations League [7/20]
 🟡 Visiting detail page [10/20]: https://footystreams.pk/events/arsenal-vs-london-city-lionesses
 🟢 Successfully processed: NFL [8/20]
 🟡 Visiting detail page [11/20]: https://footystreams.pk/events/finland-vs-san-marino
-🟢 Successfully processed: Nations League [7/20]
+🟢 Successfully processed: Rugby Union [9/20]
 🟡 Visiting detail page [12/20]: https://footystreams.pk/events/albania-vs-belarus
-🟢 Successfully processed: WSL [10/20]
-🟡 Visiting detail page [13/20]: https://footystreams.pk/events/england-vs-spain
 🟢 Successfully processed: Nations League [11/20]
+🟡 Visiting detail page [13/20]: https://footystreams.pk/events/england-vs-spain
+🟢 Successfully processed: WSL [10/20]
 🟡 Visiting detail page [14/20]: https://footystreams.pk/events/turkiye-vs-france
-🟢 Successfully processed: Nations League [12/20]
-🟡 Visiting detail page [15/20]: https://footystreams.pk/events/czechia-vs-croatia
+🟢 Successfully processed: Nations League [14/20]
 🟢 Successfully processed: Nations League [13/20]
 🟡 Visiting detail page [16/20]: https://footystreams.pk/events/italy-vs-belgium-live-stream
-🟢 Successfully processed: Nations League [14/20]
-🟡 Visiting detail page [17/20]: https://footystreams.pk/events/chiefs-vs-falcons
+🟡 Visiting detail page [15/20]: https://footystreams.pk/events/czechia-vs-croatia
 🟢 Successfully processed: Nations League [15/20]
-🟡 Visiting detail page [18/20]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
+🟡 Visiting detail page [17/20]: https://footystreams.pk/events/chiefs-vs-falcons
 🟢 Successfully processed: Nations League [16/20]
+🟡 Visiting detail page [18/20]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
+🟢 Successfully processed: Nations League [12/20]
 🟡 Visiting detail page [19/20]: https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints
 🟢 Successfully processed: NFL [17/20]
 🟡 Visiting detail page [20/20]: https://footystreams.pk/events/panama-vs-curacao

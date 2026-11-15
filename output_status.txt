@@ -4,30 +4,30 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
 🟡 Visiting detail page [2/18]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [3/18]: https://footystreams.pk/events/leicester-tigers-vs-saracens
 🟡 Visiting detail page [1/18]: https://footystreams.pk/events/snooker-champion-of-champions
-🟢 Successfully processed: Darts [2/18]
+🟡 Visiting detail page [3/18]: https://footystreams.pk/events/leicester-tigers-vs-saracens
 🟢 Successfully processed: Premiership Rugby [3/18]
 🟢 Successfully processed: Snooker [1/18]
-🟡 Visiting detail page [5/18]: https://footystreams.pk/events/armenia-vs-latvia
 🟡 Visiting detail page [4/18]: https://footystreams.pk/events/montenegro-vs-cyprus
+🟡 Visiting detail page [5/18]: https://footystreams.pk/events/armenia-vs-latvia
+🟢 Successfully processed: Darts [2/18]
 🟡 Visiting detail page [6/18]: https://footystreams.pk/events/finland-vs-san-marino
-🟢 Successfully processed: Nations League [5/18]
-🟡 Visiting detail page [7/18]: https://footystreams.pk/events/albania-vs-belarus
 🟢 Successfully processed: Nations League [4/18]
-🟡 Visiting detail page [8/18]: https://footystreams.pk/events/england-vs-spain
+🟡 Visiting detail page [7/18]: https://footystreams.pk/events/albania-vs-belarus
 🟢 Successfully processed: Nations League [6/18]
+🟡 Visiting detail page [8/18]: https://footystreams.pk/events/england-vs-spain
+🟢 Successfully processed: Nations League [5/18]
 🟡 Visiting detail page [9/18]: https://footystreams.pk/events/turkiye-vs-france
 🟢 Successfully processed: Nations League [8/18]
-🟡 Visiting detail page [10/18]: https://footystreams.pk/events/west-ham-united-vs-charlton-athletic
 🟢 Successfully processed: Nations League [9/18]
+🟡 Visiting detail page [10/18]: https://footystreams.pk/events/west-ham-united-vs-charlton-athletic
 🟡 Visiting detail page [11/18]: https://footystreams.pk/events/aston-villa-vs-birmingham-city
 🟢 Successfully processed: Nations League [7/18]
 🟡 Visiting detail page [12/18]: https://footystreams.pk/events/arsenal-vs-london-city-lionesses
-🟢 Successfully processed: WSL [10/18]
-🟡 Visiting detail page [13/18]: https://footystreams.pk/events/lions-vs-patriots
 🟢 Successfully processed: WSL [11/18]
+🟢 Successfully processed: WSL [10/18]
 🟡 Visiting detail page [14/18]: https://footystreams.pk/events/chiefs-vs-falcons
+🟡 Visiting detail page [13/18]: https://footystreams.pk/events/lions-vs-patriots
 🟢 Successfully processed: WSL [12/18]
 🟡 Visiting detail page [15/18]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
 🟢 Successfully processed: NFL [13/18]

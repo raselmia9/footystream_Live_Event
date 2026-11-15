@@ -71,27 +71,6 @@
         ]
     },
     {
-        "eventTitle": "WSL",
-        "matchTime": "2026-11-15 22:30:00",
-        "team1Title": "Arsenal",
-        "team2Title": "London City Lionesses",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/arsenal-vs-london-city-lionesses",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/arsenal-vs-london-city-lionesses/3652"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/arsenal-vs-london-city-lionesses/3653"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-15 23:00:00",
         "team1Title": "Finland",
@@ -317,6 +296,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/cowboys-vs-49ers/3688"
+            }
+        ]
+    },
+    {
+        "eventTitle": "NFL",
+        "matchTime": "2026-11-16 07:20:00",
+        "team1Title": "Pittsburgh Steelers",
+        "team2Title": "Cincinnati Bengals",
+        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/steelers-vs-bengals",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/steelers-vs-bengals/3689"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/steelers-vs-bengals/3690"
             }
         ]
     },

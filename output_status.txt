@@ -3,18 +3,18 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 27
-🟡 Visiting detail page [2/27]: https://footystreams.pk/events/snooker-champion-of-champions
-🟡 Visiting detail page [1/27]: https://footystreams.pk/events/england-vs-spain
 🟡 Visiting detail page [3/27]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [1/27]: https://footystreams.pk/events/england-vs-spain
+🟡 Visiting detail page [2/27]: https://footystreams.pk/events/snooker-champion-of-champions
 🟢 Successfully processed: Snooker [2/27]
-🟢 Successfully processed: Darts [3/27]
 🟡 Visiting detail page [4/27]: https://footystreams.pk/events/chiefs-vs-falcons
-🟡 Visiting detail page [5/27]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
+🟢 Successfully processed: Darts [3/27]
 🟢 Successfully processed: Nations League [1/27]
+🟡 Visiting detail page [5/27]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
 🟡 Visiting detail page [6/27]: https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints
 🟢 Successfully processed: NFL [4/27]
-🟡 Visiting detail page [7/27]: https://footystreams.pk/events/turkiye-vs-france
 🟢 Successfully processed: NFL [5/27]
+🟡 Visiting detail page [7/27]: https://footystreams.pk/events/turkiye-vs-france
 🟡 Visiting detail page [8/27]: https://footystreams.pk/events/czechia-vs-croatia
 🟢 Successfully processed: NFL [6/27]
 🟡 Visiting detail page [9/27]: https://footystreams.pk/events/italy-vs-belgium-live-stream
@@ -24,9 +24,9 @@
 🟡 Visiting detail page [11/27]: https://footystreams.pk/events/steelers-vs-bengals
 🟢 Successfully processed: Nations League [9/27]
 🟡 Visiting detail page [12/27]: https://footystreams.pk/events/panama-vs-curacao
-🟢 Successfully processed: NFL [11/27]
-🟡 Visiting detail page [13/27]: https://footystreams.pk/events/guyana-vs-puerto-rico
 🟢 Successfully processed: NFL [10/27]
+🟡 Visiting detail page [13/27]: https://footystreams.pk/events/guyana-vs-puerto-rico
+🟢 Successfully processed: NFL [11/27]
 🟡 Visiting detail page [14/27]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
 🟢 Successfully processed: CONCACAF Nations League [12/27]
 🟡 Visiting detail page [15/27]: https://footystreams.pk/events/aruba-vs-martinique
@@ -40,22 +40,22 @@
 🟡 Visiting detail page [19/27]: https://footystreams.pk/events/slovakia-vs-kazakhstan
 🟢 Successfully processed: Nations League [19/27]
 🟡 Visiting detail page [20/27]: https://footystreams.pk/events/liechtenstein-vs-lithuania
-🟢 Successfully processed: CONCACAF Nations League [16/27]
-🟡 Visiting detail page [21/27]: https://footystreams.pk/events/luxembourg-vs-iceland
 🟢 Successfully processed: Nations League [20/27]
-🟡 Visiting detail page [22/27]: https://footystreams.pk/events/bulgaria-vs-estonia
-🟢 Successfully processed: CONCACAF Nations League [17/27]
-🟡 Visiting detail page [23/27]: https://footystreams.pk/events/germany-vs-netherlands
+🟡 Visiting detail page [21/27]: https://footystreams.pk/events/luxembourg-vs-iceland
 🟢 Successfully processed: Nations League [21/27]
-🟡 Visiting detail page [24/27]: https://footystreams.pk/events/brazil-vs-singapore
+🟡 Visiting detail page [22/27]: https://footystreams.pk/events/bulgaria-vs-estonia
 🟢 Successfully processed: Nations League [22/27]
-🟡 Visiting detail page [25/27]: https://footystreams.pk/events/jordan-vs-australia
+🟡 Visiting detail page [23/27]: https://footystreams.pk/events/germany-vs-netherlands
 🟢 Successfully processed: Nations League [23/27]
+🟡 Visiting detail page [24/27]: https://footystreams.pk/events/brazil-vs-singapore
+🟢 Successfully processed: CONCACAF Nations League [16/27]
+🟡 Visiting detail page [25/27]: https://footystreams.pk/events/jordan-vs-australia
+🟢 Successfully processed: CONCACAF Nations League [17/27]
 🟡 Visiting detail page [26/27]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [24/27]
 🟡 Visiting detail page [27/27]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟢 Successfully processed: Friendly [25/27]
-🟢 Successfully processed: Friendly [27/27]
 🟢 Successfully processed: Friendly [26/27]
+🟢 Successfully processed: Friendly [27/27]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 27

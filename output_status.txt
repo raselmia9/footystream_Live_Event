@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
 🟡 Visiting detail page [3/18]: https://footystreams.pk/events/leicester-tigers-vs-saracens
-🟡 Visiting detail page [1/18]: https://footystreams.pk/events/snooker-champion-of-champions
 🟡 Visiting detail page [2/18]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟢 Successfully processed: Snooker [1/18]
+🟡 Visiting detail page [1/18]: https://footystreams.pk/events/snooker-champion-of-champions
+🟢 Successfully processed: Premiership Rugby [3/18]
 🟡 Visiting detail page [4/18]: https://footystreams.pk/events/montenegro-vs-cyprus
 🟢 Successfully processed: Darts [2/18]
-🟢 Successfully processed: Premiership Rugby [3/18]
 🟡 Visiting detail page [5/18]: https://footystreams.pk/events/armenia-vs-latvia
+🟢 Successfully processed: Snooker [1/18]
 🟡 Visiting detail page [6/18]: https://footystreams.pk/events/finland-vs-san-marino
 🟢 Successfully processed: Nations League [4/18]
 🟡 Visiting detail page [7/18]: https://footystreams.pk/events/albania-vs-belarus
-🟢 Successfully processed: Nations League [5/18]
 🟢 Successfully processed: Nations League [6/18]
 🟡 Visiting detail page [8/18]: https://footystreams.pk/events/england-vs-spain
+🟢 Successfully processed: Nations League [5/18]
 🟡 Visiting detail page [9/18]: https://footystreams.pk/events/turkiye-vs-france
 🟢 Successfully processed: Nations League [8/18]
 🟡 Visiting detail page [10/18]: https://footystreams.pk/events/west-ham-united-vs-charlton-athletic

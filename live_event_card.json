@@ -64,7 +64,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/montenegro-vs-cyprus",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/montenegro-vs-cyprus/3664"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -76,7 +81,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/armenia-vs-latvia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/armenia-vs-latvia/3660"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/armenia-vs-latvia/3661"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -100,7 +114,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/albania-vs-belarus",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/albania-vs-belarus/3662"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/albania-vs-belarus/3663"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -275,6 +298,27 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/australia-vs-scotland/3604"
+            }
+        ]
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-16 05:00:00",
+        "team1Title": "Panama",
+        "team2Title": "Curaçao",
+        "team1Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/curacao/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/panama-vs-curacao",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/panama-vs-curacao/3658"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/panama-vs-curacao/3659"
             }
         ]
     }

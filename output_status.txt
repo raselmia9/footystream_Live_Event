@@ -3,14 +3,14 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 27
-🟡 Visiting detail page [2/27]: https://footystreams.pk/events/snooker-champion-of-champions
 🟡 Visiting detail page [3/27]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [2/27]: https://footystreams.pk/events/snooker-champion-of-champions
 🟡 Visiting detail page [1/27]: https://footystreams.pk/events/england-vs-spain
 🟢 Successfully processed: Nations League [1/27]
 🟡 Visiting detail page [4/27]: https://footystreams.pk/events/chiefs-vs-falcons
-🟢 Successfully processed: Darts [3/27]
-🟡 Visiting detail page [5/27]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
 🟢 Successfully processed: Snooker [2/27]
+🟡 Visiting detail page [5/27]: https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers
+🟢 Successfully processed: Darts [3/27]
 🟡 Visiting detail page [6/27]: https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints
 🟢 Successfully processed: NFL [4/27]
 🟡 Visiting detail page [7/27]: https://footystreams.pk/events/turkiye-vs-france
@@ -46,9 +46,9 @@
 🟡 Visiting detail page [22/27]: https://footystreams.pk/events/bulgaria-vs-estonia
 🟢 Successfully processed: Nations League [22/27]
 🟡 Visiting detail page [23/27]: https://footystreams.pk/events/germany-vs-netherlands
-🟢 Successfully processed: Nations League [23/27]
-🟡 Visiting detail page [24/27]: https://footystreams.pk/events/brazil-vs-singapore
 🟢 Successfully processed: CONCACAF Nations League [16/27]
+🟡 Visiting detail page [24/27]: https://footystreams.pk/events/brazil-vs-singapore
+🟢 Successfully processed: Nations League [23/27]
 🟡 Visiting detail page [25/27]: https://footystreams.pk/events/jordan-vs-australia
 🟢 Successfully processed: CONCACAF Nations League [17/27]
 🟡 Visiting detail page [26/27]: https://footystreams.pk/events/iran-vs-iraq

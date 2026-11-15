@@ -6,11 +6,11 @@
 🟡 Visiting detail page [2/20]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/20]: https://footystreams.pk/events/cowboys-vs-49ers
 🟡 Visiting detail page [1/20]: https://footystreams.pk/events/snooker-champion-of-champions
-🟢 Successfully processed: Darts [2/20]
-🟢 Successfully processed: NFL [3/20]
 🟢 Successfully processed: Snooker [1/20]
-🟡 Visiting detail page [5/20]: https://footystreams.pk/events/steelers-vs-bengals
+🟢 Successfully processed: NFL [3/20]
 🟡 Visiting detail page [4/20]: https://footystreams.pk/events/panama-vs-curacao
+🟡 Visiting detail page [5/20]: https://footystreams.pk/events/steelers-vs-bengals
+🟢 Successfully processed: Darts [2/20]
 🟡 Visiting detail page [6/20]: https://footystreams.pk/events/moldova-vs-faroe-islands
 🟢 Successfully processed: Nations League [6/20]
 🟡 Visiting detail page [7/20]: https://footystreams.pk/events/slovakia-vs-kazakhstan
@@ -20,13 +20,13 @@
 🟡 Visiting detail page [9/20]: https://footystreams.pk/events/luxembourg-vs-iceland
 🟢 Successfully processed: Nations League [9/20]
 🟡 Visiting detail page [10/20]: https://footystreams.pk/events/bulgaria-vs-estonia
-🟢 Successfully processed: Nations League [10/20]
-🟡 Visiting detail page [11/20]: https://footystreams.pk/events/germany-vs-netherlands
-🟢 Successfully processed: Nations League [11/20]
-🟡 Visiting detail page [12/20]: https://footystreams.pk/events/guyana-vs-puerto-rico
-🟢 Successfully processed: NFL [5/20]
 🟢 Successfully processed: CONCACAF Nations League [4/20]
+🟡 Visiting detail page [11/20]: https://footystreams.pk/events/germany-vs-netherlands
+🟢 Successfully processed: NFL [5/20]
+🟡 Visiting detail page [12/20]: https://footystreams.pk/events/guyana-vs-puerto-rico
+🟢 Successfully processed: Nations League [10/20]
 🟡 Visiting detail page [13/20]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
+🟢 Successfully processed: Nations League [11/20]
 🟡 Visiting detail page [14/20]: https://footystreams.pk/events/aruba-vs-martinique
 🟢 Successfully processed: CONCACAF Nations League [12/20]
 🟡 Visiting detail page [15/20]: https://footystreams.pk/events/canada-vs-guatemala
@@ -40,8 +40,8 @@
 🟡 Visiting detail page [19/20]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [19/20]
 🟡 Visiting detail page [20/20]: https://footystreams.pk/events/argentina-vs-costa-rica
-🟢 Successfully processed: Friendly [20/20]
 🟢 Successfully processed: CONCACAF Nations League [15/20]
+🟢 Successfully processed: Friendly [20/20]
 🟢 Successfully processed: CONCACAF Nations League [16/20]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 20

@@ -6,11 +6,11 @@
 🟡 Visiting detail page [1/26]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [2/26]: https://footystreams.pk/events/germany-vs-netherlands
 🟡 Visiting detail page [3/26]: https://footystreams.pk/events/serbia-vs-greece
-🟢 Successfully processed: Nations League [3/26]
-🟡 Visiting detail page [4/26]: https://footystreams.pk/events/scotland-vs-switzerland
-🟢 Successfully processed: Darts [1/26]
-🟡 Visiting detail page [5/26]: https://footystreams.pk/events/slovenia-vs-north-macedonia
 🟢 Successfully processed: Nations League [2/26]
+🟡 Visiting detail page [4/26]: https://footystreams.pk/events/scotland-vs-switzerland
+🟢 Successfully processed: Nations League [3/26]
+🟡 Visiting detail page [5/26]: https://footystreams.pk/events/slovenia-vs-north-macedonia
+🟢 Successfully processed: Darts [1/26]
 🟡 Visiting detail page [6/26]: https://footystreams.pk/events/malta-vs-gibraltar
 🟢 Successfully processed: Nations League [4/26]
 🟡 Visiting detail page [7/26]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
@@ -18,21 +18,21 @@
 🟡 Visiting detail page [8/26]: https://footystreams.pk/events/aruba-vs-martinique
 🟢 Successfully processed: Nations League [6/26]
 🟡 Visiting detail page [9/26]: https://footystreams.pk/events/canada-vs-guatemala
-🟢 Successfully processed: CONCACAF Nations League [8/26]
 🟢 Successfully processed: CONCACAF Nations League [7/26]
-🟡 Visiting detail page [11/26]: https://footystreams.pk/events/brazil-vs-singapore
 🟡 Visiting detail page [10/26]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
+🟢 Successfully processed: CONCACAF Nations League [8/26]
+🟡 Visiting detail page [11/26]: https://footystreams.pk/events/brazil-vs-singapore
 🟢 Successfully processed: CONCACAF Nations League [9/26]
 🟡 Visiting detail page [12/26]: https://footystreams.pk/events/jordan-vs-australia
 🟢 Successfully processed: Friendly [12/26]
 🟡 Visiting detail page [13/26]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [13/26]
 🟡 Visiting detail page [14/26]: https://footystreams.pk/events/argentina-vs-costa-rica
-🟢 Successfully processed: Friendly [14/26]
-🟡 Visiting detail page [15/26]: https://footystreams.pk/events/pakistan-vs-india
 🟢 Successfully processed: Friendly [11/26]
 🟢 Successfully processed: CONCACAF Nations League [10/26]
+🟡 Visiting detail page [15/26]: https://footystreams.pk/events/pakistan-vs-india
 🟡 Visiting detail page [16/26]: https://footystreams.pk/events/portugal-vs-wales
+🟢 Successfully processed: Friendly [14/26]
 🟡 Visiting detail page [17/26]: https://footystreams.pk/events/norway-vs-denmark
 🟢 Successfully processed: Nations League [16/26]
 🟡 Visiting detail page [18/26]: https://footystreams.pk/events/ireland-vs-kosovo
@@ -46,14 +46,14 @@
 🟡 Visiting detail page [22/26]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟢 Successfully processed: Nations League [21/26]
 🟡 Visiting detail page [23/26]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: SAFF Championship [15/26]
+🟢 Successfully processed: Bundesliga [22/26]
 🟡 Visiting detail page [24/26]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: French Ligue 1 [23/26]
 🟡 Visiting detail page [25/26]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: Bundesliga [22/26]
-🟡 Visiting detail page [26/26]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: LaLiga [24/26]
+🟡 Visiting detail page [26/26]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: League One [25/26]
+🟢 Successfully processed: SAFF Championship [15/26]
 🟢 Successfully processed: Taca de Portugal [26/26]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 26

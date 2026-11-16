@@ -21,23 +21,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-11-16 03:25:00",
-        "team1Title": "Dallas Cowboys",
-        "team2Title": "San Francisco 49ers",
-        "team1Logo": "https://cdn.img4every1.org/team/dallas-cowboys/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/cowboys-vs-49ers",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/cowboys-vs-49ers/3688"
-            }
-        ]
-    },
-    {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-16 05:00:00",
         "team1Title": "Panama",

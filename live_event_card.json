@@ -67,27 +67,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Title": "Bulgaria",
-        "team2Title": "Estonia",
-        "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/bulgaria-vs-estonia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bulgaria-vs-estonia/3697"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/bulgaria-vs-estonia/3703"
-            }
-        ]
-    },
-    {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-17 01:00:00",
         "team1Title": "Guyana",

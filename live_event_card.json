@@ -21,27 +21,6 @@
         ]
     },
     {
-        "eventTitle": "NFL",
-        "matchTime": "2026-11-16 07:20:00",
-        "team1Title": "Pittsburgh Steelers",
-        "team2Title": "Cincinnati Bengals",
-        "team1Logo": "https://cdn.img4every1.org/team/pittsburgh-steelers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/cincinnati-bengals/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/steelers-vs-bengals",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/steelers-vs-bengals/3689"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/steelers-vs-bengals/3690"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-16 21:00:00",
         "team1Title": "Moldova",

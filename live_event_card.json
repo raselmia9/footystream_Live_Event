@@ -151,18 +151,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-18 01:45:00",
-        "team1Title": "Portugal",
-        "team2Title": "Wales",
-        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/portugal-vs-wales",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-17 06:00:00",
         "team1Title": "Trinidad and Tobago",
@@ -303,6 +291,78 @@
                 "url": "https://playerdee.top/alpha/pakistan-vs-india/3692"
             }
         ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Portugal",
+        "team2Title": "Wales",
+        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/portugal-vs-wales",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Norway",
+        "team2Title": "Denmark",
+        "team1Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/norway-vs-denmark",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Ireland",
+        "team2Title": "Kosovo",
+        "team1Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/ireland-vs-kosovo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Austria",
+        "team2Title": "Israel",
+        "team1Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/austria-vs-israel",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Northern Ireland",
+        "team2Title": "Hungary",
+        "team1Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/northern-ireland-vs-hungary",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Bosnia and Herzegovina",
+        "team2Title": "Romania",
+        "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/bosnia-vs-romania",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",

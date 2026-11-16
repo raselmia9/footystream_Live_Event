@@ -10,8 +10,8 @@
 🟢 Successfully processed: Nations League [3/16]
 🟡 Visiting detail page [4/16]: https://footystreams.pk/events/liechtenstein-vs-lithuania
 🟡 Visiting detail page [5/16]: https://footystreams.pk/events/luxembourg-vs-iceland
-🟢 Successfully processed: Nations League [5/16]
 🟢 Successfully processed: Nations League [4/16]
+🟢 Successfully processed: Nations League [5/16]
 🟡 Visiting detail page [6/16]: https://footystreams.pk/events/bulgaria-vs-estonia
 🟡 Visiting detail page [7/16]: https://footystreams.pk/events/germany-vs-netherlands
 🟢 Successfully processed: Nations League [6/16]

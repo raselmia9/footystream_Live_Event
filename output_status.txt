@@ -2,53 +2,46 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 22
-🟡 Visiting detail page [1/22]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [3/22]: https://footystreams.pk/events/slovakia-vs-kazakhstan
-🟡 Visiting detail page [2/22]: https://footystreams.pk/events/moldova-vs-faroe-islands
-🟢 Successfully processed: Nations League [2/22]
-🟡 Visiting detail page [4/22]: https://footystreams.pk/events/liechtenstein-vs-lithuania
-🟢 Successfully processed: Darts [1/22]
-🟡 Visiting detail page [5/22]: https://footystreams.pk/events/luxembourg-vs-iceland
-🟢 Successfully processed: Nations League [3/22]
-🟡 Visiting detail page [6/22]: https://footystreams.pk/events/bulgaria-vs-estonia
-🟢 Successfully processed: Nations League [5/22]
-🟡 Visiting detail page [7/22]: https://footystreams.pk/events/guyana-vs-puerto-rico
-🟢 Successfully processed: Nations League [4/22]
-🟡 Visiting detail page [8/22]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
-🟢 Successfully processed: Nations League [6/22]
-🟡 Visiting detail page [9/22]: https://footystreams.pk/events/aruba-vs-martinique
-🟢 Successfully processed: CONCACAF Nations League [7/22]
-🟡 Visiting detail page [10/22]: https://footystreams.pk/events/canada-vs-guatemala
-🟢 Successfully processed: CONCACAF Nations League [9/22]
-🟡 Visiting detail page [11/22]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
-🔴 ERROR on detail page https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda", waiting until "load"
-
-🟡 Visiting detail page [12/22]: https://footystreams.pk/events/germany-vs-netherlands
-🟢 Successfully processed: Nations League [12/22]
-🟡 Visiting detail page [13/22]: https://footystreams.pk/events/serbia-vs-greece
-🟢 Successfully processed: CONCACAF Nations League [10/22]
-🟡 Visiting detail page [14/22]: https://footystreams.pk/events/scotland-vs-switzerland
-🟢 Successfully processed: CONCACAF Nations League [11/22]
-🟡 Visiting detail page [15/22]: https://footystreams.pk/events/slovenia-vs-north-macedonia
-🟢 Successfully processed: Nations League [14/22]
-🟡 Visiting detail page [16/22]: https://footystreams.pk/events/malta-vs-gibraltar
-🟢 Successfully processed: Nations League [15/22]
-🟡 Visiting detail page [17/22]: https://footystreams.pk/events/portugal-vs-wales
-🟢 Successfully processed: Nations League [16/22]
-🟡 Visiting detail page [18/22]: https://footystreams.pk/events/brazil-vs-singapore
-🟢 Successfully processed: Nations League [17/22]
-🟢 Successfully processed: Nations League [13/22]
-🟡 Visiting detail page [19/22]: https://footystreams.pk/events/jordan-vs-australia
-🟡 Visiting detail page [20/22]: https://footystreams.pk/events/iran-vs-iraq
-🟢 Successfully processed: Friendly [18/22]
-🟡 Visiting detail page [21/22]: https://footystreams.pk/events/argentina-vs-costa-rica
-🟢 Successfully processed: Friendly [20/22]
-🟡 Visiting detail page [22/22]: https://footystreams.pk/events/pakistan-vs-india
-🟢 Successfully processed: Friendly [19/22]
-🟢 Successfully processed: Friendly [21/22]
-🟢 Successfully processed: SAFF Championship [22/22]
+🟢 Total unique detail links to process in parallel: 20
+🟡 Visiting detail page [3/20]: https://footystreams.pk/events/luxembourg-vs-iceland
+🟡 Visiting detail page [1/20]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [2/20]: https://footystreams.pk/events/liechtenstein-vs-lithuania
+🟢 Successfully processed: Darts [1/20]
+🟡 Visiting detail page [4/20]: https://footystreams.pk/events/bulgaria-vs-estonia
+🟢 Successfully processed: Nations League [3/20]
+🟡 Visiting detail page [5/20]: https://footystreams.pk/events/guyana-vs-puerto-rico
+🟢 Successfully processed: Nations League [2/20]
+🟡 Visiting detail page [6/20]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
+🟢 Successfully processed: Nations League [4/20]
+🟡 Visiting detail page [7/20]: https://footystreams.pk/events/aruba-vs-martinique
+🟢 Successfully processed: CONCACAF Nations League [5/20]
+🟡 Visiting detail page [8/20]: https://footystreams.pk/events/canada-vs-guatemala
+🟢 Successfully processed: CONCACAF Nations League [6/20]
+🟡 Visiting detail page [9/20]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
+🟢 Successfully processed: CONCACAF Nations League [7/20]
+🟡 Visiting detail page [10/20]: https://footystreams.pk/events/germany-vs-netherlands
+🟢 Successfully processed: Nations League [10/20]
+🟡 Visiting detail page [11/20]: https://footystreams.pk/events/serbia-vs-greece
+🟢 Successfully processed: CONCACAF Nations League [8/20]
+🟡 Visiting detail page [12/20]: https://footystreams.pk/events/scotland-vs-switzerland
+🟢 Successfully processed: CONCACAF Nations League [9/20]
+🟡 Visiting detail page [13/20]: https://footystreams.pk/events/slovenia-vs-north-macedonia
+🟢 Successfully processed: Nations League [12/20]
+🟡 Visiting detail page [14/20]: https://footystreams.pk/events/malta-vs-gibraltar
+🟢 Successfully processed: Nations League [13/20]
+🟡 Visiting detail page [15/20]: https://footystreams.pk/events/portugal-vs-wales
+🟢 Successfully processed: Nations League [14/20]
+🟡 Visiting detail page [16/20]: https://footystreams.pk/events/brazil-vs-singapore
+🟢 Successfully processed: Nations League [15/20]
+🟡 Visiting detail page [17/20]: https://footystreams.pk/events/jordan-vs-australia
+🟢 Successfully processed: Nations League [11/20]
+🟡 Visiting detail page [18/20]: https://footystreams.pk/events/iran-vs-iraq
+🟢 Successfully processed: Friendly [16/20]
+🟡 Visiting detail page [19/20]: https://footystreams.pk/events/argentina-vs-costa-rica
+🟢 Successfully processed: Friendly [17/20]
+🟡 Visiting detail page [20/20]: https://footystreams.pk/events/pakistan-vs-india
+🟢 Successfully processed: Friendly [19/20]
+🟢 Successfully processed: Friendly [18/20]
+🟢 Successfully processed: SAFF Championship [20/20]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 21
+🟢 Process completed successfully. Total collected events: 20

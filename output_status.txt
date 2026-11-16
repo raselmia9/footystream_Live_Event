@@ -1,7 +1,45 @@
 🟢 Process Started...
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
-🔴 CRITICAL_ERROR: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystream.pk/", waiting until "load"
-
+🟡 Waiting for event cards to load...
+🟢 Total unique detail links to process in parallel: 19
+🟡 Visiting detail page [2/19]: https://footystreams.pk/events/moldova-vs-faroe-islands
+🟡 Visiting detail page [1/19]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [3/19]: https://footystreams.pk/events/slovakia-vs-kazakhstan
+🟢 Successfully processed: Darts [1/19]
+🟡 Visiting detail page [4/19]: https://footystreams.pk/events/liechtenstein-vs-lithuania
+🟢 Successfully processed: Nations League [2/19]
+🟡 Visiting detail page [5/19]: https://footystreams.pk/events/luxembourg-vs-iceland
+🟢 Successfully processed: Nations League [3/19]
+🟡 Visiting detail page [6/19]: https://footystreams.pk/events/bulgaria-vs-estonia
+🟢 Successfully processed: Nations League [4/19]
+🟡 Visiting detail page [7/19]: https://footystreams.pk/events/germany-vs-netherlands
+🟢 Successfully processed: Nations League [5/19]
+🟡 Visiting detail page [8/19]: https://footystreams.pk/events/serbia-vs-greece
+🟢 Successfully processed: Nations League [7/19]
+🟡 Visiting detail page [9/19]: https://footystreams.pk/events/scotland-vs-switzerland
+🟢 Successfully processed: Nations League [6/19]
+🟡 Visiting detail page [10/19]: https://footystreams.pk/events/guyana-vs-puerto-rico
+🟢 Successfully processed: Nations League [9/19]
+🟡 Visiting detail page [11/19]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
+🟢 Successfully processed: Nations League [8/19]
+🟡 Visiting detail page [12/19]: https://footystreams.pk/events/aruba-vs-martinique
+🟢 Successfully processed: CONCACAF Nations League [10/19]
+🟡 Visiting detail page [13/19]: https://footystreams.pk/events/canada-vs-guatemala
+🟢 Successfully processed: CONCACAF Nations League [11/19]
+🟡 Visiting detail page [14/19]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
+🟢 Successfully processed: CONCACAF Nations League [12/19]
+🟡 Visiting detail page [15/19]: https://footystreams.pk/events/brazil-vs-singapore
+🟢 Successfully processed: CONCACAF Nations League [13/19]
+🟡 Visiting detail page [16/19]: https://footystreams.pk/events/jordan-vs-australia
+🟢 Successfully processed: Friendly [15/19]
+🟡 Visiting detail page [17/19]: https://footystreams.pk/events/iran-vs-iraq
+🟢 Successfully processed: CONCACAF Nations League [14/19]
+🟡 Visiting detail page [18/19]: https://footystreams.pk/events/argentina-vs-costa-rica
+🟢 Successfully processed: Friendly [16/19]
+🟡 Visiting detail page [19/19]: https://footystreams.pk/events/pakistan-vs-india
+🟢 Successfully processed: Friendly [17/19]
+🟢 Successfully processed: Friendly [18/19]
+🟢 Successfully processed: SAFF Championship [19/19]
+🟢 Browser closed successfully.
+🟢 Process completed successfully. Total collected events: 19

@@ -236,6 +236,14 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/scotland-vs-switzerland/3710"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/scotland-vs-switzerland/3711"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/scotland-vs-switzerland/3712"
             }
         ]
     },
@@ -249,7 +257,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/slovenia-vs-north-macedonia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/slovenia-vs-north-macedonia/3713"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -261,7 +274,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/malta-vs-gibraltar",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/malta-vs-gibraltar/3714"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -285,7 +303,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/brazil-vs-singapore",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/brazil-vs-singapore/3715"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

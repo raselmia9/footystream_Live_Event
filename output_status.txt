@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 27
 🟡 Visiting detail page [3/27]: https://footystreams.pk/events/germany-vs-netherlands
-🟡 Visiting detail page [1/27]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [2/27]: https://footystreams.pk/events/guyana-vs-puerto-rico
-🟢 Successfully processed: CONCACAF Nations League [2/27]
+🟡 Visiting detail page [1/27]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟢 Successfully processed: Darts [1/27]
 🟡 Visiting detail page [4/27]: https://footystreams.pk/events/serbia-vs-greece
 🟢 Successfully processed: Nations League [3/27]
 🟡 Visiting detail page [5/27]: https://footystreams.pk/events/scotland-vs-switzerland
-🟢 Successfully processed: Darts [1/27]
+🟢 Successfully processed: CONCACAF Nations League [2/27]
 🟡 Visiting detail page [6/27]: https://footystreams.pk/events/slovenia-vs-north-macedonia
 🟢 Successfully processed: Nations League [4/27]
 🟡 Visiting detail page [7/27]: https://footystreams.pk/events/malta-vs-gibraltar
@@ -32,30 +32,30 @@
 🟡 Visiting detail page [15/27]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟢 Successfully processed: Friendly [12/27]
 🟡 Visiting detail page [16/27]: https://footystreams.pk/events/pakistan-vs-india
-🟢 Successfully processed: Friendly [15/27]
-🟡 Visiting detail page [17/27]: https://footystreams.pk/events/portugal-vs-wales
 🟢 Successfully processed: Friendly [14/27]
+🟡 Visiting detail page [17/27]: https://footystreams.pk/events/portugal-vs-wales
+🟢 Successfully processed: Friendly [15/27]
 🟡 Visiting detail page [18/27]: https://footystreams.pk/events/norway-vs-denmark
-🟢 Successfully processed: Nations League [18/27]
-🟡 Visiting detail page [19/27]: https://footystreams.pk/events/ireland-vs-kosovo
 🟢 Successfully processed: Nations League [17/27]
+🟡 Visiting detail page [19/27]: https://footystreams.pk/events/ireland-vs-kosovo
+🟢 Successfully processed: Nations League [18/27]
 🟡 Visiting detail page [20/27]: https://footystreams.pk/events/austria-vs-israel
-🟢 Successfully processed: Nations League [20/27]
-🟡 Visiting detail page [21/27]: https://footystreams.pk/events/northern-ireland-vs-hungary
 🟢 Successfully processed: Nations League [19/27]
+🟡 Visiting detail page [21/27]: https://footystreams.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Nations League [20/27]
 🟡 Visiting detail page [22/27]: https://footystreams.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [21/27]
 🟡 Visiting detail page [23/27]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟢 Successfully processed: Nations League [22/27]
 🟡 Visiting detail page [24/27]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: SAFF Championship [16/27]
-🟡 Visiting detail page [25/27]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: Bundesliga [23/27]
-🟡 Visiting detail page [26/27]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
+🟡 Visiting detail page [25/27]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: French Ligue 1 [24/27]
-🟡 Visiting detail page [27/27]: https://footystreams.pk/events/porto-vs-paredes
+🟡 Visiting detail page [26/27]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
 🟢 Successfully processed: LaLiga [25/27]
+🟡 Visiting detail page [27/27]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: League One [26/27]
+🟢 Successfully processed: SAFF Championship [16/27]
 🟢 Successfully processed: Taca de Portugal [27/27]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 27

@@ -3,8 +3,8 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
-🟡 Visiting detail page [1/17]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [2/17]: https://footystreams.pk/events/steelers-vs-bengals
+🟡 Visiting detail page [1/17]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/17]: https://footystreams.pk/events/moldova-vs-faroe-islands
 🟢 Successfully processed: Nations League [3/17]
 🟡 Visiting detail page [4/17]: https://footystreams.pk/events/slovakia-vs-kazakhstan
@@ -16,11 +16,11 @@
 🟡 Visiting detail page [7/17]: https://footystreams.pk/events/bulgaria-vs-estonia
 🟢 Successfully processed: Nations League [7/17]
 🟡 Visiting detail page [8/17]: https://footystreams.pk/events/germany-vs-netherlands
-🟢 Successfully processed: Nations League [8/17]
-🟡 Visiting detail page [9/17]: https://footystreams.pk/events/guyana-vs-puerto-rico
-🟢 Successfully processed: Darts [1/17]
-🟡 Visiting detail page [10/17]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
 🟢 Successfully processed: NFL [2/17]
+🟢 Successfully processed: Darts [1/17]
+🟡 Visiting detail page [9/17]: https://footystreams.pk/events/guyana-vs-puerto-rico
+🟡 Visiting detail page [10/17]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
+🟢 Successfully processed: Nations League [8/17]
 🟡 Visiting detail page [11/17]: https://footystreams.pk/events/aruba-vs-martinique
 🟢 Successfully processed: CONCACAF Nations League [9/17]
 🟡 Visiting detail page [12/17]: https://footystreams.pk/events/canada-vs-guatemala

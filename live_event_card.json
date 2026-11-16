@@ -105,74 +105,6 @@
         ]
     },
     {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Title": "Trinidad and Tobago",
-        "team2Title": "Antigua and Barbuda",
-        "team1Logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/trinidad-and-tobago-vs-antigua-and-barbuda/3684"
-            }
-        ]
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Title": "Aruba",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/aruba-vs-martinique",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/aruba-vs-martinique/3685"
-            }
-        ]
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 07:00:00",
-        "team1Title": "Canada",
-        "team2Title": "Guatemala",
-        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/canada-vs-guatemala",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/canada-vs-guatemala/3686"
-            }
-        ]
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-18 01:00:00",
-        "team1Title": "Bonaire",
-        "team2Title": "Saint Kitts and Nevis",
-        "team1Logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bonaire-vs-st-kitts-and-nevis/3687"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-17 01:45:00",
         "team1Title": "Germany",
@@ -298,6 +230,74 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Title": "Trinidad and Tobago",
+        "team2Title": "Antigua and Barbuda",
+        "team1Logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/trinidad-and-tobago-vs-antigua-and-barbuda/3684"
+            }
+        ]
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Title": "Aruba",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/aruba-vs-martinique",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/aruba-vs-martinique/3685"
+            }
+        ]
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-17 07:00:00",
+        "team1Title": "Canada",
+        "team2Title": "Guatemala",
+        "team1Logo": "https://cdn.img4every1.org/team/canada/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/canada-vs-guatemala",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/canada-vs-guatemala/3686"
+            }
+        ]
+    },
+    {
+        "eventTitle": "CONCACAF Nations League",
+        "matchTime": "2026-11-18 01:00:00",
+        "team1Title": "Bonaire",
+        "team2Title": "Saint Kitts and Nevis",
+        "team1Logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bonaire-vs-st-kitts-and-nevis/3687"
+            }
+        ]
+    },
+    {
         "eventTitle": "Friendly",
         "matchTime": "2026-11-17 16:00:00",
         "team1Title": "Brazil",
@@ -372,6 +372,30 @@
         ]
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-21 01:30:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Köln",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/bayern-munchen-vs-koln",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-21 01:45:00",
+        "team1Title": "Troyes",
+        "team2Title": "Le Havre",
+        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/troyes-vs-le-havre",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-21 02:00:00",
         "team1Title": "Espanyol",
@@ -382,5 +406,42 @@
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/espanyol-vs-athletic-club",
         "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-21 02:00:00",
+        "team1Title": "Barnsley",
+        "team2Title": "Sheffield Wednesday",
+        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/barnsley-vs-sheffield-wednesday",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Taca de Portugal",
+        "matchTime": "2026-11-21 02:45:00",
+        "team1Title": "Porto",
+        "team2Title": "Paredes",
+        "team1Logo": "https://cdn.img4every1.org/team/porto/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/paredes/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/porto-vs-paredes",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/porto-vs-paredes/3717"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/porto-vs-paredes/3718"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/porto-vs-paredes/3719"
+            }
+        ]
     }
 ]

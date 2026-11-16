@@ -21,23 +21,6 @@
         ]
     },
     {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 01:00:00",
-        "team1Title": "Guyana",
-        "team2Title": "Puerto Rico",
-        "team1Logo": "https://cdn.img4every1.org/team/guyana/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/puerto-rico/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/guyana-vs-puerto-rico",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/guyana-vs-puerto-rico/3683"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-17 01:45:00",
         "team1Title": "Germany",

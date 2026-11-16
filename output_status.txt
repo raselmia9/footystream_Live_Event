@@ -19,8 +19,8 @@
 🟢 Successfully processed: Nations League [8/17]
 🟡 Visiting detail page [9/17]: https://footystreams.pk/events/guyana-vs-puerto-rico
 🟢 Successfully processed: Darts [1/17]
-🟡 Visiting detail page [10/17]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
 🟢 Successfully processed: NFL [2/17]
+🟡 Visiting detail page [10/17]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
 🟡 Visiting detail page [11/17]: https://footystreams.pk/events/aruba-vs-martinique
 🟢 Successfully processed: CONCACAF Nations League [9/17]
 🟡 Visiting detail page [12/17]: https://footystreams.pk/events/canada-vs-guatemala

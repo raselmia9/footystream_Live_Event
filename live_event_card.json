@@ -30,7 +30,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/moldova-vs-faroe-islands",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/moldova-vs-faroe-islands/3693"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/moldova-vs-faroe-islands/3695"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -54,7 +63,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/liechtenstein-vs-lithuania",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/liechtenstein-vs-lithuania/3694"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

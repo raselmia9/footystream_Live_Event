@@ -138,6 +138,35 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Title": "Serbia",
+        "team2Title": "Greece",
+        "team1Logo": "https://cdn.img4every1.org/team/serbia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/serbia-vs-greece",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/serbia-vs-greece/3698"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Title": "Scotland",
+        "team2Title": "Switzerland",
+        "team1Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/scotland-vs-switzerland",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-17 01:00:00",
         "team1Title": "Guyana",

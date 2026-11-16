@@ -51,7 +51,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/slovakia-vs-kazakhstan",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/slovakia-vs-kazakhstan/3696"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/slovakia-vs-kazakhstan/3699"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -67,6 +76,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/liechtenstein-vs-lithuania/3694"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/liechtenstein-vs-lithuania/3700"
             }
         ]
     },
@@ -80,7 +93,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/luxembourg-vs-iceland",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/luxembourg-vs-iceland/3701"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/luxembourg-vs-iceland/3702"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -92,7 +114,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/bulgaria-vs-estonia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bulgaria-vs-estonia/3697"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bulgaria-vs-estonia/3703"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",

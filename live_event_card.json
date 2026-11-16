@@ -21,73 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Title": "Liechtenstein",
-        "team2Title": "Lithuania",
-        "team1Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/liechtenstein-vs-lithuania",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/liechtenstein-vs-lithuania/3694"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/liechtenstein-vs-lithuania/3700"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Title": "Luxembourg",
-        "team2Title": "Iceland",
-        "team1Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/iceland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/luxembourg-vs-iceland",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/luxembourg-vs-iceland/3701"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/luxembourg-vs-iceland/3702"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/luxembourg-vs-iceland/3716"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Title": "Bulgaria",
-        "team2Title": "Estonia",
-        "team1Logo": "https://cdn.img4every1.org/team/bulgaria/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/estonia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/bulgaria-vs-estonia",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bulgaria-vs-estonia/3697"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/bulgaria-vs-estonia/3703"
-            }
-        ]
-    },
-    {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-17 01:00:00",
         "team1Title": "Guyana",
@@ -408,7 +341,7 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "EFL",
+        "eventTitle": "League One",
         "matchTime": "2026-11-21 02:00:00",
         "team1Title": "Barnsley",
         "team2Title": "Sheffield Wednesday",

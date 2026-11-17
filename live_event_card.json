@@ -23,8 +23,8 @@
     {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-17 06:00:00",
-        "team1Title": "Trinidad and Tobago",
-        "team2Title": "Antigua and Barbuda",
+        "team1Title": "Event Ended",
+        "team2Title": "Trinidad and Tobago",
         "team1Logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
         "isHot": true,
@@ -40,8 +40,8 @@
     {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-17 06:00:00",
-        "team1Title": "Aruba",
-        "team2Title": "Team 2",
+        "team1Title": "Event Ended",
+        "team2Title": "Aruba",
         "team1Logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
         "isHot": true,

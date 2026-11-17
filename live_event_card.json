@@ -54,23 +54,6 @@
         ]
     },
     {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-18 01:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bonaire",
-        "team1Logo": "https://cdn.img4every1.org/team/bonaire/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/saint-kitts-and-nevis/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bonaire-vs-st-kitts-and-nevis/3687"
-            }
-        ]
-    },
-    {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-18 01:45:00",
         "team1Title": "Norway",

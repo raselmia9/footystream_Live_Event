@@ -14,8 +14,8 @@
 🟡 Visiting detail page [6/18]: https://footystreams.pk/events/pakistan-vs-india
 🟢 Successfully processed: Friendly [2/18]
 🟢 Successfully processed: Darts [1/18]
-🟡 Visiting detail page [8/18]: https://footystreams.pk/events/portugal-vs-wales
 🟡 Visiting detail page [7/18]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
+🟡 Visiting detail page [8/18]: https://footystreams.pk/events/portugal-vs-wales
 🟢 Successfully processed: Nations League [8/18]
 🟡 Visiting detail page [9/18]: https://footystreams.pk/events/norway-vs-denmark
 🟢 Successfully processed: Nations League [9/18]
@@ -28,16 +28,16 @@
 🟡 Visiting detail page [13/18]: https://footystreams.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [12/18]
 🟡 Visiting detail page [14/18]: https://footystreams.pk/events/bayern-munchen-vs-koln
-🟢 Successfully processed: Bundesliga [14/18]
 🟢 Successfully processed: Nations League [13/18]
-🟡 Visiting detail page [16/18]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟡 Visiting detail page [15/18]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: CONCACAF Nations League [7/18]
-🟡 Visiting detail page [17/18]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
+🟢 Successfully processed: Bundesliga [14/18]
+🟡 Visiting detail page [16/18]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: French Ligue 1 [15/18]
-🟡 Visiting detail page [18/18]: https://footystreams.pk/events/porto-vs-paredes
+🟡 Visiting detail page [17/18]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
 🟢 Successfully processed: LaLiga [16/18]
+🟡 Visiting detail page [18/18]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: League One [17/18]
+🟢 Successfully processed: CONCACAF Nations League [7/18]
 🟢 Successfully processed: Taca de Portugal [18/18]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 18

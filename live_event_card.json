@@ -56,8 +56,8 @@
     {
         "eventTitle": "Friendly",
         "matchTime": "2026-11-17 22:15:00",
-        "team1Title": "Iran",
-        "team2Title": "Iraq",
+        "team1Title": "Event Ended",
+        "team2Title": "Iran",
         "team1Logo": "https://cdn.img4every1.org/team/iran/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/iraq/logo.webp",
         "isHot": true,
@@ -92,7 +92,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/norway-vs-denmark",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/norway-vs-denmark/3731"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -159,7 +164,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/bosnia-vs-romania",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bosnia-vs-romania/3733"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -171,7 +181,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/georgia-vs-ukraine",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/georgia-vs-ukraine/3732"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

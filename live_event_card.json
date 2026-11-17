@@ -150,6 +150,18 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Northern Ireland",
+        "team2Title": "Hungary",
+        "team1Logo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/northern-ireland-vs-hungary",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
         "team1Title": "Bosnia and Herzegovina",
         "team2Title": "Romania",
         "team1Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",

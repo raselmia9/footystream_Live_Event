@@ -2,38 +2,36 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 16
-🟡 Visiting detail page [3/16]: https://footystreams.pk/events/iran-vs-iraq
-🟡 Visiting detail page [2/16]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [1/16]: https://footystreams.pk/events/portugal-vs-wales
-🟢 Successfully processed: Friendly [3/16]
-🟡 Visiting detail page [4/16]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
-🟢 Successfully processed: Nations League [1/16]
-🟢 Successfully processed: Darts [2/16]
-🟡 Visiting detail page [5/16]: https://footystreams.pk/events/norway-vs-denmark
-🟡 Visiting detail page [6/16]: https://footystreams.pk/events/ireland-vs-kosovo
-🟢 Successfully processed: CONCACAF Nations League [4/16]
-🟡 Visiting detail page [7/16]: https://footystreams.pk/events/austria-vs-israel
-🟢 Successfully processed: Nations League [6/16]
-🟡 Visiting detail page [8/16]: https://footystreams.pk/events/northern-ireland-vs-hungary
-🟢 Successfully processed: Nations League [5/16]
-🟡 Visiting detail page [9/16]: https://footystreams.pk/events/bosnia-vs-romania
-🟢 Successfully processed: Nations League [7/16]
-🟡 Visiting detail page [10/16]: https://footystreams.pk/events/georgia-vs-ukraine
-🟢 Successfully processed: Nations League [8/16]
-🟡 Visiting detail page [11/16]: https://footystreams.pk/events/argentina-vs-costa-rica
-🟢 Successfully processed: Nations League [9/16]
-🟡 Visiting detail page [12/16]: https://footystreams.pk/events/bayern-munchen-vs-koln
-🟢 Successfully processed: Friendly [11/16]
-🟡 Visiting detail page [13/16]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: Bundesliga [12/16]
-🟡 Visiting detail page [14/16]: https://footystreams.pk/events/espanyol-vs-athletic-club
-🟢 Successfully processed: Nations League [10/16]
-🟡 Visiting detail page [15/16]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: French Ligue 1 [13/16]
-🟡 Visiting detail page [16/16]: https://footystreams.pk/events/porto-vs-paredes
-🟢 Successfully processed: LaLiga [14/16]
-🟢 Successfully processed: League One [15/16]
-🟢 Successfully processed: Taca de Portugal [16/16]
+🟢 Total unique detail links to process in parallel: 15
+🟡 Visiting detail page [2/15]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [1/15]: https://footystreams.pk/events/portugal-vs-wales
+🟡 Visiting detail page [3/15]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
+🟢 Successfully processed: CONCACAF Nations League [3/15]
+🟢 Successfully processed: Darts [2/15]
+🟢 Successfully processed: Nations League [1/15]
+🟡 Visiting detail page [4/15]: https://footystreams.pk/events/norway-vs-denmark
+🟡 Visiting detail page [5/15]: https://footystreams.pk/events/ireland-vs-kosovo
+🟡 Visiting detail page [6/15]: https://footystreams.pk/events/austria-vs-israel
+🟢 Successfully processed: Nations League [6/15]
+🟡 Visiting detail page [7/15]: https://footystreams.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Nations League [5/15]
+🟡 Visiting detail page [8/15]: https://footystreams.pk/events/bosnia-vs-romania
+🟢 Successfully processed: Nations League [4/15]
+🟡 Visiting detail page [9/15]: https://footystreams.pk/events/georgia-vs-ukraine
+🟢 Successfully processed: Nations League [7/15]
+🟢 Successfully processed: Nations League [8/15]
+🟡 Visiting detail page [10/15]: https://footystreams.pk/events/argentina-vs-costa-rica
+🟡 Visiting detail page [11/15]: https://footystreams.pk/events/bayern-munchen-vs-koln
+🟢 Successfully processed: Nations League [9/15]
+🟡 Visiting detail page [12/15]: https://footystreams.pk/events/troyes-vs-le-havre
+🟢 Successfully processed: Friendly [10/15]
+🟢 Successfully processed: Bundesliga [11/15]
+🟡 Visiting detail page [13/15]: https://footystreams.pk/events/espanyol-vs-athletic-club
+🟡 Visiting detail page [14/15]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
+🟢 Successfully processed: French Ligue 1 [12/15]
+🟡 Visiting detail page [15/15]: https://footystreams.pk/events/porto-vs-paredes
+🟢 Successfully processed: LaLiga [13/15]
+🟢 Successfully processed: League One [14/15]
+🟢 Successfully processed: Taca de Portugal [15/15]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 16
+🟢 Process completed successfully. Total collected events: 15

@@ -6,9 +6,9 @@
 🟡 Visiting detail page [2/18]: https://footystreams.pk/events/brazil-vs-singapore
 🟡 Visiting detail page [1/18]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/18]: https://footystreams.pk/events/pakistan-vs-india
+🟢 Successfully processed: SAFF Championship [3/18]
 🟢 Successfully processed: Darts [1/18]
 🟡 Visiting detail page [4/18]: https://footystreams.pk/events/jordan-vs-australia
-🟢 Successfully processed: SAFF Championship [3/18]
 🟡 Visiting detail page [5/18]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [2/18]
 🟡 Visiting detail page [6/18]: https://footystreams.pk/events/argentina-vs-costa-rica
@@ -34,10 +34,10 @@
 🟡 Visiting detail page [16/18]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: French Ligue 1 [15/18]
 🟡 Visiting detail page [17/18]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: CONCACAF Nations League [7/18]
-🟡 Visiting detail page [18/18]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: LaLiga [16/18]
+🟡 Visiting detail page [18/18]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: League One [17/18]
+🟢 Successfully processed: CONCACAF Nations League [7/18]
 🟢 Successfully processed: Taca de Portugal [18/18]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 18

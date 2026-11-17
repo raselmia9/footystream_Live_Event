@@ -6,21 +6,21 @@
 🟡 Visiting detail page [2/16]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/16]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
 🟡 Visiting detail page [1/16]: https://footystreams.pk/events/portugal-vs-wales
-🟢 Successfully processed: CONCACAF Nations League [3/16]
-🟡 Visiting detail page [4/16]: https://footystreams.pk/events/norway-vs-denmark
 🟢 Successfully processed: Darts [2/16]
+🟢 Successfully processed: CONCACAF Nations League [3/16]
 🟡 Visiting detail page [5/16]: https://footystreams.pk/events/ireland-vs-kosovo
+🟡 Visiting detail page [4/16]: https://footystreams.pk/events/norway-vs-denmark
 🟢 Successfully processed: Nations League [1/16]
 🟡 Visiting detail page [6/16]: https://footystreams.pk/events/austria-vs-israel
-🟢 Successfully processed: Nations League [4/16]
-🟡 Visiting detail page [7/16]: https://footystreams.pk/events/northern-ireland-vs-hungary
 🟢 Successfully processed: Nations League [5/16]
+🟡 Visiting detail page [7/16]: https://footystreams.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Nations League [4/16]
 🟡 Visiting detail page [8/16]: https://footystreams.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [6/16]
 🟡 Visiting detail page [9/16]: https://footystreams.pk/events/georgia-vs-ukraine
-🟢 Successfully processed: Nations League [7/16]
-🟡 Visiting detail page [10/16]: https://footystreams.pk/events/poland-vs-sweden
 🟢 Successfully processed: Nations League [8/16]
+🟡 Visiting detail page [10/16]: https://footystreams.pk/events/poland-vs-sweden
+🟢 Successfully processed: Nations League [7/16]
 🟡 Visiting detail page [11/16]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟢 Successfully processed: Nations League [9/16]
 🟡 Visiting detail page [12/16]: https://footystreams.pk/events/bayern-munchen-vs-koln

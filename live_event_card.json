@@ -21,27 +21,6 @@
         ]
     },
     {
-        "eventTitle": "SAFF Championship",
-        "matchTime": "2026-11-17 20:00:00",
-        "team1Title": "Pakistan",
-        "team2Title": "India",
-        "team1Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/pakistan-vs-india",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/pakistan-vs-india/3691"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/pakistan-vs-india/3692"
-            }
-        ]
-    },
-    {
         "eventTitle": "Friendly",
         "matchTime": "2026-11-17 22:00:00",
         "team1Title": "Jordan",

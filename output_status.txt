@@ -4,25 +4,25 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 16
 🟡 Visiting detail page [2/16]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [3/16]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
 🟡 Visiting detail page [1/16]: https://footystreams.pk/events/portugal-vs-wales
-🟢 Successfully processed: Darts [2/16]
+🟡 Visiting detail page [3/16]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
+🟢 Successfully processed: Nations League [1/16]
 🟡 Visiting detail page [4/16]: https://footystreams.pk/events/norway-vs-denmark
 🟢 Successfully processed: CONCACAF Nations League [3/16]
 🟡 Visiting detail page [5/16]: https://footystreams.pk/events/ireland-vs-kosovo
-🟢 Successfully processed: Nations League [1/16]
+🟢 Successfully processed: Darts [2/16]
 🟡 Visiting detail page [6/16]: https://footystreams.pk/events/austria-vs-israel
-🟢 Successfully processed: Nations League [5/16]
-🟡 Visiting detail page [7/16]: https://footystreams.pk/events/northern-ireland-vs-hungary
-🟢 Successfully processed: Nations League [6/16]
-🟡 Visiting detail page [8/16]: https://footystreams.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [4/16]
+🟡 Visiting detail page [7/16]: https://footystreams.pk/events/northern-ireland-vs-hungary
+🟢 Successfully processed: Nations League [5/16]
+🟡 Visiting detail page [8/16]: https://footystreams.pk/events/bosnia-vs-romania
+🟢 Successfully processed: Nations League [6/16]
 🟡 Visiting detail page [9/16]: https://footystreams.pk/events/georgia-vs-ukraine
-🟢 Successfully processed: Nations League [9/16]
-🟡 Visiting detail page [10/16]: https://footystreams.pk/events/poland-vs-sweden
-🟢 Successfully processed: Nations League [8/16]
-🟡 Visiting detail page [11/16]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟢 Successfully processed: Nations League [7/16]
+🟡 Visiting detail page [10/16]: https://footystreams.pk/events/poland-vs-sweden
+🟢 Successfully processed: Nations League [9/16]
+🟡 Visiting detail page [11/16]: https://footystreams.pk/events/argentina-vs-costa-rica
+🟢 Successfully processed: Nations League [8/16]
 🟡 Visiting detail page [12/16]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟢 Successfully processed: Bundesliga [12/16]
 🟡 Visiting detail page [13/16]: https://footystreams.pk/events/troyes-vs-le-havre
@@ -30,13 +30,10 @@
 🟡 Visiting detail page [14/16]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: LaLiga [14/16]
 🟡 Visiting detail page [15/16]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🔴 ERROR on detail page https://footystreams.pk/events/argentina-vs-costa-rica: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystreams.pk/events/argentina-vs-costa-rica", waiting until "load"
-
+🟢 Successfully processed: Friendly [11/16]
 🟡 Visiting detail page [16/16]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: League One [15/16]
 🟢 Successfully processed: Nations League [10/16]
 🟢 Successfully processed: Taca de Portugal [16/16]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 15
+🟢 Process completed successfully. Total collected events: 16

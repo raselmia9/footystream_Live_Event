@@ -22,40 +22,6 @@
     },
     {
         "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Trinidad and Tobago",
-        "team1Logo": "https://cdn.img4every1.org/team/trinidad-and-tobago/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/antigua-and-barbuda/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/trinidad-and-tobago-vs-antigua-and-barbuda/3684"
-            }
-        ]
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Aruba",
-        "team1Logo": "https://cdn.img4every1.org/team/aruba/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/martinique/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/aruba-vs-martinique",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/aruba-vs-martinique/3685"
-            }
-        ]
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-17 07:00:00",
         "team1Title": "Canada",
         "team2Title": "Guatemala",

@@ -21,23 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Friendly",
-        "matchTime": "2026-11-17 16:00:00",
-        "team1Title": "Brazil",
-        "team2Title": "Singapore",
-        "team1Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/singapore/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/brazil-vs-singapore",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/brazil-vs-singapore/3715"
-            }
-        ]
-    },
-    {
         "eventTitle": "SAFF Championship",
         "matchTime": "2026-11-17 20:00:00",
         "team1Title": "Pakistan",

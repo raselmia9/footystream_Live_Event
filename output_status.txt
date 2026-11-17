@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 18
-🟡 Visiting detail page [2/18]: https://footystreams.pk/events/brazil-vs-singapore
-🟡 Visiting detail page [3/18]: https://footystreams.pk/events/jordan-vs-australia
 🟡 Visiting detail page [1/18]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [3/18]: https://footystreams.pk/events/jordan-vs-australia
+🟡 Visiting detail page [2/18]: https://footystreams.pk/events/brazil-vs-singapore
 🟢 Successfully processed: Friendly [3/18]
 🟡 Visiting detail page [4/18]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [4/18]
@@ -13,31 +13,31 @@
 🟢 Successfully processed: Friendly [5/18]
 🟡 Visiting detail page [6/18]: https://footystreams.pk/events/pakistan-vs-india
 🟢 Successfully processed: Darts [1/18]
+🟡 Visiting detail page [7/18]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
 🟢 Successfully processed: Friendly [2/18]
 🟡 Visiting detail page [8/18]: https://footystreams.pk/events/portugal-vs-wales
-🟡 Visiting detail page [7/18]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
 🟢 Successfully processed: Nations League [8/18]
 🟡 Visiting detail page [9/18]: https://footystreams.pk/events/norway-vs-denmark
 🟢 Successfully processed: Nations League [9/18]
 🟡 Visiting detail page [10/18]: https://footystreams.pk/events/ireland-vs-kosovo
-🟢 Successfully processed: Nations League [10/18]
-🟡 Visiting detail page [11/18]: https://footystreams.pk/events/austria-vs-israel
 🟢 Successfully processed: SAFF Championship [6/18]
+🟡 Visiting detail page [11/18]: https://footystreams.pk/events/austria-vs-israel
+🟢 Successfully processed: Nations League [10/18]
 🟡 Visiting detail page [12/18]: https://footystreams.pk/events/northern-ireland-vs-hungary
 🟢 Successfully processed: Nations League [11/18]
 🟡 Visiting detail page [13/18]: https://footystreams.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [12/18]
 🟡 Visiting detail page [14/18]: https://footystreams.pk/events/bayern-munchen-vs-koln
-🟢 Successfully processed: Bundesliga [14/18]
+🟢 Successfully processed: Nations League [13/18]
 🟡 Visiting detail page [15/18]: https://footystreams.pk/events/troyes-vs-le-havre
 🟢 Successfully processed: CONCACAF Nations League [7/18]
 🟡 Visiting detail page [16/18]: https://footystreams.pk/events/espanyol-vs-athletic-club
-🟢 Successfully processed: Nations League [13/18]
+🟢 Successfully processed: Bundesliga [14/18]
 🟡 Visiting detail page [17/18]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
 🟢 Successfully processed: French Ligue 1 [15/18]
 🟡 Visiting detail page [18/18]: https://footystreams.pk/events/porto-vs-paredes
-🟢 Successfully processed: LaLiga [16/18]
 🟢 Successfully processed: League One [17/18]
+🟢 Successfully processed: LaLiga [16/18]
 🟢 Successfully processed: Taca de Portugal [18/18]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 18

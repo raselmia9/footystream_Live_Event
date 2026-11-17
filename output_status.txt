@@ -3,24 +3,24 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 21
-🟡 Visiting detail page [1/21]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [2/21]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
 🟡 Visiting detail page [3/21]: https://footystreams.pk/events/aruba-vs-martinique
+🟡 Visiting detail page [2/21]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
+🟡 Visiting detail page [1/21]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟢 Successfully processed: CONCACAF Nations League [2/21]
 🟡 Visiting detail page [4/21]: https://footystreams.pk/events/canada-vs-guatemala
 🟢 Successfully processed: CONCACAF Nations League [3/21]
-🟡 Visiting detail page [5/21]: https://footystreams.pk/events/brazil-vs-singapore
 🟢 Successfully processed: Darts [1/21]
 🟡 Visiting detail page [6/21]: https://footystreams.pk/events/jordan-vs-australia
+🟡 Visiting detail page [5/21]: https://footystreams.pk/events/brazil-vs-singapore
 🟢 Successfully processed: Friendly [6/21]
 🟡 Visiting detail page [7/21]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [7/21]
 🟡 Visiting detail page [8/21]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟢 Successfully processed: Friendly [8/21]
 🟡 Visiting detail page [9/21]: https://footystreams.pk/events/pakistan-vs-india
-🟢 Successfully processed: CONCACAF Nations League [4/21]
-🟡 Visiting detail page [10/21]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
 🟢 Successfully processed: Friendly [5/21]
+🟡 Visiting detail page [10/21]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
+🟢 Successfully processed: CONCACAF Nations League [4/21]
 🟡 Visiting detail page [11/21]: https://footystreams.pk/events/portugal-vs-wales
 🟢 Successfully processed: Nations League [11/21]
 🟡 Visiting detail page [12/21]: https://footystreams.pk/events/norway-vs-denmark
@@ -36,13 +36,13 @@
 🟡 Visiting detail page [17/21]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟢 Successfully processed: Nations League [16/21]
 🟡 Visiting detail page [18/21]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: CONCACAF Nations League [10/21]
+🟢 Successfully processed: Bundesliga [17/21]
 🟡 Visiting detail page [19/21]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: French Ligue 1 [18/21]
-🟢 Successfully processed: Bundesliga [17/21]
 🟡 Visiting detail page [20/21]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟡 Visiting detail page [21/21]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: LaLiga [19/21]
+🟡 Visiting detail page [21/21]: https://footystreams.pk/events/porto-vs-paredes
+🟢 Successfully processed: CONCACAF Nations League [10/21]
 🟢 Successfully processed: League One [20/21]
 🟢 Successfully processed: Taca de Portugal [21/21]
 🟢 Browser closed successfully.

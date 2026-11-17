@@ -51,7 +51,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/jordan-vs-australia",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/jordan-vs-australia/3720"
+            }
+        ]
     },
     {
         "eventTitle": "Friendly",

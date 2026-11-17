@@ -3,37 +3,37 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 15
-🟡 Visiting detail page [3/15]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
-🟡 Visiting detail page [2/15]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [1/15]: https://footystreams.pk/events/portugal-vs-wales
-🟢 Successfully processed: CONCACAF Nations League [3/15]
-🟡 Visiting detail page [4/15]: https://footystreams.pk/events/norway-vs-denmark
-🔴 ERROR on detail page https://footystreams.pk/events/grand-slam-of-darts-live-stream: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystreams.pk/events/grand-slam-of-darts-live-stream", waiting until "load"
-
-🟡 Visiting detail page [5/15]: https://footystreams.pk/events/ireland-vs-kosovo
-🟢 Successfully processed: Nations League [4/15]
-🟡 Visiting detail page [6/15]: https://footystreams.pk/events/austria-vs-israel
+🟡 Visiting detail page [2/15]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [3/15]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
 🟢 Successfully processed: Nations League [1/15]
-🟡 Visiting detail page [7/15]: https://footystreams.pk/events/northern-ireland-vs-hungary
-🟢 Successfully processed: Nations League [5/15]
-🟡 Visiting detail page [8/15]: https://footystreams.pk/events/bosnia-vs-romania
+🟡 Visiting detail page [4/15]: https://footystreams.pk/events/norway-vs-denmark
+🟢 Successfully processed: Darts [2/15]
+🟡 Visiting detail page [5/15]: https://footystreams.pk/events/ireland-vs-kosovo
+🟢 Successfully processed: CONCACAF Nations League [3/15]
+🟡 Visiting detail page [6/15]: https://footystreams.pk/events/austria-vs-israel
 🟢 Successfully processed: Nations League [6/15]
-🟡 Visiting detail page [9/15]: https://footystreams.pk/events/georgia-vs-ukraine
+🟡 Visiting detail page [7/15]: https://footystreams.pk/events/northern-ireland-vs-hungary
+🔴 ERROR on detail page https://footystreams.pk/events/norway-vs-denmark: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://footystreams.pk/events/norway-vs-denmark", waiting until "load"
+
+🟡 Visiting detail page [8/15]: https://footystreams.pk/events/bosnia-vs-romania
 🟢 Successfully processed: Nations League [7/15]
+🟢 Successfully processed: Nations League [5/15]
+🟡 Visiting detail page [9/15]: https://footystreams.pk/events/georgia-vs-ukraine
 🟡 Visiting detail page [10/15]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟢 Successfully processed: Friendly [10/15]
 🟡 Visiting detail page [11/15]: https://footystreams.pk/events/bayern-munchen-vs-koln
-🟢 Successfully processed: Bundesliga [11/15]
-🟡 Visiting detail page [12/15]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: French Ligue 1 [12/15]
-🟡 Visiting detail page [13/15]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: Nations League [8/15]
+🟡 Visiting detail page [12/15]: https://footystreams.pk/events/troyes-vs-le-havre
+🟢 Successfully processed: Bundesliga [11/15]
+🟡 Visiting detail page [13/15]: https://footystreams.pk/events/espanyol-vs-athletic-club
+🟢 Successfully processed: French Ligue 1 [12/15]
 🟡 Visiting detail page [14/15]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: LaLiga [13/15]
-🟡 Visiting detail page [15/15]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: League One [14/15]
+🟡 Visiting detail page [15/15]: https://footystreams.pk/events/porto-vs-paredes
+🟢 Successfully processed: LaLiga [13/15]
 🟢 Successfully processed: Nations League [9/15]
 🟢 Successfully processed: Taca de Portugal [15/15]
 🟢 Browser closed successfully.

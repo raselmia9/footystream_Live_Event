@@ -33,6 +33,27 @@
         ]
     },
     {
+        "eventTitle": "Darts",
+        "matchTime": "2026-11-14 19:00:00",
+        "team1Title": "Grand Slam of Darts",
+        "team2Title": "Darts",
+        "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/grand-slam-of-darts-live-stream",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3631"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3632"
+            }
+        ]
+    },
+    {
         "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-18 01:00:00",
         "team1Title": "Bonaire",
@@ -46,23 +67,6 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/bonaire-vs-st-kitts-and-nevis/3687"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-18 01:45:00",
-        "team1Title": "Norway",
-        "team2Title": "Denmark",
-        "team1Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/norway-vs-denmark",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/norway-vs-denmark/3731"
             }
         ]
     },

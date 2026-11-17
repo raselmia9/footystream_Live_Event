@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 17
-🟡 Visiting detail page [1/17]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [2/17]: https://footystreams.pk/events/pakistan-vs-india
 🟡 Visiting detail page [3/17]: https://footystreams.pk/events/jordan-vs-australia
-🟢 Successfully processed: Darts [1/17]
+🟡 Visiting detail page [1/17]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟢 Successfully processed: SAFF Championship [2/17]
 🟡 Visiting detail page [4/17]: https://footystreams.pk/events/iran-vs-iraq
 🟢 Successfully processed: Friendly [3/17]
-🟢 Successfully processed: SAFF Championship [2/17]
 🟡 Visiting detail page [5/17]: https://footystreams.pk/events/argentina-vs-costa-rica
+🟢 Successfully processed: Darts [1/17]
 🟡 Visiting detail page [6/17]: https://footystreams.pk/events/bonaire-vs-st-kitts-and-nevis
 🟢 Successfully processed: Friendly [4/17]
 🟡 Visiting detail page [7/17]: https://footystreams.pk/events/portugal-vs-wales
 🟢 Successfully processed: Friendly [5/17]
 🟡 Visiting detail page [8/17]: https://footystreams.pk/events/norway-vs-denmark
 🟢 Successfully processed: Nations League [7/17]
-🟡 Visiting detail page [9/17]: https://footystreams.pk/events/ireland-vs-kosovo
 🟢 Successfully processed: Nations League [8/17]
+🟡 Visiting detail page [9/17]: https://footystreams.pk/events/ireland-vs-kosovo
 🟡 Visiting detail page [10/17]: https://footystreams.pk/events/austria-vs-israel
 🟢 Successfully processed: Nations League [9/17]
 🟡 Visiting detail page [11/17]: https://footystreams.pk/events/northern-ireland-vs-hungary
@@ -32,10 +32,10 @@
 🟡 Visiting detail page [15/17]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: French Ligue 1 [14/17]
 🟡 Visiting detail page [16/17]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: CONCACAF Nations League [6/17]
-🟡 Visiting detail page [17/17]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: LaLiga [15/17]
+🟡 Visiting detail page [17/17]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: League One [16/17]
+🟢 Successfully processed: CONCACAF Nations League [6/17]
 🟢 Successfully processed: Taca de Portugal [17/17]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 17

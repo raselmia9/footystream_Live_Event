@@ -1,5 +1,38 @@
 [
     {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Portugal",
+        "team2Title": "Wales",
+        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/portugal-vs-wales",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/portugal-vs-wales/3726"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/portugal-vs-wales/3727"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/portugal-vs-wales/3728"
+            },
+            {
+                "channel": "Link 4",
+                "url": "https://playerdee.top/alpha/portugal-vs-wales/3729"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/portugal-vs-wales/3730"
+            }
+        ]
+    },
+    {
         "eventTitle": "Darts",
         "matchTime": "2026-11-14 19:00:00",
         "team1Title": "Grand Slam of Darts",
@@ -69,18 +102,6 @@
     {
         "eventTitle": "Nations League",
         "matchTime": "2026-11-18 01:45:00",
-        "team1Title": "Portugal",
-        "team2Title": "Wales",
-        "team1Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/portugal-vs-wales",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Nations League",
-        "matchTime": "2026-11-18 01:45:00",
         "team1Title": "Norway",
         "team2Title": "Denmark",
         "team1Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
@@ -100,7 +121,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/ireland-vs-kosovo",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/ireland-vs-kosovo/3723"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -112,7 +138,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/austria-vs-israel",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/austria-vs-israel/3724"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -124,7 +155,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/northern-ireland-vs-hungary",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/northern-ireland-vs-hungary/3721"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/northern-ireland-vs-hungary/3722"
+            }
+        ]
     },
     {
         "eventTitle": "Nations League",
@@ -136,6 +176,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/bosnia-vs-romania",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Nations League",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Title": "Georgia",
+        "team2Title": "Ukraine",
+        "team1Logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/georgia-vs-ukraine",
         "multiWatchPageLink": []
     },
     {

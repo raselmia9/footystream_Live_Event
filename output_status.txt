@@ -4,13 +4,13 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 21
 🟡 Visiting detail page [1/21]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [3/21]: https://footystreams.pk/events/aruba-vs-martinique
 🟡 Visiting detail page [2/21]: https://footystreams.pk/events/trinidad-and-tobago-vs-antigua-and-barbuda
-🟢 Successfully processed: CONCACAF Nations League [3/21]
-🟡 Visiting detail page [4/21]: https://footystreams.pk/events/canada-vs-guatemala
+🟡 Visiting detail page [3/21]: https://footystreams.pk/events/aruba-vs-martinique
 🟢 Successfully processed: CONCACAF Nations League [2/21]
-🟢 Successfully processed: Darts [1/21]
+🟡 Visiting detail page [4/21]: https://footystreams.pk/events/canada-vs-guatemala
+🟢 Successfully processed: CONCACAF Nations League [3/21]
 🟡 Visiting detail page [5/21]: https://footystreams.pk/events/brazil-vs-singapore
+🟢 Successfully processed: Darts [1/21]
 🟡 Visiting detail page [6/21]: https://footystreams.pk/events/jordan-vs-australia
 🟢 Successfully processed: Friendly [6/21]
 🟡 Visiting detail page [7/21]: https://footystreams.pk/events/iran-vs-iraq
@@ -36,14 +36,14 @@
 🟡 Visiting detail page [17/21]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟢 Successfully processed: Nations League [16/21]
 🟡 Visiting detail page [18/21]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: Bundesliga [17/21]
+🟢 Successfully processed: CONCACAF Nations League [10/21]
 🟡 Visiting detail page [19/21]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: French Ligue 1 [18/21]
+🟢 Successfully processed: Bundesliga [17/21]
 🟡 Visiting detail page [20/21]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: LaLiga [19/21]
 🟡 Visiting detail page [21/21]: https://footystreams.pk/events/porto-vs-paredes
+🟢 Successfully processed: LaLiga [19/21]
 🟢 Successfully processed: League One [20/21]
-🟢 Successfully processed: CONCACAF Nations League [10/21]
 🟢 Successfully processed: Taca de Portugal [21/21]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 21

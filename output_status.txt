@@ -3,22 +3,22 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 9
-🟡 Visiting detail page [2/9]: https://footystreams.pk/events/mexico-vs-jamaica
 🟡 Visiting detail page [1/9]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [2/9]: https://footystreams.pk/events/mexico-vs-jamaica
 🟡 Visiting detail page [3/9]: https://footystreams.pk/events/nicaragua-vs-montserrat
-🟢 Successfully processed: CONCACAF Nations League [3/9]
-🟡 Visiting detail page [4/9]: https://footystreams.pk/events/real-madrid-vs-inter-milan
 🟢 Successfully processed: CONCACAF Nations League [2/9]
-🟡 Visiting detail page [5/9]: https://footystreams.pk/events/bayern-munchen-vs-koln
+🟡 Visiting detail page [4/9]: https://footystreams.pk/events/real-madrid-vs-inter-milan
+🟢 Successfully processed: CONCACAF Nations League [3/9]
 🟢 Successfully processed: Darts [1/9]
+🟡 Visiting detail page [5/9]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟡 Visiting detail page [6/9]: https://footystreams.pk/events/troyes-vs-le-havre
 🟢 Successfully processed: Bundesliga [5/9]
-🟡 Visiting detail page [7/9]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: French Ligue 1 [6/9]
+🟡 Visiting detail page [7/9]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟡 Visiting detail page [8/9]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
+🟢 Successfully processed: League One [8/9]
 🟢 Successfully processed: LaLiga [7/9]
 🟡 Visiting detail page [9/9]: https://footystreams.pk/events/porto-vs-paredes
-🟢 Successfully processed: League One [8/9]
 🟢 Successfully processed: Womens Champions League [4/9]
 🟢 Successfully processed: Taca de Portugal [9/9]
 🟢 Browser closed successfully.

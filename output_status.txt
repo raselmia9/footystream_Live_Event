@@ -3,22 +3,19 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 7
+🟡 Visiting detail page [2/7]: https://footystreams.pk/events/real-madrid-vs-inter-milan
 🟡 Visiting detail page [3/7]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟡 Visiting detail page [1/7]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [2/7]: https://footystreams.pk/events/real-madrid-vs-inter-milan
 🟢 Successfully processed: Bundesliga [3/7]
 🟡 Visiting detail page [4/7]: https://footystreams.pk/events/troyes-vs-le-havre
 🟢 Successfully processed: French Ligue 1 [4/7]
 🟡 Visiting detail page [5/7]: https://footystreams.pk/events/espanyol-vs-athletic-club
-🟢 Successfully processed: Darts [1/7]
+🟢 Successfully processed: LaLiga [5/7]
 🟡 Visiting detail page [6/7]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: Womens Champions League [2/7]
-🟡 Visiting detail page [7/7]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: League One [6/7]
-🔴 ERROR on detail page https://footystreams.pk/events/espanyol-vs-athletic-club: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystreams.pk/events/espanyol-vs-athletic-club", waiting until "load"
-
+🟡 Visiting detail page [7/7]: https://footystreams.pk/events/porto-vs-paredes
+🟢 Successfully processed: Womens Champions League [2/7]
+🟢 Successfully processed: Darts [1/7]
 🟢 Successfully processed: Taca de Portugal [7/7]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 6
+🟢 Process completed successfully. Total collected events: 7

@@ -23,8 +23,8 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-11-19 02:00:00",
-        "team1Title": "Chelsea",
-        "team2Title": "PSG",
+        "team1Title": "Event Ended",
+        "team2Title": "Chelsea",
         "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "isHot": true,

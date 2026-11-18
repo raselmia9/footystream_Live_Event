@@ -22,23 +22,6 @@
     },
     {
         "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-18 07:00:00",
-        "team1Title": "El Salvador",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/saint-martin/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/el-salvador/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/saint-martin-vs-el-salvador",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/saint-martin-vs-el-salvador/3737"
-            }
-        ]
-    },
-    {
-        "eventTitle": "CONCACAF Nations League",
         "matchTime": "2026-11-18 08:30:00",
         "team1Title": "Mexico",
         "team2Title": "Jamaica",

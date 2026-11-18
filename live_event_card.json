@@ -78,6 +78,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "League One",
+        "matchTime": "2026-11-21 02:00:00",
+        "team1Title": "Barnsley",
+        "team2Title": "Sheffield Wednesday",
+        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/barnsley-vs-sheffield-wednesday",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Taca de Portugal",
         "matchTime": "2026-11-21 02:45:00",
         "team1Title": "Porto",

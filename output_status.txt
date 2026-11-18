@@ -6,11 +6,11 @@
 🟡 Visiting detail page [3/10]: https://footystreams.pk/events/mexico-vs-jamaica
 🟡 Visiting detail page [2/10]: https://footystreams.pk/events/saint-martin-vs-el-salvador
 🟡 Visiting detail page [1/10]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟢 Successfully processed: Darts [1/10]
+🟢 Successfully processed: CONCACAF Nations League [3/10]
 🟡 Visiting detail page [4/10]: https://footystreams.pk/events/nicaragua-vs-montserrat
 🟢 Successfully processed: CONCACAF Nations League [2/10]
 🟡 Visiting detail page [5/10]: https://footystreams.pk/events/real-madrid-vs-inter-milan
-🟢 Successfully processed: CONCACAF Nations League [3/10]
+🟢 Successfully processed: Darts [1/10]
 🟡 Visiting detail page [6/10]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟢 Successfully processed: Bundesliga [6/10]
 🟡 Visiting detail page [7/10]: https://footystreams.pk/events/troyes-vs-le-havre
@@ -20,8 +20,8 @@
 🟡 Visiting detail page [9/10]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
 🟢 Successfully processed: League One [9/10]
 🟡 Visiting detail page [10/10]: https://footystreams.pk/events/porto-vs-paredes
-🟢 Successfully processed: Womens Champions League [5/10]
 🟢 Successfully processed: CONCACAF Nations League [4/10]
+🟢 Successfully processed: Womens Champions League [5/10]
 🟢 Successfully processed: Taca de Portugal [10/10]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 10

@@ -23,8 +23,8 @@
     {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-11-18 23:45:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Inter Milan",
+        "team1Title": "Event Ended",
+        "team2Title": "Real Madrid",
         "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "isHot": true,
@@ -59,6 +59,35 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/chelsea-vs-psg/3744"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Formula 1",
+        "matchTime": "2026-11-20 05:00:00",
+        "team1Title": "F1 Las Vegas Grand Prix",
+        "team2Title": "Formula 1",
+        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/f1-las-vegas-grand-prix",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "MotoGP",
+        "matchTime": "2026-11-20 15:00:00",
+        "team1Title": "MotoGP Portugal",
+        "team2Title": "MotoGP",
+        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/motogp-portugal",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/motogp-portugal/3745"
             }
         ]
     },

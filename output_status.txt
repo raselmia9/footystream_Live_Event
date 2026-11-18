@@ -12,10 +12,10 @@
 🟡 Visiting detail page [5/7]: https://footystreams.pk/events/espanyol-vs-athletic-club
 🟢 Successfully processed: LaLiga [5/7]
 🟡 Visiting detail page [6/7]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: Womens Champions League [2/7]
+🟢 Successfully processed: League One [6/7]
 🟡 Visiting detail page [7/7]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: Darts [1/7]
-🟢 Successfully processed: League One [6/7]
+🟢 Successfully processed: Womens Champions League [2/7]
 🟢 Successfully processed: Taca de Portugal [7/7]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 7

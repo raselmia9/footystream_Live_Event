@@ -4,11 +4,11 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 9
 🟡 Visiting detail page [2/9]: https://footystreams.pk/events/mexico-vs-jamaica
-🟡 Visiting detail page [3/9]: https://footystreams.pk/events/nicaragua-vs-montserrat
 🟡 Visiting detail page [1/9]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟢 Successfully processed: CONCACAF Nations League [2/9]
-🟡 Visiting detail page [4/9]: https://footystreams.pk/events/real-madrid-vs-inter-milan
+🟡 Visiting detail page [3/9]: https://footystreams.pk/events/nicaragua-vs-montserrat
 🟢 Successfully processed: CONCACAF Nations League [3/9]
+🟡 Visiting detail page [4/9]: https://footystreams.pk/events/real-madrid-vs-inter-milan
+🟢 Successfully processed: CONCACAF Nations League [2/9]
 🟡 Visiting detail page [5/9]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟢 Successfully processed: Darts [1/9]
 🟡 Visiting detail page [6/9]: https://footystreams.pk/events/troyes-vs-le-havre

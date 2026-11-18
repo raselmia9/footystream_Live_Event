@@ -2,20 +2,24 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 7
-🟡 Visiting detail page [2/7]: https://footystreams.pk/events/argentina-vs-costa-rica
-🟡 Visiting detail page [1/7]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [3/7]: https://footystreams.pk/events/bayern-munchen-vs-koln
-🟢 Successfully processed: Bundesliga [3/7]
-🟡 Visiting detail page [4/7]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: French Ligue 1 [4/7]
-🟡 Visiting detail page [5/7]: https://footystreams.pk/events/espanyol-vs-athletic-club
-🟢 Successfully processed: LaLiga [5/7]
-🟡 Visiting detail page [6/7]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: League One [6/7]
-🟡 Visiting detail page [7/7]: https://footystreams.pk/events/porto-vs-paredes
-🟢 Successfully processed: Friendly [2/7]
-🟢 Successfully processed: Darts [1/7]
-🟢 Successfully processed: Taca de Portugal [7/7]
+🟢 Total unique detail links to process in parallel: 9
+🟡 Visiting detail page [3/9]: https://footystreams.pk/events/usa-vs-haiti
+🟡 Visiting detail page [1/9]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [2/9]: https://footystreams.pk/events/argentina-vs-costa-rica
+🟢 Successfully processed: Friendly [2/9]
+🟡 Visiting detail page [4/9]: https://footystreams.pk/events/saint-martin-vs-el-salvador
+🟢 Successfully processed: Darts [1/9]
+🟡 Visiting detail page [5/9]: https://footystreams.pk/events/bayern-munchen-vs-koln
+🟢 Successfully processed: CONCACAF Nations League [3/9]
+🟡 Visiting detail page [6/9]: https://footystreams.pk/events/troyes-vs-le-havre
+🟢 Successfully processed: Bundesliga [5/9]
+🟡 Visiting detail page [7/9]: https://footystreams.pk/events/espanyol-vs-athletic-club
+🟢 Successfully processed: French Ligue 1 [6/9]
+🟡 Visiting detail page [8/9]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
+🟢 Successfully processed: LaLiga [7/9]
+🟢 Successfully processed: League One [8/9]
+🟡 Visiting detail page [9/9]: https://footystreams.pk/events/porto-vs-paredes
+🟢 Successfully processed: CONCACAF Nations League [4/9]
+🟢 Successfully processed: Taca de Portugal [9/9]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 7
+🟢 Process completed successfully. Total collected events: 9

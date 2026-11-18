@@ -2,26 +2,24 @@
 🟢 Launching browser in headless mode...
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
-🟢 Total unique detail links to process in parallel: 10
-🟡 Visiting detail page [2/10]: https://footystreams.pk/events/real-madrid-vs-inter-milan
-🟡 Visiting detail page [1/10]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [3/10]: https://footystreams.pk/events/chelsea-vs-psg
-🟢 Successfully processed: Womens Champions League [3/10]
-🟢 Successfully processed: Womens Champions League [2/10]
-🟡 Visiting detail page [5/10]: https://footystreams.pk/events/motogp-portugal
-🟡 Visiting detail page [4/10]: https://footystreams.pk/events/f1-las-vegas-grand-prix
-🟢 Successfully processed: Darts [1/10]
-🟡 Visiting detail page [6/10]: https://footystreams.pk/events/bayern-munchen-vs-koln
-🟢 Successfully processed: Formula 1 [4/10]
-🟡 Visiting detail page [7/10]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: Bundesliga [6/10]
-🟡 Visiting detail page [8/10]: https://footystreams.pk/events/espanyol-vs-athletic-club
-🟢 Successfully processed: French Ligue 1 [7/10]
-🟡 Visiting detail page [9/10]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
-🟢 Successfully processed: LaLiga [8/10]
-🟡 Visiting detail page [10/10]: https://footystreams.pk/events/porto-vs-paredes
-🟢 Successfully processed: League One [9/10]
-🟢 Successfully processed: MotoGP [5/10]
-🟢 Successfully processed: Taca de Portugal [10/10]
+🟢 Total unique detail links to process in parallel: 9
+🟡 Visiting detail page [2/9]: https://footystreams.pk/events/chelsea-vs-psg
+🟡 Visiting detail page [1/9]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟡 Visiting detail page [3/9]: https://footystreams.pk/events/f1-las-vegas-grand-prix
+🟢 Successfully processed: Formula 1 [3/9]
+🟡 Visiting detail page [4/9]: https://footystreams.pk/events/motogp-portugal
+🟢 Successfully processed: Darts [1/9]
+🟡 Visiting detail page [5/9]: https://footystreams.pk/events/bayern-munchen-vs-koln
+🟢 Successfully processed: Womens Champions League [2/9]
+🟡 Visiting detail page [6/9]: https://footystreams.pk/events/troyes-vs-le-havre
+🟢 Successfully processed: Bundesliga [5/9]
+🟢 Successfully processed: French Ligue 1 [6/9]
+🟡 Visiting detail page [7/9]: https://footystreams.pk/events/espanyol-vs-athletic-club
+🟡 Visiting detail page [8/9]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
+🟢 Successfully processed: MotoGP [4/9]
+🟡 Visiting detail page [9/9]: https://footystreams.pk/events/porto-vs-paredes
+🟢 Successfully processed: LaLiga [7/9]
+🟢 Successfully processed: League One [8/9]
+🟢 Successfully processed: Taca de Portugal [9/9]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 10
+🟢 Process completed successfully. Total collected events: 9

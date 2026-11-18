@@ -22,27 +22,6 @@
     },
     {
         "eventTitle": "Womens Champions League",
-        "matchTime": "2026-11-18 23:45:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Real Madrid",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/real-madrid-vs-inter-milan",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-inter-milan/3741"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/real-madrid-vs-inter-milan/3742"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Womens Champions League",
         "matchTime": "2026-11-19 02:00:00",
         "team1Title": "Chelsea",
         "team2Title": "PSG",

@@ -21,23 +21,6 @@
         ]
     },
     {
-        "eventTitle": "CONCACAF Nations League",
-        "matchTime": "2026-11-18 09:00:00",
-        "team1Title": "Nicaragua",
-        "team2Title": "Montserrat",
-        "team1Logo": "https://cdn.img4every1.org/team/nicaragua/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/montserrat/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/nicaragua-vs-montserrat",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/nicaragua-vs-montserrat/3740"
-            }
-        ]
-    },
-    {
         "eventTitle": "Womens Champions League",
         "matchTime": "2026-11-18 23:45:00",
         "team1Title": "Real Madrid",

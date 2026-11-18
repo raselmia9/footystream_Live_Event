@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 7
+🟡 Visiting detail page [2/7]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟡 Visiting detail page [1/7]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/7]: https://footystreams.pk/events/bayern-munchen-vs-koln
-🟡 Visiting detail page [2/7]: https://footystreams.pk/events/argentina-vs-costa-rica
 🟢 Successfully processed: Bundesliga [3/7]
 🟡 Visiting detail page [4/7]: https://footystreams.pk/events/troyes-vs-le-havre
 🟢 Successfully processed: French Ligue 1 [4/7]
@@ -14,8 +14,8 @@
 🟡 Visiting detail page [6/7]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
 🟢 Successfully processed: League One [6/7]
 🟡 Visiting detail page [7/7]: https://footystreams.pk/events/porto-vs-paredes
-🟢 Successfully processed: Darts [1/7]
 🟢 Successfully processed: Friendly [2/7]
+🟢 Successfully processed: Darts [1/7]
 🟢 Successfully processed: Taca de Portugal [7/7]
 🟢 Browser closed successfully.
 🟢 Process completed successfully. Total collected events: 7

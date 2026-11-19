@@ -21,6 +21,65 @@
         ]
     },
     {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-11-19 23:45:00",
+        "team1Title": "Bayern München",
+        "team2Title": "Austria Wien",
+        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/austria-wien/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/bayern-vs-austria-wien",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bayern-vs-austria-wien/3749"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/bayern-vs-austria-wien/3750"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-11-20 02:00:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Olympique Lyonnais",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/arsenal-vs-lyon",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/arsenal-vs-lyon/3746"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Womens Champions League",
+        "matchTime": "2026-11-20 02:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Servette Chênois",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/servette-chenois/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/barcelona-vs-servette-chenois",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barcelona-vs-servette-chenois/3747"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barcelona-vs-servette-chenois/3748"
+            }
+        ]
+    },
+    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-11-20 05:00:00",
         "team1Title": "F1 Las Vegas Grand Prix",

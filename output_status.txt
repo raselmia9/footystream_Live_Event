@@ -4,12 +4,12 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 37
 🟡 Visiting detail page [2/37]: https://footystreams.pk/events/bayern-vs-austria-wien
-🟡 Visiting detail page [3/37]: https://footystreams.pk/events/arsenal-vs-lyon
 🟡 Visiting detail page [1/37]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟢 Successfully processed: Womens Champions League [3/37]
+🟡 Visiting detail page [3/37]: https://footystreams.pk/events/arsenal-vs-lyon
 🟢 Successfully processed: Darts [1/37]
-🟡 Visiting detail page [5/37]: https://footystreams.pk/events/f1-las-vegas-grand-prix
 🟡 Visiting detail page [4/37]: https://footystreams.pk/events/barcelona-vs-servette-chenois
+🟢 Successfully processed: Womens Champions League [3/37]
+🟡 Visiting detail page [5/37]: https://footystreams.pk/events/f1-las-vegas-grand-prix
 🟢 Successfully processed: Womens Champions League [2/37]
 🟡 Visiting detail page [6/37]: https://footystreams.pk/events/motogp-portugal
 🟢 Successfully processed: Formula 1 [5/37]
@@ -22,15 +22,15 @@
 🟡 Visiting detail page [10/37]: https://footystreams.pk/events/werder-bremen-vs-hamburger-sv
 🟢 Successfully processed: Bundesliga [10/37]
 🟡 Visiting detail page [11/37]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: MotoGP [6/37]
+🟢 Successfully processed: French Ligue 1 [11/37]
 🟡 Visiting detail page [12/37]: https://footystreams.pk/events/psg-vs-nice
 🟢 Successfully processed: Womens Champions League [4/37]
 🟡 Visiting detail page [13/37]: https://footystreams.pk/events/espanyol-vs-athletic-club
-🟢 Successfully processed: French Ligue 1 [11/37]
+🟢 Successfully processed: MotoGP [6/37]
 🟡 Visiting detail page [14/37]: https://footystreams.pk/events/alaves-vs-deportivo-la-coruna
-🟢 Successfully processed: LaLiga [13/37]
-🟡 Visiting detail page [15/37]: https://footystreams.pk/events/valencia-vs-rayo-vallecano
 🟢 Successfully processed: French Ligue 1 [12/37]
+🟡 Visiting detail page [15/37]: https://footystreams.pk/events/valencia-vs-rayo-vallecano
+🟢 Successfully processed: LaLiga [13/37]
 🟡 Visiting detail page [16/37]: https://footystreams.pk/events/real-betis-vs-sevilla
 🟢 Successfully processed: LaLiga [14/37]
 🟡 Visiting detail page [17/37]: https://footystreams.pk/events/real-madrid-vs-celta-vigo
@@ -46,9 +46,9 @@
 🟡 Visiting detail page [22/37]: https://footystreams.pk/events/preston-vs-west-ham-united
 🟢 Successfully processed: EFL [21/37]
 🟡 Visiting detail page [23/37]: https://footystreams.pk/events/burnley-vs-blackburn-rovers
-🟢 Successfully processed: EFL [23/37]
-🟡 Visiting detail page [24/37]: https://footystreams.pk/events/manchester-city-vs-fulham
 🟢 Successfully processed: EFL [22/37]
+🟡 Visiting detail page [24/37]: https://footystreams.pk/events/manchester-city-vs-fulham
+🟢 Successfully processed: EFL [23/37]
 🟡 Visiting detail page [25/37]: https://footystreams.pk/events/chelsea-vs-leeds-united
 🟢 Successfully processed: Premier League [24/37]
 🟡 Visiting detail page [26/37]: https://footystreams.pk/events/nottm-forest-vs-bournemouth
@@ -60,11 +60,11 @@
 🟡 Visiting detail page [29/37]: https://footystreams.pk/events/arsenal-vs-newcastle
 🟢 Successfully processed: Premier League [28/37]
 🟡 Visiting detail page [30/37]: https://footystreams.pk/events/liverpool-vs-chelsea
-🟢 Successfully processed: Taca de Portugal [20/37]
-🟡 Visiting detail page [31/37]: https://footystreams.pk/events/london-city-lionesses-vs-crystal-palace
 🟢 Successfully processed: Premier League [29/37]
-🟡 Visiting detail page [32/37]: https://footystreams.pk/events/lazio-vs-lecce
+🟡 Visiting detail page [31/37]: https://footystreams.pk/events/london-city-lionesses-vs-crystal-palace
 🟢 Successfully processed: WSL [30/37]
+🟡 Visiting detail page [32/37]: https://footystreams.pk/events/lazio-vs-lecce
+🟢 Successfully processed: Taca de Portugal [20/37]
 🟡 Visiting detail page [33/37]: https://footystreams.pk/events/como-vs-cagliari
 🟢 Successfully processed: WSL [31/37]
 🟡 Visiting detail page [34/37]: https://footystreams.pk/events/roma-vs-parma

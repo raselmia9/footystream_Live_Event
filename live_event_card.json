@@ -21,18 +21,6 @@
         ]
     },
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-11-20 05:00:00",
-        "team1Title": "F1 Las Vegas Grand Prix",
-        "team2Title": "Formula 1",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/f1-las-vegas-grand-prix",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "MotoGP",
         "matchTime": "2026-11-20 15:00:00",
         "team1Title": "MotoGP Portugal",

@@ -3,9 +3,9 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 8
-🟡 Visiting detail page [2/8]: https://footystreams.pk/events/f1-las-vegas-grand-prix
 🟡 Visiting detail page [1/8]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/8]: https://footystreams.pk/events/motogp-portugal
+🟡 Visiting detail page [2/8]: https://footystreams.pk/events/f1-las-vegas-grand-prix
 🟢 Successfully processed: Formula 1 [2/8]
 🟡 Visiting detail page [4/8]: https://footystreams.pk/events/bayern-munchen-vs-koln
 🟢 Successfully processed: Bundesliga [4/8]
@@ -18,9 +18,6 @@
 🟡 Visiting detail page [8/8]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: Darts [1/8]
 🟢 Successfully processed: MotoGP [3/8]
-🔴 ERROR on detail page https://footystreams.pk/events/porto-vs-paredes: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://footystreams.pk/events/porto-vs-paredes", waiting until "load"
-
+🟢 Successfully processed: Taca de Portugal [8/8]
 🟢 Browser closed successfully.
-🟢 Process completed successfully. Total collected events: 7
+🟢 Process completed successfully. Total collected events: 8

@@ -217,6 +217,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-22 19:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/barcelona-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "League One",
         "matchTime": "2026-11-21 02:00:00",
         "team1Title": "Barnsley",
@@ -252,6 +264,30 @@
                 "url": "https://playerdee.top/alpha/porto-vs-paredes/3719"
             }
         ]
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-21 18:30:00",
+        "team1Title": "Queens Park Rangers",
+        "team2Title": "Millwall FC",
+        "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/qpr-vs-millwall",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Title": "Preston North End",
+        "team2Title": "West Ham United",
+        "team1Logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/preston-vs-west-ham-united",
+        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Premier League",
@@ -326,6 +362,30 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "WSL",
+        "matchTime": "2026-11-21 18:45:00",
+        "team1Title": "Liverpool",
+        "team2Title": "Chelsea",
+        "team1Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/liverpool-vs-chelsea",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-11-21 23:15:00",
+        "team1Title": "London City Lionesses",
+        "team2Title": "Crystal Palace",
+        "team1Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/london-city-lionesses-vs-crystal-palace",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-21 20:00:00",
         "team1Title": "Lazio",
@@ -371,6 +431,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/napoli-vs-torino",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-22 17:30:00",
+        "team1Title": "Juventus",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/juventus-vs-venezia",
         "multiWatchPageLink": []
     }
 ]

@@ -133,6 +133,30 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-22 20:30:00",
+        "team1Title": "Mainz 05",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/augsburg-vs-mainz-05",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-22 22:30:00",
+        "team1Title": "Werder Bremen",
+        "team2Title": "Hamburger SV",
+        "team1Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/werder-bremen-vs-hamburger-sv",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-21 01:45:00",
         "team1Title": "Troyes",
@@ -290,6 +314,18 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-22 18:00:00",
+        "team1Title": "Burnley FC",
+        "team2Title": "Blackburn Rovers",
+        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/blackburn-rovers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/burnley-vs-blackburn-rovers",
+        "multiWatchPageLink": []
+    },
+    {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-21 18:30:00",
         "team1Title": "Manchester City",
@@ -443,6 +479,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/juventus-vs-venezia",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-22 20:00:00",
+        "team1Title": "Udinese",
+        "team2Title": "Bologna",
+        "team1Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/udinese-vs-bologna",
         "multiWatchPageLink": []
     }
 ]

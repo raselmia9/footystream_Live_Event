@@ -8,33 +8,33 @@
 🟡 Visiting detail page [1/34]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟢 Successfully processed: MotoGP [3/34]
 🟡 Visiting detail page [4/34]: https://footystreams.pk/events/bayern-munchen-vs-koln
+🟢 Successfully processed: Formula 1 [2/34]
 🟢 Successfully processed: Darts [1/34]
 🟡 Visiting detail page [5/34]: https://footystreams.pk/events/schalke-04-vs-stuttgart
-🟢 Successfully processed: Formula 1 [2/34]
 🟡 Visiting detail page [6/34]: https://footystreams.pk/events/augsburg-vs-mainz-05
 🟢 Successfully processed: Bundesliga [4/34]
 🟡 Visiting detail page [7/34]: https://footystreams.pk/events/werder-bremen-vs-hamburger-sv
 🟢 Successfully processed: Bundesliga [5/34]
-🟡 Visiting detail page [8/34]: https://footystreams.pk/events/troyes-vs-le-havre
 🟢 Successfully processed: Bundesliga [6/34]
 🟡 Visiting detail page [9/34]: https://footystreams.pk/events/psg-vs-nice
+🟡 Visiting detail page [8/34]: https://footystreams.pk/events/troyes-vs-le-havre
 🟢 Successfully processed: Bundesliga [7/34]
 🟡 Visiting detail page [10/34]: https://footystreams.pk/events/espanyol-vs-athletic-club
-🟢 Successfully processed: French Ligue 1 [8/34]
-🟡 Visiting detail page [11/34]: https://footystreams.pk/events/alaves-vs-deportivo-la-coruna
 🟢 Successfully processed: French Ligue 1 [9/34]
+🟡 Visiting detail page [11/34]: https://footystreams.pk/events/alaves-vs-deportivo-la-coruna
+🟢 Successfully processed: French Ligue 1 [8/34]
 🟡 Visiting detail page [12/34]: https://footystreams.pk/events/valencia-vs-rayo-vallecano
 🟢 Successfully processed: LaLiga [10/34]
 🟡 Visiting detail page [13/34]: https://footystreams.pk/events/real-betis-vs-sevilla
-🟢 Successfully processed: LaLiga [11/34]
-🟡 Visiting detail page [14/34]: https://footystreams.pk/events/real-madrid-vs-celta-vigo
 🟢 Successfully processed: LaLiga [12/34]
+🟢 Successfully processed: LaLiga [11/34]
 🟡 Visiting detail page [15/34]: https://footystreams.pk/events/barcelona-vs-villarreal
+🟡 Visiting detail page [14/34]: https://footystreams.pk/events/real-madrid-vs-celta-vigo
 🟢 Successfully processed: LaLiga [13/34]
 🟡 Visiting detail page [16/34]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
 🟢 Successfully processed: LaLiga [14/34]
-🟡 Visiting detail page [17/34]: https://footystreams.pk/events/porto-vs-paredes
 🟢 Successfully processed: LaLiga [15/34]
+🟡 Visiting detail page [17/34]: https://footystreams.pk/events/porto-vs-paredes
 🟡 Visiting detail page [18/34]: https://footystreams.pk/events/qpr-vs-millwall
 🟢 Successfully processed: League One [16/34]
 🟡 Visiting detail page [19/34]: https://footystreams.pk/events/preston-vs-west-ham-united

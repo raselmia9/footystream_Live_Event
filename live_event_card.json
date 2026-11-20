@@ -281,18 +281,6 @@
     },
     {
         "eventTitle": "Premier League",
-        "matchTime": "2026-11-21 18:30:00",
-        "team1Title": "Manchester City",
-        "team2Title": "Fulham",
-        "team1Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/manchester-city-vs-fulham",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
         "matchTime": "2026-11-21 21:00:00",
         "team1Title": "Chelsea",
         "team2Title": "Leeds United",

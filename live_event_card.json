@@ -120,6 +120,23 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "Premiership Rugby",
+        "matchTime": "2026-11-21 01:45:00",
+        "team1Title": "Bath Rugby",
+        "team2Title": "Bristol Bears",
+        "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/bath-vs-bristol-bears",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/bath-vs-bristol-bears/3765"
+            }
+        ]
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-21 01:45:00",
         "team1Title": "Troyes",
@@ -247,7 +264,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/barnsley-vs-sheffield-wednesday",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/barnsley-vs-sheffield-wednesday/3763"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/barnsley-vs-sheffield-wednesday/3764"
+            }
+        ]
     },
     {
         "eventTitle": "Taca de Portugal",

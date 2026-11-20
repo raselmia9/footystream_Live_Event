@@ -88,6 +88,18 @@
     },
     {
         "eventTitle": "Bundesliga",
+        "matchTime": "2026-11-22 20:30:00",
+        "team1Title": "Mainz 05",
+        "team2Title": "Team 2",
+        "team1Logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/augsburg-vs-mainz-05",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Bundesliga",
         "matchTime": "2026-11-22 22:30:00",
         "team1Title": "Werder Bremen",
         "team2Title": "Hamburger SV",

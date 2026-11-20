@@ -1,26 +1,5 @@
 [
     {
-        "eventTitle": "Darts",
-        "matchTime": "2026-11-14 19:00:00",
-        "team1Title": "Grand Slam of Darts",
-        "team2Title": "Darts",
-        "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/grand-slam-of-darts-live-stream",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3631"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3632"
-            }
-        ]
-    },
-    {
         "eventTitle": "Formula 1",
         "matchTime": "2026-11-20 05:00:00",
         "team1Title": "F1 Las Vegas Grand Prix",
@@ -76,30 +55,6 @@
     },
     {
         "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-21 23:30:00",
-        "team1Title": "Schalke 04",
-        "team2Title": "Stuttgart",
-        "team1Logo": "https://cdn.img4every1.org/team/schalke-04/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/schalke-04-vs-stuttgart",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-22 20:30:00",
-        "team1Title": "Mainz 05",
-        "team2Title": "Team 2",
-        "team1Logo": "https://cdn.img4every1.org/team/augsburg/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/augsburg-vs-mainz-05",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Bundesliga",
         "matchTime": "2026-11-22 22:30:00",
         "team1Title": "Werder Bremen",
         "team2Title": "Hamburger SV",
@@ -108,18 +63,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/werder-bremen-vs-hamburger-sv",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "French Ligue 1",
-        "matchTime": "2026-11-21 01:45:00",
-        "team1Title": "Troyes",
-        "team2Title": "Le Havre",
-        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/troyes-vs-le-havre",
         "multiWatchPageLink": []
     },
     {
@@ -409,30 +352,6 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/roma-vs-parma",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-22 01:45:00",
-        "team1Title": "Napoli",
-        "team2Title": "Torino",
-        "team1Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/napoli-vs-torino",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-22 17:30:00",
-        "team1Title": "Juventus",
-        "team2Title": "Venezia",
-        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/juventus-vs-venezia",
         "multiWatchPageLink": []
     },
     {

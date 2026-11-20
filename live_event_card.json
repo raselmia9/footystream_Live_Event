@@ -1,57 +1,24 @@
 [
     {
-        "eventTitle": "Formula 1",
-        "matchTime": "2026-11-20 05:00:00",
-        "team1Title": "F1 Las Vegas Grand Prix",
-        "team2Title": "Formula 1",
-        "team1Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+        "eventTitle": "Darts",
+        "matchTime": "2026-11-14 19:00:00",
+        "team1Title": "Grand Slam of Darts",
+        "team2Title": "Darts",
+        "team1Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/darts-live-stream-free/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/f1-las-vegas-grand-prix",
+        "detailsPage": "https://footystreams.pk/events/grand-slam-of-darts-live-stream",
         "multiWatchPageLink": [
             {
                 "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/f1-las-vegas-grand-prix/3751"
+                "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3631"
             },
             {
                 "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/f1-las-vegas-grand-prix/3752"
-            },
-            {
-                "channel": "Link 3",
-                "url": "https://playerdee.top/alpha/f1-las-vegas-grand-prix/3753"
+                "url": "https://playerdee.top/alpha/grand-slam-of-darts-live-stream/3632"
             }
         ]
-    },
-    {
-        "eventTitle": "MotoGP",
-        "matchTime": "2026-11-20 15:00:00",
-        "team1Title": "MotoGP Portugal",
-        "team2Title": "MotoGP",
-        "team1Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/motogp-portugal",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/motogp-portugal/3745"
-            }
-        ]
-    },
-    {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-21 01:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Köln",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/bayern-munchen-vs-koln",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "Bundesliga",
@@ -63,6 +30,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/werder-bremen-vs-hamburger-sv",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "French Ligue 1",
+        "matchTime": "2026-11-21 01:45:00",
+        "team1Title": "Troyes",
+        "team2Title": "Le Havre",
+        "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/troyes-vs-le-havre",
         "multiWatchPageLink": []
     },
     {
@@ -150,18 +129,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "League One",
-        "matchTime": "2026-11-21 02:00:00",
-        "team1Title": "Barnsley",
-        "team2Title": "Sheffield Wednesday",
-        "team1Logo": "https://cdn.img4every1.org/team/barnsley/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sheffield-wednesday/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/barnsley-vs-sheffield-wednesday",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Taca de Portugal",
         "matchTime": "2026-11-21 02:45:00",
         "team1Title": "Porto",
@@ -185,18 +152,6 @@
                 "url": "https://playerdee.top/alpha/porto-vs-paredes/3719"
             }
         ]
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-21 18:30:00",
-        "team1Title": "Queens Park Rangers",
-        "team2Title": "Millwall FC",
-        "team1Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/qpr-vs-millwall",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "EFL",
@@ -272,18 +227,6 @@
     },
     {
         "eventTitle": "Premier League",
-        "matchTime": "2026-11-21 21:00:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/aston-villa-vs-sunderland",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
         "matchTime": "2026-11-21 23:30:00",
         "team1Title": "Arsenal",
         "team2Title": "Newcastle United",
@@ -321,18 +264,6 @@
     {
         "eventTitle": "Serie A",
         "matchTime": "2026-11-21 20:00:00",
-        "team1Title": "Lazio",
-        "team2Title": "Lecce",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/lazio-vs-lecce",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-21 20:00:00",
         "team1Title": "Como",
         "team2Title": "Cagliari",
         "team1Logo": "https://cdn.img4every1.org/team/como/logo.webp",
@@ -352,6 +283,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/roma-vs-parma",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-22 17:30:00",
+        "team1Title": "Juventus",
+        "team2Title": "Venezia",
+        "team1Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/venezia/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/juventus-vs-venezia",
         "multiWatchPageLink": []
     },
     {

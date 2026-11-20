@@ -3,28 +3,28 @@
 🟢 Opening homepage: https://footystream.pk/
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 36
-🟡 Visiting detail page [1/36]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟡 Visiting detail page [3/36]: https://footystreams.pk/events/motogp-portugal
 🟡 Visiting detail page [2/36]: https://footystreams.pk/events/f1-las-vegas-grand-prix
-🟢 Successfully processed: MotoGP [3/36]
+🟡 Visiting detail page [3/36]: https://footystreams.pk/events/motogp-portugal
+🟡 Visiting detail page [1/36]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
+🟢 Successfully processed: Formula 1 [2/36]
 🟢 Successfully processed: Darts [1/36]
 🟡 Visiting detail page [4/36]: https://footystreams.pk/events/bayern-munchen-vs-koln
-🟢 Successfully processed: Formula 1 [2/36]
 🟡 Visiting detail page [5/36]: https://footystreams.pk/events/bath-vs-bristol-bears
+🟢 Successfully processed: MotoGP [3/36]
 🟡 Visiting detail page [6/36]: https://footystreams.pk/events/troyes-vs-le-havre
-🟢 Successfully processed: Premiership Rugby [5/36]
-🟡 Visiting detail page [7/36]: https://footystreams.pk/events/espanyol-vs-athletic-club
-🟢 Successfully processed: French Ligue 1 [6/36]
-🟡 Visiting detail page [8/36]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
 🟢 Successfully processed: Bundesliga [4/36]
+🟡 Visiting detail page [7/36]: https://footystreams.pk/events/espanyol-vs-athletic-club
+🟢 Successfully processed: Premiership Rugby [5/36]
+🟡 Visiting detail page [8/36]: https://footystreams.pk/events/barnsley-vs-sheffield-wednesday
+🟢 Successfully processed: French Ligue 1 [6/36]
 🟡 Visiting detail page [9/36]: https://footystreams.pk/events/porto-vs-paredes
-🟢 Successfully processed: Taca de Portugal [9/36]
-🟡 Visiting detail page [10/36]: https://footystreams.pk/events/qpr-vs-millwall
 🟢 Successfully processed: LaLiga [7/36]
-🟡 Visiting detail page [11/36]: https://footystreams.pk/events/preston-vs-west-ham-united
+🟡 Visiting detail page [10/36]: https://footystreams.pk/events/qpr-vs-millwall
 🟢 Successfully processed: League One [8/36]
-🟡 Visiting detail page [12/36]: https://footystreams.pk/events/burnley-vs-blackburn-rovers
+🟡 Visiting detail page [11/36]: https://footystreams.pk/events/preston-vs-west-ham-united
 🟢 Successfully processed: EFL [10/36]
+🟡 Visiting detail page [12/36]: https://footystreams.pk/events/burnley-vs-blackburn-rovers
+🟢 Successfully processed: Taca de Portugal [9/36]
 🟡 Visiting detail page [13/36]: https://footystreams.pk/events/manchester-city-vs-fulham
 🟢 Successfully processed: EFL [11/36]
 🟡 Visiting detail page [14/36]: https://footystreams.pk/events/chelsea-vs-leeds-united

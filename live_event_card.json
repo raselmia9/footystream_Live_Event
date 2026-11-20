@@ -129,7 +129,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/troyes-vs-le-havre",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/troyes-vs-le-havre/3760"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/troyes-vs-le-havre/3761"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/troyes-vs-le-havre/3762"
+            }
+        ]
     },
     {
         "eventTitle": "French Ligue 1",

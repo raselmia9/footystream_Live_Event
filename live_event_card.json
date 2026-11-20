@@ -65,8 +65,8 @@
     {
         "eventTitle": "Bundesliga",
         "matchTime": "2026-11-21 01:30:00",
-        "team1Title": "Bayern München",
-        "team2Title": "Köln",
+        "team1Title": "Event Ended",
+        "team2Title": "Bayern München",
         "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "isHot": true,

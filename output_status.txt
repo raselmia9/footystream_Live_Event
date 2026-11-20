@@ -6,11 +6,11 @@
 🟡 Visiting detail page [2/34]: https://footystreams.pk/events/f1-las-vegas-grand-prix
 🟡 Visiting detail page [3/34]: https://footystreams.pk/events/motogp-portugal
 🟡 Visiting detail page [1/34]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
-🟢 Successfully processed: MotoGP [3/34]
+🟢 Successfully processed: Darts [1/34]
 🟡 Visiting detail page [4/34]: https://footystreams.pk/events/bayern-munchen-vs-koln
+🟢 Successfully processed: MotoGP [3/34]
 🟢 Successfully processed: Formula 1 [2/34]
 🟡 Visiting detail page [5/34]: https://footystreams.pk/events/schalke-04-vs-stuttgart
-🟢 Successfully processed: Darts [1/34]
 🟡 Visiting detail page [6/34]: https://footystreams.pk/events/augsburg-vs-mainz-05
 🟢 Successfully processed: Bundesliga [4/34]
 🟡 Visiting detail page [7/34]: https://footystreams.pk/events/werder-bremen-vs-hamburger-sv
@@ -56,11 +56,11 @@
 🟡 Visiting detail page [27/34]: https://footystreams.pk/events/liverpool-vs-chelsea
 🟢 Successfully processed: Premier League [26/34]
 🟡 Visiting detail page [28/34]: https://footystreams.pk/events/london-city-lionesses-vs-crystal-palace
-🟢 Successfully processed: Taca de Portugal [17/34]
-🟡 Visiting detail page [29/34]: https://footystreams.pk/events/lazio-vs-lecce
 🟢 Successfully processed: WSL [27/34]
-🟡 Visiting detail page [30/34]: https://footystreams.pk/events/como-vs-cagliari
+🟡 Visiting detail page [29/34]: https://footystreams.pk/events/lazio-vs-lecce
 🟢 Successfully processed: WSL [28/34]
+🟡 Visiting detail page [30/34]: https://footystreams.pk/events/como-vs-cagliari
+🟢 Successfully processed: Taca de Portugal [17/34]
 🟡 Visiting detail page [31/34]: https://footystreams.pk/events/roma-vs-parma
 🟢 Successfully processed: Serie A [29/34]
 🟡 Visiting detail page [32/34]: https://footystreams.pk/events/napoli-vs-torino

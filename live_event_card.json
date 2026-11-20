@@ -63,31 +63,10 @@
         ]
     },
     {
-        "eventTitle": "Bundesliga",
-        "matchTime": "2026-11-21 01:30:00",
-        "team1Title": "Event Ended",
-        "team2Title": "Bayern München",
-        "team1Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/bayern-munchen-vs-koln",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-koln/3756"
-            },
-            {
-                "channel": "Link 2",
-                "url": "https://playerdee.top/alpha/bayern-munchen-vs-koln/3757"
-            }
-        ]
-    },
-    {
         "eventTitle": "Premiership Rugby",
         "matchTime": "2026-11-21 01:45:00",
-        "team1Title": "Bath Rugby",
-        "team2Title": "Bristol Bears",
+        "team1Title": "Event Ended",
+        "team2Title": "Bath Rugby",
         "team1Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/bristol-bears/logo.webp",
         "isHot": true,
@@ -103,8 +82,8 @@
     {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-21 01:45:00",
-        "team1Title": "Troyes",
-        "team2Title": "Le Havre",
+        "team1Title": "Event Ended",
+        "team2Title": "Troyes",
         "team1Logo": "https://cdn.img4every1.org/team/troyes/logo.webp",
         "team2Logo": "https://cdn.img4every1.org/team/le-havre/logo.webp",
         "isHot": true,

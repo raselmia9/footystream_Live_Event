@@ -153,7 +153,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/espanyol-vs-athletic-club",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/espanyol-vs-athletic-club/3758"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/espanyol-vs-athletic-club/3759"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

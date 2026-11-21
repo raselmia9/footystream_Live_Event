@@ -206,7 +206,20 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/roma-vs-parma",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/roma-vs-parma/3793"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/roma-vs-parma/3795"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/roma-vs-parma/3796"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -218,7 +231,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/napoli-vs-torino",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/napoli-vs-torino/3794"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -464,6 +482,23 @@
         "multiWatchPageLink": []
     },
     {
+        "eventTitle": "UFC",
+        "matchTime": "2026-11-21 22:00:00",
+        "team1Title": "Jiri Prochazka",
+        "team2Title": "Navajo Stirling",
+        "team1Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/jiri-prochazka-vs-navajo-stirling",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/jiri-prochazka-vs-navajo-stirling/3791"
+            }
+        ]
+    },
+    {
         "eventTitle": "French Ligue 1",
         "matchTime": "2026-11-21 22:15:00",
         "team1Title": "PSG",
@@ -473,7 +508,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/psg-vs-nice",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/psg-vs-nice/3792"
+            }
+        ]
     },
     {
         "eventTitle": "WSL",

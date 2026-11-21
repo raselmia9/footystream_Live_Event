@@ -8,16 +8,16 @@
 🟡 Visiting detail page [1/30]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟢 Successfully processed: Formula 1 [2/30]
 🟡 Visiting detail page [4/30]: https://footystreams.pk/events/qpr-vs-millwall
+🟢 Successfully processed: Darts [1/30]
 🟢 Successfully processed: MotoGP [3/30]
 🟡 Visiting detail page [5/30]: https://footystreams.pk/events/preston-vs-west-ham-united
-🟢 Successfully processed: Darts [1/30]
 🟡 Visiting detail page [6/30]: https://footystreams.pk/events/burnley-vs-blackburn-rovers
 🟢 Successfully processed: EFL [4/30]
 🟡 Visiting detail page [7/30]: https://footystreams.pk/events/manchester-city-vs-fulham
 🟢 Successfully processed: EFL [5/30]
-🟡 Visiting detail page [8/30]: https://footystreams.pk/events/chelsea-vs-leeds-united
 🟢 Successfully processed: EFL [6/30]
 🟡 Visiting detail page [9/30]: https://footystreams.pk/events/nottm-forest-vs-bournemouth
+🟡 Visiting detail page [8/30]: https://footystreams.pk/events/chelsea-vs-leeds-united
 🟢 Successfully processed: Premier League [7/30]
 🟡 Visiting detail page [10/30]: https://footystreams.pk/events/coventry-city-vs-crystal-palace
 🟢 Successfully processed: Premier League [8/30]
@@ -46,15 +46,15 @@
 🟡 Visiting detail page [22/30]: https://footystreams.pk/events/como-vs-cagliari
 🟢 Successfully processed: LaLiga [20/30]
 🟡 Visiting detail page [23/30]: https://footystreams.pk/events/roma-vs-parma
-🟢 Successfully processed: Serie A [22/30]
-🟡 Visiting detail page [24/30]: https://footystreams.pk/events/napoli-vs-torino
 🟢 Successfully processed: Serie A [21/30]
+🟡 Visiting detail page [24/30]: https://footystreams.pk/events/napoli-vs-torino
+🟢 Successfully processed: Serie A [22/30]
 🟡 Visiting detail page [25/30]: https://footystreams.pk/events/juventus-vs-venezia
 🟢 Successfully processed: Serie A [23/30]
 🟡 Visiting detail page [26/30]: https://footystreams.pk/events/udinese-vs-bologna
-🟢 Successfully processed: Serie A [25/30]
-🟡 Visiting detail page [27/30]: https://footystreams.pk/events/psg-vs-nice
 🟢 Successfully processed: Serie A [24/30]
+🟡 Visiting detail page [27/30]: https://footystreams.pk/events/psg-vs-nice
+🟢 Successfully processed: Serie A [25/30]
 🟡 Visiting detail page [28/30]: https://footystreams.pk/events/schalke-04-vs-stuttgart
 🟢 Successfully processed: Serie A [26/30]
 🟡 Visiting detail page [29/30]: https://footystreams.pk/events/augsburg-vs-mainz-05

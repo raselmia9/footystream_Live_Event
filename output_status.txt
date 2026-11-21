@@ -4,19 +4,19 @@
 🟡 Waiting for event cards to load...
 🟢 Total unique detail links to process in parallel: 30
 🟡 Visiting detail page [2/30]: https://footystreams.pk/events/f1-las-vegas-grand-prix
-🟡 Visiting detail page [1/30]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/30]: https://footystreams.pk/events/motogp-portugal
-🟢 Successfully processed: Darts [1/30]
-🟡 Visiting detail page [4/30]: https://footystreams.pk/events/qpr-vs-millwall
+🟡 Visiting detail page [1/30]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟢 Successfully processed: Formula 1 [2/30]
-🟡 Visiting detail page [5/30]: https://footystreams.pk/events/preston-vs-west-ham-united
+🟡 Visiting detail page [4/30]: https://footystreams.pk/events/qpr-vs-millwall
 🟢 Successfully processed: MotoGP [3/30]
+🟢 Successfully processed: Darts [1/30]
+🟡 Visiting detail page [5/30]: https://footystreams.pk/events/preston-vs-west-ham-united
 🟡 Visiting detail page [6/30]: https://footystreams.pk/events/burnley-vs-blackburn-rovers
 🟢 Successfully processed: EFL [4/30]
 🟡 Visiting detail page [7/30]: https://footystreams.pk/events/manchester-city-vs-fulham
 🟢 Successfully processed: EFL [5/30]
-🟡 Visiting detail page [8/30]: https://footystreams.pk/events/chelsea-vs-leeds-united
 🟢 Successfully processed: EFL [6/30]
+🟡 Visiting detail page [8/30]: https://footystreams.pk/events/chelsea-vs-leeds-united
 🟡 Visiting detail page [9/30]: https://footystreams.pk/events/nottm-forest-vs-bournemouth
 🟢 Successfully processed: Premier League [7/30]
 🟡 Visiting detail page [10/30]: https://footystreams.pk/events/coventry-city-vs-crystal-palace

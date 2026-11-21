@@ -108,7 +108,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/manchester-city-vs-fulham",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3766"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3767"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",

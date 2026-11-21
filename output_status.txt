@@ -6,11 +6,11 @@
 🟡 Visiting detail page [2/30]: https://footystreams.pk/events/f1-las-vegas-grand-prix
 🟡 Visiting detail page [1/30]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/30]: https://footystreams.pk/events/motogp-portugal
-🟢 Successfully processed: Darts [1/30]
-🟡 Visiting detail page [4/30]: https://footystreams.pk/events/qpr-vs-millwall
 🟢 Successfully processed: MotoGP [3/30]
-🟡 Visiting detail page [5/30]: https://footystreams.pk/events/preston-vs-west-ham-united
+🟡 Visiting detail page [4/30]: https://footystreams.pk/events/qpr-vs-millwall
 🟢 Successfully processed: Formula 1 [2/30]
+🟡 Visiting detail page [5/30]: https://footystreams.pk/events/preston-vs-west-ham-united
+🟢 Successfully processed: Darts [1/30]
 🟡 Visiting detail page [6/30]: https://footystreams.pk/events/burnley-vs-blackburn-rovers
 🟢 Successfully processed: EFL [4/30]
 🟡 Visiting detail page [7/30]: https://footystreams.pk/events/manchester-city-vs-fulham
@@ -18,9 +18,9 @@
 🟡 Visiting detail page [8/30]: https://footystreams.pk/events/chelsea-vs-leeds-united
 🟢 Successfully processed: EFL [6/30]
 🟡 Visiting detail page [9/30]: https://footystreams.pk/events/nottm-forest-vs-bournemouth
-🟢 Successfully processed: Premier League [8/30]
-🟡 Visiting detail page [10/30]: https://footystreams.pk/events/coventry-city-vs-crystal-palace
 🟢 Successfully processed: Premier League [7/30]
+🟡 Visiting detail page [10/30]: https://footystreams.pk/events/coventry-city-vs-crystal-palace
+🟢 Successfully processed: Premier League [8/30]
 🟡 Visiting detail page [11/30]: https://footystreams.pk/events/aston-villa-vs-sunderland
 🟢 Successfully processed: Premier League [9/30]
 🟡 Visiting detail page [12/30]: https://footystreams.pk/events/arsenal-vs-newcastle
@@ -56,11 +56,11 @@
 🟡 Visiting detail page [27/30]: https://footystreams.pk/events/psg-vs-nice
 🟢 Successfully processed: Serie A [25/30]
 🟡 Visiting detail page [28/30]: https://footystreams.pk/events/schalke-04-vs-stuttgart
-🟢 Successfully processed: Serie A [26/30]
-🟡 Visiting detail page [29/30]: https://footystreams.pk/events/augsburg-vs-mainz-05
 🟢 Successfully processed: French Ligue 1 [27/30]
-🟡 Visiting detail page [30/30]: https://footystreams.pk/events/werder-bremen-vs-hamburger-sv
+🟡 Visiting detail page [29/30]: https://footystreams.pk/events/augsburg-vs-mainz-05
 🟢 Successfully processed: Bundesliga [28/30]
+🟡 Visiting detail page [30/30]: https://footystreams.pk/events/werder-bremen-vs-hamburger-sv
+🟢 Successfully processed: Serie A [26/30]
 🟢 Successfully processed: Bundesliga [29/30]
 🟢 Successfully processed: Bundesliga [30/30]
 🟢 Browser closed successfully.

@@ -134,18 +134,6 @@
         ]
     },
     {
-        "eventTitle": "WSL",
-        "matchTime": "2026-11-21 23:15:00",
-        "team1Title": "London City Lionesses",
-        "team2Title": "Crystal Palace",
-        "team1Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/london-city-lionesses-vs-crystal-palace",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "LaLiga",
         "matchTime": "2026-11-21 19:00:00",
         "team1Title": "Deportivo Alavés",
@@ -184,18 +172,6 @@
     },
     {
         "eventTitle": "LaLiga",
-        "matchTime": "2026-11-21 23:30:00",
-        "team1Title": "Real Betis",
-        "team2Title": "Sevilla",
-        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/real-betis-vs-sevilla",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
         "matchTime": "2026-11-22 02:00:00",
         "team1Title": "Real Madrid",
         "team2Title": "Celta de Vigo",
@@ -229,23 +205,6 @@
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/racing-santander-vs-real-sociedad",
         "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Serie A",
-        "matchTime": "2026-11-21 20:00:00",
-        "team1Title": "Lazio",
-        "team2Title": "Lecce",
-        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/lazio-vs-lecce",
-        "multiWatchPageLink": [
-            {
-                "channel": "Link 1",
-                "url": "https://playerdee.top/alpha/lazio-vs-lecce/3778"
-            }
-        ]
     },
     {
         "eventTitle": "Serie A",
@@ -326,6 +285,10 @@
             {
                 "channel": "Link 1",
                 "url": "https://playerdee.top/alpha/chelsea-vs-leeds-united/3781"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/chelsea-vs-leeds-united/3782"
             }
         ]
     },
@@ -349,6 +312,27 @@
     {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-21 21:00:00",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Ipswich Town",
+        "team1Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/ipswich-town/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/tottenham-hotspur-vs-ipswich-town",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-ipswich-town/3784"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/tottenham-hotspur-vs-ipswich-town/3785"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-21 21:00:00",
         "team1Title": "Coventry City",
         "team2Title": "Crystal Palace",
         "team1Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
@@ -356,7 +340,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/coventry-city-vs-crystal-palace",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/coventry-city-vs-crystal-palace/3783"
+            }
+        ]
     },
     {
         "eventTitle": "Premier League",
@@ -388,18 +377,6 @@
         "multiWatchPageLink": []
     },
     {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-22 20:00:00",
-        "team1Title": "Hull City",
-        "team2Title": "Brighton & Hove Albion",
-        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/hull-city-vs-brighton",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "EFL",
         "matchTime": "2026-11-21 21:00:00",
         "team1Title": "Preston North End",
@@ -409,7 +386,12 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/preston-vs-west-ham-united",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/preston-vs-west-ham-united/3786"
+            }
+        ]
     },
     {
         "eventTitle": "EFL",
@@ -433,6 +415,18 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/psg-vs-nice",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "WSL",
+        "matchTime": "2026-11-21 23:15:00",
+        "team1Title": "London City Lionesses",
+        "team2Title": "Crystal Palace",
+        "team1Logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/london-city-lionesses-vs-crystal-palace",
         "multiWatchPageLink": []
     },
     {

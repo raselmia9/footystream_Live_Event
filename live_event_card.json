@@ -84,30 +84,6 @@
         ]
     },
     {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-21 21:00:00",
-        "team1Title": "Preston North End",
-        "team2Title": "West Ham United",
-        "team1Logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/preston-vs-west-ham-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "EFL",
-        "matchTime": "2026-11-22 18:00:00",
-        "team1Title": "Burnley FC",
-        "team2Title": "Blackburn Rovers",
-        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/blackburn-rovers/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/burnley-vs-blackburn-rovers",
-        "multiWatchPageLink": []
-    },
-    {
         "eventTitle": "Premier League",
         "matchTime": "2026-11-21 18:30:00",
         "team1Title": "Manchester City",
@@ -135,66 +111,6 @@
                 "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3769"
             }
         ]
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-21 21:00:00",
-        "team1Title": "Chelsea",
-        "team2Title": "Leeds United",
-        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/chelsea-vs-leeds-united",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-21 21:00:00",
-        "team1Title": "Nottingham Forest",
-        "team2Title": "AFC Bournemouth",
-        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/nottm-forest-vs-bournemouth",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-21 21:00:00",
-        "team1Title": "Coventry City",
-        "team2Title": "Crystal Palace",
-        "team1Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/coventry-city-vs-crystal-palace",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-21 21:00:00",
-        "team1Title": "Aston Villa",
-        "team2Title": "Sunderland",
-        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/aston-villa-vs-sunderland",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "Premier League",
-        "matchTime": "2026-11-21 23:30:00",
-        "team1Title": "Arsenal",
-        "team2Title": "Newcastle United",
-        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/arsenal-vs-newcastle",
-        "multiWatchPageLink": []
     },
     {
         "eventTitle": "WSL",
@@ -394,6 +310,117 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/udinese-vs-bologna",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Title": "Chelsea",
+        "team2Title": "Leeds United",
+        "team1Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/chelsea-vs-leeds-united",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/chelsea-vs-leeds-united/3781"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "AFC Bournemouth",
+        "team1Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/nottm-forest-vs-bournemouth",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/nottm-forest-vs-bournemouth/3779"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Title": "Coventry City",
+        "team2Title": "Crystal Palace",
+        "team1Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/coventry-city-vs-crystal-palace",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Title": "Aston Villa",
+        "team2Title": "Sunderland",
+        "team1Logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/aston-villa-vs-sunderland",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/aston-villa-vs-sunderland/3780"
+            }
+        ]
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-21 23:30:00",
+        "team1Title": "Arsenal",
+        "team2Title": "Newcastle United",
+        "team1Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/arsenal-vs-newcastle",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "Premier League",
+        "matchTime": "2026-11-22 20:00:00",
+        "team1Title": "Hull City",
+        "team2Title": "Brighton & Hove Albion",
+        "team1Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/hull-city-vs-brighton",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Title": "Preston North End",
+        "team2Title": "West Ham United",
+        "team1Logo": "https://cdn.img4every1.org/team/preston-north-end/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/preston-vs-west-ham-united",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "EFL",
+        "matchTime": "2026-11-22 18:00:00",
+        "team1Title": "Burnley FC",
+        "team2Title": "Blackburn Rovers",
+        "team1Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/blackburn-rovers/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/burnley-vs-blackburn-rovers",
         "multiWatchPageLink": []
     },
     {

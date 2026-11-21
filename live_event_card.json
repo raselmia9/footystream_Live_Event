@@ -392,7 +392,16 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/valencia-vs-rayo-vallecano",
-        "multiWatchPageLink": []
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/valencia-vs-rayo-vallecano/3789"
+            },
+            {
+                "channel": "Link 2",
+                "url": "https://playerdee.top/alpha/valencia-vs-rayo-vallecano/3790"
+            }
+        ]
     },
     {
         "eventTitle": "LaLiga",

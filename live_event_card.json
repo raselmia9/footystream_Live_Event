@@ -109,6 +109,10 @@
             {
                 "channel": "Link 4",
                 "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3769"
+            },
+            {
+                "channel": "Link 5",
+                "url": "https://playerdee.top/alpha/manchester-city-vs-fulham/3787"
             }
         ]
     },
@@ -159,52 +163,21 @@
         ]
     },
     {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-21 21:15:00",
-        "team1Title": "Valencia",
-        "team2Title": "Rayo Vallecano",
-        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "eventTitle": "Serie A",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Title": "Lazio",
+        "team2Title": "Lecce",
+        "team1Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
         "isHot": true,
         "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/valencia-vs-rayo-vallecano",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-22 02:00:00",
-        "team1Title": "Real Madrid",
-        "team2Title": "Celta de Vigo",
-        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/real-madrid-vs-celta-vigo",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-22 19:00:00",
-        "team1Title": "FC Barcelona",
-        "team2Title": "Villarreal",
-        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/barcelona-vs-villarreal",
-        "multiWatchPageLink": []
-    },
-    {
-        "eventTitle": "LaLiga",
-        "matchTime": "2026-11-22 21:15:00",
-        "team1Title": "Racing Santander",
-        "team2Title": "Real Sociedad",
-        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
-        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-        "isHot": true,
-        "streamLink": "",
-        "detailsPage": "https://footystreams.pk/events/racing-santander-vs-real-sociedad",
-        "multiWatchPageLink": []
+        "detailsPage": "https://footystreams.pk/events/lazio-vs-lecce",
+        "multiWatchPageLink": [
+            {
+                "channel": "Link 1",
+                "url": "https://playerdee.top/alpha/lazio-vs-lecce/3778"
+            }
+        ]
     },
     {
         "eventTitle": "Serie A",
@@ -289,6 +262,10 @@
             {
                 "channel": "Link 2",
                 "url": "https://playerdee.top/alpha/chelsea-vs-leeds-united/3782"
+            },
+            {
+                "channel": "Link 3",
+                "url": "https://playerdee.top/alpha/chelsea-vs-leeds-united/3788"
             }
         ]
     },
@@ -403,6 +380,78 @@
         "isHot": true,
         "streamLink": "",
         "detailsPage": "https://footystreams.pk/events/burnley-vs-blackburn-rovers",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-21 21:15:00",
+        "team1Title": "Valencia",
+        "team2Title": "Rayo Vallecano",
+        "team1Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/valencia-vs-rayo-vallecano",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-21 23:30:00",
+        "team1Title": "Real Betis",
+        "team2Title": "Sevilla",
+        "team1Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/real-betis-vs-sevilla",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-22 02:00:00",
+        "team1Title": "Real Madrid",
+        "team2Title": "Celta de Vigo",
+        "team1Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/celta-de-vigo/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/real-madrid-vs-celta-vigo",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-22 19:00:00",
+        "team1Title": "FC Barcelona",
+        "team2Title": "Villarreal",
+        "team1Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/barcelona-vs-villarreal",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-22 21:15:00",
+        "team1Title": "Racing Santander",
+        "team2Title": "Real Sociedad",
+        "team1Logo": "https://cdn.img4every1.org/team/racing-santander/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/racing-santander-vs-real-sociedad",
+        "multiWatchPageLink": []
+    },
+    {
+        "eventTitle": "LaLiga",
+        "matchTime": "2026-11-22 23:30:00",
+        "team1Title": "Osasuna",
+        "team2Title": "Málaga",
+        "team1Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+        "team2Logo": "https://cdn.img4every1.org/team/malaga/logo.webp",
+        "isHot": true,
+        "streamLink": "",
+        "detailsPage": "https://footystreams.pk/events/osasuna-vs-malaga",
         "multiWatchPageLink": []
     },
     {

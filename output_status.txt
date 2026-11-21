@@ -7,8 +7,8 @@
 🟡 Visiting detail page [1/30]: https://footystreams.pk/events/grand-slam-of-darts-live-stream
 🟡 Visiting detail page [3/30]: https://footystreams.pk/events/motogp-portugal
 🟢 Successfully processed: Darts [1/30]
-🟡 Visiting detail page [4/30]: https://footystreams.pk/events/qpr-vs-millwall
 🟢 Successfully processed: MotoGP [3/30]
+🟡 Visiting detail page [4/30]: https://footystreams.pk/events/qpr-vs-millwall
 🟡 Visiting detail page [5/30]: https://footystreams.pk/events/preston-vs-west-ham-united
 🟢 Successfully processed: Formula 1 [2/30]
 🟡 Visiting detail page [6/30]: https://footystreams.pk/events/burnley-vs-blackburn-rovers
